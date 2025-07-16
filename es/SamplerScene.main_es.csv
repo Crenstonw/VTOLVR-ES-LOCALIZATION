@@ -1,23 +1,30 @@
 Key,Description,en,es
-cloudDiagnostics_title,UI Text,Cloud Diagnostics,
-cloudDiagnostics_descript,UI Text,"Would you like to opt-in to enable cloud diagnostics? Anonymous information such as error messages, system specifications, and game version will be sent to the developer to help track down bugs and provide a smoother game experience. It would be a huge help! This setting can be changed at any time in the game settings menu.",
-Text (2)_761854,UI Text,Accept,
-Text (2)_757242,UI Text,Deny,
+cloudDiagnostics_title,UI Text,Cloud Diagnostics,Diagnóstico Cloud
+cloudDiagnostics_descript,UI Text,"Would you like to opt-in to enable cloud diagnostics? Anonymous information such as error messages, system specifications, and game version will be sent to the developer to help track down bugs and provide a smoother game experience. It would be a huge help! This setting can be changed at any time in the game settings menu.","Te gustaría optar por activar el diagnóstico Cloud?
+Información anónima como mensajes de error, especificaciones de sistema y version del juego serán enviadas al desarrollador para ayudar a encontrar bugs y proveer una experiencia de juego más fluida. Sería una grandísima ayuda! Este ajuste se puede cambiar en cualquier momento desde el menú de ajustes del juego."
+Text (2)_761854,UI Text,Accept,Aceptar
+Text (2)_757242,UI Text,Deny,Declinar
 news_workshop,Workshop notification window,"Download, play, and rate community-made missions and campaigns without leaving VR!
 
-Upload custom missions and maps in VTEditor!",
-quitButton_709596,VR Interactable,Quit Game,
-quitButtonText_711462,UI Text,Quit,
-acceptEulaToPlay_655458,UI Text,Accept EULA to play,
-startGameButton_714120,VR Interactable,Start Game,
-startGameLabel_705546,UI Text,Start Game,
+Upload custom missions and maps in VTEditor!","Descarga, juega y valora misiones y campañas hechas por la comunidad  sin dejar las gafas de RV!
+
+Sube una misión y mapas personalizada en el EditorVT!"
+quitButton_709596,VR Interactable,Quit Game,Salir del Juego
+quitButtonText_711462,UI Text,Quit,Salir
+acceptEulaToPlay_655458,UI Text,Accept EULA to play,Acceptar EULA para jugar
+startGameButton_714120,VR Interactable,Start Game,Empezar Juego
+startGameLabel_705546,UI Text,Start Game,Empezar Juego
 disclaimerText_707784,UI Text,"Motion Sickness Warning:
 This game may induce motion sickness.  
 It may take some time to get used to, but the feeling of nausea will diminish with practice. 
 
-If at any point you feel nauseous, please remove the HMD and take a break.",
-Title_764004,UI Text,Language,
-AcceptButton_766562,VR Interactable,Accept,
-DenyButton_760444,VR Interactable,Deny,
-SelectLangButton_2211708,VR Interactable,Select Language,
+If at any point you feel nauseous, please remove the HMD and take a break.","Aviso de Mareos:
+Este juego puede inducir mareos.
+Puede tomar algo de tiempo hasta que te acostumbres, pero las náuseas disminuirán con práctica.
+
+Si en algún punto te sientes mareado, porfavor quítate las gafas y descansa."
+Title_764004,UI Text,Language,Idioma
+AcceptButton_766562,VR Interactable,Accept,Aceptar
+DenyButton_760444,VR Interactable,Deny,Declinar
+SelectLangButton_2211708,VR Interactable,Select Language,Seleccionar Idioma
 Handle_759118,VR Interactable,Scroll,
