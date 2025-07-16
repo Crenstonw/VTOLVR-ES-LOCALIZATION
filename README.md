@@ -1,6 +1,7 @@
 # VTOLVR-ES-LOLALIZATION
 Spanish (Español) Language for the game VTOL VR
 <h3 style="color: red"> IMPORTANTE: LA TRADUCCIÓN NO ESTÁ COMPLETA, LA IRÉ COMPLETANDO POCO A POCO, CUALQUIER AYUDA, REPORTE QUE TENGAIS HACEDMELO SABER PARA ARREGLARLO Y TENER UNA TRADUCCIÓN LO MÁS COMPLETA POSIBLE</h3>
+
 # Como instalarlo
 <h2>vamos desde Steam a la carpeta raiz del juego y de ahí a la carpeta "Localization"</h2>
 <img width="519" height="365" alt="image" src="https://github.com/user-attachments/assets/98676cfe-387f-4c2e-8e63-b7cadf94588f" />
