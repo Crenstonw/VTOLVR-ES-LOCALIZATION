@@ -1,403 +1,408 @@
 Key,Description,en,es
-AIM-120 Advanced Radar Missile_fullName,Full equip name of: AIM-120 Advanced Radar Missile,AIM-120 Advanced Radar Missile,
+AIM-120 Advanced Radar Missile_fullName,Full equip name of: AIM-120 Advanced Radar Missile,AIM-120 Advanced Radar Missile,AIM-120 Misil Radar Avanzado
 AIM-120 Advanced Radar Missile_description,Item description of: AIM-120 Advanced Radar Missile,"Radar guided medium range air to air missile.
-",
+",Misil aire-aire de medio alcance guiado por radar
 eqSublabel_RADAR-AAM,HUD sub-label of an equip,RADAR AAM,
-AGM-89 Anti-ship Cruise Missile x2_fullName,Full equip name of: AGM-89 Anti-ship Cruise Missile x2,AGM-89 Anti-ship Cruise Missile x2,
-AGM-89 Anti-ship Cruise Missile x2_description,Item description of: AGM-89 Anti-ship Cruise Missile x2,"Air-launched anti-ship cruise missile.  Equipped with waypoint following, radar target acquisition, and terminal maneuvering technology.",
-eqSublabel_ANTI-SHIP-CRUISE,HUD sub-label of an equip,ANTI-SHIP CRUISE,
-asml_terminalMode,An option for anti-ship cruise missiles' flight behavior in the last (terminal) phase of guidance.,TERMINAL MODE,
-asml_noTarget,HUD label shown when the selected anti-ship missile has no target.,NO TARGET,
-asml_overRange,HUD label shown when the selected anti-ship missile has a target that is too far away.,OVER RANGE,
-asml_inRange,HUD label shown when the selected anti-ship missile has a target that is within firing range.,IN RANGE,
-asml_path,HUD label shown when the selected anti-ship missile will follow a flight path.,PATH,
-asml_point,HUD label shown when the selected anti-ship missile will fly to a specific target point.,POINT,
-s_asmTmode_0,Antiship terminal guidance mode,Direct,
+AGM-89 Anti-ship Cruise Missile x2_fullName,Full equip name of: AGM-89 Anti-ship Cruise Missile x2,AGM-89 Anti-ship Cruise Missile x2,AGM-89 Misil de Crucero Anti-buque x2
+AGM-89 Anti-ship Cruise Missile x2_description,Item description of: AGM-89 Anti-ship Cruise Missile x2,"Air-launched anti-ship cruise missile.  Equipped with waypoint following, radar target acquisition, and terminal maneuvering technology.","Misil de Crucero Anti-buque lanzado aereamente. Equipado con seguimiento de punto de ruta, adquisición de objetivo por radar y tecnología de maniobravilidad terminal."
+eqSublabel_ANTI-SHIP-CRUISE,HUD sub-label of an equip,ANTI-SHIP CRUISE,CRUCERO ANTI-BUQUE
+asml_terminalMode,An option for anti-ship cruise missiles' flight behavior in the last (terminal) phase of guidance.,TERMINAL MODE,MODO TERMINAL
+asml_noTarget,HUD label shown when the selected anti-ship missile has no target.,NO TARGET,SIN OBJETIVO
+asml_overRange,HUD label shown when the selected anti-ship missile has a target that is too far away.,OVER RANGE,FUERA RANGO
+asml_inRange,HUD label shown when the selected anti-ship missile has a target that is within firing range.,IN RANGE,EN RANGO
+asml_path,HUD label shown when the selected anti-ship missile will follow a flight path.,PATH,RUTA
+asml_point,HUD label shown when the selected anti-ship missile will fly to a specific target point.,POINT,PUNTO
+s_asmTmode_0,Antiship terminal guidance mode,Direct,Directo
 s_asmTmode_1,Antiship terminal guidance mode,SeaSkim,
 s_asmTmode_2,Antiship terminal guidance mode,SSEvasive,
 s_asmTmode_3,Antiship terminal guidance mode,Popup,
 ASM-66LR_fullName,Full equip name of: ASM-66LR,ASM-66LR,
-ASM-66LR_description,Item description of: ASM-66LR,Active radar-guided surface to air missile. Equipped with first stage booster for extended range.,
-GBU-38 Bomb x3_fullName,Full equip name of: GBU-38 Bomb x3,GBU-38 Bomb x3,
-GBU-38 Bomb x3_description,Item description of: GBU-38 Bomb x3,500lb GPS guided direct attack munition. It's a Mk.82 bomb with a guidance package strapped on.,
-eqSublabel_GPS-BOMB,HUD sub-label of an equip,GPS BOMB,
-gpsBomb_targetMode,"An option for GPS bombs' targeting mode (auto, manual, dumb)",TARGET MODE,
-gpsBomb_autoRelRate,An option for GPS bomb's automatic release rate (shortened to fit UI space).,AUTO REL RATE,
+ASM-66LR_description,Item description of: ASM-66LR,Active radar-guided surface to air missile. Equipped with first stage booster for extended range.,Misil Aire-Tierra guiado por radar activo. Equipado con un impulsor de primera etapa para un rango extendido.
+GBU-38 Bomb x3_fullName,Full equip name of: GBU-38 Bomb x3,GBU-38 Bomb x3,GBU-38 bomba x3
+GBU-38 Bomb x3_description,Item description of: GBU-38 Bomb x3,500lb GPS guided direct attack munition. It's a Mk.82 bomb with a guidance package strapped on.,"Munición de ataque directo, 500lb guiadas por GPS. Es una bomba MK.82 con un paquete de guiado sujetado."
+eqSublabel_GPS-BOMB,HUD sub-label of an equip,GPS BOMB,BOMBA GPS
+gpsBomb_targetMode,"An option for GPS bombs' targeting mode (auto, manual, dumb)",TARGET MODE,MODO OBJETIVO
+gpsBomb_autoRelRate,An option for GPS bomb's automatic release rate (shortened to fit UI space).,AUTO REL RATE,TASA LIB AUTO
 s_gbu_mode_0,Targeting mode label for GPS bomb,MANUAL,
 s_gbu_mode_1,Targeting mode label for GPS bomb,AUTO,
 s_gbu_mode_2,Targeting mode label for GPS bomb,DUMB,
-interactable_button_grip,,Grip,
-interactable_button_trigger,,Trigger,
-vehicleConfig_denyBusy,Denial message for vehicle configurator,BUSY: RELOADING,
+interactable_button_grip,,Grip,Agarre
+interactable_button_trigger,,Trigger,Gatillo
+vehicleConfig_denyBusy,Denial message for vehicle configurator,BUSY: RELOADING,OCUP:RECARGANDO
 vehicleConfig_invalidReload,Denial message for vehicle configurator,Full reload will be over budget!,
-vehicleConfig_totalMass,,Total mass:,
-vehicleConfig_fuelKnob,,Set fuel,
-vehicleConfig_flightCost,,Flight cost:,
-vehicleConfig_budget,,Budget:,
-vehicleConfig_countermeasures,,Countermeasures,
-vehicleConfig_flareLabel,,IR Flares,
-vehicleConfig_flareKnob,,Set flares,
-vehicleConfig_chaffLabel,,ECM Chaff,
-vehicleConfig_chaffKnob,,Set chaff,
-vehicleConfig_repairButton,,Repair,
-vehicleConfig_repairButtonText,,Repair,
-vehicleConfig_repairCostLabel,,Repair cost:,
-vehicleConfig_equipMass,,Mass:,
-vehicleConfig_hardpoint,,Hardpoint,
-vehicleConfig_none,,None,
-vehicleConfig_saveLoad,,Save/load,
-vehicleConfig_backButton,Return to previous screen,Back,
-equipConfig_noEquips,A label shown in the vehicle configurator when there are no available equipment.,No equipment.,
-equipConfig_noEquipsDescription,A more descriptive label shown when there is no equipment available.,Equipment for this hardpoint is not yet available.,
-vehicleConfig_equipCost,,Cost:,
-vehicleConfig_count,,Count:,
-vehicleConfig_fuel,,FUEL,
+vehicleConfig_totalMass,,Total mass:,Masa total:
+vehicleConfig_fuelKnob,,Set fuel,Combustible:
+vehicleConfig_flightCost,,Flight cost:,Coste de vuelo:
+vehicleConfig_budget,,Budget:,Presupuesto:
+vehicleConfig_countermeasures,,Countermeasures,Contramedidas
+vehicleConfig_flareLabel,,IR Flares,Bengalas IR
+vehicleConfig_flareKnob,,Set flares,Equipar Bengalas
+vehicleConfig_chaffLabel,,ECM Chaff,ECM Chaff
+vehicleConfig_chaffKnob,,Set chaff,Equipas chaff
+vehicleConfig_repairButton,,Repair,Reparar
+vehicleConfig_repairButtonText,,Repair,Reparar
+vehicleConfig_repairCostLabel,,Repair cost:,Coste de reparación:
+vehicleConfig_equipMass,,Mass:,Masa:
+vehicleConfig_hardpoint,,Hardpoint,Punto de Anclaje
+vehicleConfig_none,,None,Ninguno
+vehicleConfig_saveLoad,,Save/load,Guardar/Cargar
+vehicleConfig_backButton,Return to previous screen,Back,Volver
+equipConfig_noEquips,A label shown in the vehicle configurator when there are no available equipment.,No equipment.,Sin equipamiento.
+equipConfig_noEquipsDescription,A more descriptive label shown when there is no equipment available.,Equipment for this hardpoint is not yet available.,El equipamiento para este punto de anclaje no disponible aún.
+vehicleConfig_equipCost,,Cost:,Coste:
+vehicleConfig_count,,Count:,Cantidad:
+vehicleConfig_fuel,,FUEL,COMB
 vehicleConfig_equipButton,Equip the selected item,Equip,
-vehicleConfig_detachButton,Detach the current item,Detach,
-vehicleConfig_previous,,Previous,
-vehicleConfig_next,,Next,
+vehicleConfig_detachButton,Detach the current item,Detach,Desacoplar
+vehicleConfig_previous,,Previous,Anterior
+vehicleConfig_next,,Next,Siguiente
 vehicleConfig_availableEquipment,,"Available
-equipment",
+equipment","Equipamiento
+disponible"
 vehicleConfig_scroll,,Scroll,
-vehicleConfig_symmetry,,Symmetry,
-vehicleConfig_symmetryButton,,Toggle symmetry,
-vehicleConfig_load,,Load,
-vehicleConfig_save,,Save,
-vehicleConfig_saveNew,,Save new...,
-vehicleConfig_overwrite,,Overwrite,
-vehicleConfig_delete,,Delete,
-500L Fuel Drop Tank_fullName,Full equip name of: 500L Fuel Drop Tank,500L Fuel Drop Tank,
-500L Fuel Drop Tank_description,Item description of: 500L Fuel Drop Tank,A 500 liter fuel tank.,
+vehicleConfig_symmetry,,Symmetry,Simetría
+vehicleConfig_symmetryButton,,Toggle symmetry,Alternar simetría
+vehicleConfig_load,,Load,Cargar
+vehicleConfig_save,,Save,Guardar
+vehicleConfig_saveNew,,Save new...,Guardar nuevo...
+vehicleConfig_overwrite,,Overwrite,Sobreescribir
+vehicleConfig_delete,,Delete,Borrar
+500L Fuel Drop Tank_fullName,Full equip name of: 500L Fuel Drop Tank,500L Fuel Drop Tank,Tanque externo 500L
+500L Fuel Drop Tank_description,Item description of: 500L Fuel Drop Tank,A 500 liter fuel tank.,Un tanque de combustible de 500 litros
 AIM-9E Sidewinder x2_fullName,Full equip name of: AIM-9E Sidewinder x2,AIM-9E Sidewinder x2,
-AIM-9E Sidewinder x2_description,Item description of: AIM-9E Sidewinder x2,"A rack of two AIM-9E. An older short range, rear-aspect, heat seeking air to air missile.",
+AIM-9E Sidewinder x2_description,Item description of: AIM-9E Sidewinder x2,"A rack of two AIM-9E. An older short range, rear-aspect, heat seeking air to air missile.","Un pilón con dos AIM-9E. Misil Aire-Aire de generación anterior, Guiado térmico por aspecto trasero de corto alcance."
 eqSublabel_IR,HUD sub-label of an equip,IR,
 ON,,ON,
 OFF,,OFF,
-irml_seekMode,Option title for IR missiles' heat-seeking mode,SEEK MODE,
-irml_trigUncage,"Option title for IR missiles' seeker to be uncaged by the trigger (trigger uncage, shortened for UI space).",TRIG UNCAGE,
-s_seekerMode_0,Label for heatseeker mode,Caged,
-s_seekerMode_1,Label for heatseeker mode,Uncaged,
-s_seekerMode_2,Label for heatseeker mode,Vertical Scan,
-s_seekerMode_3,Label for heatseeker mode,Head Track,
+irml_seekMode,Option title for IR missiles' heat-seeking mode,SEEK MODE,MODO BÚSQ
+irml_trigUncage,"Option title for IR missiles' seeker to be uncaged by the trigger (trigger uncage, shortened for UI space).",TRIG UNCAGE,LIB SENSOR
+s_seekerMode_0,Label for heatseeker mode,Caged,Bloqueado
+s_seekerMode_1,Label for heatseeker mode,Uncaged,Bloq Sensor
+s_seekerMode_2,Label for heatseeker mode,Vertical Scan,Scan Vertical
+s_seekerMode_3,Label for heatseeker mode,Head Track,Seg. Cabeza
 s_seekerMode_4,Label for heatseeker mode,Hard Lock,
-Hydra-70 x19 Rocket Pod_fullName,Full equip name of: Hydra-70 x19 Rocket Pod,Hydra-70 x19 Rocket Pod,
-Hydra-70 x19 Rocket Pod_description,Item description of: Hydra-70 x19 Rocket Pod,"A pod carrying a total of 19 high explosive rockets.  Can be fired in single shot mode, or rapid fire (ripple).",
-eqSublabel_ROCKET,HUD sub-label of an equip,ROCKET,
-s_rocket_salvo,Rocket launcher salvo option,SALVO,
+Hydra-70 x19 Rocket Pod_fullName,Full equip name of: Hydra-70 x19 Rocket Pod,Hydra-70 x19 Rocket Pod,Contenedor de cohetes Hydra-70 x19
+Hydra-70 x19 Rocket Pod_description,Item description of: Hydra-70 x19 Rocket Pod,"A pod carrying a total of 19 high explosive rockets.  Can be fired in single shot mode, or rapid fire (ripple).",Un contenedor llevando un total de 19 cohetes AE. Pueden ser disparados uno a uno o en secuencia rápida (Salva)
+eqSublabel_ROCKET,HUD sub-label of an equip,ROCKET,COHETE
+s_rocket_salvo,Rocket launcher salvo option,SALVO,SALVA
 M62 Vulcan 20mm_fullName,Full equip name of: M62 Vulcan 20mm,M62 Vulcan 20mm,
-M62 Vulcan 20mm_description,Item description of: M62 Vulcan 20mm,A modern 20mm rotary cannon.,
-eqSublabel_CANNON,HUD sub-label of an equip,CANNON,
+M62 Vulcan 20mm_description,Item description of: M62 Vulcan 20mm,A modern 20mm rotary cannon.,Un cañón moderno de 20mm
+eqSublabel_CANNON,HUD sub-label of an equip,CANNON,CAÑÓN
 ASF-SRM x2_fullName,Full equip name of: ASF-SRM x2,ASF-SRM x2,
-ASF-SRM x2_description,Item description of: ASF-SRM x2,A rack of two standard heat-seeking anti-air missiles.,
-RG25 Twin Revolving Cannons_fullName,Full equip name of: RG25 Twin Revolving Cannons,RG25 Twin Revolving Cannons,
-RG25 Twin Revolving Cannons_description,Item description of: RG25 Twin Revolving Cannons,Twin 25mm revolving cannons.,
-AIM-7 SARH Missile_fullName,Full equip name of: AIM-7 SARH Missile,AIM-7 SARH Missile,
-AIM-7 SARH Missile_description,Item description of: AIM-7 SARH Missile,An older semi-active radar guided medium range air to air missile. The missile requires a radar lock from launch until impact.,
+ASF-SRM x2_description,Item description of: ASF-SRM x2,A rack of two standard heat-seeking anti-air missiles.,Un Pilón de 2 misiles anti-aéreos estandar guiado por calor.
+RG25 Twin Revolving Cannons_fullName,Full equip name of: RG25 Twin Revolving Cannons,RG25 Twin Revolving Cannons,Cañones gemelos rotatorios RG25
+RG25 Twin Revolving Cannons_description,Item description of: RG25 Twin Revolving Cannons,Twin 25mm revolving cannons.,Cañones gemelos rotatorios RG25
+AIM-7 SARH Missile_fullName,Full equip name of: AIM-7 SARH Missile,AIM-7 SARH Missile,Misil AIM-7 SARH
+AIM-7 SARH Missile_description,Item description of: AIM-7 SARH Missile,An older semi-active radar guided medium range air to air missile. The missile requires a radar lock from launch until impact.,Un misil aire-aire de generación anterior guiado por radar semi-activo. El misil requiere un bloqueo constante en radar desde que es lanzado hasta que impacta.
 eqSublabel_SARH-AAM,HUD sub-label of an equip,SARH AAM,
-WR-25 Rocket Pod_fullName,Full equip name of: WR-25 Rocket Pod,WR-25 Rocket Pod,
-WR-25 Rocket Pod_description,Item description of: WR-25 Rocket Pod,A hexagonal pod carrying 25 unguided rockets.,
+WR-25 Rocket Pod_fullName,Full equip name of: WR-25 Rocket Pod,WR-25 Rocket Pod,Contenedor de Cohetes WR-25
+WR-25 Rocket Pod_description,Item description of: WR-25 Rocket Pod,A hexagonal pod carrying 25 unguided rockets.,Un contenedor hexagonal llevando 25 cohetes sin guiado
 ASMRM-7 x1_fullName,Full equip name of: ASMRM-7 x1,ASMRM-7 x1,
-ASMRM-7 x1_description,Item description of: ASMRM-7 x1,Medium range radar guided air to air missile.,
-Mk-82 Bomb x3_fullName,Full equip name of: Mk-82 Bomb x3,Mk-82 Bomb x3,
-Mk-82 Bomb x3_description,Item description of: Mk-82 Bomb x3,Standard un-guided 500lb bombs.,
-eqSublabel_BOMB,HUD sub-label of an equip,BOMB,
-bombRack_releaseArea,An option for bomb weapons - how wide of a target area to automatically release bombs in.,RELEASE AREA,
-SALVO,,SALVO,
+ASMRM-7 x1_description,Item description of: ASMRM-7 x1,Medium range radar guided air to air missile.,Misil aire-aire de medio alcance guiado por radar
+Mk-82 Bomb x3_fullName,Full equip name of: Mk-82 Bomb x3,Mk-82 Bomb x3,Bomba Mk-82 x3
+Mk-82 Bomb x3_description,Item description of: Mk-82 Bomb x3,Standard un-guided 500lb bombs.,Bombas estándar sin guiado de 500lb
+eqSublabel_BOMB,HUD sub-label of an equip,BOMB,BOMBA
+bombRack_releaseArea,An option for bomb weapons - how wide of a target area to automatically release bombs in.,RELEASE AREA,AREA LANZAMIENTO
+SALVO,,SALVO,SALVA
 bomb_lowG,"HUD label shown when aircraft is under low or negative g-forces, preventing bomb release.","LOW G
-NO RELEASE",
+NO RELEASE","G NEG
+NO LANZAR"
 s_ccrpAuto,,CCRP AUTO,
-AIRS-T Advanced SRM x2_fullName,Full equip name of: AIRS-T Advanced SRM x2,AIRS-T Advanced SRM x2,
+AIRS-T Advanced SRM x2_fullName,Full equip name of: AIRS-T Advanced SRM x2,AIRS-T Advanced SRM x2,AIRS-T Avanzado SRM x2
 AIRS-T Advanced SRM x2_description,Item description of: AIRS-T Advanced SRM x2,"Short range heat seeking air to air missile with thrust vectoring.
 Improved maneuverability, range, and counter-countermeasure system.
-Advanced technology allows it to intercept incoming missiles.",
-Conformal Fuel Tank_fullName,Full equip name of: Conformal Fuel Tank,Conformal Fuel Tank,
-Conformal Fuel Tank_description,Item description of: Conformal Fuel Tank,A modification that allows the aircraft to hold an extra 6400L of fuel.,
+Advanced technology allows it to intercept incoming missiles.","Misil de corto alcance guiado por calor con empuje vectorial. Maniobravilidad, rango y sistema contra-contramedidas mejorado. Su tecnología avanzada permite interceptar misiles entrantes."
+Conformal Fuel Tank_fullName,Full equip name of: Conformal Fuel Tank,Conformal Fuel Tank,Tanque de combustible conformado
+Conformal Fuel Tank_description,Item description of: Conformal Fuel Tank,A modification that allows the aircraft to hold an extra 6400L of fuel.,Una modificación que permine a la aeronave llevar 6400L extra de combustible.
 AGM-88 ARM_fullName,Full equip name of: AGM-88 ARM,AGM-88 ARM,
-AGM-88 ARM_description,Item description of: AGM-88 ARM,Medium range anti-radiation missile.,
+AGM-88 ARM_description,Item description of: AGM-88 ARM,Medium range anti-radiation missile.,Misil anti-radiación de medio alcance.
 eqSublabel_ARM,HUD sub-label of an equip,ARM,
 AGM-65 x3_fullName,Full equip name of: AGM-65 x3,AGM-65 x3,
-AGM-65 x3_description,Item description of: AGM-65 x3,"A medium range optically guided ""fire-and-forget"" anti-tank missile.",
+AGM-65 x3_description,Item description of: AGM-65 x3,"A medium range optically guided ""fire-and-forget"" anti-tank missile.","Misil antitante ""tira y olvida"" de medio alcance ópticamente guiado."
 eqSublabel_OPTICAL-FF,HUD sub-label of an equip,OPTICAL FF,
 AUTO,,AUTO,
 MANUAL,,MANUAL,
-oml_uncageMode,Option title for optical missiles' seeker uncage mode (unlocking from the forward aiming position).,UNCAGE MODE,
+oml_uncageMode,Option title for optical missiles' seeker uncage mode (unlocking from the forward aiming position).,UNCAGE MODE,LIB. SENSOR
 oml_noTgp,Optical AGM is selected but there is no TGP attached,NO TGP,
-AN/AAQ-28 Targeting Pod_fullName,Full equip name of: AN/AAQ-28 Targeting Pod,AN/AAQ-28 Targeting Pod,
-AN/AAQ-28 Targeting Pod_description,Item description of: AN/AAQ-28 Targeting Pod,Sensor pod for acquiring and tracking targets using optics and lasers.  A necessary component for certain guided missiles.,
+AN/AAQ-28 Targeting Pod_fullName,Full equip name of: AN/AAQ-28 Targeting Pod,AN/AAQ-28 Targeting Pod,Módulo de apuntado AN/AAQ-28
+AN/AAQ-28 Targeting Pod_description,Item description of: AN/AAQ-28 Targeting Pod,Sensor pod for acquiring and tracking targets using optics and lasers.  A necessary component for certain guided missiles.,Módulo sensor para adquirir y seguir objetivos usando óptica y láser. Un componente necesario para ciertos misiles guiados.
 GAU-22 Redeemer 25mm_fullName,Full equip name of: GAU-22 Redeemer 25mm,GAU-22 Redeemer 25mm,
 GAU-22 Redeemer 25mm_description,Item description of: GAU-22 Redeemer 25mm,"A 4-barrel 25mm rotary cannon.
-Rate of fire: 3300 RPM",
+Rate of fire: 3300 RPM","Un cañón rotatorio de 4 salidas de 25mm.
+Cadencia de fuego: 3300 BPM"
 MK-82AIR x32_fullName,Full equip name of: MK-82AIR x32,MK-82AIR x32,
-MK-82AIR x32_description,Item description of: MK-82AIR x32,A rack of 32 MK-82AIR high drag bombs.,
-GBU-12 Laser Guided Bomb_fullName,Full equip name of: GBU-12 Laser Guided Bomb,GBU-12 Laser Guided Bomb,
-GBU-12 Laser Guided Bomb_description,Item description of: GBU-12 Laser Guided Bomb,A 500lb laser guided bomb.,
-eqSublabel_LASER-BOMB,HUD sub-label of an equip,LASER BOMB,
-lgb_targetMode,Option title for laser guided bombs' targeting mode.,TARGET MODE,
+MK-82AIR x32_description,Item description of: MK-82AIR x32,A rack of 32 MK-82AIR high drag bombs.,Un pilón de 32 bombas de alta resistencia aerodinámica MK-82AIR
+GBU-12 Laser Guided Bomb_fullName,Full equip name of: GBU-12 Laser Guided Bomb,GBU-12 Laser Guided Bomb,Bomba guiada por láse GBU-12
+GBU-12 Laser Guided Bomb_description,Item description of: GBU-12 Laser Guided Bomb,A 500lb laser guided bomb.,Una bomba guiada por láser de 500lb
+eqSublabel_LASER-BOMB,HUD sub-label of an equip,LASER BOMB,BOMBA LASER
+lgb_targetMode,Option title for laser guided bombs' targeting mode.,TARGET MODE,MODO OBJ
 s_LOAL,Lock on after launch HUD label for laser bomb,LOAL,
 s_lgbMode_0,Laser guided bomb targeting mode,LASER,
 s_lgbMode_1,Laser guided bomb targeting mode,DUMB,
 AGM-65_fullName,Full equip name of: AGM-65,AGM-65,
-AGM-65_description,Item description of: AGM-65,"A medium range optically guided ""fire-and-forget"" anti-tank missile.",
-CBU-97 Bomb x1_fullName,Full equip name of: CBU-97 Bomb x1,CBU-97 Bomb x1,
-CBU-97 Bomb x1_description,Item description of: CBU-97 Bomb x1,A smart cluster bomb that fires 40 explosively shaped armor penetrators at targets.,
-eqSublabel_CLUSTER-BOMB,HUD sub-label of an equip,CLUSTER BOMB,
-s_cbuAlt,HUD when below submunition deploy altitude of cluster bomb,BELOW CBU ALT,
+AGM-65_description,Item description of: AGM-65,"A medium range optically guided ""fire-and-forget"" anti-tank missile.","Un Misil anti-tanque ""tira y olvida"" de medio alcance opticamente guiado"
+CBU-97 Bomb x1_fullName,Full equip name of: CBU-97 Bomb x1,CBU-97 Bomb x1,Bomba CBU-97 x1
+CBU-97 Bomb x1_description,Item description of: CBU-97 Bomb x1,A smart cluster bomb that fires 40 explosively shaped armor penetrators at targets.,Una bomba de racimo inteligente que dispara 40 HEATs al objetivo
+eqSublabel_CLUSTER-BOMB,HUD sub-label of an equip,CLUSTER BOMB,BOMBA RACIMO
+s_cbuAlt,HUD when below submunition deploy altitude of cluster bomb,BELOW CBU ALT,BAJO CBU ALT
 M230 Chain Gun_fullName,Full equip name of: M230 Chain Gun,M230 Chain Gun,
-M230 Chain Gun_description,Item description of: M230 Chain Gun,A single-barrel 30mm automatic cannon mounted on a gimbal. The gimbal will be locked forward above a certain airspeed.,
-eqSublabel_CANNON-GIMBAL,HUD sub-label of an equip,CANNON GIMBAL,
-gunTurret_locked,Label for when a gun turret is set to be locked in the forward-aiming position.,LOCKED,
-gunTurret_slaved,Label for wh en a gun turret is set to be controlled by (slaved to) an external sensor.,SLAVED,
+M230 Chain Gun_description,Item description of: M230 Chain Gun,A single-barrel 30mm automatic cannon mounted on a gimbal. The gimbal will be locked forward above a certain airspeed.,"Cañón automático de 30mm montado en un gimbal.
+El gimbal se bloqueará mirando al frente a cierta velocidad"
+eqSublabel_CANNON-GIMBAL,HUD sub-label of an equip,CANNON GIMBAL,CAÑÓN GIMBAL
+gunTurret_locked,Label for when a gun turret is set to be locked in the forward-aiming position.,LOCKED,BLOQ
+gunTurret_slaved,Label for wh en a gun turret is set to be controlled by (slaved to) an external sensor.,SLAVED,VINCULADO
 gunTurret_gimbal,Option title for gun turrets' gimbal (rotation/aiming) to be locked or slaved.,GIMBAL,
-gunTurret_speedlock,Label when gun turret is locked due to overspeed,SPEEDLOCK,
-AIRS-T Advanced SRM x3_fullName,Full equip name of: AIRS-T Advanced SRM x3,AIRS-T Advanced SRM x3,
+gunTurret_speedlock,Label when gun turret is locked due to overspeed,SPEEDLOCK,BLOQ VEL
+AIRS-T Advanced SRM x3_fullName,Full equip name of: AIRS-T Advanced SRM x3,AIRS-T Advanced SRM x3,AIRS-T avanzado SRM x3
 AIRS-T Advanced SRM x3_description,Item description of: AIRS-T Advanced SRM x3,"Short range heat seeking air to air missile with thrust vectoring.
 Improved maneuverability, range, and counter-countermeasure system.
-Advanced technology allows it to intercept incoming missiles.",
+Advanced technology allows it to intercept incoming missiles.","Misil Aire-Aire de corto alcance guiado por calor con empuje vectorial. Maniobravilidad, rango y sistema contra-contramedidas mejorado. Su tecnología avanzada permite interceptar misiles entrantes."
 AGM-145 Ballista x4_fullName,Full equip name of: AGM-145 Ballista x4,AGM-145 Ballista x4,
-AGM-145 Ballista x4_description,Item description of: AGM-145 Ballista x4,"Small anti-tank missiles with advanced optics, ""fire and forget"", and smart self-targeting technology. Can be fired without line of sight to the designated target point, and will acquire hostile targets automatically.",
+AGM-145 Ballista x4_description,Item description of: AGM-145 Ballista x4,"Small anti-tank missiles with advanced optics, ""fire and forget"", and smart self-targeting technology. Can be fired without line of sight to the designated target point, and will acquire hostile targets automatically.","Pequeño misil anti-tanque con ópticas avanzadas, ""tira y olvida"" y tecnología inteligente de auto-asignación de objetivo. Puede ser disparado sin lina de visión al punto objetivo designado y el misil adquirirá el objetivo automaticamente."
 eqSublabel_OPTICAL-FAF,HUD sub-label of an equip,OPTICAL FAF,
-tutName_Hover Tutorial,Name of a legacy tutorial objective,Hover Tutorial,
-tutDesc_Hover Tutorial,Description of a legacy tutorial,Learn to hover.,
-tut:Hover Tutorial:Intro10,A tutorial label,Welcome to the hover tutorial.,
-tut:Hover Tutorial:Intro21,A tutorial label,We'll begin with the start-up sequence.,
-tut:Hover Tutorial:Brake Lock2,A tutorial label,Enable Brake Lock,
-tut:Hover Tutorial:Enable battery3,A tutorial label,Enable Battery,
-tut:Hover Tutorial:start up apu4,A tutorial label,Start APU,
-tut:Hover Tutorial:wait spool apu5,A tutorial label,Let the APU spool up,
-tut:Hover Tutorial:StartLeftEngine6,A tutorial label,Start Left Engine,
-tut:Hover Tutorial:StartRightEngine7,A tutorial label,Start Right Engine,
-tut:Hover Tutorial:Flaps8,A tutorial label,Set flaps to full,
-tut:Hover Tutorial:WaitSpool9,A tutorial label,Wait for the engines to spool up.,
-tut:Hover Tutorial:NoNeedAPU10,A tutorial label,The engines are now supplying power.  We can turn off the APU.,
-tut:Hover Tutorial:TurnOffAPU11,A tutorial label,Turn off APU.,
-tut:Hover Tutorial:EnableHUD12,A tutorial label,Turn on the HUD,
-tut:Hover Tutorial:EnableMFD113,A tutorial label,Turn on the MFDs,
-tut:Hover Tutorial:EnableMFD214,A tutorial label,Turn on the MFDs,
-tut:Hover Tutorial:EnableMFD315,A tutorial label,Turn on the MFDs,
-tut:Hover Tutorial:GrabJoy16,A tutorial label,Grab the joystick.,
-tut:Hover Tutorial:GrabThrottle17,A tutorial label,Grab the throttle.,
-tut:Hover Tutorial:SetTilt18,A tutorial label,Set the engine tilt to 90,
-tut:Hover Tutorial:LiftOff19,A tutorial label,Slowly lift the throttle until you take off.,
-tut:Hover Tutorial:MaintainAttitude20,A tutorial label,Try to keep your nose level with the horizon.,
-tut:Hover Tutorial:ClimbAltitude21,A tutorial label,Slowly climb to 100m altitude.,
-tut:Hover Tutorial:Hover22,A tutorial label,Adjust throttle to maintain zero vertical speed.,
-tut:Hover Tutorial:CancelLaterals23,A tutorial label,Cancel lateral speed by rolling or pitching slightly in the opposite direction.,
-tut:Hover Tutorial:HoldPos24,A tutorial label,Try to hold this position for a few moments.,
-tut:Hover Tutorial:DescendTime25,A tutorial label,Now lets try to land.,
-tut:Hover Tutorial:Descend26,A tutorial label,Adjust throttle to slowly descend at about -6 m/s,
-tut:Hover Tutorial:PrepareForImpact27,A tutorial label,Throttle up to about -2 m/s,
-tut:Hover Tutorial:PostLand28,A tutorial label,Throttle down!,
-tut:Hover Tutorial:Complete29,A tutorial label,Tutorial complete! Good job!,
-4000L Fuel Drop Tank_fullName,Full equip name of: 4000L Fuel Drop Tank,4000L Fuel Drop Tank,
-4000L Fuel Drop Tank_description,Item description of: 4000L Fuel Drop Tank,A 4000 liter detachable external fuel tank.,
+tutName_Hover Tutorial,Name of a legacy tutorial objective,Hover Tutorial,Tutorial de vuelo estacionario
+tutDesc_Hover Tutorial,Description of a legacy tutorial,Learn to hover.,Aprende a volar estacionariamente.
+tut:Hover Tutorial:Intro10,A tutorial label,Welcome to the hover tutorial.,Bienvenido al tutorial de vuelo estacionario.
+tut:Hover Tutorial:Intro21,A tutorial label,We'll begin with the start-up sequence.,Vamos a empezar la puesta en marcha.
+tut:Hover Tutorial:Brake Lock2,A tutorial label,Enable Brake Lock,Activa el freno de mano
+tut:Hover Tutorial:Enable battery3,A tutorial label,Enable Battery,Activa la batería
+tut:Hover Tutorial:start up apu4,A tutorial label,Start APU,Activa el APU
+tut:Hover Tutorial:wait spool apu5,A tutorial label,Let the APU spool up,Deja que el APU se revolucione
+tut:Hover Tutorial:StartLeftEngine6,A tutorial label,Start Left Engine,Activa el motor izquierdo
+tut:Hover Tutorial:StartRightEngine7,A tutorial label,Start Right Engine,Activa el motor derecho
+tut:Hover Tutorial:Flaps8,A tutorial label,Set flaps to full,Baja los flaps a tope
+tut:Hover Tutorial:WaitSpool9,A tutorial label,Wait for the engines to spool up.,Espera a que los motores se revolucionen.
+tut:Hover Tutorial:NoNeedAPU10,A tutorial label,The engines are now supplying power.  We can turn off the APU.,Los motores estan propocionando electricidad ya. Podemos apagar la APU.
+tut:Hover Tutorial:TurnOffAPU11,A tutorial label,Turn off APU.,Apaga la APU.
+tut:Hover Tutorial:EnableHUD12,A tutorial label,Turn on the HUD,Enciende el HUD.
+tut:Hover Tutorial:EnableMFD113,A tutorial label,Turn on the MFDs,Enciende los MFDs
+tut:Hover Tutorial:EnableMFD214,A tutorial label,Turn on the MFDs,Enciende los MFDs
+tut:Hover Tutorial:EnableMFD315,A tutorial label,Turn on the MFDs,Enciende los MFDs
+tut:Hover Tutorial:GrabJoy16,A tutorial label,Grab the joystick.,Agarra el Joystick.
+tut:Hover Tutorial:GrabThrottle17,A tutorial label,Grab the throttle.,Agarra el acelerador.
+tut:Hover Tutorial:SetTilt18,A tutorial label,Set the engine tilt to 90,Pon los motores en un ángulo de 90º
+tut:Hover Tutorial:LiftOff19,A tutorial label,Slowly lift the throttle until you take off.,Lentamente ve acelerando hasta que despegues
+tut:Hover Tutorial:MaintainAttitude20,A tutorial label,Try to keep your nose level with the horizon.,Intenta mantener el nivel del morro con el horizonte
+tut:Hover Tutorial:ClimbAltitude21,A tutorial label,Slowly climb to 100m altitude.,Sube lentamente a 100m de altitud.
+tut:Hover Tutorial:Hover22,A tutorial label,Adjust throttle to maintain zero vertical speed.,Ajusta el acelerador para mantener cero velocidad vertical
+tut:Hover Tutorial:CancelLaterals23,A tutorial label,Cancel lateral speed by rolling or pitching slightly in the opposite direction.,Cancela la velocidad lateral alabeando o cabeceando ligeramente en la dirección contraria.
+tut:Hover Tutorial:HoldPos24,A tutorial label,Try to hold this position for a few moments.,Intenta mantener esta posición por algunos segundos.
+tut:Hover Tutorial:DescendTime25,A tutorial label,Now lets try to land.,Ahora intentemos aterrizar.
+tut:Hover Tutorial:Descend26,A tutorial label,Adjust throttle to slowly descend at about -6 m/s,Ajusta el acelerador para que descienda aprox a -6 m/s
+tut:Hover Tutorial:PrepareForImpact27,A tutorial label,Throttle up to about -2 m/s,Acelera hasta los -2 m/s
+tut:Hover Tutorial:PostLand28,A tutorial label,Throttle down!,Desacelera!
+tut:Hover Tutorial:Complete29,A tutorial label,Tutorial complete! Good job!,¡Tutorial completado! ¡Bien hecho!
+4000L Fuel Drop Tank_fullName,Full equip name of: 4000L Fuel Drop Tank,4000L Fuel Drop Tank,Tanque Combustible 4000L
+4000L Fuel Drop Tank_description,Item description of: 4000L Fuel Drop Tank,A 4000 liter detachable external fuel tank.,Un tanque externo deshechable de 4000 litros de combustible
 ASF-SRM x1_fullName,Full equip name of: ASF-SRM x1,ASF-SRM x1,
-ASF-SRM x1_description,Item description of: ASF-SRM x1,A standard heat-seeking anti-air missile.,
-GBU-38 Bomb x2_fullName,Full equip name of: GBU-38 Bomb x2,GBU-38 Bomb x2,
-GBU-38 Bomb x2_description,Item description of: GBU-38 Bomb x2,500lb GPS guided direct attack munition. It's a Mk.82 bomb with a guidance package strapped on.,
+ASF-SRM x1_description,Item description of: ASF-SRM x1,A standard heat-seeking anti-air missile.,Un misil anti-aire guiado por calor estándar
+GBU-38 Bomb x2_fullName,Full equip name of: GBU-38 Bomb x2,GBU-38 Bomb x2,Bomba GBU-38 x2
+GBU-38 Bomb x2_description,Item description of: GBU-38 Bomb x2,500lb GPS guided direct attack munition. It's a Mk.82 bomb with a guidance package strapped on.,"Munición de ataque directo, 500lb guiadas por GPS. Es una bomba MK.82 con un paquete de guiado sujetado."
 AIM-9 Sidewinder x2_fullName,Full equip name of: AIM-9 Sidewinder x2,AIM-9 Sidewinder x2,
-AIM-9 Sidewinder x2_description,Item description of: AIM-9 Sidewinder x2,A rack of two standard heat-seeking Sidewinder anti-air missiles.,
+AIM-9 Sidewinder x2_description,Item description of: AIM-9 Sidewinder x2,A rack of two standard heat-seeking Sidewinder anti-air missiles.,Un pilón con con dos misiles Aire-Aire estandar Sidewinder guiado por calor
 eqSublabel_IR-AAM,HUD sub-label of an equip,IR AAM,
-GBU-38 Bomb x1_fullName,Full equip name of: GBU-38 Bomb x1,GBU-38 Bomb x1,
-GBU-38 Bomb x1_description,Item description of: GBU-38 Bomb x1,500lb GPS guided direct attack munition. It's a Mk.82 bomb with a guidance package strapped on.,
-menu_back,"General ""back"" button for menus.",Back,
-mpmm_members,Title for multiplayer members management menu.,Members,
-mpmm_toggleMute,Toggle muting player voice,Toggle mute,
-mpmm_kick,Kick member button,Kick,
-mpmm_ban,Ban member button,Ban,
-mpmm_block,Block member button,Block,
+GBU-38 Bomb x1_fullName,Full equip name of: GBU-38 Bomb x1,GBU-38 Bomb x1,Bomba GBU-38 x1
+GBU-38 Bomb x1_description,Item description of: GBU-38 Bomb x1,500lb GPS guided direct attack munition. It's a Mk.82 bomb with a guidance package strapped on.,"Munición de ataque directo, 500lb guiadas por GPS. Es una bomba MK.82 con un paquete de guiado sujetado."
+menu_back,"General ""back"" button for menus.",Back,Volver
+mpmm_members,Title for multiplayer members management menu.,Members,Miembros
+mpmm_toggleMute,Toggle muting player voice,Toggle mute,Alternar Silencio
+mpmm_kick,Kick member button,Kick,Expulsar
+mpmm_ban,Ban member button,Ban,Vetar
+mpmm_block,Block member button,Block,Bloquear
 scrollbar,UI Scrollbar interactable,Scroll,
 okay,,Okay,
-cancel,,Cancel,
-mpmm_inviteMenuButton,Button to open the invite friends menu,Invite friends,
-mpmm_inviteFriendsTitle,Invite menu title,Invite friends,
-mpmm_invited,Label to show that a friend has been invited.,Invited,
-mpmm_invite,Button to invite this friend.,Invite,
-s_cms_rate_single,CMS release rate - single fire mode,Single,
-s_cms_rMode_0,CMS release mode,Single Auto,
-s_cms_rMode_1,CMS release mode,Single L,
-s_cms_rMode_2,CMS release mode,Single R,
-s_cms_rMode_3,CMS release mode,Double,
-tutName_Getting Started,Name of a legacy tutorial objective,Getting Started,
-tutDesc_Getting Started,Description of a legacy tutorial,Complete the intro tutorial.,
-tut:Getting Started:Intro10,A tutorial label,Welcome to the AV-42C,
-tut:Getting Started:Intro21,A tutorial label,"First, let's keep the bird from rolling away.",
-tut:Getting Started:Brake Lock2,A tutorial label,Enable Brake Lock,
-tut:Getting Started:Startup3,A tutorial label,Now lets move on to the start-up sequence.,
-tut:Getting Started:Enable battery4,A tutorial label,Enable Battery,
-tut:Getting Started:start up apu5,A tutorial label,Start APU,
-tut:Getting Started:wait spool apu6,A tutorial label,Let the APU spool up a bit.,
-tut:Getting Started:StartLeftEngine7,A tutorial label,Start Left Engine,
-tut:Getting Started:StartRightEngine8,A tutorial label,Start Right Engine,
-tut:Getting Started:WaitSpool9,A tutorial label,Wait for the engines to spool up.,
-tut:Getting Started:NoNeedAPU10,A tutorial label,The engines are now supplying power.  We can turn off the APU.,
-tut:Getting Started:TurnOffAPU11,A tutorial label,Turn off APU.,
-tut:Getting Started:EnableHUD12,A tutorial label,Turn on the HUD,
-tut:Getting Started:HUDInfo13,A tutorial label,"The HUD (Heads-Up Display) shows you attitude, altitude, velocity, targeting reticles, and other important flight data at a glance.",
-tut:Getting Started:EnableMFD114,A tutorial label,Turn on the MFD 1,
-tut:Getting Started:EnableMFD215,A tutorial label,Turn on the MFD 2,
-tut:Getting Started:EnableMFD316,A tutorial label,Turn on the MFD 3,
-tut:Getting Started:MFD info17,A tutorial label,The MFDs (Multi-Function Displays) give you access to,
-tut:Getting Started:MFD info 218,A tutorial label,"aircraft features such as weapon configuration, navigation maps,",
-tut:Getting Started:MFD info 319,A tutorial label,"sensors, etc.  You can access these features by pressing the corresponding buttons around the edge of the monitor.",
-tut:Getting Started:ReadyToFly20,A tutorial label,The vehicle is now ready to fly.  Up next: Basic Flight,
-s_endMission_quickload,Label for quickload button in end-mission display 'Quick Load (x mins ago)',Quick Load,
-s_endMission_dumpedLog,Label for end-mission entry when flight log is saved to disk.,Dumped flight log,
+cancel,,Cancel,Cancelar
+mpmm_inviteMenuButton,Button to open the invite friends menu,Invite friends,Invitar amigos
+mpmm_inviteFriendsTitle,Invite menu title,Invite friends,Invitar amigos
+mpmm_invited,Label to show that a friend has been invited.,Invited,Invitado
+mpmm_invite,Button to invite this friend.,Invite,Invita
+s_cms_rate_single,CMS release rate - single fire mode,Single,Semi
+s_cms_rMode_0,CMS release mode,Single Auto,Semi auto
+s_cms_rMode_1,CMS release mode,Single L,Semi Izq
+s_cms_rMode_2,CMS release mode,Single R,Semi Der
+s_cms_rMode_3,CMS release mode,Double,Doble
+tutName_Getting Started,Name of a legacy tutorial objective,Getting Started,Primeros Pasos
+tutDesc_Getting Started,Description of a legacy tutorial,Complete the intro tutorial.,Completa la intro del tutorial.
+tut:Getting Started:Intro10,A tutorial label,Welcome to the AV-42C,Bienvenido al AV-42C
+tut:Getting Started:Intro21,A tutorial label,"First, let's keep the bird from rolling away.","Primero, vamos a mantener al pajarito quieto."
+tut:Getting Started:Brake Lock2,A tutorial label,Enable Brake Lock,Pon el freno de mano
+tut:Getting Started:Startup3,A tutorial label,Now lets move on to the start-up sequence.,Ahora vamos a la puesta en marcha.
+tut:Getting Started:Enable battery4,A tutorial label,Enable Battery,Activa la batería
+tut:Getting Started:start up apu5,A tutorial label,Start APU,Activa la APU
+tut:Getting Started:wait spool apu6,A tutorial label,Let the APU spool up a bit.,Deja que la APU se revolucione.
+tut:Getting Started:StartLeftEngine7,A tutorial label,Start Left Engine,Enciende el motor izquierdo
+tut:Getting Started:StartRightEngine8,A tutorial label,Start Right Engine,Enciende el motor derecho
+tut:Getting Started:WaitSpool9,A tutorial label,Wait for the engines to spool up.,Espera a que los motores se revolucione
+tut:Getting Started:NoNeedAPU10,A tutorial label,The engines are now supplying power.  We can turn off the APU.,Los motores estan propocionando electricidad ya. Podemos apagar la APU.
+tut:Getting Started:TurnOffAPU11,A tutorial label,Turn off APU.,Apaga la APU.
+tut:Getting Started:EnableHUD12,A tutorial label,Turn on the HUD,Enciende el HUD.
+tut:Getting Started:HUDInfo13,A tutorial label,"The HUD (Heads-Up Display) shows you attitude, altitude, velocity, targeting reticles, and other important flight data at a glance.","El HUD (Heads-Up Display) muestra tu altitud, orientación, velocidad, retículas de objetivo, y otros datos importantes del vuelo a grandes rasgos."
+tut:Getting Started:EnableMFD114,A tutorial label,Turn on the MFD 1,Enciende el MFD 1
+tut:Getting Started:EnableMFD215,A tutorial label,Turn on the MFD 2,Enciende el MFD 2
+tut:Getting Started:EnableMFD316,A tutorial label,Turn on the MFD 3,Enciende el MFD 3
+tut:Getting Started:MFD info17,A tutorial label,The MFDs (Multi-Function Displays) give you access to,Los MFDs (Multi-Function Displays) te dan acceso a
+tut:Getting Started:MFD info 218,A tutorial label,"aircraft features such as weapon configuration, navigation maps,","características de la aeronave como configuración de armas, mapas de navegación,"
+tut:Getting Started:MFD info 319,A tutorial label,"sensors, etc.  You can access these features by pressing the corresponding buttons around the edge of the monitor.","sensores, etc. Puedes acceder a estas características apretando el botón correspondiente alrededor de los bordes del monitor."
+tut:Getting Started:ReadyToFly20,A tutorial label,The vehicle is now ready to fly.  Up next: Basic Flight,El vehículo está listo para volar. Lo siguiente: Vuelo básico
+s_endMission_quickload,Label for quickload button in end-mission display 'Quick Load (x mins ago)',Quick Load,Cargado Rápido
+s_endMission_dumpedLog,Label for end-mission entry when flight log is saved to disk.,Dumped flight log,Registro de vuelo descargado
 vpdt_ContinueFlightText,[xxx] tags will be replaced by platform specific controls. Keep them.,"Continue Flight
-(Press [menu] to return to this screen)",
+(Press [menu] to return to this screen)","Continuar Vuelo
+(Presiona [menu] para volver a esta pantalla)"
 hud_noArm,A short HUD label when no weapons are armed.,NO ARM,
-s_newObj,Objective popup message in HUD,NEW OBJECTIVE,
-s_objComplete,Objective popup message in HUD,OBJECTIVE COMPLETE,
-s_objFailed,Objective popup message in HUD,OBJECTIVE FAILED,
-commReply_s_comm_reply,A text reply in the communications menu.,REPLY:,
-commReply_s_noHostilesFound,A text reply in the communications menu.,No hostiles found.,
-commReply_s_awacsNotReady,A text reply in the communications menu.,AWACS is not ready to report.,
-commReply_s_noAwacsAvailable,A text reply in the communications menu.,No AWACS available,
-commReply_s_awacsPicRequested,A text reply in the communications menu.,AWACS picture requested,
-commReply_s_awacsRequestedRTB,A text reply in the communications menu.,Requested RTB vector from AWACS,
-s_hostile,Prefix for AWACS bogey dope response,Hostile,
-commReply_s_rearmingNotAvailable,A text reply in the communications menu.,Rearming not available.,
-commReply_s_notAtRearmingStation,A text reply in the communications menu.,Not at a rearming station. Return to base.,
-commReply_s_turnOffEngines,A text reply in the communications menu.,Please turn off your engines.,
-commReply_s_disarmWeapons,A text reply in the communications menu.,Please disarm your weapon system.,
-commReply_s_unhookTailhook,A text reply in the communications menu.,Please disengage your arrestor hook.,
-commReply_s_rearmPointOccupied,A text reply in the communications menu.,This station is occupied!,
-commReply_s_taxiToRearm,A text reply in the communications menu.,Please taxi to a rearming station.,
-commReply_s_wingmenBusy,A text reply in the communications menu.,Your wingmen are busy.,
-commReply_s_someWingmenBusy,A text reply in the communications menu.,Some of your wingmen are busy.,
-commReply_s_noWingmen,A text reply in the communications menu.,You have no wingmen.,
-commReply_s_wingmenOrbiting,A text reply in the communications menu.,Wingmen orbiting here.,
-commReply_s_wingmenEngaging,A text reply in the communications menu.,Wingmen engaging targets at will!,
-commReply_s_wingmenDisengaging,A text reply in the communications menu.,Wingmen disengaging from combat!,
-commReply_s_wingmenFormationSpread,A text reply in the communications menu.,Wingmen setting formation spread.,
-commReply_s_wingman,A text reply in the communications menu.,Wingman,
-commReply_s_attackingTSD,A text reply in the communications menu.,attacking your TSD target!,
-commReply_s_attackingRadar,A text reply in the communications menu.,attacking your radar target!,
-commReply_s_attackingTGP,A text reply in the communications menu.,attacking your TGP target!,
-commReply_s_attackingARAD,A text reply in the communications menu.,attacking your ARAD target!,
-commReply_s_noWingmenForAttack,A text reply in the communications menu.,No wingmen available for attack.,
-commReply_s_noTarget,A text reply in the communications menu.,No target selected.,
-commReply_s_noAirfield,A text reply in the communications menu.,No airfield available.,
-commReply_s_cancellingATC,A text reply in the communications menu.,Cancelling ATC request.,
-commReply_s_acknowledged,A text reply in the communications menu.,Acknowledged,
-commReply_s_wingmenRTB,A text reply in the communications menu.,Your wingmen will RTB!,
-commReply_s_clearedVerticalLanding,A text reply in the communications menu.,Cleared for vertical landing!,
-commReply_s_clearedVerticalTakeoff,A text reply in the communications menu.,Cleared for vertical take off!,
-commReply_s_landingDenied,A text reply in the communications menu.,Landing denied!,
-commReply_s_takeoffDenied,A text reply in the communications menu.,Take off denied!,
-commReply_s_reply_noPrevAtc,A text reply in the communications menu.,No previously contacted ATC available.,
-MFDOptionPage:Wingmen / Combat,Title of an MFD option page,Wingmen / Combat,
-MFDOption:Attack Target,Label of an MFD option,Attack Target,
-MFDOption:Disengage,Label of an MFD option,Disengage,
-MFDOption:Engage,Label of an MFD option,Engage,
-MFDOptionPage:Wingmen / Flight,Title of an MFD option page,Wingmen / Flight,
-MFDOption:Orbit Here,Label of an MFD option,Orbit Here,
-MFDOption:Form Up,Label of an MFD option,Form Up,
-MFDOption:Spread Close,Label of an MFD option,Spread Close,
-MFDOption:Spread Med,Label of an MFD option,Spread Med,
-MFDOption:Spread Far,Label of an MFD option,Spread Far,
-MFDOption:Go Refuel,Label of an MFD option,Go Refuel,
+s_newObj,Objective popup message in HUD,NEW OBJECTIVE,NUEVO OBJETIVO
+s_objComplete,Objective popup message in HUD,OBJECTIVE COMPLETE,OBJETIVO COMPLETADO
+s_objFailed,Objective popup message in HUD,OBJECTIVE FAILED,OBJETIVO FALLIDO
+commReply_s_comm_reply,A text reply in the communications menu.,REPLY:,RESPUESTA:
+commReply_s_noHostilesFound,A text reply in the communications menu.,No hostiles found.,No se encontraron hostiles.
+commReply_s_awacsNotReady,A text reply in the communications menu.,AWACS is not ready to report.,AWACS no está listo para reportar.
+commReply_s_noAwacsAvailable,A text reply in the communications menu.,No AWACS available,AWACS no disponible
+commReply_s_awacsPicRequested,A text reply in the communications menu.,AWACS picture requested,Foto pedida al AWACS
+commReply_s_awacsRequestedRTB,A text reply in the communications menu.,Requested RTB vector from AWACS,Pedido el vector RTB del AWACS
+s_hostile,Prefix for AWACS bogey dope response,Hostile,Hostil
+commReply_s_rearmingNotAvailable,A text reply in the communications menu.,Rearming not available.,Rearme no disponible.
+commReply_s_notAtRearmingStation,A text reply in the communications menu.,Not at a rearming station. Return to base.,No estación de rearme. Vuelve a base.
+commReply_s_turnOffEngines,A text reply in the communications menu.,Please turn off your engines.,Porfavor apaga los motores.
+commReply_s_disarmWeapons,A text reply in the communications menu.,Please disarm your weapon system.,Porfavor desarma tu sistema de armamento
+commReply_s_unhookTailhook,A text reply in the communications menu.,Please disengage your arrestor hook.,Porfavor recoge el gancho de detención
+commReply_s_rearmPointOccupied,A text reply in the communications menu.,This station is occupied!,¡Esta estación está ocupada!
+commReply_s_taxiToRearm,A text reply in the communications menu.,Please taxi to a rearming station.,Porfavor rueda hasta la estación de rearme
+commReply_s_wingmenBusy,A text reply in the communications menu.,Your wingmen are busy.,Tus compañeros están ocupados.
+commReply_s_someWingmenBusy,A text reply in the communications menu.,Some of your wingmen are busy.,Algunos de tus compañeros están ocupados.
+commReply_s_noWingmen,A text reply in the communications menu.,You have no wingmen.,No tienes compañeros.
+commReply_s_wingmenOrbiting,A text reply in the communications menu.,Wingmen orbiting here.,Compañeros orbitando aquí.
+commReply_s_wingmenEngaging,A text reply in the communications menu.,Wingmen engaging targets at will!,¡Compañeros atacando objetivos a discreción!
+commReply_s_wingmenDisengaging,A text reply in the communications menu.,Wingmen disengaging from combat!,¡Compañeros saliendo del combate!
+commReply_s_wingmenFormationSpread,A text reply in the communications menu.,Wingmen setting formation spread.,Compañeros formando alejados.
+commReply_s_wingman,A text reply in the communications menu.,Wingman,Compañero
+commReply_s_attackingTSD,A text reply in the communications menu.,attacking your TSD target!,¡Atacando tu objetivo TSD!
+commReply_s_attackingRadar,A text reply in the communications menu.,attacking your radar target!,¡atacando tu objetivo del radar!
+commReply_s_attackingTGP,A text reply in the communications menu.,attacking your TGP target!,¡atacando tu objetido del TGP!
+commReply_s_attackingARAD,A text reply in the communications menu.,attacking your ARAD target!,¡atacando tu objetivo del ARAD!
+commReply_s_noWingmenForAttack,A text reply in the communications menu.,No wingmen available for attack.,Ningun compañero disponible para atacar.
+commReply_s_noTarget,A text reply in the communications menu.,No target selected.,Ningun objetivo seleccionado.
+commReply_s_noAirfield,A text reply in the communications menu.,No airfield available.,Ningún aeropuerto disponible.
+commReply_s_cancellingATC,A text reply in the communications menu.,Cancelling ATC request.,Cancelando solicitud ATC.
+commReply_s_acknowledged,A text reply in the communications menu.,Acknowledged,Entendido.
+commReply_s_wingmenRTB,A text reply in the communications menu.,Your wingmen will RTB!,¡Tus compañeros harán RTB!
+commReply_s_clearedVerticalLanding,A text reply in the communications menu.,Cleared for vertical landing!,¡Todo listo para aterrizaje vertical!
+commReply_s_clearedVerticalTakeoff,A text reply in the communications menu.,Cleared for vertical take off!,¡Todo listo para despege vertical!
+commReply_s_landingDenied,A text reply in the communications menu.,Landing denied!,¡Aterrizaje denegado!
+commReply_s_takeoffDenied,A text reply in the communications menu.,Take off denied!,¡Despegue denegado!
+commReply_s_reply_noPrevAtc,A text reply in the communications menu.,No previously contacted ATC available.,Ningún contacto previo ATC disponible.
+MFDOptionPage:Wingmen / Combat,Title of an MFD option page,Wingmen / Combat,Compañero / Combate
+MFDOption:Attack Target,Label of an MFD option,Attack Target,Atacar objetivo
+MFDOption:Disengage,Label of an MFD option,Disengage,No hacer contacto
+MFDOption:Engage,Label of an MFD option,Engage,Hacer contacto
+MFDOptionPage:Wingmen / Flight,Title of an MFD option page,Wingmen / Flight,Compañero / Vuelo
+MFDOption:Orbit Here,Label of an MFD option,Orbit Here,Orbita aquí
+MFDOption:Form Up,Label of an MFD option,Form Up,Formad
+MFDOption:Spread Close,Label of an MFD option,Spread Close,Formación cerrada
+MFDOption:Spread Med,Label of an MFD option,Spread Med,Formación Relajada
+MFDOption:Spread Far,Label of an MFD option,Spread Far,Formación Dispersa
+MFDOption:Go Refuel,Label of an MFD option,Go Refuel,Repostad
 MFDOption:RTB,Label of an MFD option,RTB,
-MFDOption:RTB & Re-arm,Label of an MFD option,RTB & Re-arm,
-MFDOptionPage:Wingmen / Equipment,Title of an MFD option page,Wingmen / Equipment,
+MFDOption:RTB & Re-arm,Label of an MFD option,RTB & Re-arm,RTB & Re-armar
+MFDOptionPage:Wingmen / Equipment,Title of an MFD option page,Wingmen / Equipment,Compañero / Equipamiento
 MFDOption:Radar On,Label of an MFD option,Radar On,
 MFDOption:Radar Off,Label of an MFD option,Radar Off,
-MFDOptionPage:Wingmen,Title of an MFD option page,Wingmen,
-MFDOption:Combat,Label of an MFD option,Combat,
-MFDOption:Flight,Label of an MFD option,Flight,
-MFDOption:Equipment,Label of an MFD option,Equipment,
-MFDOptionPage:Ground Crew,Title of an MFD option page,Ground Crew,
-MFDOption:Request Re-arm,Label of an MFD option,Request Re-arm,
+MFDOptionPage:Wingmen,Title of an MFD option page,Wingmen,Compañeros
+MFDOption:Combat,Label of an MFD option,Combat,Combate
+MFDOption:Flight,Label of an MFD option,Flight,Vuelo
+MFDOption:Equipment,Label of an MFD option,Equipment,Equipamiento
+MFDOptionPage:Ground Crew,Title of an MFD option page,Ground Crew,Personal en Tierra
+MFDOption:Request Re-arm,Label of an MFD option,Request Re-arm,Solicitar Re-arme
 MFDOptionPage:ATC,Title of an MFD option page,ATC,
-MFDOption:Take Off,Label of an MFD option,Take Off,
-MFDOption:Landing,Label of an MFD option,Landing,
-MFDOption:Cancel Request,Label of an MFD option,Cancel Request,
-MFDOption:Vert T/O,Label of an MFD option,Vert T/O,
-MFDOption:Vert Landing,Label of an MFD option,Vert Landing,
-MFDOption:Last Contact,Label of an MFD option,Last Contact,
-MFDOptionPage:Contact Tower,Title of an MFD option page,Contact Tower,
+MFDOption:Take Off,Label of an MFD option,Take Off,Despegar
+MFDOption:Landing,Label of an MFD option,Landing,Aterrizar
+MFDOption:Cancel Request,Label of an MFD option,Cancel Request,Cancelar Solicitud
+MFDOption:Vert T/O,Label of an MFD option,Vert T/O,Desp. Vert.
+MFDOption:Vert Landing,Label of an MFD option,Vert Landing,Aterr. Vert.
+MFDOption:Last Contact,Label of an MFD option,Last Contact,Último contacto
+MFDOptionPage:Contact Tower,Title of an MFD option page,Contact Tower,Contactar con torre
 MFDOptionPage:AWACS,Title of an MFD option page,AWACS,
-MFDOption:Bogey Dope,Label of an MFD option,Bogey Dope,
-MFDOption:Picture,Label of an MFD option,Picture,
-MFDOption:Request RTB Vector,Label of an MFD option,Request RTB Vector,
+MFDOption:Bogey Dope,Label of an MFD option,Bogey Dope,Petición de contacto desconocido
+MFDOption:Picture,Label of an MFD option,Picture,Foto
+MFDOption:Request RTB Vector,Label of an MFD option,Request RTB Vector,Solicitar Vector RTB
 MFDOptionPage:Comms,Title of an MFD option page,Comms,
-MFDOption:Wingmen,Label of an MFD option,Wingmen,
-MFDOption:Ground,Label of an MFD option,Ground,
+MFDOption:Wingmen,Label of an MFD option,Wingmen,Compañeros
+MFDOption:Ground,Label of an MFD option,Ground,Tierra
 MFDOption:ATC,Label of an MFD option,ATC,
 MFDOption:AWACS,Label of an MFD option,AWACS,
-next,,Next,
+next,,Next,Sig
 prev,,Prev,
-ripple_single,Label when a rapid-fire weapon is set to only fire one shot at a time.,SINGLE,
-wmui_ripple,Option title for selecting a rocket/missile's ripple (rapid fire) rate.,RIPPLE,
-wmui_rippleTooltip,Tooltip for button to cycle a weapon's ripple (rapid fire) rate.,Cycle Ripple Rates,
-s_masterArmed,Master armed label in EQUIP MFD page,MASTER ARMED,
-s_masterDisarmed,Master disarmed label in EQUIP MFD page,MASTER DISARMED,
-s_eq_armed,Armed label for single equip in EQUIP MFD page,ARMED,
-s_eq_disarmed,Disarmed label for single equip in EQUIP MFD page,DISARMED,
-s_eq_jettison,Jettison label for single equip in EQUIP MFD page,JETTISON,
+ripple_single,Label when a rapid-fire weapon is set to only fire one shot at a time.,SINGLE,SEMI
+wmui_ripple,Option title for selecting a rocket/missile's ripple (rapid fire) rate.,RIPPLE,RÁF
+wmui_rippleTooltip,Tooltip for button to cycle a weapon's ripple (rapid fire) rate.,Cycle Ripple Rates,Ciclar Ratio de ráfaga
+s_masterArmed,Master armed label in EQUIP MFD page,MASTER ARMED,MAESTRO ARMADO
+s_masterDisarmed,Master disarmed label in EQUIP MFD page,MASTER DISARMED,MAESTRO DESARMADO
+s_eq_armed,Armed label for single equip in EQUIP MFD page,ARMED,ARMADO
+s_eq_disarmed,Disarmed label for single equip in EQUIP MFD page,DISARMED,DESARMADO
+s_eq_jettison,Jettison label for single equip in EQUIP MFD page,JETTISON,SOLTAR CARG
 s_eqMode_0,Equip MFD page mode label,CONFIG,
-s_eqMode_1,Equip MFD page mode label,ARMING,
-s_eqMode_2,Equip MFD page mode label,JETTISON,
+s_eqMode_1,Equip MFD page mode label,ARMING,ARMANDO
+s_eqMode_2,Equip MFD page mode label,JETTISON,SOLTAR CARG
 AV-42C_mfd_cam:B3,Label for an MFD button (short!).,PREV,
-AV-42C_mfd_cam:B5,Label for an MFD button (short!).,NEXT,
-dashMissionDisplay_noMissions,Label in the mission objectives display when the current mission has no objectives.,No objectives.,
-AV-42C_mfd_mission:B1,Label for an MFD button (short!).,WPT,
-AV-42C_mfd_mission:B1_tooltip,Tooltip for an MFD button.,Set Waypoint,
-AV-42C_mfd_mission:B3,Label for an MFD button (short!).,NEXT,
-AV-42C_mfd_mission:B3_tooltip,Tooltip for an MFD button.,Next Objective,
+AV-42C_mfd_cam:B5,Label for an MFD button (short!).,NEXT,SIG
+dashMissionDisplay_noMissions,Label in the mission objectives display when the current mission has no objectives.,No objectives.,Sin objetivos.
+AV-42C_mfd_mission:B1,Label for an MFD button (short!).,WPT,PUNTO
+AV-42C_mfd_mission:B1_tooltip,Tooltip for an MFD button.,Set Waypoint,Fijar Punto
+AV-42C_mfd_mission:B3,Label for an MFD button (short!).,NEXT,SIGUIENTE
+AV-42C_mfd_mission:B3_tooltip,Tooltip for an MFD button.,Next Objective,Siguiente Objetivo
 AV-42C_mfd_mission:B5,Label for an MFD button (short!).,PREV,
-AV-42C_mfd_mission:B5_tooltip,Tooltip for an MFD button.,Previous Objective,
+AV-42C_mfd_mission:B5_tooltip,Tooltip for an MFD button.,Previous Objective,Objetivo Previo
 AV-42C_mfd_home:B1,Label for an MFD button (short!).,NAV,
-AV-42C_mfd_home:B1_tooltip,Tooltip for an MFD button.,Navigation,
+AV-42C_mfd_home:B1_tooltip,Tooltip for an MFD button.,Navigation,Navegación
 AV-42C_mfd_home:B2,Label for an MFD button (short!).,OBJ,
-AV-42C_mfd_home:B2_tooltip,Tooltip for an MFD button.,Objectives,
+AV-42C_mfd_home:B2_tooltip,Tooltip for an MFD button.,Objectives,Objetivos
 AV-42C_mfd_home:B3,Label for an MFD button (short!).,CAM,
-AV-42C_mfd_home:B3_tooltip,Tooltip for an MFD button.,External Cameras,
+AV-42C_mfd_home:B3_tooltip,Tooltip for an MFD button.,External Cameras,Cámara Externa
 AV-42C_mfd_home:B4,Label for an MFD button (short!).,TGP,
-AV-42C_mfd_home:B4_tooltip,Tooltip for an MFD button.,Targeting,
+AV-42C_mfd_home:B4_tooltip,Tooltip for an MFD button.,Targeting,Desg. Obj.
 AV-42C_mfd_home:B5,Label for an MFD button (short!).,GPS,
-AV-42C_mfd_home:B5_tooltip,Tooltip for an MFD button.,GPS Targets,
-AV-42C_mfd_home:R2,Label for an MFD button (short!).,S-CAM,
-AV-42C_mfd_home:R2_tooltip,Tooltip for an MFD button.,Spectator Camera,
-AV-42C_mfd_home:R3,Label for an MFD button (short!).,GAME,
-AV-42C_mfd_home:R3_tooltip,Tooltip for an MFD button.,Game Menu,
+AV-42C_mfd_home:B5_tooltip,Tooltip for an MFD button.,GPS Targets,Objetivos GPS
+AV-42C_mfd_home:R2,Label for an MFD button (short!).,S-CAM,E-CAM
+AV-42C_mfd_home:R2_tooltip,Tooltip for an MFD button.,Spectator Camera,Cámara Espectador
+AV-42C_mfd_home:R3,Label for an MFD button (short!).,GAME,JUEGO
+AV-42C_mfd_home:R3_tooltip,Tooltip for an MFD button.,Game Menu,Menú de Juego
 AV-42C_mfd_home:R4,Label for an MFD button (short!).,LOG,
-AV-42C_mfd_home:R4_tooltip,Tooltip for an MFD button.,Flight Log,
+AV-42C_mfd_home:R4_tooltip,Tooltip for an MFD button.,Flight Log,Log de Vuelo
 AV-42C_mfd_home:L2,Label for an MFD button (short!).,EQUIP,
-AV-42C_mfd_home:L2_tooltip,Tooltip for an MFD button.,Mounted Equipment,
-AV-42C_mfd_home:L3,Label for an MFD button (short!).,OPTION,
-AV-42C_mfd_home:L3_tooltip,Tooltip for an MFD button.,Options,
+AV-42C_mfd_home:L2_tooltip,Tooltip for an MFD button.,Mounted Equipment,Equipamiento Montado
+AV-42C_mfd_home:L3,Label for an MFD button (short!).,OPTION,OPCION
+AV-42C_mfd_home:L3_tooltip,Tooltip for an MFD button.,Options,Opciones
 AV-42C_mfd_home:L4,Label for an MFD button (short!).,COMMS,
-AV-42C_mfd_home:L4_tooltip,Tooltip for an MFD button.,Communications,
+AV-42C_mfd_home:L4_tooltip,Tooltip for an MFD button.,Communications,Comunicaciones
 AV-42C_mfd_home:T5,Label for an MFD button (short!).,ARAD,
-AV-42C_mfd_home:T5_tooltip,Tooltip for an MFD button.,Antiradar Attack Display,
+AV-42C_mfd_home:T5_tooltip,Tooltip for an MFD button.,Antiradar Attack Display,Display de Ataque Antiradar
 AV-42C_mfd_home:L5,Label for an MFD button (short!).,CMS,
-AV-42C_mfd_home:L5_tooltip,Tooltip for an MFD button.,Countermeasure System,
-AV-42C_mfd_flightLog:R2_tooltip,Tooltip for an MFD button.,Scroll Up,
-AV-42C_mfd_flightLog:R4_tooltip,Tooltip for an MFD button.,Scroll Down,
-AV-42C_mfd_flightLog:R5_tooltip,Tooltip for an MFD button.,Scroll Bottom,
-AV-42C_mfd_flightLog:B3_tooltip,Tooltip for an MFD button.,Dump log to file.,
-AV-42C_mfd_flyCam:B2,Label for an MFD button (short!).,START,
-AV-42C_mfd_flyCam:B2_tooltip,Tooltip for an MFD button.,Start Camera,
-AV-42C_mfd_flyCam:B3,Label for an MFD button (short!).,END,
-AV-42C_mfd_flyCam:B3_tooltip,Tooltip for an MFD button.,End Camera,
-AV-42C_mfd_flyCam:B1,Label for an MFD button (short!).,VIEW,
-AV-42C_mfd_flyCam:B1_tooltip,Tooltip for an MFD button.,Toggle Preview,
+AV-42C_mfd_home:L5_tooltip,Tooltip for an MFD button.,Countermeasure System,Sistema de Contramedidas
+AV-42C_mfd_flightLog:R2_tooltip,Tooltip for an MFD button.,Scroll Up,Scroll Arriba
+AV-42C_mfd_flightLog:R4_tooltip,Tooltip for an MFD button.,Scroll Down,Scroll Abajo
+AV-42C_mfd_flightLog:R5_tooltip,Tooltip for an MFD button.,Scroll Bottom,Final
+AV-42C_mfd_flightLog:B3_tooltip,Tooltip for an MFD button.,Dump log to file.,Descargar registro de vuelo.
+AV-42C_mfd_flyCam:B2,Label for an MFD button (short!).,START,ENCENDER
+AV-42C_mfd_flyCam:B2_tooltip,Tooltip for an MFD button.,Start Camera,Encender Cámara
+AV-42C_mfd_flyCam:B3,Label for an MFD button (short!).,END,APAGAR
+AV-42C_mfd_flyCam:B3_tooltip,Tooltip for an MFD button.,End Camera,Apagar Cámara
+AV-42C_mfd_flyCam:B1,Label for an MFD button (short!).,VIEW,VISTA
+AV-42C_mfd_flyCam:B1_tooltip,Tooltip for an MFD button.,Toggle Preview,Alternar Previsualización
 AV-42C_mfd_flyCam:R1,Label for an MFD button (short!).,RANDM,
-AV-42C_mfd_flyCam:R1_tooltip,Tooltip for an MFD button.,Toggle Random,
+AV-42C_mfd_flyCam:R1_tooltip,Tooltip for an MFD button.,Toggle Random,Alternar Aleatorio
 AV-42C_mfd_flyCam:L3,Label for an MFD button (short!).,FOV:,
-AV-42C_mfd_flyCam:L3_tooltip,Tooltip for an MFD button.,Toggle FOV,
+AV-42C_mfd_flyCam:L3_tooltip,Tooltip for an MFD button.,Toggle FOV,Alternar FOV:
 AV-42C_mfd_flyCam:L4,Label for an MFD button (short!).," ",
-AV-42C_mfd_flyCam:L4_tooltip,Tooltip for an MFD button.,Toggle AutoFOV,
+AV-42C_mfd_flyCam:L4_tooltip,Tooltip for an MFD button.,Toggle AutoFOV,Alternar AutoFOV
 AV-42C_mfd_flyCam:L5,Label for an MFD button (short!).," ",
-AV-42C_mfd_flyCam:L5_tooltip,Tooltip for an MFD button.,Toggle Audio Mode,
-AV-42C_mfd_flyCam:R2,Label for an MFD button (short!).,MODE,
-AV-42C_mfd_flyCam:R2_tooltip,Tooltip for an MFD button.,Toggle Cam Mode,
-AV-42C_mfd_flyCam:R3,Label for an MFD button (short!).,LOOK,
-AV-42C_mfd_flyCam:R3_tooltip,Tooltip for an MFD button.,Toggle Look Mode,
+AV-42C_mfd_flyCam:L5_tooltip,Tooltip for an MFD button.,Toggle Audio Mode,Alternar Modo Audio
+AV-42C_mfd_flyCam:R2,Label for an MFD button (short!).,MODE,MODO
+AV-42C_mfd_flyCam:R2_tooltip,Tooltip for an MFD button.,Toggle Cam Mode,Alternar Modo Cámara
+AV-42C_mfd_flyCam:R3,Label for an MFD button (short!).,LOOK,OBS
+AV-42C_mfd_flyCam:R3_tooltip,Tooltip for an MFD button.,Toggle Look Mode,Alternar Modo Observación
 AV-42C_mfd_flyCam:R5,Label for an MFD button (short!).," ",
-AV-42C_mfd_flyCam:R5_tooltip,Tooltip for an MFD button.,Toggle Auto-Reset,
+AV-42C_mfd_flyCam:R5_tooltip,Tooltip for an MFD button.,Toggle Auto-Reset,Alternar Auto-reset
 AV-42C_mfd_flyCam:B5,Label for an MFD button (short!).," ",
-AV-42C_mfd_flyCam:B5_tooltip,Tooltip for an MFD button.,Cycle Reset Time,
+AV-42C_mfd_flyCam:B5_tooltip,Tooltip for an MFD button.,Cycle Reset Time,Ciclar Tiempo Reinicio
 AV-42C_mfd_flyCam:T3,Label for an MFD button (short!).,SS,
 AV-42C_mfd_flyCam:T3_tooltip,Tooltip for an MFD button.,4K Screenshot,
 AV-42C_mfd_hardpoints:R2_tooltip,Tooltip for an MFD button.,HP Gun,
@@ -407,181 +412,184 @@ AV-42C_mfd_hardpoints:R3_tooltip,Tooltip for an MFD button.,HP 3,
 AV-42C_mfd_hardpoints:R4_tooltip,Tooltip for an MFD button.,HP 4,
 AV-42C_mfd_hardpoints:L5_tooltip,Tooltip for an MFD button.,HP 5,
 AV-42C_mfd_hardpoints:R5_tooltip,Tooltip for an MFD button.,HP 6,
-AV-42C_mfd_hardpoints:L2,Label for an MFD button (short!).,MODE:,
-AV-42C_mfd_hardpoints:L2_tooltip,Tooltip for an MFD button.,Toggle Mode,
-NONE,,NONE,
-AV-42C_mfd_hardpointInfoPage:R1_tooltip,Tooltip for an MFD button.,Return to Equip,
-AV-42C_mfd_hardpointInfoPage:B2_tooltip,Tooltip for an MFD button.,Toggle Arming,
-AV-42C_mfd_hardpointInfoPage:B5_tooltip,Tooltip for an MFD button.,Toggle Jettison,
+AV-42C_mfd_hardpoints:L2,Label for an MFD button (short!).,MODE:,MODO:
+AV-42C_mfd_hardpoints:L2_tooltip,Tooltip for an MFD button.,Toggle Mode,Alternar Modo
+NONE,,NONE,NING
+AV-42C_mfd_hardpointInfoPage:R1_tooltip,Tooltip for an MFD button.,Return to Equip,Volver al equipamiento
+AV-42C_mfd_hardpointInfoPage:B2_tooltip,Tooltip for an MFD button.,Toggle Arming,Alternar Armar
+AV-42C_mfd_hardpointInfoPage:B5_tooltip,Tooltip for an MFD button.,Toggle Jettison,Alternar Soltado de Carga
 AV-42C_mfd_antiRad:T5,Label for an MFD button (short!).,SOI,
-AV-42C_mfd_antiRad:T5_tooltip,Tooltip for an MFD button.,Sensor of Interest,
+AV-42C_mfd_antiRad:T5_tooltip,Tooltip for an MFD button.,Sensor of Interest,Sensor de Interés
 AV-42C_mfd_antiRad:R4,Label for an MFD button (short!).,HUD,
-AV-42C_mfd_antiRad:R4_tooltip,Tooltip for an MFD button.,HUD Mode,
-AV-42C_mfd_antiRad:R5_tooltip,Tooltip for an MFD button.,Declutter,
-AV-42C_mfd_cmsPage:L4_tooltip,Tooltip for an MFD button.,Release Mode,
+AV-42C_mfd_antiRad:R4_tooltip,Tooltip for an MFD button.,HUD Mode,Modo HUD
+AV-42C_mfd_antiRad:R5_tooltip,Tooltip for an MFD button.,Declutter,Simplificación
+AV-42C_mfd_cmsPage:L4_tooltip,Tooltip for an MFD button.,Release Mode,Modo de liberación
 AV-42C_mfd_cmsPage:B2,Label for an MFD button (short!).,-,
-AV-42C_mfd_cmsPage:B2_tooltip,Tooltip for an MFD button.,- Release Rate,
+AV-42C_mfd_cmsPage:B2_tooltip,Tooltip for an MFD button.,- Release Rate,- Ratio de liberación
 AV-42C_mfd_cmsPage:B4,Label for an MFD button (short!).,+,
-AV-42C_mfd_cmsPage:B4_tooltip,Tooltip for an MFD button.,+ Release Rate,
+AV-42C_mfd_cmsPage:B4_tooltip,Tooltip for an MFD button.,+ Release Rate,+ Ratio de liberación
 AV-42C_mfd_map:T2,Label for an MFD button (short!).,GPS,
-AV-42C_mfd_map:T2_tooltip,Tooltip for an MFD button.,GPS Targets,
+AV-42C_mfd_map:T2_tooltip,Tooltip for an MFD button.,GPS Targets,Objetivos GPS
 AV-42C_mfd_map:R2,Label for an MFD button (short!).,ZOOM+,
 AV-42C_mfd_map:R3,Label for an MFD button (short!).,ZOOM-,
-AV-42C_mfd_map:R4,Label for an MFD button (short!).,UP,
-AV-42C_mfd_map:R5,Label for an MFD button (short!).,DOWN,
-AV-42C_mfd_map:B4,Label for an MFD button (short!).,LEFT,
-AV-42C_mfd_map:B5,Label for an MFD button (short!).,RIGHT,
+AV-42C_mfd_map:R4,Label for an MFD button (short!).,UP,ARRIBA
+AV-42C_mfd_map:R5,Label for an MFD button (short!).,DOWN,ABAJO
+AV-42C_mfd_map:B4,Label for an MFD button (short!).,LEFT,IZQ
+AV-42C_mfd_map:B5,Label for an MFD button (short!).,RIGHT,DER
 AV-42C_mfd_map:R1,Label for an MFD button (short!).,RESET,
-AV-42C_mfd_map:R1_tooltip,Tooltip for an MFD button.,Reset Offset,
-AV-42C_mfd_map:T4,Label for an MFD button (short!).,MODE,
-AV-42C_mfd_map:T4_tooltip,Tooltip for an MFD button.,Toggle Rotation Mode,
+AV-42C_mfd_map:R1_tooltip,Tooltip for an MFD button.,Reset Offset,Reiniciar Desplazamiento
+AV-42C_mfd_map:T4,Label for an MFD button (short!).,MODE,MODO
+AV-42C_mfd_map:T4_tooltip,Tooltip for an MFD button.,Toggle Rotation Mode,Alternar Modo de Rotación
 AV-42C_mfd_map:T5,Label for an MFD button (short!).,SOI,
-AV-42C_mfd_map:T5_tooltip,Tooltip for an MFD button.,Toggle Sensor of Interest,
-AV-42C_mfd_map:L4,Label for an MFD button (short!).,FUEL,
-AV-42C_mfd_map:L4_tooltip,Tooltip for an MFD button.,Set Fuel Waypoint,
-AV-42C_mfd_map:L3,Label for an MFD button (short!).,RTB,
-AV-42C_mfd_map:L3_tooltip,Tooltip for an MFD button.,Set Return to Base Waypoint,
+AV-42C_mfd_map:T5_tooltip,Tooltip for an MFD button.,Toggle Sensor of Interest,Alternar Sensor de Interés
+AV-42C_mfd_map:L4,Label for an MFD button (short!).,FUEL,COMB
+AV-42C_mfd_map:L4_tooltip,Tooltip for an MFD button.,Set Fuel Waypoint,Fijar Punto de Combustible
+AV-42C_mfd_map:L3,Label for an MFD button (short!).,RTB,VAB
+AV-42C_mfd_map:L3_tooltip,Tooltip for an MFD button.,Set Return to Base Waypoint,Fijar punto Volver a Base
 AV-42C_mfd_map:L2,Label for an MFD button (short!).,OBJ,
-AV-42C_mfd_map:L2_tooltip,Tooltip for an MFD button.,Set Objective Waypoint,
-AV-42C_mfd_map:B1,Label for an MFD button (short!).,SET ALT,
-AV-42C_mfd_map:B1_tooltip,Tooltip for an MFD button.,Set Target Alt,
+AV-42C_mfd_map:L2_tooltip,Tooltip for an MFD button.,Set Objective Waypoint,Fijar Punto de Misión
+AV-42C_mfd_map:B1,Label for an MFD button (short!).,SET ALT,FIJAR ALT
+AV-42C_mfd_map:B1_tooltip,Tooltip for an MFD button.,Set Target Alt,Fijar Alt del Obj.
 AV-42C_mfd_map:B2,Label for an MFD button (short!).,ALT+,
-AV-42C_mfd_map:B2_tooltip,Tooltip for an MFD button.,Raise Target Alt,
-AV-42C_mfd_map:B3,Label for an MFD button (short!).,GPS-S,
-AV-42C_mfd_map:B3_tooltip,Tooltip for an MFD button.,Send GPS Target,
-AV-42C_mfd_options:L2_tooltip,Tooltip for an MFD button.,Unit Options,
-AV-42C_mfd_options:L3_tooltip,Tooltip for an MFD button.,Fuel Settings,
-AV-42C_mfd_options:L4_tooltip,Tooltip for an MFD button.,Altitude Warning Settings,
-AV-42C_mfd_options:R3_tooltip,Tooltip for an MFD button.,Joystick Sensitivity,
-AV-42C_mfd_unitOptions:L2_tooltip,Tooltip for an MFD button.,Altitude Units,
-AV-42C_mfd_unitOptions:L3_tooltip,Tooltip for an MFD button.,Distance Units,
-AV-42C_mfd_unitOptions:L4_tooltip,Tooltip for an MFD button.,Speed Units,
-AV-42C_mfd_unitOptions:T5_tooltip,Tooltip for an MFD button.,Back,
-AV-42C_mfd_fuelConfig:T5_tooltip,Tooltip for an MFD button.,Back,
-AV-42C_mfd_fuelConfig:L4_tooltip,Tooltip for an MFD button.,Bingo Fuel +,
-AV-42C_mfd_fuelConfig:L5_tooltip,Tooltip for an MFD button.,Bingo Fuel -,
+AV-42C_mfd_map:B2_tooltip,Tooltip for an MFD button.,Raise Target Alt,Subir Alt del Obj.
+AV-42C_mfd_map:B3,Label for an MFD button (short!).,GPS-S,GPS-E
+AV-42C_mfd_map:B3_tooltip,Tooltip for an MFD button.,Send GPS Target,Enviar Objetivo GPS
+AV-42C_mfd_options:L2_tooltip,Tooltip for an MFD button.,Unit Options,Opciones de Unidades
+AV-42C_mfd_options:L3_tooltip,Tooltip for an MFD button.,Fuel Settings,Opciones de Combustible
+AV-42C_mfd_options:L4_tooltip,Tooltip for an MFD button.,Altitude Warning Settings,Opciones de advertencias de alt
+AV-42C_mfd_options:R3_tooltip,Tooltip for an MFD button.,Joystick Sensitivity,Sensibilidad Joystick
+AV-42C_mfd_unitOptions:L2_tooltip,Tooltip for an MFD button.,Altitude Units,Unid. Altitud
+AV-42C_mfd_unitOptions:L3_tooltip,Tooltip for an MFD button.,Distance Units,Unid. Distancia
+AV-42C_mfd_unitOptions:L4_tooltip,Tooltip for an MFD button.,Speed Units,Unid. Velocidad
+AV-42C_mfd_unitOptions:T5_tooltip,Tooltip for an MFD button.,Back,Volver
+AV-42C_mfd_fuelConfig:T5_tooltip,Tooltip for an MFD button.,Back,Volver
+AV-42C_mfd_fuelConfig:L4_tooltip,Tooltip for an MFD button.,Bingo Fuel +,Comb Bingo +
+AV-42C_mfd_fuelConfig:L5_tooltip,Tooltip for an MFD button.,Bingo Fuel -,Comb Bingo -
 altWarn_mode_radar,Radar altimeter mode for altitude warning settings.,RADAR,
-altWarn_mode_asl,Sea level/barometric altimeter mode for altitude warning settings.,ASL,
-AV-42C_mfd_altitudeSettings:T5_tooltip,Tooltip for an MFD button.,Back,
-AV-42C_mfd_altitudeSettings:L3_tooltip,Tooltip for an MFD button.,Set Min Alt,
+altWarn_mode_asl,Sea level/barometric altimeter mode for altitude warning settings.,ASL,ANM
+AV-42C_mfd_altitudeSettings:T5_tooltip,Tooltip for an MFD button.,Back,Volver
+AV-42C_mfd_altitudeSettings:L3_tooltip,Tooltip for an MFD button.,Set Min Alt,Fijar Alt Mín.
 AV-42C_mfd_altitudeSettings:L4_tooltip,Tooltip for an MFD button.,Min Alt -,
-AV-42C_mfd_altitudeSettings:R3_tooltip,Tooltip for an MFD button.,Set Max Alt,
+AV-42C_mfd_altitudeSettings:R3_tooltip,Tooltip for an MFD button.,Set Max Alt,Fijar Alt Max.
 AV-42C_mfd_altitudeSettings:R4_tooltip,Tooltip for an MFD button.,Max Alt -,
-AV-42C_mfd_altitudeSettings:L2_tooltip,Tooltip for an MFD button.,Toggle Alt Mode,
+AV-42C_mfd_altitudeSettings:L2_tooltip,Tooltip for an MFD button.,Toggle Alt Mode,Alternar Modo Alt.
 AV-42C_mfd_gpsTgts:T2,Label for an MFD button (short!).,MAP,
-AV-42C_mfd_gpsTgts:T2_tooltip,Tooltip for an MFD button.,Nav Map,
-AV-42C_mfd_gpsTgts:T3,Label for an MFD button (short!).,WPT,
-AV-42C_mfd_gpsTgts:T3_tooltip,Tooltip for an MFD button.,Set Waypoints,
-AV-42C_mfd_gpsTgts:L2_tooltip,Tooltip for an MFD button.,Previous Group,
-AV-42C_mfd_gpsTgts:L3_tooltip,Tooltip for an MFD button.,Next Group,
-AV-42C_mfd_gpsTgts:B1_tooltip,Tooltip for an MFD button.,Create Group,
-AV-42C_mfd_gpsTgts:B2_tooltip,Tooltip for an MFD button.,Delete Group,
-AV-42C_mfd_gpsTgts:B4_tooltip,Tooltip for an MFD button.,Delete Target,
-AV-42C_mfd_gpsTgts:R3_tooltip,Tooltip for an MFD button.,Next Target,
-AV-42C_mfd_gpsTgts:R2_tooltip,Tooltip for an MFD button.,Previous Target,
-AV-42C_mfd_gpsTgts:R1_tooltip,Tooltip for an MFD button.,Toggle Path Mode,
-AV-42C_mfd_gpsTgts:R4_tooltip,Tooltip for an MFD button.,Move Up,
-AV-42C_mfd_gpsTgts:R5_tooltip,Tooltip for an MFD button.,MoveDown,
-AV-42C_mfd_gpsTgts:B5,Label for an MFD button (short!).,SEND,
-AV-42C_mfd_gpsTgts:B5_tooltip,Tooltip for an MFD button.,Send Data,
-s_mfdGps_path,MFD GPS page PATH toggle button/label,PATH,
-AV-42C_mfd_target:B3,Label for an MFD button (short!).,HEAD,
-AV-42C_mfd_target:B3_tooltip,Tooltip for an MFD button.,Head-track Mode,
-AV-42C_mfd_target:B2,Label for an MFD button (short!).,FWD,
-AV-42C_mfd_target:B2_tooltip,Tooltip for an MFD button.,Forward Mode,
-AV-42C_mfd_target:B5,Label for an MFD button (short!).,PWR,
-AV-42C_mfd_target:B5_tooltip,Tooltip for an MFD button.,Toggle TGP Power,
+AV-42C_mfd_gpsTgts:T2_tooltip,Tooltip for an MFD button.,Nav Map,"Mapa Nav,"
+AV-42C_mfd_gpsTgts:T3,Label for an MFD button (short!).,WPT,PUNTO
+AV-42C_mfd_gpsTgts:T3_tooltip,Tooltip for an MFD button.,Set Waypoints,Fijar Punto
+AV-42C_mfd_gpsTgts:L2_tooltip,Tooltip for an MFD button.,Previous Group,Grupo Anterior
+AV-42C_mfd_gpsTgts:L3_tooltip,Tooltip for an MFD button.,Next Group,Grupo Siguiente
+AV-42C_mfd_gpsTgts:B1_tooltip,Tooltip for an MFD button.,Create Group,Crear Grupo
+AV-42C_mfd_gpsTgts:B2_tooltip,Tooltip for an MFD button.,Delete Group,Borrar Grupo
+AV-42C_mfd_gpsTgts:B4_tooltip,Tooltip for an MFD button.,Delete Target,Borrar Objetivo
+AV-42C_mfd_gpsTgts:R3_tooltip,Tooltip for an MFD button.,Next Target,Siguiente Objetivo
+AV-42C_mfd_gpsTgts:R2_tooltip,Tooltip for an MFD button.,Previous Target,Anterior Objetivo
+AV-42C_mfd_gpsTgts:R1_tooltip,Tooltip for an MFD button.,Toggle Path Mode,Alternar Modo Trayectoria
+AV-42C_mfd_gpsTgts:R4_tooltip,Tooltip for an MFD button.,Move Up,Mover Arb.
+AV-42C_mfd_gpsTgts:R5_tooltip,Tooltip for an MFD button.,MoveDown,Mover Abj.
+AV-42C_mfd_gpsTgts:B5,Label for an MFD button (short!).,SEND,ENVIAR
+AV-42C_mfd_gpsTgts:B5_tooltip,Tooltip for an MFD button.,Send Data,Enviar datos
+s_mfdGps_path,MFD GPS page PATH toggle button/label,PATH,TRAY.
+AV-42C_mfd_target:B3,Label for an MFD button (short!).,HEAD,CABEZA
+AV-42C_mfd_target:B3_tooltip,Tooltip for an MFD button.,Head-track Mode,Modo Seguimiento de Cabeza
+AV-42C_mfd_target:B2,Label for an MFD button (short!).,FWD,ADEL.
+AV-42C_mfd_target:B2_tooltip,Tooltip for an MFD button.,Forward Mode,Modo Fijo
+AV-42C_mfd_target:B5,Label for an MFD button (short!).,PWR,ENERG
+AV-42C_mfd_target:B5_tooltip,Tooltip for an MFD button.,Toggle TGP Power,Encender/Apagar TGP
 AV-42C_mfd_target:R2,Label for an MFD button (short!).,ZOOM+,
-AV-42C_mfd_target:R2_tooltip,Tooltip for an MFD button.,Zoom In,
+AV-42C_mfd_target:R2_tooltip,Tooltip for an MFD button.,Zoom In,Zoom dentro
 AV-42C_mfd_target:R3,Label for an MFD button (short!).,ZOOM-,
-AV-42C_mfd_target:R3_tooltip,Tooltip for an MFD button.,Zoom Out,
-AV-42C_mfd_target:R4,Label for an MFD button (short!).,GPS-S,
-AV-42C_mfd_target:R4_tooltip,Tooltip for an MFD button.,GPS Send,
-AV-42C_mfd_target:R5,Label for an MFD button (short!).,GPS-A,
-AV-42C_mfd_target:R5_tooltip,Tooltip for an MFD button.,GPS Acquire,
-AV-42C_mfd_target:L2,Label for an MFD button (short!).,MODE,
-AV-42C_mfd_target:L2_tooltip,Tooltip for an MFD button.,Cycle Modes,
-AV-42C_mfd_target:L3,Label for an MFD button (short!).,SENS,
-AV-42C_mfd_target:L3_tooltip,Tooltip for an MFD button.,Sensor Mode,
-AV-42C_mfd_target:T3,Label for an MFD button (short!).,WPT,
-AV-42C_mfd_target:T3_tooltip,Tooltip for an MFD button.,To Waypoint,
+AV-42C_mfd_target:R3_tooltip,Tooltip for an MFD button.,Zoom Out,Zoom Fuera
+AV-42C_mfd_target:R4,Label for an MFD button (short!).,GPS-S,GPS-E
+AV-42C_mfd_target:R4_tooltip,Tooltip for an MFD button.,GPS Send,GPS enviar
+AV-42C_mfd_target:R5,Label for an MFD button (short!).,GPS-A,GPS-O
+AV-42C_mfd_target:R5_tooltip,Tooltip for an MFD button.,GPS Acquire,GPS Obtener
+AV-42C_mfd_target:L2,Label for an MFD button (short!).,MODE,MODO
+AV-42C_mfd_target:L2_tooltip,Tooltip for an MFD button.,Cycle Modes,Ciclar Modos
+AV-42C_mfd_target:L3,Label for an MFD button (short!).,SENS,SENS
+AV-42C_mfd_target:L3_tooltip,Tooltip for an MFD button.,Sensor Mode,Modo Sensor
+AV-42C_mfd_target:T3,Label for an MFD button (short!).,WPT,PUNTO
+AV-42C_mfd_target:T3_tooltip,Tooltip for an MFD button.,To Waypoint,Al Punto
 AV-42C_mfd_target:T5,Label for an MFD button (short!).,SOI,
-AV-42C_mfd_target:T5_tooltip,Tooltip for an MFD button.,Toggle Sensor of Interest,
-AV-42C_mfd_target:B4_tooltip,Tooltip for an MFD button.,Toggle HMD View,
+AV-42C_mfd_target:T5_tooltip,Tooltip for an MFD button.,Toggle Sensor of Interest,Alternar Sensor de Interes
+AV-42C_mfd_target:B4_tooltip,Tooltip for an MFD button.,Toggle HMD View,Alternar vista HMD
 AV-42C_mfd_target:L4,Label for an MFD button (short!).,LIM,
-AV-42C_mfd_target:L4_tooltip,Tooltip for an MFD button.,Toggle Limits Overlay,
-AV-42C_mfd_target:R1,Label for an MFD button (short!).,MARK,
-AV-42C_mfd_target:R1_tooltip,Tooltip for an MFD button.,Laser Marker,
+AV-42C_mfd_target:L4_tooltip,Tooltip for an MFD button.,Toggle Limits Overlay,Alternar Overlay del límite
+AV-42C_mfd_target:R1,Label for an MFD button (short!).,MARK,LASER
+AV-42C_mfd_target:R1_tooltip,Tooltip for an MFD button.,Laser Marker,Marcador Láser
 s_hmd,TGP page label,HMD,
-s_tgp_noLock,TGP page error,NO LOCK,
-s_tgp_noGpsGroup,TGP page error,NO GPS GROUP,
-s_tgp_noTarget,TGP page error,NO TARGET,
-s_tgp_notSOI,TGP page error,NOT SOI,
-s_tgpMode_0,TGP mode label,TGT,
+s_tgp_noLock,TGP page error,NO LOCK,SIN BLOQUEO
+s_tgp_noGpsGroup,TGP page error,NO GPS GROUP,SIN GRUPO GPS
+s_tgp_noTarget,TGP page error,NO TARGET,SIN OBJETIVO
+s_tgp_notSOI,TGP page error,NOT SOI,NO SOI
+s_tgpMode_0,TGP mode label,TGT,OBJ
 s_tgpMode_1,TGP mode label,PIP,
-s_tgpMode_2,TGP mode label,HEAD,
-s_tgpMode_3,TGP mode label,FWD,
-tgp_sensorMode_0,TGP sensor mode label,DAY,
-tgp_sensorMode_1,TGP sensor mode label,NIGHT,
+s_tgpMode_2,TGP mode label,HEAD,CABEZA
+s_tgpMode_3,TGP mode label,FWD,ADEL.
+tgp_sensorMode_0,TGP sensor mode label,DAY,DÍA
+tgp_sensorMode_1,TGP sensor mode label,NIGHT,NOCHE
 tgp_sensorMode_2,TGP sensor mode label,COLOR,
-AV-42C_mfd_gameMenu:B2,Label for an MFD button (short!).,RESTART,
-AV-42C_mfd_gameMenu:B2_tooltip,Tooltip for an MFD button.,Restart Mission,
-AV-42C_mfd_gameMenu:B4,Label for an MFD button (short!).,EXIT,
-AV-42C_mfd_gameMenu:B4_tooltip,Tooltip for an MFD button.,Return to Briefing Room,
-AV-42C_mfd_gameMenu:R2,Label for an MFD button (short!).,CENTER,
-AV-42C_mfd_gameMenu:R2_tooltip,Tooltip for an MFD button.,Recenter Seat Position,
-AV-42C_mfd_gameMenu:L3,Label for an MFD button (short!).,QSAVE,
-AV-42C_mfd_gameMenu:L3_tooltip,Tooltip for an MFD button.,Quick Save Menu,
-AV-42C_mfd_gameMenu:R4,Label for an MFD button (short!).,PLAYERS,
-AV-42C_mfd_gameMenu:R4_tooltip,Tooltip for an MFD button.,View Players,
-AV-42C_mfd_gameMenu:R5,Label for an MFD button (short!).,NETWORK,
-AV-42C_mfd_gameMenu:R5_tooltip,Tooltip for an MFD button.,NetworkAnalytics,
+AV-42C_mfd_gameMenu:B2,Label for an MFD button (short!).,RESTART,REINICAR
+AV-42C_mfd_gameMenu:B2_tooltip,Tooltip for an MFD button.,Restart Mission,Reiniciar Misión
+AV-42C_mfd_gameMenu:B4,Label for an MFD button (short!).,EXIT,SALIR
+AV-42C_mfd_gameMenu:B4_tooltip,Tooltip for an MFD button.,Return to Briefing Room,Volver a la sala de Briefing
+AV-42C_mfd_gameMenu:R2,Label for an MFD button (short!).,CENTER,CENTRAR
+AV-42C_mfd_gameMenu:R2_tooltip,Tooltip for an MFD button.,Recenter Seat Position,Recentrar Posición del asiento
+AV-42C_mfd_gameMenu:L3,Label for an MFD button (short!).,QSAVE,GUARD. RAP.
+AV-42C_mfd_gameMenu:L3_tooltip,Tooltip for an MFD button.,Quick Save Menu,Menú de Guardado Rápido
+AV-42C_mfd_gameMenu:R4,Label for an MFD button (short!).,PLAYERS,JUGADORES
+AV-42C_mfd_gameMenu:R4_tooltip,Tooltip for an MFD button.,View Players,Ver Jugadores
+AV-42C_mfd_gameMenu:R5,Label for an MFD button (short!).,NETWORK,RED
+AV-42C_mfd_gameMenu:R5_tooltip,Tooltip for an MFD button.,NetworkAnalytics,Análisis de red
 vpdt_MFDRecenterText,[xxx] tags will be replaced by platform specific controls. Keep them.,"Sit comfortably
 and press
 [menu]
-to recenter",
-AV-42C_mfd_quicksave:L3_tooltip,Tooltip for an MFD button.,Save,
-AV-42C_mfd_quicksave:B4_tooltip,Tooltip for an MFD button.,Load,
-AV-42C_mfd_quicksave:T5,Label for an MFD button (short!).,BACK,
-AV-42C_mfd_quicksave:T5_tooltip,Tooltip for an MFD button.,Back,
-AV-42C_mfd_mpPlayers:B1,Label for an MFD button (short!).,BACK,
-AV-42C_mfd_mpPlayers:B1_tooltip,Tooltip for an MFD button.,Back,
-AV-42C_mfd_mpPlayers:T5,Label for an MFD button (short!).,MANAGE,
-AV-42C_mfd_mpPlayers:T5_tooltip,Tooltip for an MFD button.,Manage Players,
-AV-42C_mfd_mpPlayers:R4_tooltip,Tooltip for an MFD button.,Scroll Up,
-AV-42C_mfd_mpPlayers:R5_tooltip,Tooltip for an MFD button.,Scroll Down,
-mpPlayers_teamA,Team A title in players MFD page,Team a,
-mpPlayers_KAD,Kills Assists Deaths column headers in MP players MFD page,K         a        d,
-mpPlayers_teamB,Team B title in players MFD page,Team b,
-AV-42C_mfd_netAnalytics:B1,Label for an MFD button (short!).,BACK,
-AV-42C_mfd_netAnalytics:B1_tooltip,Tooltip for an MFD button.,Back,
+to recenter","Sientate cómodamente
+y presiona
+[menu]
+para recentrar"
+AV-42C_mfd_quicksave:L3_tooltip,Tooltip for an MFD button.,Save,Guardar
+AV-42C_mfd_quicksave:B4_tooltip,Tooltip for an MFD button.,Load,Cargar
+AV-42C_mfd_quicksave:T5,Label for an MFD button (short!).,BACK,VOLVER
+AV-42C_mfd_quicksave:T5_tooltip,Tooltip for an MFD button.,Back,Volver
+AV-42C_mfd_mpPlayers:B1,Label for an MFD button (short!).,BACK,VOLVER
+AV-42C_mfd_mpPlayers:B1_tooltip,Tooltip for an MFD button.,Back,Volver
+AV-42C_mfd_mpPlayers:T5,Label for an MFD button (short!).,MANAGE,GESTIONAR
+AV-42C_mfd_mpPlayers:T5_tooltip,Tooltip for an MFD button.,Manage Players,Gestionar Jugadores
+AV-42C_mfd_mpPlayers:R4_tooltip,Tooltip for an MFD button.,Scroll Up,Scroll Arriba
+AV-42C_mfd_mpPlayers:R5_tooltip,Tooltip for an MFD button.,Scroll Down,Scroll Abajo
+mpPlayers_teamA,Team A title in players MFD page,Team a,Equipo A
+mpPlayers_KAD,Kills Assists Deaths column headers in MP players MFD page,K         a        d,K			a			d
+mpPlayers_teamB,Team B title in players MFD page,Team b,Equipo B
+AV-42C_mfd_netAnalytics:B1,Label for an MFD button (short!).,BACK,VOLVER
+AV-42C_mfd_netAnalytics:B1_tooltip,Tooltip for an MFD button.,Back,Volver
 rwrMode_0,RWR mode,On,
-rwrMode_1,RWR mode,Silent,
+rwrMode_1,RWR mode,Silent,Silencio
 rwrMode_2,RWR mode,Off,
-arad_DECL,ARAD declutter button label,DECL,
+arad_DECL,ARAD declutter button label,DECL,SIMPL
 sCam_autoReset,S-Cam auto reset view label.,Auto-Reset,
 sCam_autoZoomPrefix,"S-Cam auto zoom prefix (Auto 40, etc)",Auto,
 sCam_audio,S-Cam audio on/off label,AUDIO,
-sCam_tgtMode_0,S-Cam target mode,SELF,
-sCam_tgtMode_1,S-Cam target mode,MSSL,
+sCam_tgtMode_0,S-Cam target mode,SELF,YO
+sCam_tgtMode_1,S-Cam target mode,MSSL,MISL
 sCam_tgtMode_2,S-Cam target mode,TGT,
 sCam_random,S-Cam random view mode,Random,
-sCam_behavior_0,S-Cam behavior,Stationary,
-sCam_behavior_1,S-Cam behavior,FlyAlong,
-sCam_behavior_2,S-Cam behavior,Fixed,
-sCam_behavior_3,S-Cam behavior,Chase,
-sCam_behavior_4,S-Cam behavior,PresetViews,
-sCam_behavior_5,S-Cam behavior,SmoothLook,
-sCam_behavior_6,S-Cam behavior,Camcorder,
-Mk.82 Bomb x1_fullName,Full equip name of: Mk.82 Bomb x1,Mk.82 Bomb x1,
-Mk.82 Bomb x1_description,Item description of: Mk.82 Bomb x1,Standard un-guided 500lb bomb.,
-GBU-12 Laser Guided Bomb x2_fullName,Full equip name of: GBU-12 Laser Guided Bomb x2,GBU-12 Laser Guided Bomb x2,
-GBU-12 Laser Guided Bomb x2_description,Item description of: GBU-12 Laser Guided Bomb x2,A rack of two 500lb laser guided bombs.,
-SB-1 Bomb x3_fullName,Full equip name of: SB-1 Bomb x3,SB-1 Bomb x3,
-SB-1 Bomb x3_description,Item description of: SB-1 Bomb x3,Standard un-guided 500lb bombs.,
-2200L Fuel Drop Tank_fullName,Full equip name of: 2200L Fuel Drop Tank,2200L Fuel Drop Tank,
-2200L Fuel Drop Tank_description,Item description of: 2200L Fuel Drop Tank,A 2200 liter fuel tank.,
-MAD-4 Missile_fullName,Full equip name of: MAD-4 Missile,MAD-4 Missile,
+sCam_behavior_0,S-Cam behavior,Stationary,Estacionario
+sCam_behavior_1,S-Cam behavior,FlyAlong,Seguir
+sCam_behavior_2,S-Cam behavior,Fixed,Fija
+sCam_behavior_3,S-Cam behavior,Chase,Persecución
+sCam_behavior_4,S-Cam behavior,PresetViews,PresetVistas
+sCam_behavior_5,S-Cam behavior,SmoothLook,Vista fluida
+sCam_behavior_6,S-Cam behavior,Camcorder,Grabadora
+Mk.82 Bomb x1_fullName,Full equip name of: Mk.82 Bomb x1,Mk.82 Bomb x1,Bomba Mk.82 x1
+Mk.82 Bomb x1_description,Item description of: Mk.82 Bomb x1,Standard un-guided 500lb bomb.,Bomba estandar sin guiar de 500lb
+GBU-12 Laser Guided Bomb x2_fullName,Full equip name of: GBU-12 Laser Guided Bomb x2,GBU-12 Laser Guided Bomb x2,Bomba Guiada por Láser GBU-12 x2
+GBU-12 Laser Guided Bomb x2_description,Item description of: GBU-12 Laser Guided Bomb x2,A rack of two 500lb laser guided bombs.,Un pilón de dos bombas guiadas por láser de 500lb
+SB-1 Bomb x3_fullName,Full equip name of: SB-1 Bomb x3,SB-1 Bomb x3,Bomba SB-1 x3
+SB-1 Bomb x3_description,Item description of: SB-1 Bomb x3,Standard un-guided 500lb bombs.,Bomba estandar sin guiar de 500lb
+2200L Fuel Drop Tank_fullName,Full equip name of: 2200L Fuel Drop Tank,2200L Fuel Drop Tank,Tanque externo 2200L
+2200L Fuel Drop Tank_description,Item description of: 2200L Fuel Drop Tank,A 2200 liter fuel tank.,Un tanque de combustible de 2200 litros
+MAD-4 Missile_fullName,Full equip name of: MAD-4 Missile,MAD-4 Missile,Misil MAD-4
 MAD-4 Missile_description,Item description of: MAD-4 Missile,Standard semi-active radar-guided missile built for the Mobile Air Defense launcher. It has a range of about 55km (30nm).,
 PGM-27 x7_fullName,Full equip name of: PGM-27 x7,PGM-27 x7,
 PGM-27 x7_description,Item description of: PGM-27 x7,"A rack of 2.75 inch rockets which have been fitted with a laser guidance package, turning them into precision guided munitions.

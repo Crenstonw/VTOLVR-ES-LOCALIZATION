@@ -149,8 +149,8 @@ GPS-S Button_912284,VR Interactable,Send GPS Target,Enviar Objetivo GPS
 txt_913488,UI Text,GPS-S,GPS-Enviar
 FuelWPButton_913116,VR Interactable,Set Fuel Waypoint,Fijar Punto de Repostaje
 txt_394682,UI Text,FUEL,COMB
-RTBWPButton_915740,VR Interactable,Set RTB Waypoint,Fijar Punto RTB
-txt_911618,UI Text,RTB,RTB
+RTBWPButton_915740,VR Interactable,Set RTB Waypoint,Fijar Punto VAB
+txt_911618,UI Text,RTB,VAB
 ObjWpButton_915190,VR Interactable,Set Objective Waypoint,Fijar Punto Objetivo
 txt_912214,UI Text,OBJ,OBJ
 ModeButton_931214,VR Interactable,Toggle Rotation Mode,Alternar modo retación
