@@ -535,7 +535,7 @@ AV-42C_mfd_gameMenu:B4,Label for an MFD button (short!).,EXIT,SALIR
 AV-42C_mfd_gameMenu:B4_tooltip,Tooltip for an MFD button.,Return to Briefing Room,Volver a la sala de Briefing
 AV-42C_mfd_gameMenu:R2,Label for an MFD button (short!).,CENTER,CENTRAR
 AV-42C_mfd_gameMenu:R2_tooltip,Tooltip for an MFD button.,Recenter Seat Position,Recentrar Posición del asiento
-AV-42C_mfd_gameMenu:L3,Label for an MFD button (short!).,QSAVE,GUARD. RAP.
+AV-42C_mfd_gameMenu:L3,Label for an MFD button (short!).,QSAVE,GUARD. RÁP.
 AV-42C_mfd_gameMenu:L3_tooltip,Tooltip for an MFD button.,Quick Save Menu,Menú de Guardado Rápido
 AV-42C_mfd_gameMenu:R4,Label for an MFD button (short!).,PLAYERS,JUGADORES
 AV-42C_mfd_gameMenu:R4_tooltip,Tooltip for an MFD button.,View Players,Ver Jugadores
@@ -590,131 +590,132 @@ SB-1 Bomb x3_description,Item description of: SB-1 Bomb x3,Standard un-guided 50
 2200L Fuel Drop Tank_fullName,Full equip name of: 2200L Fuel Drop Tank,2200L Fuel Drop Tank,Tanque externo 2200L
 2200L Fuel Drop Tank_description,Item description of: 2200L Fuel Drop Tank,A 2200 liter fuel tank.,Un tanque de combustible de 2200 litros
 MAD-4 Missile_fullName,Full equip name of: MAD-4 Missile,MAD-4 Missile,Misil MAD-4
-MAD-4 Missile_description,Item description of: MAD-4 Missile,Standard semi-active radar-guided missile built for the Mobile Air Defense launcher. It has a range of about 55km (30nm).,
+MAD-4 Missile_description,Item description of: MAD-4 Missile,Standard semi-active radar-guided missile built for the Mobile Air Defense launcher. It has a range of about 55km (30nm).,Misil estandar semi-activo guiado por radar para el lanzador móvil de defensa aérea. Tiene un rango de unos 55km (30nm)
 PGM-27 x7_fullName,Full equip name of: PGM-27 x7,PGM-27 x7,
 PGM-27 x7_description,Item description of: PGM-27 x7,"A rack of 2.75 inch rockets which have been fitted with a laser guidance package, turning them into precision guided munitions.
-Requires continuous lock for guidance (not fire-and-forget).",
+Requires continuous lock for guidance (not fire-and-forget).","Un Pilón de cohetes de 2.75 pulgadas al que se les ha acomodado un paquete de guiado láser, convirtiendolos en municiones guiadas precisas.
+Requiere visual continuo con el objetivo"
 eqSublabel_LG,HUD sub-label of an equip,LG,
-loadoutConfig_cannon,Cannon hardpoint label,Cannon,
-vehicleConfig_reloadAll,,Reload all,
-vehicleConfig_endMission,,End mission,
-vehicleConfig_returnToAircraft,,Return to aircraft,
-vehicleConfig_respawn,,Respawn,
+loadoutConfig_cannon,Cannon hardpoint label,Cannon,Cañón
+vehicleConfig_reloadAll,,Reload all,Recargar todo
+vehicleConfig_endMission,,End mission,Terminar Misión
+vehicleConfig_returnToAircraft,,Return to aircraft,"Volver "
+vehicleConfig_respawn,,Respawn,Reaparecer
 AIM-9+ Sidewinder_fullName,Full equip name of: AIM-9+ Sidewinder,AIM-9+ Sidewinder,
-AIM-9+ Sidewinder_description,Item description of: AIM-9+ Sidewinder,Advanced short range heat seeking air to air missile.,
-Hydra-70 x7 Rocket Pod_fullName,Full equip name of: Hydra-70 x7 Rocket Pod,Hydra-70 x7 Rocket Pod,
-Hydra-70 x7 Rocket Pod_description,Item description of: Hydra-70 x7 Rocket Pod,"A pod carrying a total of 7 high explosive rockets.  Can be fired in single shot mode, or rapid fire (ripple).",
+AIM-9+ Sidewinder_description,Item description of: AIM-9+ Sidewinder,Advanced short range heat seeking air to air missile.,Misil avanzado Aire-Aire de corto alcance guiado por calor
+Hydra-70 x7 Rocket Pod_fullName,Full equip name of: Hydra-70 x7 Rocket Pod,Hydra-70 x7 Rocket Pod,Contenedor de cohetes Hydra-70 x7
+Hydra-70 x7 Rocket Pod_description,Item description of: Hydra-70 x7 Rocket Pod,"A pod carrying a total of 7 high explosive rockets.  Can be fired in single shot mode, or rapid fire (ripple).","Un contenedor llevando un total de 7 cohetes AE. Pueden ser disparados en modo semi, o ráfaga"
 AH-94_mfd_cam:B1,Label for an MFD button (short!).,PREV,
-AH-94_mfd_cam:B3,Label for an MFD button (short!).,NEXT,
+AH-94_mfd_cam:B3,Label for an MFD button (short!).,NEXT,SIG
 AH-94_mfd_home:B1,Label for an MFD button (short!).,NAV,
-AH-94_mfd_home:B1_tooltip,Tooltip for an MFD button.,Navigation,
+AH-94_mfd_home:B1_tooltip,Tooltip for an MFD button.,Navigation,Navegación
 AH-94_mfd_home:B2,Label for an MFD button (short!).,OBJ,
-AH-94_mfd_home:B2_tooltip,Tooltip for an MFD button.,Objectives,
+AH-94_mfd_home:B2_tooltip,Tooltip for an MFD button.,Objectives,Objetivos
 AH-94_mfd_home:B3,Label for an MFD button (short!).,CAM,
-AH-94_mfd_home:B3_tooltip,Tooltip for an MFD button.,External Cameras,
+AH-94_mfd_home:B3_tooltip,Tooltip for an MFD button.,External Cameras,Cámaras Exteriores
 AH-94_mfd_home:B4,Label for an MFD button (short!).,TADS,
-AH-94_mfd_home:B4_tooltip,Tooltip for an MFD button.,Targeting,
+AH-94_mfd_home:B4_tooltip,Tooltip for an MFD button.,Targeting,Apuntado
 AH-94_mfd_home:L4,Label for an MFD button (short!).,GPS,
-AH-94_mfd_home:L4_tooltip,Tooltip for an MFD button.,GPS Targets,
-AH-94_mfd_home:T5,Label for an MFD button (short!).,S-CAM,
-AH-94_mfd_home:T5_tooltip,Tooltip for an MFD button.,Spectator Camera,
-AH-94_mfd_home:R3,Label for an MFD button (short!).,GAME,
-AH-94_mfd_home:R3_tooltip,Tooltip for an MFD button.,Game Menu,
+AH-94_mfd_home:L4_tooltip,Tooltip for an MFD button.,GPS Targets,Objetivos GPS
+AH-94_mfd_home:T5,Label for an MFD button (short!).,S-CAM,E-CAM
+AH-94_mfd_home:T5_tooltip,Tooltip for an MFD button.,Spectator Camera,Cámara de Espectador
+AH-94_mfd_home:R3,Label for an MFD button (short!).,GAME,JUEGO
+AH-94_mfd_home:R3_tooltip,Tooltip for an MFD button.,Game Menu,Menú de Juego
 AH-94_mfd_home:R5,Label for an MFD button (short!).,LOG,
-AH-94_mfd_home:R5_tooltip,Tooltip for an MFD button.,Flight Log,
+AH-94_mfd_home:R5_tooltip,Tooltip for an MFD button.,Flight Log,Log de Vuelo
 AH-94_mfd_home:L2,Label for an MFD button (short!).,EQUIP,
-AH-94_mfd_home:L2_tooltip,Tooltip for an MFD button.,Mounted Equipment,
-AH-94_mfd_home:L3,Label for an MFD button (short!).,OPTION,
-AH-94_mfd_home:L3_tooltip,Tooltip for an MFD button.,Options,
+AH-94_mfd_home:L2_tooltip,Tooltip for an MFD button.,Mounted Equipment,Equipamiento Montado
+AH-94_mfd_home:L3,Label for an MFD button (short!).,OPTION,OPCION
+AH-94_mfd_home:L3_tooltip,Tooltip for an MFD button.,Options,Opciones
 AH-94_mfd_home:B5,Label for an MFD button (short!).,COMMS,
-AH-94_mfd_home:B5_tooltip,Tooltip for an MFD button.,Communications,
+AH-94_mfd_home:B5_tooltip,Tooltip for an MFD button.,Communications,Comunicaciones
 AH-94_mfd_home:T4,Label for an MFD button (short!).,RADAR,
 AH-94_mfd_home:T4_tooltip,Tooltip for an MFD button.,Radar,
-AH-94_mfd_home:R4,Label for an MFD button (short!).,DATA,
-AH-94_mfd_home:R4_tooltip,Tooltip for an MFD button.,Flight Data,
+AH-94_mfd_home:R4,Label for an MFD button (short!).,DATA,DATOS
+AH-94_mfd_home:R4_tooltip,Tooltip for an MFD button.,Flight Data,Datos de Vuelo
 AH-94_mfd_home:L5,Label for an MFD button (short!).,CMS,
-AH-94_mfd_home:L5_tooltip,Tooltip for an MFD button.,Countermeasure System,
-AH-94_mfd_flightLog:R2_tooltip,Tooltip for an MFD button.,Scroll Up,
-AH-94_mfd_flightLog:R4_tooltip,Tooltip for an MFD button.,Scroll Down,
-AH-94_mfd_flightLog:R5_tooltip,Tooltip for an MFD button.,Scroll Bottom,
-AH-94_mfd_flightLog:B3_tooltip,Tooltip for an MFD button.,Dump log to file.,
-AH-94_mfd_mission:B1,Label for an MFD button (short!).,WPT,
-AH-94_mfd_mission:B1_tooltip,Tooltip for an MFD button.,Set Waypoint,
-AH-94_mfd_mission:B3,Label for an MFD button (short!).,NEXT,
-AH-94_mfd_mission:B3_tooltip,Tooltip for an MFD button.,Next Objective,
+AH-94_mfd_home:L5_tooltip,Tooltip for an MFD button.,Countermeasure System,Sistema de Contramedidas
+AH-94_mfd_flightLog:R2_tooltip,Tooltip for an MFD button.,Scroll Up,Scroll Arriba
+AH-94_mfd_flightLog:R4_tooltip,Tooltip for an MFD button.,Scroll Down,Scroll Abajo
+AH-94_mfd_flightLog:R5_tooltip,Tooltip for an MFD button.,Scroll Bottom,Final
+AH-94_mfd_flightLog:B3_tooltip,Tooltip for an MFD button.,Dump log to file.,Descargar registro de vuelo.
+AH-94_mfd_mission:B1,Label for an MFD button (short!).,WPT,PUNTO
+AH-94_mfd_mission:B1_tooltip,Tooltip for an MFD button.,Set Waypoint,Fijar Punto
+AH-94_mfd_mission:B3,Label for an MFD button (short!).,NEXT,SIG
+AH-94_mfd_mission:B3_tooltip,Tooltip for an MFD button.,Next Objective,Siguiente Objetivo
 AH-94_mfd_mission:B5,Label for an MFD button (short!).,PREV,
-AH-94_mfd_mission:B5_tooltip,Tooltip for an MFD button.,Previous Objective,
+AH-94_mfd_mission:B5_tooltip,Tooltip for an MFD button.,Previous Objective,Previo Objetivo
 AH-94_mfd_gpsTgts:T2,Label for an MFD button (short!).,MAP,
-AH-94_mfd_gpsTgts:T2_tooltip,Tooltip for an MFD button.,Nav Map,
-AH-94_mfd_gpsTgts:T3,Label for an MFD button (short!).,WPT,
-AH-94_mfd_gpsTgts:T3_tooltip,Tooltip for an MFD button.,Set Waypoints,
-AH-94_mfd_gpsTgts:L2_tooltip,Tooltip for an MFD button.,Previous Group,
-AH-94_mfd_gpsTgts:L3_tooltip,Tooltip for an MFD button.,Next Group,
-AH-94_mfd_gpsTgts:B1_tooltip,Tooltip for an MFD button.,Create Group,
-AH-94_mfd_gpsTgts:B2_tooltip,Tooltip for an MFD button.,Delete Group,
-AH-94_mfd_gpsTgts:B4_tooltip,Tooltip for an MFD button.,Delete Target,
-AH-94_mfd_gpsTgts:R3_tooltip,Tooltip for an MFD button.,Next Target,
-AH-94_mfd_gpsTgts:R2_tooltip,Tooltip for an MFD button.,Previous Target,
-AH-94_mfd_gpsTgts:R1_tooltip,Tooltip for an MFD button.,Toggle Path Mode,
-AH-94_mfd_gpsTgts:R4_tooltip,Tooltip for an MFD button.,Move Up,
-AH-94_mfd_gpsTgts:R5_tooltip,Tooltip for an MFD button.,MoveDown,
-AH-94_mfd_gpsTgts:B5,Label for an MFD button (short!).,SEND,
-AH-94_mfd_gpsTgts:B5_tooltip,Tooltip for an MFD button.,Send Data,
-AH-94_mfd_flyCam:B2,Label for an MFD button (short!).,START,
-AH-94_mfd_flyCam:B2_tooltip,Tooltip for an MFD button.,Start Camera,
-AH-94_mfd_flyCam:B3,Label for an MFD button (short!).,END,
-AH-94_mfd_flyCam:B3_tooltip,Tooltip for an MFD button.,End Camera,
-AH-94_mfd_flyCam:B1,Label for an MFD button (short!).,VIEW,
-AH-94_mfd_flyCam:B1_tooltip,Tooltip for an MFD button.,Toggle Preview,
+AH-94_mfd_gpsTgts:T2_tooltip,Tooltip for an MFD button.,Nav Map,Mapa nav.
+AH-94_mfd_gpsTgts:T3,Label for an MFD button (short!).,WPT,PUNTO
+AH-94_mfd_gpsTgts:T3_tooltip,Tooltip for an MFD button.,Set Waypoints,Fijar Punto
+AH-94_mfd_gpsTgts:L2_tooltip,Tooltip for an MFD button.,Previous Group,Previo Grupo
+AH-94_mfd_gpsTgts:L3_tooltip,Tooltip for an MFD button.,Next Group,Siguiente Grupo
+AH-94_mfd_gpsTgts:B1_tooltip,Tooltip for an MFD button.,Create Group,Crear Grupo
+AH-94_mfd_gpsTgts:B2_tooltip,Tooltip for an MFD button.,Delete Group,Borrar Grupo
+AH-94_mfd_gpsTgts:B4_tooltip,Tooltip for an MFD button.,Delete Target,Borrar Objetivo
+AH-94_mfd_gpsTgts:R3_tooltip,Tooltip for an MFD button.,Next Target,Siguiente Objetivo
+AH-94_mfd_gpsTgts:R2_tooltip,Tooltip for an MFD button.,Previous Target,Anterior Objetivo
+AH-94_mfd_gpsTgts:R1_tooltip,Tooltip for an MFD button.,Toggle Path Mode,Alternar Modo Trayectoria
+AH-94_mfd_gpsTgts:R4_tooltip,Tooltip for an MFD button.,Move Up,Mover Arriba
+AH-94_mfd_gpsTgts:R5_tooltip,Tooltip for an MFD button.,MoveDown,Mover Abajo
+AH-94_mfd_gpsTgts:B5,Label for an MFD button (short!).,SEND,ENV
+AH-94_mfd_gpsTgts:B5_tooltip,Tooltip for an MFD button.,Send Data,Enviar datos
+AH-94_mfd_flyCam:B2,Label for an MFD button (short!).,START,ENCENDER
+AH-94_mfd_flyCam:B2_tooltip,Tooltip for an MFD button.,Start Camera,Encender Cámara
+AH-94_mfd_flyCam:B3,Label for an MFD button (short!).,END,APAGAR
+AH-94_mfd_flyCam:B3_tooltip,Tooltip for an MFD button.,End Camera,Apagar Cámara
+AH-94_mfd_flyCam:B1,Label for an MFD button (short!).,VIEW,VISTA
+AH-94_mfd_flyCam:B1_tooltip,Tooltip for an MFD button.,Toggle Preview,Alternar Previsualización
 AH-94_mfd_flyCam:R1,Label for an MFD button (short!).,RANDM,
-AH-94_mfd_flyCam:R1_tooltip,Tooltip for an MFD button.,Toggle Random,
+AH-94_mfd_flyCam:R1_tooltip,Tooltip for an MFD button.,Toggle Random,Alternar Aleatorio
 AH-94_mfd_flyCam:L3,Label for an MFD button (short!).,FOV:,
-AH-94_mfd_flyCam:L3_tooltip,Tooltip for an MFD button.,Toggle FOV,
+AH-94_mfd_flyCam:L3_tooltip,Tooltip for an MFD button.,Toggle FOV,Alternar FOV
 AH-94_mfd_flyCam:L4,Label for an MFD button (short!).," ",
-AH-94_mfd_flyCam:L4_tooltip,Tooltip for an MFD button.,Toggle AutoFOV,
+AH-94_mfd_flyCam:L4_tooltip,Tooltip for an MFD button.,Toggle AutoFOV,Alternar AutoFOV
 AH-94_mfd_flyCam:L5,Label for an MFD button (short!).," ",
-AH-94_mfd_flyCam:L5_tooltip,Tooltip for an MFD button.,Toggle Audio,
-AH-94_mfd_flyCam:R2,Label for an MFD button (short!).,MODE,
-AH-94_mfd_flyCam:R2_tooltip,Tooltip for an MFD button.,Toggle Cam Mode,
-AH-94_mfd_flyCam:R3,Label for an MFD button (short!).,LOOK,
-AH-94_mfd_flyCam:R3_tooltip,Tooltip for an MFD button.,Toggle Look Mode,
+AH-94_mfd_flyCam:L5_tooltip,Tooltip for an MFD button.,Toggle Audio,Alternar Audio
+AH-94_mfd_flyCam:R2,Label for an MFD button (short!).,MODE,MODO
+AH-94_mfd_flyCam:R2_tooltip,Tooltip for an MFD button.,Toggle Cam Mode,Alternar Modo Cámara
+AH-94_mfd_flyCam:R3,Label for an MFD button (short!).,LOOK,OBS
+AH-94_mfd_flyCam:R3_tooltip,Tooltip for an MFD button.,Toggle Look Mode,Alterar modo Observación
 AH-94_mfd_flyCam:R5,Label for an MFD button (short!).," ",
-AH-94_mfd_flyCam:R5_tooltip,Tooltip for an MFD button.,Toggle Auto-Reset,
+AH-94_mfd_flyCam:R5_tooltip,Tooltip for an MFD button.,Toggle Auto-Reset,Alternar Auto-reset
 AH-94_mfd_flyCam:B5,Label for an MFD button (short!).," ",
-AH-94_mfd_flyCam:B5_tooltip,Tooltip for an MFD button.,Cycle Reset Time,
+AH-94_mfd_flyCam:B5_tooltip,Tooltip for an MFD button.,Cycle Reset Time,Ciclar Tiempo Reinicio
 AH-94_mfd_flyCam:T3,Label for an MFD button (short!).,SS,
 AH-94_mfd_flyCam:T3_tooltip,Tooltip for an MFD button.,4K Screenshot,
 AH-94_mfd_antiRad:T5,Label for an MFD button (short!).,SOI,
-AH-94_mfd_antiRad:T5_tooltip,Tooltip for an MFD button.,Sensor of Interest,
+AH-94_mfd_antiRad:T5_tooltip,Tooltip for an MFD button.,Sensor of Interest,Sensor de interés
 AH-94_mfd_antiRad:R4,Label for an MFD button (short!).,HUD,
-AH-94_mfd_antiRad:R4_tooltip,Tooltip for an MFD button.,HUD Mode,
-AH-94_mfd_antiRad:R5_tooltip,Tooltip for an MFD button.,Declutter,
-AH-94_mfd_gameMenu:B2,Label for an MFD button (short!).,RESTART,
-AH-94_mfd_gameMenu:B2_tooltip,Tooltip for an MFD button.,Restart Mission,
-AH-94_mfd_gameMenu:B4,Label for an MFD button (short!).,EXIT,
-AH-94_mfd_gameMenu:B4_tooltip,Tooltip for an MFD button.,Return to Main,
-AH-94_mfd_gameMenu:B3,Label for an MFD button (short!).,EXIT,
-AH-94_mfd_gameMenu:B3_tooltip,Tooltip for an MFD button.,Return to Briefing Room,
-AH-94_mfd_gameMenu:R2,Label for an MFD button (short!).,CENTER,
-AH-94_mfd_gameMenu:R2_tooltip,Tooltip for an MFD button.,Recenter Seat,
-AH-94_mfd_gameMenu:L3,Label for an MFD button (short!).,QSAVE,
-AH-94_mfd_gameMenu:L3_tooltip,Tooltip for an MFD button.,Quick Save Menu,
-AH-94_mfd_gameMenu:R4,Label for an MFD button (short!).,PLAYERS,
-AH-94_mfd_gameMenu:R4_tooltip,Tooltip for an MFD button.,View Players,
-AH-94_mfd_gameMenu:R5,Label for an MFD button (short!).,NETWORK,
-AH-94_mfd_gameMenu:R5_tooltip,Tooltip for an MFD button.,Network Analytics,
-AH-94_mfd_quicksave:L3_tooltip,Tooltip for an MFD button.,Save,
-AH-94_mfd_quicksave:B4_tooltip,Tooltip for an MFD button.,Load,
-AH-94_mfd_quicksave:T5,Label for an MFD button (short!).,BACK,
-AH-94_mfd_quicksave:T5_tooltip,Tooltip for an MFD button.,Back,
-AH-94_mfd_mpPlayers:B1,Label for an MFD button (short!).,BACK,
-AH-94_mfd_mpPlayers:B1_tooltip,Tooltip for an MFD button.,Back,
-AH-94_mfd_mpPlayers:T5,Label for an MFD button (short!).,MANAGE,
-AH-94_mfd_mpPlayers:T5_tooltip,Tooltip for an MFD button.,Manage Players,
-AH-94_mfd_mpPlayers:R4_tooltip,Tooltip for an MFD button.,Scroll Up,
-AH-94_mfd_mpPlayers:R5_tooltip,Tooltip for an MFD button.,Scroll Down,
-AH-94_mfd_netAnalytics:B1,Label for an MFD button (short!).,BACK,
-AH-94_mfd_netAnalytics:B1_tooltip,Tooltip for an MFD button.,Back,
+AH-94_mfd_antiRad:R4_tooltip,Tooltip for an MFD button.,HUD Mode,Modo HUD
+AH-94_mfd_antiRad:R5_tooltip,Tooltip for an MFD button.,Declutter,Simplificación
+AH-94_mfd_gameMenu:B2,Label for an MFD button (short!).,RESTART,REINICIAR
+AH-94_mfd_gameMenu:B2_tooltip,Tooltip for an MFD button.,Restart Mission,Reiniciar Misión
+AH-94_mfd_gameMenu:B4,Label for an MFD button (short!).,EXIT,SALIR
+AH-94_mfd_gameMenu:B4_tooltip,Tooltip for an MFD button.,Return to Main,Volver al Menú Principal
+AH-94_mfd_gameMenu:B3,Label for an MFD button (short!).,EXIT,SALIR
+AH-94_mfd_gameMenu:B3_tooltip,Tooltip for an MFD button.,Return to Briefing Room,Volver a la sala de Briefing
+AH-94_mfd_gameMenu:R2,Label for an MFD button (short!).,CENTER,CENTRAR
+AH-94_mfd_gameMenu:R2_tooltip,Tooltip for an MFD button.,Recenter Seat,Recentrar Asiento
+AH-94_mfd_gameMenu:L3,Label for an MFD button (short!).,QSAVE,GUARD. RÁP.
+AH-94_mfd_gameMenu:L3_tooltip,Tooltip for an MFD button.,Quick Save Menu,mENÚ DE gUARDADO rÁPIDO
+AH-94_mfd_gameMenu:R4,Label for an MFD button (short!).,PLAYERS,JUGADORES
+AH-94_mfd_gameMenu:R4_tooltip,Tooltip for an MFD button.,View Players,Ver Jugadores
+AH-94_mfd_gameMenu:R5,Label for an MFD button (short!).,NETWORK,RED
+AH-94_mfd_gameMenu:R5_tooltip,Tooltip for an MFD button.,Network Analytics,Análisis de Red
+AH-94_mfd_quicksave:L3_tooltip,Tooltip for an MFD button.,Save,Guardar
+AH-94_mfd_quicksave:B4_tooltip,Tooltip for an MFD button.,Load,Cargar
+AH-94_mfd_quicksave:T5,Label for an MFD button (short!).,BACK,VOLVER
+AH-94_mfd_quicksave:T5_tooltip,Tooltip for an MFD button.,Back,Volver
+AH-94_mfd_mpPlayers:B1,Label for an MFD button (short!).,BACK,VOLVER
+AH-94_mfd_mpPlayers:B1_tooltip,Tooltip for an MFD button.,Back,Volver
+AH-94_mfd_mpPlayers:T5,Label for an MFD button (short!).,MANAGE,GESTIONAR
+AH-94_mfd_mpPlayers:T5_tooltip,Tooltip for an MFD button.,Manage Players,Gestionar Jugadores
+AH-94_mfd_mpPlayers:R4_tooltip,Tooltip for an MFD button.,Scroll Up,Scroll Arriba
+AH-94_mfd_mpPlayers:R5_tooltip,Tooltip for an MFD button.,Scroll Down,Scroll Abajo
+AH-94_mfd_netAnalytics:B1,Label for an MFD button (short!).,BACK,Final
+AH-94_mfd_netAnalytics:B1_tooltip,Tooltip for an MFD button.,Back,Volver
 AH-94_mfd_hardpoints:T4_tooltip,Tooltip for an MFD button.,HP Gun,
 AH-94_mfd_hardpoints:L2_tooltip,Tooltip for an MFD button.,HP 1,
 AH-94_mfd_hardpoints:L1_tooltip,Tooltip for an MFD button.,HP 2,
@@ -722,308 +723,314 @@ AH-94_mfd_hardpoints:R1_tooltip,Tooltip for an MFD button.,HP 3,
 AH-94_mfd_hardpoints:R2_tooltip,Tooltip for an MFD button.,HP 4,
 AH-94_mfd_hardpoints:L3_tooltip,Tooltip for an MFD button.,HP 5,
 AH-94_mfd_hardpoints:R3_tooltip,Tooltip for an MFD button.,HP 6,
-AH-94_mfd_hardpoints:B2,Label for an MFD button (short!).,MODE,
-AH-94_mfd_hardpoints:B2_tooltip,Tooltip for an MFD button.,Toggle Mode,
-AH-94_mfd_hardpointInfoPage:R1,Label for an MFD button (short!).,BACK,
-AH-94_mfd_hardpointInfoPage:R1_tooltip,Tooltip for an MFD button.,Return to Equip,
-AH-94_mfd_hardpointInfoPage:B2_tooltip,Tooltip for an MFD button.,Toggle Arming,
-AH-94_mfd_hardpointInfoPage:B4_tooltip,Tooltip for an MFD button.,Toggle Jettison,
-AH-94_mfd_cmsPage:L4_tooltip,Tooltip for an MFD button.,Release Mode,
+AH-94_mfd_hardpoints:B2,Label for an MFD button (short!).,MODE,MODO
+AH-94_mfd_hardpoints:B2_tooltip,Tooltip for an MFD button.,Toggle Mode,Alternar Modo
+AH-94_mfd_hardpointInfoPage:R1,Label for an MFD button (short!).,BACK,VOLVER
+AH-94_mfd_hardpointInfoPage:R1_tooltip,Tooltip for an MFD button.,Return to Equip,Volver al Equipo
+AH-94_mfd_hardpointInfoPage:B2_tooltip,Tooltip for an MFD button.,Toggle Arming,Alternar Armado
+AH-94_mfd_hardpointInfoPage:B4_tooltip,Tooltip for an MFD button.,Toggle Jettison,"Alternar "
+AH-94_mfd_cmsPage:L4_tooltip,Tooltip for an MFD button.,Release Mode,Alternar Soltado de Carga
 AH-94_mfd_cmsPage:B2,Label for an MFD button (short!).,-,
-AH-94_mfd_cmsPage:B2_tooltip,Tooltip for an MFD button.,- Release Rate,
+AH-94_mfd_cmsPage:B2_tooltip,Tooltip for an MFD button.,- Release Rate,- Ratio de liberación
 AH-94_mfd_cmsPage:B4,Label for an MFD button (short!).,+,
-AH-94_mfd_cmsPage:B4_tooltip,Tooltip for an MFD button.,+ Release Rate,
-AH-94_mfd_target:B3,Label for an MFD button (short!).,HEAD,
-AH-94_mfd_target:B3_tooltip,Tooltip for an MFD button.,Head-track Mode,
-AH-94_mfd_target:B2,Label for an MFD button (short!).,FWD,
-AH-94_mfd_target:B2_tooltip,Tooltip for an MFD button.,Forward Mode,
-AH-94_mfd_target:L1,Label for an MFD button (short!).,PWR,
-AH-94_mfd_target:L1_tooltip,Tooltip for an MFD button.,Toggle TGP Power,
+AH-94_mfd_cmsPage:B4_tooltip,Tooltip for an MFD button.,+ Release Rate,+ Ratio de liberación
+AH-94_mfd_target:B3,Label for an MFD button (short!).,HEAD,CABEZA
+AH-94_mfd_target:B3_tooltip,Tooltip for an MFD button.,Head-track Mode,Modo Seguimiento de Cabeza
+AH-94_mfd_target:B2,Label for an MFD button (short!).,FWD,ADEL.
+AH-94_mfd_target:B2_tooltip,Tooltip for an MFD button.,Forward Mode,Modo Fijo
+AH-94_mfd_target:L1,Label for an MFD button (short!).,PWR,ENERG
+AH-94_mfd_target:L1_tooltip,Tooltip for an MFD button.,Toggle TGP Power,Encender/Apagar TGP
 AH-94_mfd_target:R1,Label for an MFD button (short!).,ZOOM+,
-AH-94_mfd_target:R1_tooltip,Tooltip for an MFD button.,Zoom In,
+AH-94_mfd_target:R1_tooltip,Tooltip for an MFD button.,Zoom In,Zoom Dentro
 AH-94_mfd_target:R2,Label for an MFD button (short!).,ZOOM-,
-AH-94_mfd_target:R2_tooltip,Tooltip for an MFD button.,Zoom Out,
-AH-94_mfd_target:R3,Label for an MFD button (short!).,GPS-S,
-AH-94_mfd_target:R3_tooltip,Tooltip for an MFD button.,GPS Send,
-AH-94_mfd_target:R4,Label for an MFD button (short!).,GPS-A,
-AH-94_mfd_target:R4_tooltip,Tooltip for an MFD button.,GPS Acquire,
-AH-94_mfd_target:L2,Label for an MFD button (short!).,MODE,
-AH-94_mfd_target:L2_tooltip,Tooltip for an MFD button.,Cycle Modes,
-AH-94_mfd_target:L3,Label for an MFD button (short!).,SENS,
-AH-94_mfd_target:L3_tooltip,Tooltip for an MFD button.,Sensor Mode,
-AH-94_mfd_target:T3,Label for an MFD button (short!).,WPT,
-AH-94_mfd_target:T3_tooltip,Tooltip for an MFD button.,To Waypoint,
+AH-94_mfd_target:R2_tooltip,Tooltip for an MFD button.,Zoom Out,Zoom Fuera
+AH-94_mfd_target:R3,Label for an MFD button (short!).,GPS-S,GPS-E
+AH-94_mfd_target:R3_tooltip,Tooltip for an MFD button.,GPS Send,GPS Enviar
+AH-94_mfd_target:R4,Label for an MFD button (short!).,GPS-A,GPS-O
+AH-94_mfd_target:R4_tooltip,Tooltip for an MFD button.,GPS Acquire,GPS Obtener
+AH-94_mfd_target:L2,Label for an MFD button (short!).,MODE,MODO
+AH-94_mfd_target:L2_tooltip,Tooltip for an MFD button.,Cycle Modes,Ciclar Modos
+AH-94_mfd_target:L3,Label for an MFD button (short!).,SENS,SENS
+AH-94_mfd_target:L3_tooltip,Tooltip for an MFD button.,Sensor Mode,Modo Sensor
+AH-94_mfd_target:T3,Label for an MFD button (short!).,WPT,PUNTO
+AH-94_mfd_target:T3_tooltip,Tooltip for an MFD button.,To Waypoint,Al Punto
 AH-94_mfd_target:T4,Label for an MFD button (short!).,SOI,
-AH-94_mfd_target:T4_tooltip,Tooltip for an MFD button.,Toggle Sensor of Interest,
+AH-94_mfd_target:T4_tooltip,Tooltip for an MFD button.,Toggle Sensor of Interest,Altenar Sensor de Interes
 AH-94_mfd_target:B4,Label for an MFD button (short!).,HMD,
-AH-94_mfd_target:B4_tooltip,Tooltip for an MFD button.,Toggle HMD View,
+AH-94_mfd_target:B4_tooltip,Tooltip for an MFD button.,Toggle HMD View,Alternar vista HMD
 AH-94_mfd_target:L4,Label for an MFD button (short!).,LIM,
-AH-94_mfd_target:L4_tooltip,Tooltip for an MFD button.,Toggle Limits Overlay,
-AH-94_mfd_target:B1,Label for an MFD button (short!).,MARK,
-AH-94_mfd_target:B1_tooltip,Tooltip for an MFD button.,Toggle Laser Marker,
+AH-94_mfd_target:L4_tooltip,Tooltip for an MFD button.,Toggle Limits Overlay,Alternar OVerlay del Límite
+AH-94_mfd_target:B1,Label for an MFD button (short!).,MARK,LASER
+AH-94_mfd_target:B1_tooltip,Tooltip for an MFD button.,Toggle Laser Marker,Alternar Marcador Láser
 AH-94_mfd_map:T2,Label for an MFD button (short!).,GPS,
-AH-94_mfd_map:T2_tooltip,Tooltip for an MFD button.,GPS Targets,
+AH-94_mfd_map:T2_tooltip,Tooltip for an MFD button.,GPS Targets,GPS Objetivos
 AH-94_mfd_map:R2,Label for an MFD button (short!).,ZOOM+,
 AH-94_mfd_map:R3,Label for an MFD button (short!).,ZOOM-,
-AH-94_mfd_map:R4,Label for an MFD button (short!).,UP,
-AH-94_mfd_map:R5,Label for an MFD button (short!).,DOWN,
-AH-94_mfd_map:B4,Label for an MFD button (short!).,LEFT,
-AH-94_mfd_map:B5,Label for an MFD button (short!).,RIGHT,
+AH-94_mfd_map:R4,Label for an MFD button (short!).,UP,ARRB
+AH-94_mfd_map:R5,Label for an MFD button (short!).,DOWN,ABAJ
+AH-94_mfd_map:B4,Label for an MFD button (short!).,LEFT,IZQ
+AH-94_mfd_map:B5,Label for an MFD button (short!).,RIGHT,DER
 AH-94_mfd_map:R1,Label for an MFD button (short!).,RESET,
-AH-94_mfd_map:R1_tooltip,Tooltip for an MFD button.,Reset Offset,
-AH-94_mfd_map:T3,Label for an MFD button (short!).,MODE,
-AH-94_mfd_map:T3_tooltip,Tooltip for an MFD button.,Toggle Rotation Mode,
+AH-94_mfd_map:R1_tooltip,Tooltip for an MFD button.,Reset Offset,Reiniciar Desplazamiento
+AH-94_mfd_map:T3,Label for an MFD button (short!).,MODE,MODO
+AH-94_mfd_map:T3_tooltip,Tooltip for an MFD button.,Toggle Rotation Mode,Alternar Modo Rotación
 AH-94_mfd_map:T4,Label for an MFD button (short!).,SOI,
-AH-94_mfd_map:T4_tooltip,Tooltip for an MFD button.,Toggle Sensor of Interest,
-AH-94_mfd_map:L4,Label for an MFD button (short!).,FUEL,
-AH-94_mfd_map:L4_tooltip,Tooltip for an MFD button.,Set Fuel Waypoint,
-AH-94_mfd_map:L3,Label for an MFD button (short!).,RTB,
-AH-94_mfd_map:L3_tooltip,Tooltip for an MFD button.,Set Return to Base Waypoint,
+AH-94_mfd_map:T4_tooltip,Tooltip for an MFD button.,Toggle Sensor of Interest,Alternar Sensor de Interés
+AH-94_mfd_map:L4,Label for an MFD button (short!).,FUEL,COMB
+AH-94_mfd_map:L4_tooltip,Tooltip for an MFD button.,Set Fuel Waypoint,Fijar Punto de Combustible
+AH-94_mfd_map:L3,Label for an MFD button (short!).,RTB,VAB
+AH-94_mfd_map:L3_tooltip,Tooltip for an MFD button.,Set Return to Base Waypoint,Fijar punto Volver a Base
 AH-94_mfd_map:L2,Label for an MFD button (short!).,OBJ,
-AH-94_mfd_map:L2_tooltip,Tooltip for an MFD button.,Set Objective Waypoint,
-AH-94_mfd_map:B1,Label for an MFD button (short!).,SET ALT,
-AH-94_mfd_map:B1_tooltip,Tooltip for an MFD button.,Set Target Alt,
+AH-94_mfd_map:L2_tooltip,Tooltip for an MFD button.,Set Objective Waypoint,Fijar Punto de Misión
+AH-94_mfd_map:B1,Label for an MFD button (short!).,SET ALT,FIJAR ALT
+AH-94_mfd_map:B1_tooltip,Tooltip for an MFD button.,Set Target Alt,Fijar Alt del Obj.
 AH-94_mfd_map:B2,Label for an MFD button (short!).,ALT+,
-AH-94_mfd_map:B2_tooltip,Tooltip for an MFD button.,Raise Target Alt,
-AH-94_mfd_map:B3,Label for an MFD button (short!).,GPS-S,
-AH-94_mfd_map:B3_tooltip,Tooltip for an MFD button.,Send GPS Target,
+AH-94_mfd_map:B2_tooltip,Tooltip for an MFD button.,Raise Target Alt,Subir Alt del Obj.
+AH-94_mfd_map:B3,Label for an MFD button (short!).,GPS-S,GPS-E
+AH-94_mfd_map:B3_tooltip,Tooltip for an MFD button.,Send GPS Target,Enviar Objetivo GPS
 AH-94_mfd_radar:R1,Label for an MFD button (short!).,R+,
-AH-94_mfd_radar:R1_tooltip,Tooltip for an MFD button.,Range +,
+AH-94_mfd_radar:R1_tooltip,Tooltip for an MFD button.,Range +,Rango +
 AH-94_mfd_radar:R2,Label for an MFD button (short!).,R-,
-AH-94_mfd_radar:R2_tooltip,Tooltip for an MFD button.,Range -,
-AH-94_mfd_radar:B1,Label for an MFD button (short!).,PWR,
-AH-94_mfd_radar:B1_tooltip,Tooltip for an MFD button.,Radar Power,
-AH-94_mfd_radar:B2,Label for an MFD button (short!).,UNLCK,
-AH-94_mfd_radar:B2_tooltip,Tooltip for an MFD button.,Unlock,
+AH-94_mfd_radar:R2_tooltip,Tooltip for an MFD button.,Range -,Rango -
+AH-94_mfd_radar:B1,Label for an MFD button (short!).,PWR,ENERG
+AH-94_mfd_radar:B1_tooltip,Tooltip for an MFD button.,Radar Power,Encender Radar
+AH-94_mfd_radar:B2,Label for an MFD button (short!).,UNLCK,DESBL
+AH-94_mfd_radar:B2_tooltip,Tooltip for an MFD button.,Unlock,Desbloquear
 AH-94_mfd_radar:T4,Label for an MFD button (short!).,SOI,
-AH-94_mfd_radar:T4_tooltip,Tooltip for an MFD button.,Sensor of Interest,
-AH-94_mfd_radar:B4,Label for an MFD button (short!).,SLAVE,
-AH-94_mfd_radar:B4_tooltip,Tooltip for an MFD button.,Slave TADS,
-AH-94_mfd_radar:L4,Label for an MFD button (short!).,GPS-S,
-AH-94_mfd_radar:L4_tooltip,Tooltip for an MFD button.,Send GPS,
+AH-94_mfd_radar:T4_tooltip,Tooltip for an MFD button.,Sensor of Interest,Sensor de Interés
+AH-94_mfd_radar:B4,Label for an MFD button (short!).,SLAVE,VINCULADO
+AH-94_mfd_radar:B4_tooltip,Tooltip for an MFD button.,Slave TADS,Vincular TADS
+AH-94_mfd_radar:L4,Label for an MFD button (short!).,GPS-S,GPS-E
+AH-94_mfd_radar:L4_tooltip,Tooltip for an MFD button.,Send GPS,Enviar GPS
 AH-94_mfd_radar:R3,Label for an MFD button (short!).,+,
-AH-94_mfd_radar:R3_tooltip,Tooltip for an MFD button.,Elevation +,
+AH-94_mfd_radar:R3_tooltip,Tooltip for an MFD button.,Elevation +,Elevación +
 AH-94_mfd_radar:R4,Label for an MFD button (short!).,-,
-AH-94_mfd_radar:R4_tooltip,Tooltip for an MFD button.,Elevation -,
-AH-94_mfd_radar:L3,Label for an MFD button (short!).,MODE,
-AH-94_mfd_radar:L3_tooltip,Tooltip for an MFD button.,AG/AA Mode,
-AH-94_mfd_options:L2_tooltip,Tooltip for an MFD button.,Unit Options,
-AH-94_mfd_options:R2_tooltip,Tooltip for an MFD button.,Toggle Joystick Mode,
-AH-94_mfd_options:L3_tooltip,Tooltip for an MFD button.,Fuel Settings,
-AH-94_mfd_options:L4_tooltip,Tooltip for an MFD button.,Altitude Warning Settings,
-AH-94_mfd_options:R3_tooltip,Tooltip for an MFD button.,Joystick Sensitivity,
-AH-94_mfd_options:R4_tooltip,Tooltip for an MFD button.,Control Hints,
-AH-94_mfd_options:R5_tooltip,Tooltip for an MFD button.,Bail When Spinning,
-AH-94_mfd_unitOptions:L2_tooltip,Tooltip for an MFD button.,Altitude Units,
-AH-94_mfd_unitOptions:L3_tooltip,Tooltip for an MFD button.,Distance Units,
-AH-94_mfd_unitOptions:L4_tooltip,Tooltip for an MFD button.,Speed Units,
-AH-94_mfd_unitOptions:T3,Label for an MFD button (short!).,BACK,
-AH-94_mfd_unitOptions:T3_tooltip,Tooltip for an MFD button.,Back,
-AH-94_mfd_fuelConfig:T3,Label for an MFD button (short!).,BACK,
-AH-94_mfd_fuelConfig:T3_tooltip,Tooltip for an MFD button.,Back,
-AH-94_mfd_fuelConfig:L3_tooltip,Tooltip for an MFD button.,Bingo Fuel +,
-AH-94_mfd_fuelConfig:L4_tooltip,Tooltip for an MFD button.,Bingo Fuel -,
-AH-94_mfd_altitudeSettings:T3,Label for an MFD button (short!).,BACK,
-AH-94_mfd_altitudeSettings:T3_tooltip,Tooltip for an MFD button.,Back,
+AH-94_mfd_radar:R4_tooltip,Tooltip for an MFD button.,Elevation -,Elevación -
+AH-94_mfd_radar:L3,Label for an MFD button (short!).,MODE,MODO
+AH-94_mfd_radar:L3_tooltip,Tooltip for an MFD button.,AG/AA Mode,Modo AT/AA
+AH-94_mfd_options:L2_tooltip,Tooltip for an MFD button.,Unit Options,Opción Unidades
+AH-94_mfd_options:R2_tooltip,Tooltip for an MFD button.,Toggle Joystick Mode,Alternar Modo Joystick
+AH-94_mfd_options:L3_tooltip,Tooltip for an MFD button.,Fuel Settings,Opciones Combustible
+AH-94_mfd_options:L4_tooltip,Tooltip for an MFD button.,Altitude Warning Settings,Opciones de advertencias de alt
+AH-94_mfd_options:R3_tooltip,Tooltip for an MFD button.,Joystick Sensitivity,Sensibilidad Joystick
+AH-94_mfd_options:R4_tooltip,Tooltip for an MFD button.,Control Hints,Sugerencias de Controles
+AH-94_mfd_options:R5_tooltip,Tooltip for an MFD button.,Bail When Spinning,Eyectarse al girar sin control.
+AH-94_mfd_unitOptions:L2_tooltip,Tooltip for an MFD button.,Altitude Units,Unid. Altitud
+AH-94_mfd_unitOptions:L3_tooltip,Tooltip for an MFD button.,Distance Units,Unid. Distancia
+AH-94_mfd_unitOptions:L4_tooltip,Tooltip for an MFD button.,Speed Units,Unid. Velocidad
+AH-94_mfd_unitOptions:T3,Label for an MFD button (short!).,BACK,VOLVER
+AH-94_mfd_unitOptions:T3_tooltip,Tooltip for an MFD button.,Back,Volver
+AH-94_mfd_fuelConfig:T3,Label for an MFD button (short!).,BACK,VOLVER
+AH-94_mfd_fuelConfig:T3_tooltip,Tooltip for an MFD button.,Back,Volver
+AH-94_mfd_fuelConfig:L3_tooltip,Tooltip for an MFD button.,Bingo Fuel +,Comb Bingo +
+AH-94_mfd_fuelConfig:L4_tooltip,Tooltip for an MFD button.,Bingo Fuel -,Comb Bingo -
+AH-94_mfd_altitudeSettings:T3,Label for an MFD button (short!).,BACK,VOLVER
+AH-94_mfd_altitudeSettings:T3_tooltip,Tooltip for an MFD button.,Back,Volver
 AH-94_mfd_altitudeSettings:L3_tooltip,Tooltip for an MFD button.,Min Alt +,
 AH-94_mfd_altitudeSettings:L4_tooltip,Tooltip for an MFD button.,Min Alt -,
 AH-94_mfd_altitudeSettings:R3_tooltip,Tooltip for an MFD button.,Max Alt +,
 AH-94_mfd_altitudeSettings:R4_tooltip,Tooltip for an MFD button.,Max Alt -,
-AH-94_mfd_altitudeSettings:L2_tooltip,Tooltip for an MFD button.,Toggle Alt Mode,
-870L Fuel Drop Tank_fullName,Full equip name of: 870L Fuel Drop Tank,870L Fuel Drop Tank,
-870L Fuel Drop Tank_description,Item description of: 870L Fuel Drop Tank,870 liter external fuel tank.,
+AH-94_mfd_altitudeSettings:L2_tooltip,Tooltip for an MFD button.,Toggle Alt Mode,Alternar Modo Altitud
+870L Fuel Drop Tank_fullName,Full equip name of: 870L Fuel Drop Tank,870L Fuel Drop Tank,Tanque extenro 870L
+870L Fuel Drop Tank_description,Item description of: 870L Fuel Drop Tank,870 liter external fuel tank.,Un tanque de combustible de 870 litros
 AGM-126 SideARM II x1_fullName,Full equip name of: AGM-126 SideARM II x1,AGM-126 SideARM II x1,
-AGM-126 SideARM II x1_description,Item description of: AGM-126 SideARM II x1,Compact short range anti-radiation missile based on the AIM-9x.,
-GBU-39 SD Bomb x3_fullName,Full equip name of: GBU-39 SD Bomb x3,GBU-39 SD Bomb x3,
-GBU-39 SD Bomb x3_description,Item description of: GBU-39 SD Bomb x3,GPS guided small diameter bomb. It has built-in folding wings that allow it to glide for long distances and hit targets with precision.,
-tutName_Vertical Flight,Name of a legacy tutorial objective,Vertical Flight,
-tutDesc_Vertical Flight,Description of a legacy tutorial,Complete the Vertical Flight tutorial.,
-tut:Vertical Flight:Intro10,A tutorial label,Welcome to the Vertical Flight autopilot training.,
-tut:Vertical Flight:Intro21,A tutorial label,"Vertical flight can be tricky, but by using the AP, you will be a master in no time.",
-tut:Vertical Flight:CheckTilt2,A tutorial label,"First, make sure the engines are tilted at 90 degrees.",
-tut:Vertical Flight:CheckTilt3,A tutorial label,"First, make sure the engines are tilted at 90 degrees.",
-tut:Vertical Flight:EnableHVR4,A tutorial label,Enable HVR mode.,
-tut:Vertical Flight:EnableALT5,A tutorial label,Enable ALT mode.,
-tut:Vertical Flight:HVRInfo6,A tutorial label,The HVR mode will assist you in staying upright and keeping your horizontal velocity under control.,
-tut:Vertical Flight:ALTInfo7,A tutorial label,The ALT mode will take control of the engines and convert inputs into climb or descent rates.,
-tut:Vertical Flight:ALTInfo28,A tutorial label,Keeping your throttle centered will hold a hover,
-tut:Vertical Flight:ALTInfo39,A tutorial label,Raise or lower the throttle to climb or descend,
-tut:Vertical Flight:AltThrottleInfo10,A tutorial label,Altitude Control Status,
-tut:Vertical Flight:DontTilt11,A tutorial label,Keep your left thumb away from the tilt control.,
-tut:Vertical Flight:DontTilt212,A tutorial label,Any engine tilt less than 90 will disengage HVR AP,
-tut:Vertical Flight:TakeOffNow13,A tutorial label,Lift throttle now.  Climb to {50} altitude.,
-tut:Vertical Flight:HoldAltitude14,A tutorial label,Now set your throttle lever to the midpoint to hover.,
-tut:Vertical Flight:HoverInfo15,A tutorial label,You should now be in a stable hover,
-tut:Vertical Flight:HoverInfo216,A tutorial label,You can make adjustments to the throttle to climb or descend as needed.,
-tut:Vertical Flight:LatMovementInfo17,A tutorial label,Now you can use the joystick to move around,
-tut:Vertical Flight:LatMovementInfo218,A tutorial label,The HVR autopilot will handle attitude control,
-tut:Vertical Flight:LatMovementInfo319,A tutorial label,You just have to tilt the joystick in the direction you want to go,
-tut:Vertical Flight:LatMovementInfo420,A tutorial label,You can also twist the joystick to yaw,
-tut:Vertical Flight:LatMovementHUD21,A tutorial label,Horizontal Velocity Indicator,
-tut:Vertical Flight:StudyMovement22,A tutorial label,"As you move around, study how the AP handles the vehicle",
-tut:Vertical Flight:StartTargets23,A tutorial label,Let's try flying into some targets.,
-tut:Vertical Flight:HoverWaypoint024,A tutorial label,Hover here!,
-tut:Vertical Flight:HoverWaypoint125,A tutorial label,Hover here!,
-tut:Vertical Flight:HoverWaypoint226,A tutorial label,Hover here!,
-tut:Vertical Flight:HoverWaypoint327,A tutorial label,Hover here!,
-tut:Vertical Flight:GoodJob28,A tutorial label,Great! Now lets try to land back on the helipad.,
-tut:Vertical Flight:StopBeforeLand29,A tutorial label,"Bring yourself to a stop by centering the throttle, and steering the stick in the opposite direction as your horizontal velocity indicator.",
-tut:Vertical Flight:FaceLanding30,A tutorial label,Rotate to face towards the helipads.,
-tut:Vertical Flight:HeadTowardPad31,A tutorial label,Begin to move towards the pad.  Adjust your altitude control and steer so your velocity vector is pointed just above the pad.,
-tut:Vertical Flight:AlmostLand32,A tutorial label,Slow your forward speed and rate of descent.,
-tut:Vertical Flight:Land33,A tutorial label,Adjust rate of descent to bring it down gently.,
-tut:Vertical Flight:Touchdown34,A tutorial label,Touch down!  Throttle down and enable brake locks.,
-tut:Vertical Flight:Brake Locks35,A tutorial label,Enable brake lock.,
-tut:Vertical Flight:Congrats36,A tutorial label,Congratulations!  Next time: Manual vertical flight and transitioning.,
+AGM-126 SideARM II x1_description,Item description of: AGM-126 SideARM II x1,Compact short range anti-radiation missile based on the AIM-9x.,"Misil compacto basado en el AIM-9x, anti-radiación de corto alcance"
+GBU-39 SD Bomb x3_fullName,Full equip name of: GBU-39 SD Bomb x3,GBU-39 SD Bomb x3,Bomba GBU-39 SD x3
+GBU-39 SD Bomb x3_description,Item description of: GBU-39 SD Bomb x3,GPS guided small diameter bomb. It has built-in folding wings that allow it to glide for long distances and hit targets with precision.,Bombas de pequeño diámetro guiado por GPS. Tiene alas integradas que le permite planear largas distancias y golpear objetivos con precisión
+tutName_Vertical Flight,Name of a legacy tutorial objective,Vertical Flight,Vuelo Vertical
+tutDesc_Vertical Flight,Description of a legacy tutorial,Complete the Vertical Flight tutorial.,Completa el tutorial de Vuelo Vertical.
+tut:Vertical Flight:Intro10,A tutorial label,Welcome to the Vertical Flight autopilot training.,Bienvenido al entrenamiento de Vuelo Vertical con Piloto Automático
+tut:Vertical Flight:Intro21,A tutorial label,"Vertical flight can be tricky, but by using the AP, you will be a master in no time.","El vuelo vertical puede ser complicado, pero usando el PA, lo dominarás en nada."
+tut:Vertical Flight:CheckTilt2,A tutorial label,"First, make sure the engines are tilted at 90 degrees.","Primero, asegurate de que los motores estén a 90 grados de inclinación."
+tut:Vertical Flight:CheckTilt3,A tutorial label,"First, make sure the engines are tilted at 90 degrees.","Primero, asegurate de que los motores estén a 90 grados de inclinación."
+tut:Vertical Flight:EnableHVR4,A tutorial label,Enable HVR mode.,Habilita el modo HVR.
+tut:Vertical Flight:EnableALT5,A tutorial label,Enable ALT mode.,Habilita el modo ALT.
+tut:Vertical Flight:HVRInfo6,A tutorial label,The HVR mode will assist you in staying upright and keeping your horizontal velocity under control.,El modo HVR te asistirá en mantenerte erecto y manteniendo tu velocidad vertical bajo control.
+tut:Vertical Flight:ALTInfo7,A tutorial label,The ALT mode will take control of the engines and convert inputs into climb or descent rates.,El modo ALT tomará el control de los motores y convertirá el input en subidas y descensos.
+tut:Vertical Flight:ALTInfo28,A tutorial label,Keeping your throttle centered will hold a hover,Mantener tu acelerador centrado mantendrá vuelo estacionario
+tut:Vertical Flight:ALTInfo39,A tutorial label,Raise or lower the throttle to climb or descend,Elevar o bajar el acelerador hace que suba o baje
+tut:Vertical Flight:AltThrottleInfo10,A tutorial label,Altitude Control Status,Estado del Control de Altitud
+tut:Vertical Flight:DontTilt11,A tutorial label,Keep your left thumb away from the tilt control.,Mantén tu pulgar izquierdo alejado del control de inclinación.
+tut:Vertical Flight:DontTilt212,A tutorial label,Any engine tilt less than 90 will disengage HVR AP,Cualquier motor inclinado menos de 90 grados desactivará el HVR PA
+tut:Vertical Flight:TakeOffNow13,A tutorial label,Lift throttle now.  Climb to {50} altitude.,Eleva el acelerador. Sube a {50} de altitud.
+tut:Vertical Flight:HoldAltitude14,A tutorial label,Now set your throttle lever to the midpoint to hover.,Ahora vuelve a dejarlo en medio para volar estacionario.
+tut:Vertical Flight:HoverInfo15,A tutorial label,You should now be in a stable hover,Ahora deberías estar volando estable y quieto.
+tut:Vertical Flight:HoverInfo216,A tutorial label,You can make adjustments to the throttle to climb or descend as needed.,Puedes hacer ajustes al acelerador para subir o bajar como desees.
+tut:Vertical Flight:LatMovementInfo17,A tutorial label,Now you can use the joystick to move around,Ahora puedes usar el joystick para moverte
+tut:Vertical Flight:LatMovementInfo218,A tutorial label,The HVR autopilot will handle attitude control,EL piloto Automático HVR se encargará del control de altitud
+tut:Vertical Flight:LatMovementInfo319,A tutorial label,You just have to tilt the joystick in the direction you want to go,Solo tienes que inclinar el joystick en la dirección a la que quieres ir
+tut:Vertical Flight:LatMovementInfo420,A tutorial label,You can also twist the joystick to yaw,También puedes girar el joystick para hacer guiñada
+tut:Vertical Flight:LatMovementHUD21,A tutorial label,Horizontal Velocity Indicator,Indicador Horizontal de Velocidad
+tut:Vertical Flight:StudyMovement22,A tutorial label,"As you move around, study how the AP handles the vehicle","Mientras te mueves, aprende como el PA maneja el vehículo"
+tut:Vertical Flight:StartTargets23,A tutorial label,Let's try flying into some targets.,Vamos a intentar volar hacia a algunos objetivos.
+tut:Vertical Flight:HoverWaypoint024,A tutorial label,Hover here!,¡Vuela estacionariamente aquí!
+tut:Vertical Flight:HoverWaypoint125,A tutorial label,Hover here!,¡Vuela estacionariamente aquí!
+tut:Vertical Flight:HoverWaypoint226,A tutorial label,Hover here!,¡Vuela estacionariamente aquí!
+tut:Vertical Flight:HoverWaypoint327,A tutorial label,Hover here!,¡Vuela estacionariamente aquí!
+tut:Vertical Flight:GoodJob28,A tutorial label,Great! Now lets try to land back on the helipad.,¡Genial! Ahora provemos a volver a aterrizar en el helipuerto.
+tut:Vertical Flight:StopBeforeLand29,A tutorial label,"Bring yourself to a stop by centering the throttle, and steering the stick in the opposite direction as your horizontal velocity indicator.",Párate centrando el acelerador y moviendo el joystick en la dirección opuesta del indicador horizontal de velocidad.
+tut:Vertical Flight:FaceLanding30,A tutorial label,Rotate to face towards the helipads.,Rota y encarate al helipuerto.
+tut:Vertical Flight:HeadTowardPad31,A tutorial label,Begin to move towards the pad.  Adjust your altitude control and steer so your velocity vector is pointed just above the pad.,Empieza a moverte hacia el aparcamiento. Ajusta el control de altitud y muevete para que tu vector de velocidad apunte justo encima del helipuerto.
+tut:Vertical Flight:AlmostLand32,A tutorial label,Slow your forward speed and rate of descent.,.Reduce tu velocidad y ratio de descenso.
+tut:Vertical Flight:Land33,A tutorial label,Adjust rate of descent to bring it down gently.,Ajusta el ratio de descenso para bajarlo lentamente.
+tut:Vertical Flight:Touchdown34,A tutorial label,Touch down!  Throttle down and enable brake locks.,¡Aterrizado! Baja el acelerador y pon el freno de mano.
+tut:Vertical Flight:Brake Locks35,A tutorial label,Enable brake lock.,Pon el freno de mano.
+tut:Vertical Flight:Congrats36,A tutorial label,Congratulations!  Next time: Manual vertical flight and transitioning.,¡Enhorabuena! Siguiente: Manual de vuelo vertical y transicionarmiento.
 PGM-27 x19_fullName,Full equip name of: PGM-27 x19,PGM-27 x19,
 PGM-27 x19_description,Item description of: PGM-27 x19,"A rack of 2.75 inch rockets which have been fitted with a laser guidance package, turning them into precision guided munitions.
-Requires continuous lock for guidance (not fire-and-forget).",
+Requires continuous lock for guidance (not fire-and-forget).","Un Pilón de cohetes de 2.75 pulgadas al que se les ha acomodado un paquete de guiado láser, convirtiendolos en municiones guiadas precisas.
+Requiere visual continuo con el objetivo"
 EUCAV GUN_fullName,Full equip name of: EUCAV GUN,EUCAV GUN,
 EUCAV GUN_description,Item description of: EUCAV GUN,EUCAV GUN,
-eqSublabel_GPS-BOMB-INTERNAL,HUD sub-label of an equip,GPS BOMB INTERNAL,
-Mk.82 Bomb x3_fullName,Full equip name of: Mk.82 Bomb x3,Mk.82 Bomb x3,
-Mk.82 Bomb x3_description,Item description of: Mk.82 Bomb x3,Standard un-guided 500lb bombs.,
+eqSublabel_GPS-BOMB-INTERNAL,HUD sub-label of an equip,GPS BOMB INTERNAL,BOMBA GPS INTERNA
+Mk.82 Bomb x3_fullName,Full equip name of: Mk.82 Bomb x3,Mk.82 Bomb x3,Bomba Mk.82 x3
+Mk.82 Bomb x3_description,Item description of: Mk.82 Bomb x3,Standard un-guided 500lb bombs.,Bombas estandar de 500lb sin guiado.
 ASF-SRM-RA x2_fullName,Full equip name of: ASF-SRM-RA x2,ASF-SRM-RA x2,
-ASF-SRM-RA x2_description,Item description of: ASF-SRM-RA x2,A rack of two older rear-aspect heat-seeking anti-air missiles.,
+ASF-SRM-RA x2_description,Item description of: ASF-SRM-RA x2,A rack of two older rear-aspect heat-seeking anti-air missiles.,Un pilón de 2 misiles de generación anterior Aire-Aire Guiado por calor de aspecto trasero.
 AGM-114 x4_fullName,Full equip name of: AGM-114 x4,AGM-114 x4,
 AGM-114 x4_description,Item description of: AGM-114 x4,"A rack of 4 laser guided anti-tank missiles.
-Requires continuous lock for guidance (not fire-and-forget).",
-Mk-82AIR High Drag Bomb x2_fullName,Full equip name of: Mk-82AIR High Drag Bomb x2,Mk-82AIR High Drag Bomb x2,
-Mk-82AIR High Drag Bomb x2_description,Item description of: Mk-82AIR High Drag Bomb x2,Standard un-guided 500lb bombs. Deploys an inflatable drag chute to slow descent for low altitude bombing.,
+Requires continuous lock for guidance (not fire-and-forget).","Un pilón de 4 misiles anti-tanque guiados por láser.
+Requiere visual contino con el objetivo."
+Mk-82AIR High Drag Bomb x2_fullName,Full equip name of: Mk-82AIR High Drag Bomb x2,Mk-82AIR High Drag Bomb x2,Bomba Mk-82AIR x2
+Mk-82AIR High Drag Bomb x2_description,Item description of: Mk-82AIR High Drag Bomb x2,Standard un-guided 500lb bombs. Deploys an inflatable drag chute to slow descent for low altitude bombing.,Bomba estandar de 500lb sin guiado. Despliega un paracaídas de descenso lento para bombardeos a baja altitud.
 GMA-6 x2_fullName,Full equip name of: GMA-6 x2,GMA-6 x2,
-GMA-6 x2_description,Item description of: GMA-6 x2,"A medium range optically guided ""fire-and-forget"" anti-tank missile.",
-GBU-39 SD Bomb x4_fullName,Full equip name of: GBU-39 SD Bomb x4,GBU-39 SD Bomb x4,
-GBU-39 SD Bomb x4_description,Item description of: GBU-39 SD Bomb x4,GPS guided small diameter bomb. It has built-in folding wings that allow it to glide for long distances and hit targets with precision.,
+GMA-6 x2_description,Item description of: GMA-6 x2,"A medium range optically guided ""fire-and-forget"" anti-tank missile.",Un misil anti-tanque de medio alcance ópticamente guiado (fire-and-forget).
+GBU-39 SD Bomb x4_fullName,Full equip name of: GBU-39 SD Bomb x4,GBU-39 SD Bomb x4,Bomba GBU-29 SD x4
+GBU-39 SD Bomb x4_description,Item description of: GBU-39 SD Bomb x4,GPS guided small diameter bomb. It has built-in folding wings that allow it to glide for long distances and hit targets with precision.,Bomba guiada por GPS de pequeño diámetro. Tiene unas alas que le permite planear a grandes distancias y alcanzar el objetivo con precisión
 BSM-66LR_fullName,Full equip name of: BSM-66LR,BSM-66LR,
-BSM-66LR_description,Item description of: BSM-66LR,Standard semi-active radar-guided surface to air missile. Equipped with first stage booster for extended range.,
+BSM-66LR_description,Item description of: BSM-66LR,Standard semi-active radar-guided surface to air missile. Equipped with first stage booster for extended range.,"Misil Tierra-Aire estandar guiado por radar semi-activo.
+Equipado con un impulsor de primera etapa para un rango extendido."
 ASF-SRM x3_fullName,Full equip name of: ASF-SRM x3,ASF-SRM x3,
-ASF-SRM x3_description,Item description of: ASF-SRM x3,A rack of three standard heat-seeking anti-air missiles.,
-eqSublabel_LASER-BOMB-INTERNAL,HUD sub-label of an equip,LASER BOMB INTERNAL,
+ASF-SRM x3_description,Item description of: ASF-SRM x3,A rack of three standard heat-seeking anti-air missiles.,Un pilón de tres misiles estandar guiado por calor anti aéreo
+eqSublabel_LASER-BOMB-INTERNAL,HUD sub-label of an equip,LASER BOMB INTERNAL,BOMBA LASER INTERNA
 AGM-145 Ballista x2_fullName,Full equip name of: AGM-145 Ballista x2,AGM-145 Ballista x2,
-AGM-145 Ballista x2_description,Item description of: AGM-145 Ballista x2,"Small anti-tank missiles with advanced optics, ""fire and forget"", and smart self-targeting technology. Can be fired without line of sight to the designated target point, and will acquire hostile targets automatically.",
+AGM-145 Ballista x2_description,Item description of: AGM-145 Ballista x2,"Small anti-tank missiles with advanced optics, ""fire and forget"", and smart self-targeting technology. Can be fired without line of sight to the designated target point, and will acquire hostile targets automatically.","Pequeño misil anti-tanque con ópticas avanzadas, """"tira y olvida"""" y tecnología inteligente de auto-asignación de objetivo. Puede ser disparado sin lina de visión al punto objetivo designado y el misil adquirirá el objetivo automaticamente.""
+eqSublabel_OPTICAL-FAF,HUD sub-label of an equip,OPTICAL FAF,"
 AGM-188 MARM_fullName,Full equip name of: AGM-188 MARM,AGM-188 MARM,
-AGM-188 MARM_description,Item description of: AGM-188 MARM,Medium range anti-radiation missile with a unique top down attack angle.,
+AGM-188 MARM_description,Item description of: AGM-188 MARM,Medium range anti-radiation missile with a unique top down attack angle.,Misil anti-radiación de medio alcance con ángulo de ataque descendente.
 ASRM-93 x2_fullName,Full equip name of: ASRM-93 x2,ASRM-93 x2,
-ASRM-93 x2_description,Item description of: ASRM-93 x2,Heat seeking short range air to air missiles.  Internally stowed.,
+ASRM-93 x2_description,Item description of: ASRM-93 x2,Heat seeking short range air to air missiles.  Internally stowed.,Misil Aire-Aire guiado por calor de corto alcance. Almacenado internamente.
 AGM-145 Ballista x3_fullName,Full equip name of: AGM-145 Ballista x3,AGM-145 Ballista x3,
-AGM-145 Ballista x3_description,Item description of: AGM-145 Ballista x3,"Small anti-tank missiles with advanced optics, ""fire and forget"", and smart self-targeting technology. Can be fired without line of sight to the designated target point, and will acquire hostile targets automatically.",
+AGM-145 Ballista x3_description,Item description of: AGM-145 Ballista x3,"Small anti-tank missiles with advanced optics, ""fire and forget"", and smart self-targeting technology. Can be fired without line of sight to the designated target point, and will acquire hostile targets automatically.","Pequeño misil anti-tanque con ópticas avanzadas, """"tira y olvida"""" y tecnología inteligente de auto-asignación de objetivo. Puede ser disparado sin lina de visión al punto objetivo designado y el misil adquirirá el objetivo automaticamente.
+eqSublabel_OPTICAL-FAF,HUD sub-label of an equip,OPTICAL FAF,"
 ASF-SRM-RA x3_fullName,Full equip name of: ASF-SRM-RA x3,ASF-SRM-RA x3,
-ASF-SRM-RA x3_description,Item description of: ASF-SRM-RA x3,A rack of three older rear-aspect heat-seeking anti-air missiles.,
+ASF-SRM-RA x3_description,Item description of: ASF-SRM-RA x3,A rack of three older rear-aspect heat-seeking anti-air missiles.,Un pilón de tres misiles de generación anterior anti-aéreo guiado por calor de aspecto trasero.
 Backstop_fullName,Full equip name of: Backstop,Backstop,
-Backstop_description,Item description of: Backstop,Standard semi-active radar-guided surface to air missile.,
+Backstop_description,Item description of: Backstop,Standard semi-active radar-guided surface to air missile.,Misil estandar Tierra-Aire guiado por radar semi-activo.
 ASMRM-1 x1_fullName,Full equip name of: ASMRM-1 x1,ASMRM-1 x1,
-ASMRM-1 x1_description,Item description of: ASMRM-1 x1,"Older, medium range semi-active radar air to air missile. Requires radar lock until intercept.",
+ASMRM-1 x1_description,Item description of: ASMRM-1 x1,"Older, medium range semi-active radar air to air missile. Requires radar lock until intercept.","De generacion anterior, misil Aire-Aire de medio alcance por radar semi-activo.
+Requiere bloqueo de radar hasta interceptar."
 AIM-9E Sidewinder_fullName,Full equip name of: AIM-9E Sidewinder,AIM-9E Sidewinder,
-AIM-9E Sidewinder_description,Item description of: AIM-9E Sidewinder,"A single AIM-9E. An older short range, rear-aspect, heat seeking air to air missile.",
-Hydra-70 x14 Rocket Pod_fullName,Full equip name of: Hydra-70 x14 Rocket Pod,Hydra-70 x14 Rocket Pod,
-Hydra-70 x14 Rocket Pod_description,Item description of: Hydra-70 x14 Rocket Pod,"A pair of pods carrying a total of 14 high explosive rockets.  Can be fired in single shot mode, or rapid fire (ripple).",
-mfdpOpenMenu,Tooltip for button that opens a menu.,Open Menu,
-mfdpBLANK,Label for a minimized MFD portal that is empty. Opens the portal menu.,BLANK,
-MFDPortalHome_MFDPortalPage_pageName,MFD portal page name,Menu,
-MFDPortalHome_MFDPortalPage_pageLabel,MFD portal page button label,MENU,
-MapMFDPage_MFDPortalPage_pageName,MFD portal page name,Nav Map,
+AIM-9E Sidewinder_description,Item description of: AIM-9E Sidewinder,"A single AIM-9E. An older short range, rear-aspect, heat seeking air to air missile.","Un solo AIM-9E. Misil de generación anterior, guiado por calor de aspecto trasero y corto alcance."
+Hydra-70 x14 Rocket Pod_fullName,Full equip name of: Hydra-70 x14 Rocket Pod,Hydra-70 x14 Rocket Pod,Contenedor de Cohetes Hydra-70 x14
+Hydra-70 x14 Rocket Pod_description,Item description of: Hydra-70 x14 Rocket Pod,"A pair of pods carrying a total of 14 high explosive rockets.  Can be fired in single shot mode, or rapid fire (ripple).",Un par de contenedores llevando un total de 14 cohetes AE. Puede ser disparado en semi o ráfaga.
+mfdpOpenMenu,Tooltip for button that opens a menu.,Open Menu,Abrir Menú
+mfdpBLANK,Label for a minimized MFD portal that is empty. Opens the portal menu.,BLANK,VACÍO
+MFDPortalHome_MFDPortalPage_pageName,MFD portal page name,Menu,Menú
+MFDPortalHome_MFDPortalPage_pageLabel,MFD portal page button label,MENU,MENU
+MapMFDPage_MFDPortalPage_pageName,MFD portal page name,Nav Map,Map Nav
 MapMFDPage_MFDPortalPage_pageLabel,MFD portal page button label,NAV,
-ObjectivesPage_MFDPortalPage_pageName,MFD portal page name,Objectives,
-ObjectivesPage_MFDPortalPage_pageLabel,MFD portal page button label,OBJCTV,
-SCamPage_MFDPortalPage_pageName,MFD portal page name,SpectatorCam,
-SCamPage_MFDPortalPage_pageLabel,MFD portal page button label,S-CAM,
+ObjectivesPage_MFDPortalPage_pageName,MFD portal page name,Objectives,Objetivos
+ObjectivesPage_MFDPortalPage_pageLabel,MFD portal page button label,OBJCTV,OBJETV
+SCamPage_MFDPortalPage_pageName,MFD portal page name,SpectatorCam,CamEspectador
+SCamPage_MFDPortalPage_pageLabel,MFD portal page button label,S-CAM,E-CAM
 RWRPage_MFDPortalPage_pageName,MFD portal page name,RWR,
 RWRPage_MFDPortalPage_pageLabel,MFD portal page button label,RWR,
-OptionsPage_MFDPortalPage_pageName,MFD portal page name,Vehicle Options,
-OptionsPage_MFDPortalPage_pageLabel,MFD portal page button label,OPTS,
-F-45A_mfd_altitudeSettings:T5_tooltip,Tooltip for an MFD button.,Back,
+OptionsPage_MFDPortalPage_pageName,MFD portal page name,Vehicle Options,Opciones Vehiculo
+OptionsPage_MFDPortalPage_pageLabel,MFD portal page button label,OPTS,OPCS
+F-45A_mfd_altitudeSettings:T5_tooltip,Tooltip for an MFD button.,Back,Volver
 F-45A_mfd_altitudeSettings:L3_tooltip,Tooltip for an MFD button.,Min Alt +,
 F-45A_mfd_altitudeSettings:L4_tooltip,Tooltip for an MFD button.,Min Alt -,
 F-45A_mfd_altitudeSettings:R3_tooltip,Tooltip for an MFD button.,Max Alt +,
 F-45A_mfd_altitudeSettings:R4_tooltip,Tooltip for an MFD button.,Max Alt -,
-F-45A_mfd_altitudeSettings:L2_tooltip,Tooltip for an MFD button.,Toggle Alt Mode,
-StoresManagementPage_MFDPortalPage_pageName,MFD portal page name,Stores Mgmt Sys,
+F-45A_mfd_altitudeSettings:L2_tooltip,Tooltip for an MFD button.,Toggle Alt Mode,Alternar Modo Alt
+StoresManagementPage_MFDPortalPage_pageName,MFD portal page name,Stores Mgmt Sys,Guardar Sis. Gest.
 StoresManagementPage_MFDPortalPage_pageLabel,MFD portal page button label,SMS,
 s_sms_mode_0,SMS mode button labels,Config,
-s_sms_mode_1,SMS mode button labels,Arming,
-s_sms_mode_2,SMS mode button labels,Jettison,
-s_sms_armed,Armed label for an equip in the SMS config view.,[ ARMED ],
-s_sms_disarmed,Disarmed label for an equip in the SMS config view.,DISARMED,
-s_sms_jettison,Jettison label for an equip in the SMS config view.,JETTISON,
-s_sms_optionToggle,Tooltip prefix for SMS equipment option toggles,Toggle,
-s_sms_optionRipple,Ripple button label for SMS equipment option.,Ripple,
-s_sms_rippleSingle,Label for ripple setting set to single-fire (no ripple),Single,
-s_bdo_open,SMS bay door override in OPEN position,OPEN,
+s_sms_mode_1,SMS mode button labels,Arming,Armar
+s_sms_mode_2,SMS mode button labels,Jettison,Solar
+s_sms_armed,Armed label for an equip in the SMS config view.,[ ARMED ],[ ARMADO ]
+s_sms_disarmed,Disarmed label for an equip in the SMS config view.,DISARMED,DESARMADO
+s_sms_jettison,Jettison label for an equip in the SMS config view.,JETTISON,SOLTAR
+s_sms_optionToggle,Tooltip prefix for SMS equipment option toggles,Toggle,Alternar
+s_sms_optionRipple,Ripple button label for SMS equipment option.,Ripple,Ráfaga
+s_sms_rippleSingle,Label for ripple setting set to single-fire (no ripple),Single,Semi
+s_bdo_open,SMS bay door override in OPEN position,OPEN,ABIERTO
 s_bdo_auto,SMS bay door override in AUTO position,AUTO,
 RadarDisplay_MFDPortalPage_pageName,MFD portal page name,Radar,
 RadarDisplay_MFDPortalPage_pageLabel,MFD portal page button label,RADAR,
-GPSSystem_MFDPortalPage_pageName,MFD portal page name,GPS Targets,
+GPSSystem_MFDPortalPage_pageName,MFD portal page name,GPS Targets,Objetivos GPS
 GPSSystem_MFDPortalPage_pageLabel,MFD portal page button label,GPST,
-EOTSPortalPage_MFDPortalPage_pageName,MFD portal page name,EO Targeting,
+EOTSPortalPage_MFDPortalPage_pageName,MFD portal page name,EO Targeting,Apuntado EO
 EOTSPortalPage_MFDPortalPage_pageLabel,MFD portal page button label,EOTS,
-MFDCommsMenu_MFDPortalPage_pageName,MFD portal page name,Communications,
+MFDCommsMenu_MFDPortalPage_pageName,MFD portal page name,Communications,Comunicaciones
 MFDCommsMenu_MFDPortalPage_pageLabel,MFD portal page button label,COMMS,
-GameMenuPage_MFDPortalPage_pageName,MFD portal page name,Game Menu,
-GameMenuPage_MFDPortalPage_pageLabel,MFD portal page button label,GAME,
-TacticalSituationDisplay_MFDPortalPage_pageName,MFD portal page name,Tactical Situation Display,
-TacticalSituationDisplay_MFDPortalPage_pageLabel,MFD portal page button label,TSD,
-AIM-120 Advanced Radar Missile x2_fullName,Full equip name of: AIM-120 Advanced Radar Missile x2,AIM-120 Advanced Radar Missile x2,
-AIM-120 Advanced Radar Missile x2_description,Item description of: AIM-120 Advanced Radar Missile x2,A rack of two radar guided medium range air to air missiles.,
-fa26_loadout_extFuelL,External Fuel Left,Ext fuel l,
-fa26_loadout_extFuelR,External Fuel Right,Ext fuel r,
-fa26_loadout_extFuelC,External Fuel Centerline,Ext fuel center,
-fa26_loadout_extSensor,External Sensor,Ext sensor,
-fa26_loadout_cft,Conformal Fuel Tank,Cft,
-Mk.82 Bomb x2_fullName,Full equip name of: Mk.82 Bomb x2,Mk.82 Bomb x2,
-Mk.82 Bomb x2_description,Item description of: Mk.82 Bomb x2,Two standard un-guided 500lb bombs.,
-eqSublabel_BOMB-INTERNAL,HUD sub-label of an equip,BOMB INTERNAL,
+GameMenuPage_MFDPortalPage_pageName,MFD portal page name,Game Menu,Menú Juego
+GameMenuPage_MFDPortalPage_pageLabel,MFD portal page button label,GAME,JUEGO
+TacticalSituationDisplay_MFDPortalPage_pageName,MFD portal page name,Tactical Situation Display,Pantalla de Situación Táctica
+TacticalSituationDisplay_MFDPortalPage_pageLabel,MFD portal page button label,TSD,PST
+AIM-120 Advanced Radar Missile x2_fullName,Full equip name of: AIM-120 Advanced Radar Missile x2,AIM-120 Advanced Radar Missile x2,Misil de Radar Avanzado AIM-120 x2
+AIM-120 Advanced Radar Missile x2_description,Item description of: AIM-120 Advanced Radar Missile x2,A rack of two radar guided medium range air to air missiles.,Un pilón de 2 misiles Aire-Aire de medio alcance guiado por radar
+fa26_loadout_extFuelL,External Fuel Left,Ext fuel l,Comb Ext I
+fa26_loadout_extFuelR,External Fuel Right,Ext fuel r,Comb Ext D
+fa26_loadout_extFuelC,External Fuel Centerline,Ext fuel center,Comb Ext Central
+fa26_loadout_extSensor,External Sensor,Ext sensor,Sensor Ext
+fa26_loadout_cft,Conformal Fuel Tank,Cft,Tcc
+Mk.82 Bomb x2_fullName,Full equip name of: Mk.82 Bomb x2,Mk.82 Bomb x2,Bomba Mk.82 x2
+Mk.82 Bomb x2_description,Item description of: Mk.82 Bomb x2,Two standard un-guided 500lb bombs.,"Dos bombas estandar de 500lb sin guiado "
+eqSublabel_BOMB-INTERNAL,HUD sub-label of an equip,BOMB INTERNAL,INTERNO BOMBAS
 GAU-8 Avenger_fullName,Full equip name of: GAU-8 Avenger,GAU-8 Avenger,
-GAU-8 Avenger_description,Item description of: GAU-8 Avenger,"A 30mm, 7-barrel rotary cannon. Fires depleted uranium rounds at a high rate of fire.",
-AN/APG-108 Fire Control Radar_fullName,Full equip name of: AN/APG-108 Fire Control Radar,AN/APG-108 Fire Control Radar,
-AN/APG-108 Fire Control Radar_description,Item description of: AN/APG-108 Fire Control Radar,"A millimeter-wave radar housed and mounted over the main rotor. This radar can be used to scan land, sea, and air to detect, track, and classify multiple targets. Its high mounting point allows it to be used while the vehicle remains behind cover.",
+GAU-8 Avenger_description,Item description of: GAU-8 Avenger,"A 30mm, 7-barrel rotary cannon. Fires depleted uranium rounds at a high rate of fire.",Cañón de 7 cañones de 30mm. Dispara balas de uranio empobrecido a una alta cadencia de fuego.
+AN/APG-108 Fire Control Radar_fullName,Full equip name of: AN/APG-108 Fire Control Radar,AN/APG-108 Fire Control Radar,Radar Contro de Tiro AN/APG-108
+AN/APG-108 Fire Control Radar_description,Item description of: AN/APG-108 Fire Control Radar,"A millimeter-wave radar housed and mounted over the main rotor. This radar can be used to scan land, sea, and air to detect, track, and classify multiple targets. Its high mounting point allows it to be used while the vehicle remains behind cover.","Un radar de ondas milimétricas alojado y montado sobre el rotor principal. Este radar puede escanear tierra, mar y aire para detectar, seguir y clasificar múltiples objetivos. Su posición elevada permite su uso mientras el vehículo permanece cubierto."
 SB-1 x32_fullName,Full equip name of: SB-1 x32,SB-1 x32,
-SB-1 x32_description,Item description of: SB-1 x32,A rack of 32 standard un-guided 500lb bombs.,
-AIRS-T Advanced SRM_fullName,Full equip name of: AIRS-T Advanced SRM,AIRS-T Advanced SRM,
+SB-1 x32_description,Item description of: SB-1 x32,A rack of 32 standard un-guided 500lb bombs.,Un Pilón de 32 bombas de 500lb sin guiado.
+AIRS-T Advanced SRM_fullName,Full equip name of: AIRS-T Advanced SRM,AIRS-T Advanced SRM,AIRS-T avanzado SRM
 AIRS-T Advanced SRM_description,Item description of: AIRS-T Advanced SRM,"Short range heat seeking air to air missile with thrust vectoring.
 Improved maneuverability, range, and counter-countermeasure system.
-Advanced technology allows it to intercept incoming missiles.",
-Mk-82AIR High Drag Bomb x1_fullName,Full equip name of: Mk-82AIR High Drag Bomb x1,Mk-82AIR High Drag Bomb x1,
-Mk-82AIR High Drag Bomb x1_description,Item description of: Mk-82AIR High Drag Bomb x1,Standard un-guided 500lb bomb. Deploys an inflatable drag chute to slow descent for low altitude bombing.,
+Advanced technology allows it to intercept incoming missiles.","Misil Aire-Aire de corto alcance guiado por calor con empuje vectorial. Maniobravilidad, rango y sistema contra-contramedidas mejorado. Su tecnología avanzada permite interceptar misiles entrantes."
+Mk-82AIR High Drag Bomb x1_fullName,Full equip name of: Mk-82AIR High Drag Bomb x1,Mk-82AIR High Drag Bomb x1,Bomba Mk-82AIR x1
+Mk-82AIR High Drag Bomb x1_description,Item description of: Mk-82AIR High Drag Bomb x1,Standard un-guided 500lb bomb. Deploys an inflatable drag chute to slow descent for low altitude bombing.,Bomba estandar de 500lb sin guiado. Despliega un paracaídas de descenso lento para bombardeos a baja altitud.
 ASF-SRM-RA x1_fullName,Full equip name of: ASF-SRM-RA x1,ASF-SRM-RA x1,
-ASF-SRM-RA x1_description,Item description of: ASF-SRM-RA x1,An older rear-aspect heat-seeking anti-air missile.,
-Mk.82 Bomb x4_fullName,Full equip name of: Mk.82 Bomb x4,Mk.82 Bomb x4,
-Mk.82 Bomb x4_description,Item description of: Mk.82 Bomb x4,Four standard un-guided 500lb bombs.,
+ASF-SRM-RA x1_description,Item description of: ASF-SRM-RA x1,An older rear-aspect heat-seeking anti-air missile.,Un misil anti-aéreo de generación anterior guiado por calor de aspecto trasero.
+Mk.82 Bomb x4_fullName,Full equip name of: Mk.82 Bomb x4,Mk.82 Bomb x4,Bomba Mk.82 x4
+Mk.82 Bomb x4_description,Item description of: Mk.82 Bomb x4,Four standard un-guided 500lb bombs.,Cuatro bombas estandar de 500lb sin guiado.
 ASMRM-7 x8 Internal_fullName,Full equip name of: ASMRM-7 x8 Internal,ASMRM-7 x8 Internal,
-ASMRM-7 x8 Internal_description,Item description of: ASMRM-7 x8 Internal,Medium range radar guided air to air missile. Missiles are stowed internally to improve stealth and aerodynamics.,
-Mk.83 Bomb x1_fullName,Full equip name of: Mk.83 Bomb x1,Mk.83 Bomb x1,
-Mk.83 Bomb x1_description,Item description of: Mk.83 Bomb x1,Standard un-guided 1000lb bomb.,
+ASMRM-7 x8 Internal_description,Item description of: ASMRM-7 x8 Internal,Medium range radar guided air to air missile. Missiles are stowed internally to improve stealth and aerodynamics.,Misil Aire-Aire guiado por radar de medio alcance. Los misiles están almacenados internamente para mejorar la furtividad y la aerodinámica
+Mk.83 Bomb x1_fullName,Full equip name of: Mk.83 Bomb x1,Mk.83 Bomb x1,Bomba Mk.83 x1
+Mk.83 Bomb x1_description,Item description of: Mk.83 Bomb x1,Standard un-guided 1000lb bomb.,Bomba estandar de 1000lb sin guiado.
 AGM-126 SideARM II x3_fullName,Full equip name of: AGM-126 SideARM II x3,AGM-126 SideARM II x3,
-AGM-126 SideARM II x3_description,Item description of: AGM-126 SideARM II x3,Compact short range anti-radiation missile based on the AIM-9x.,
+AGM-126 SideARM II x3_description,Item description of: AGM-126 SideARM II x3,Compact short range anti-radiation missile based on the AIM-9x.,Misil compacto anti-radiación de corto alcance basado en el AIM-9x
 AIM-9 Sidewinder_fullName,Full equip name of: AIM-9 Sidewinder,AIM-9 Sidewinder,
-AIM-9 Sidewinder_description,Item description of: AIM-9 Sidewinder,A standard short range heat seeking air to air missile.,
-MAD-4A Missile_fullName,Full equip name of: MAD-4A Missile,MAD-4A Missile,
-MAD-4A Missile_description,Item description of: MAD-4A Missile,Advanced active radar-guided missile built for the Mobile Air Defense launcher. It has a range of about 55km (30nm).,
-Mk-82 Bomb x1_fullName,Full equip name of: Mk-82 Bomb x1,Mk-82 Bomb x1,
-Mk-82 Bomb x1_description,Item description of: Mk-82 Bomb x1,Standard un-guided 500lb bomb.,
-s_cs_granted,Text in campaign selector,Granted,
-s_cs_budget,Text in campaign selector,Budget,
-s_cs_newMission,Text in campaign selector,New Mission:,
-s_cs_newTraining,Text in campaign selector,New Training:,
-s_cs_newEquip,Text in campaign selector,New Equipment:,
-s_cs_incompatibleVersion,Text in campaign selector,Incompatible game version,
-campaign_customScenarios,,Custom Scenarios,
-campaign_customScenarios_description,,Play custom scenarios created in the VTEditor.,
-campaign_ws,,Steam Workshop Scenarios,
-campaign_ws_description,,Play custom scenarios installed through Steam Workshop.,
-s_cInfo_completed,'x% [Completed]' text in campaign selector,Completed,
-GBU-38 Bomb x4_fullName,Full equip name of: GBU-38 Bomb x4,GBU-38 Bomb x4,
-GBU-38 Bomb x4_description,Item description of: GBU-38 Bomb x4,500lb GPS guided direct attack munition. It's a Mk.82 bomb with a guidance package strapped on.,
-tutName_Weapon Basics,Name of a legacy tutorial objective,Weapon Basics,
-tutDesc_Weapon Basics,Description of a legacy tutorial,Complete the tutorial.,
-tut:Weapon Basics:Intro10,A tutorial label,Welcome to the basic weapons tutorial.,
-tut:Weapon Basics:Intro21,A tutorial label,"Today, we will be covering weapon configuration, target acquisition, and firing weapons.",
-tut:Weapon Basics:Intro32,A tutorial label,Let's start by setting the MFDs to the pages we will use.,
-tut:Weapon Basics:MFD3GoHome3,A tutorial label,Go to HOME page.,
-tut:Weapon Basics:Open EQUIP4,A tutorial label,Open EQUIP,
-tut:Weapon Basics:MFD2GoHome5,A tutorial label,Go to HOME page.,
-tut:Weapon Basics:Open TGP6,A tutorial label,Open TGP,
-tut:Weapon Basics:MFD1GoHome7,A tutorial label,Go to HOME page.,
-tut:Weapon Basics:Open NAV8,A tutorial label,Open NAV,
+AIM-9 Sidewinder_description,Item description of: AIM-9 Sidewinder,A standard short range heat seeking air to air missile.,Un misil Aire-Aire estandar de corto alcance guiado por calor.
+MAD-4A Missile_fullName,Full equip name of: MAD-4A Missile,MAD-4A Missile,Misil MAD-4A
+MAD-4A Missile_description,Item description of: MAD-4A Missile,Advanced active radar-guided missile built for the Mobile Air Defense launcher. It has a range of about 55km (30nm).,Misil avanzado guiado por radar activo fabricado para el Lanzador Móvil de Defensa Aérea. Tiene un rango de unos 55km (30nm)
+Mk-82 Bomb x1_fullName,Full equip name of: Mk-82 Bomb x1,Mk-82 Bomb x1,Bopmba Mk-82 x1
+Mk-82 Bomb x1_description,Item description of: Mk-82 Bomb x1,Standard un-guided 500lb bomb.,Bomba estandar de 500lb sin guiado.
+s_cs_granted,Text in campaign selector,Granted,Asignado
+s_cs_budget,Text in campaign selector,Budget,Presupuesto
+s_cs_newMission,Text in campaign selector,New Mission:,Nueva Misión:
+s_cs_newTraining,Text in campaign selector,New Training:,Nuevo Entrenamiento:
+s_cs_newEquip,Text in campaign selector,New Equipment:,Nuevo Equipamiento:
+s_cs_incompatibleVersion,Text in campaign selector,Incompatible game version,Version de juego incompatible
+campaign_customScenarios,,Custom Scenarios,Escenarios Personalizados
+campaign_customScenarios_description,,Play custom scenarios created in the VTEditor.,Juega escenarios personalizados creados en el VTEditor.
+campaign_ws,,Steam Workshop Scenarios,Escenarios Steam Workshop
+campaign_ws_description,,Play custom scenarios installed through Steam Workshop.,Juega escenarios personalizados instalados desde el Steam Workshop
+s_cInfo_completed,'x% [Completed]' text in campaign selector,Completed,Completado
+GBU-38 Bomb x4_fullName,Full equip name of: GBU-38 Bomb x4,GBU-38 Bomb x4,Bomba GBU-38 x4
+GBU-38 Bomb x4_description,Item description of: GBU-38 Bomb x4,500lb GPS guided direct attack munition. It's a Mk.82 bomb with a guidance package strapped on.,Munición de ataque directo guiado por GPS de 500lb. Es una bomba Mk.82 al que se les ha acomodado un paquete de guiado láser.
+tutName_Weapon Basics,Name of a legacy tutorial objective,Weapon Basics,Fundamentos de Armamento
+tutDesc_Weapon Basics,Description of a legacy tutorial,Complete the tutorial.,Completa el tutorial
+tut:Weapon Basics:Intro10,A tutorial label,Welcome to the basic weapons tutorial.,Bienvenido al entrenamiento básico de armamento.
+tut:Weapon Basics:Intro21,A tutorial label,"Today, we will be covering weapon configuration, target acquisition, and firing weapons.","Hoy, vamos a cubir las configuraciones de armamento, adquisición de objetivo y disparar armamento."
+tut:Weapon Basics:Intro32,A tutorial label,Let's start by setting the MFDs to the pages we will use.,Empecemos configurando las MFDs en las páginas que vamos a usar.
+tut:Weapon Basics:MFD3GoHome3,A tutorial label,Go to HOME page.,Vamos a la página INICIO.
+tut:Weapon Basics:Open EQUIP4,A tutorial label,Open EQUIP,Abre EQUIP
+tut:Weapon Basics:MFD2GoHome5,A tutorial label,Go to HOME page.,Ve a la página INICIO.
+tut:Weapon Basics:Open TGP6,A tutorial label,Open TGP,Abre TGP
+tut:Weapon Basics:MFD1GoHome7,A tutorial label,Go to HOME page.,Ve a la página INICIO.
+tut:Weapon Basics:Open NAV8,A tutorial label,Open NAV,Abre NAV
 tut:Weapon Basics:EQUIP info9,A tutorial label,The EQUIP page shows what you have on each of the vehicle's equipment mounts.,
 tut:Weapon Basics:EQUIP info 210,A tutorial label,"It displays information on each item, and allows you to arm/disarm, configure, or mark them for jettison.",
 tut:Weapon Basics:EQUIP info 311,A tutorial label,We'll go over each feature in more detail later.,
