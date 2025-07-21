@@ -604,7 +604,7 @@ vehicleConfig_respawn,,Respawn,Reaparecer
 AIM-9+ Sidewinder_fullName,Full equip name of: AIM-9+ Sidewinder,AIM-9+ Sidewinder,
 AIM-9+ Sidewinder_description,Item description of: AIM-9+ Sidewinder,Advanced short range heat seeking air to air missile.,Misil avanzado Aire-Aire de corto alcance guiado por calor
 Hydra-70 x7 Rocket Pod_fullName,Full equip name of: Hydra-70 x7 Rocket Pod,Hydra-70 x7 Rocket Pod,Contenedor de cohetes Hydra-70 x7
-Hydra-70 x7 Rocket Pod_description,Item description of: Hydra-70 x7 Rocket Pod,"A pod carrying a total of 7 high explosive rockets.  Can be fired in single shot mode, or rapid fire (ripple).","Un contenedor llevando un total de 7 cohetes AE. Pueden ser disparados en modo semi, o ráfaga"
+Hydra-70 x7 Rocket Pod_description,Item description of: Hydra-70 x7 Rocket Pod,"A pod carrying a total of 7 high explosive rockets.  Can be fired in single shot mode, or rapid fire (ripple).","Un contenedor llevando un total de 7 cohetes AE. Pueden ser disparados en modo semi, o ráfaga."
 AH-94_mfd_cam:B1,Label for an MFD button (short!).,PREV,
 AH-94_mfd_cam:B3,Label for an MFD button (short!).,NEXT,SIG
 AH-94_mfd_home:B1,Label for an MFD button (short!).,NAV,
@@ -699,7 +699,7 @@ AH-94_mfd_gameMenu:B3_tooltip,Tooltip for an MFD button.,Return to Briefing Room
 AH-94_mfd_gameMenu:R2,Label for an MFD button (short!).,CENTER,CENTRAR
 AH-94_mfd_gameMenu:R2_tooltip,Tooltip for an MFD button.,Recenter Seat,Recentrar Asiento
 AH-94_mfd_gameMenu:L3,Label for an MFD button (short!).,QSAVE,GUARD. RÁP.
-AH-94_mfd_gameMenu:L3_tooltip,Tooltip for an MFD button.,Quick Save Menu,mENÚ DE gUARDADO rÁPIDO
+AH-94_mfd_gameMenu:L3_tooltip,Tooltip for an MFD button.,Quick Save Menu,Menú de Guardado Rápido
 AH-94_mfd_gameMenu:R4,Label for an MFD button (short!).,PLAYERS,JUGADORES
 AH-94_mfd_gameMenu:R4_tooltip,Tooltip for an MFD button.,View Players,Ver Jugadores
 AH-94_mfd_gameMenu:R5,Label for an MFD button (short!).,NETWORK,RED
@@ -728,8 +728,8 @@ AH-94_mfd_hardpoints:B2_tooltip,Tooltip for an MFD button.,Toggle Mode,Alternar 
 AH-94_mfd_hardpointInfoPage:R1,Label for an MFD button (short!).,BACK,VOLVER
 AH-94_mfd_hardpointInfoPage:R1_tooltip,Tooltip for an MFD button.,Return to Equip,Volver al Equipo
 AH-94_mfd_hardpointInfoPage:B2_tooltip,Tooltip for an MFD button.,Toggle Arming,Alternar Armado
-AH-94_mfd_hardpointInfoPage:B4_tooltip,Tooltip for an MFD button.,Toggle Jettison,"Alternar "
-AH-94_mfd_cmsPage:L4_tooltip,Tooltip for an MFD button.,Release Mode,Alternar Soltado de Carga
+AH-94_mfd_hardpointInfoPage:B4_tooltip,Tooltip for an MFD button.,Toggle Jettison,Alternar Soltado de Carga
+AH-94_mfd_cmsPage:L4_tooltip,Tooltip for an MFD button.,Release Mode,Modo de liberación
 AH-94_mfd_cmsPage:B2,Label for an MFD button (short!).,-,
 AH-94_mfd_cmsPage:B2_tooltip,Tooltip for an MFD button.,- Release Rate,- Ratio de liberación
 AH-94_mfd_cmsPage:B4,Label for an MFD button (short!).,+,
@@ -1031,208 +1031,209 @@ tut:Weapon Basics:MFD2GoHome5,A tutorial label,Go to HOME page.,Ve a la página 
 tut:Weapon Basics:Open TGP6,A tutorial label,Open TGP,Abre TGP
 tut:Weapon Basics:MFD1GoHome7,A tutorial label,Go to HOME page.,Ve a la página INICIO.
 tut:Weapon Basics:Open NAV8,A tutorial label,Open NAV,Abre NAV
-tut:Weapon Basics:EQUIP info9,A tutorial label,The EQUIP page shows what you have on each of the vehicle's equipment mounts.,
-tut:Weapon Basics:EQUIP info 210,A tutorial label,"It displays information on each item, and allows you to arm/disarm, configure, or mark them for jettison.",
-tut:Weapon Basics:EQUIP info 311,A tutorial label,We'll go over each feature in more detail later.,
-tut:Weapon Basics:TGP info12,A tutorial label,The TGP is what you will use to acquire ground targets.,
-tut:Weapon Basics:TGP info 213,A tutorial label,"To use it, first you must supply power to the sensor mounted under the nose of the vehicle.",
-tut:Weapon Basics:PWR on TGP14,A tutorial label,Enable TGP power.,
-tut:Weapon Basics:TGP info 315,A tutorial label,"The TGP will be in FWD mode by default, which just looks straight forward.",
-tut:Weapon Basics:TGP info 416,A tutorial label,"To be able to control it, you must designate the TGP as the sensor of interest (SOI).",
-tut:Weapon Basics:Enable TGP SOI17,A tutorial label,Enable SOI,
-tut:Weapon Basics:Slew TGP info18,A tutorial label,"Now, you can slew the targeting sensor around using the thumb control on your joystick.",
-tut:Weapon Basics:TrySlewing19,A tutorial label,Try slewing the TGP around using the joystick thumb control.,
-tut:Weapon Basics:Slew TGP info 220,A tutorial label,"When you move the sensor, it will auto switch to TGT mode, which locks its focus point on the ground while you're flying.",
-tut:Weapon Basics:Slew TGP info 321,A tutorial label,The yellow arrow on the screen shows the relative bearing to the target point.,
-tut:Weapon Basics:TGP info 522,A tutorial label,The target point also shows up on the NAV map as a yellow cross.,
-tut:Weapon Basics:Now lets take off23,A tutorial label,Now let's find some targets.  Take off and fly to the objective waypoint.,
-tut:Weapon Basics:Brakes OFF24,A tutorial label,Unlock Brakes,
+tut:Weapon Basics:EQUIP info9,A tutorial label,The EQUIP page shows what you have on each of the vehicle's equipment mounts.,La página EQUIP muestra que tienes equipado en cada punto de anclaje del vehículo.
+tut:Weapon Basics:EQUIP info 210,A tutorial label,"It displays information on each item, and allows you to arm/disarm, configure, or mark them for jettison.","Muestra información de cada armamento, y te permite armar/desarmar, configurar o marcarlos para soltar la carga."
+tut:Weapon Basics:EQUIP info 311,A tutorial label,We'll go over each feature in more detail later.,Vamos a ir por cada cosilla más adelante.
+tut:Weapon Basics:TGP info12,A tutorial label,The TGP is what you will use to acquire ground targets.,El TGP se usa para adquirir objetivos terrestres.
+tut:Weapon Basics:TGP info 213,A tutorial label,"To use it, first you must supply power to the sensor mounted under the nose of the vehicle.","Para usarlo, primero debes encender el sensor montado bajo el morro del vehículo."
+tut:Weapon Basics:PWR on TGP14,A tutorial label,Enable TGP power.,Enciende el TGP.
+tut:Weapon Basics:TGP info 315,A tutorial label,"The TGP will be in FWD mode by default, which just looks straight forward.","El TGP ahora va a estar en el modo ADEL. por defecto, que significa que simplemente esta mirando hacia delante en todo momento."
+tut:Weapon Basics:TGP info 416,A tutorial label,"To be able to control it, you must designate the TGP as the sensor of interest (SOI).","Para controlarlo, debes designar el TGP como el sensor de interés (SOI)."
+tut:Weapon Basics:Enable TGP SOI17,A tutorial label,Enable SOI,Habilita el SOI
+tut:Weapon Basics:Slew TGP info18,A tutorial label,"Now, you can slew the targeting sensor around using the thumb control on your joystick.","Ahora, puedes mover el sensor usando el control del pulgar en tu joystick."
+tut:Weapon Basics:TrySlewing19,A tutorial label,Try slewing the TGP around using the joystick thumb control.,Intenta mover el TGP usando el control del pulgar del joystick.
+tut:Weapon Basics:Slew TGP info 220,A tutorial label,"When you move the sensor, it will auto switch to TGT mode, which locks its focus point on the ground while you're flying.","Cuando mueves el sensor, se cambiará automáticamente al modo TGT, que se bloqueará en el punto del suelo donde hayas mirado mientras vuelas."
+tut:Weapon Basics:Slew TGP info 321,A tutorial label,The yellow arrow on the screen shows the relative bearing to the target point.,La flecha amarilla en la pantalla muestra el rumbo relativo al punto objetivo.
+tut:Weapon Basics:TGP info 522,A tutorial label,The target point also shows up on the NAV map as a yellow cross.,El punto objetivo tambien se muestra en el mapa del NAV como una cruz amarilla.
+tut:Weapon Basics:Now lets take off23,A tutorial label,Now let's find some targets.  Take off and fly to the objective waypoint.,Ahora busquemos algunos objetivos. Despega y vuela hacia el punto objetivo.
+tut:Weapon Basics:Brakes OFF24,A tutorial label,Unlock Brakes,Quita el freno de mano
 tut:Weapon Basics:Fly to AO25,A tutorial label,,
-tut:Weapon Basics:MasterArmInfo26,A tutorial label,"Now that we are in the AO, you can enable the Master Arm switch.",
-tut:Weapon Basics:MasterArm ON27,A tutorial label,Enable Master Arm,
-tut:Weapon Basics:MasterArmInfo228,A tutorial label,"With the weapon system armed, you will see some new icons on the HUD",
-tut:Weapon Basics:ReticleInfo29,A tutorial label,"At the center, you have the weapon targeting reticle or pipper.",
-tut:Weapon Basics:WeaponInfo30,A tutorial label,"Here, you have weapon type, name, and shots remaining.",
-tut:Weapon Basics:WeaponSwitching31,A tutorial label,You can cycle through all ARMED weapons by pressing the button on the joystick.,
-tut:Weapon Basics:WeaponSwitching32,A tutorial label,Switch to HYDRA70,
-tut:Weapon Basics:WeaponSwitching33,A tutorial label,Switch to GAU-8,
-tut:Weapon Basics:Firing34,A tutorial label,These unguided weapons can be fired by simply pulling the trigger on the joystick.,
-tut:Weapon Basics:Firing 235,A tutorial label,You have limited stores so save your rounds for the targets.,
-tut:Weapon Basics:GunMission136,A tutorial label,Let's try deploying the GAU-8 on some ground targets.,
-tut:Weapon Basics:GunMission237,A tutorial label,"In a moment, you'll receive a mission objective.",
-tut:Weapon Basics:GunMission338,A tutorial label,You can auto-slew your TGP to the objective waypoint by pressing the WPT button in the TGP screen.,
-tut:Weapon Basics:GunMission4 Start39,A tutorial label,Go ahead and destroy the tanks.,
+tut:Weapon Basics:MasterArmInfo26,A tutorial label,"Now that we are in the AO, you can enable the Master Arm switch.","Ahora que estamos en AO, habilita el switch de armamento maestro."
+tut:Weapon Basics:MasterArm ON27,A tutorial label,Enable Master Arm,Habilita el armamento maestro
+tut:Weapon Basics:MasterArmInfo228,A tutorial label,"With the weapon system armed, you will see some new icons on the HUD","Con el sistema de armamento armado, verás algunos nuevos iconos en el HUD"
+tut:Weapon Basics:ReticleInfo29,A tutorial label,"At the center, you have the weapon targeting reticle or pipper.","En el centro, tienes la retícula del apuntado del arma o pipper."
+tut:Weapon Basics:WeaponInfo30,A tutorial label,"Here, you have weapon type, name, and shots remaining.","Aquí, tienes el tipo de arma, nombre y munición restante."
+tut:Weapon Basics:WeaponSwitching31,A tutorial label,You can cycle through all ARMED weapons by pressing the button on the joystick.,Puedes ciclar entre todas las armas armadas presionando el botón en el joystick
+tut:Weapon Basics:WeaponSwitching32,A tutorial label,Switch to HYDRA70,Cambia a HYDRA70
+tut:Weapon Basics:WeaponSwitching33,A tutorial label,Switch to GAU-8,Cambia al GAU-8
+tut:Weapon Basics:Firing34,A tutorial label,These unguided weapons can be fired by simply pulling the trigger on the joystick.,Estas armas sin guiado pueden ser disparadas simplemente pulsando el gatillo del joystick.
+tut:Weapon Basics:Firing 235,A tutorial label,You have limited stores so save your rounds for the targets.,Tienes munición limitada así que guardalas para los objetivos.
+tut:Weapon Basics:GunMission136,A tutorial label,Let's try deploying the GAU-8 on some ground targets.,Vamos a intentar usar la GAU-8 en algunos objetivos terrestres.
+tut:Weapon Basics:GunMission237,A tutorial label,"In a moment, you'll receive a mission objective.","En un momento, recibirás la misión objetivo."
+tut:Weapon Basics:GunMission338,A tutorial label,You can auto-slew your TGP to the objective waypoint by pressing the WPT button in the TGP screen.,Puedes mover tu TGP al punto objetivo pulsando el botón PUNTO en la pantalla del TGP.
+tut:Weapon Basics:GunMission4 Start39,A tutorial label,Go ahead and destroy the tanks.,Ve y destruye los tanques.
 tut:Weapon Basics:GunMission40,A tutorial label,,
-tut:Weapon Basics:GoodJobGuns41,A tutorial label,Great job!  Now let's work with rockets.,
-tut:Weapon Basics:SwitchToRockets42,A tutorial label,Switch to HYDRA70,
-tut:Weapon Basics:Rocket info43,A tutorial label,"Hydra 70's are small, unguided rockets.",
-tut:Weapon Basics:Rocket info 244,A tutorial label,"By default, each pull of the trigger will fire one rocket.",
-tut:Weapon Basics:Rocket info 345,A tutorial label,"However, they can be configured to launch rapidly.  This is called 'ripple' firing.",
-tut:Weapon Basics:Rocket info 446,A tutorial label,"To access a weapons config menu, set the EQUIP MFD page to CONFIG mode",
-tut:Weapon Basics:Set to config mode47,A tutorial label,Set to CONFIG mode,
-tut:Weapon Basics:Rocket info 548,A tutorial label,"Then, select the weapon you want to configure.",
-tut:Weapon Basics:Rocket info 649,A tutorial label,"If you have multiple of the same weapon, the settings will be copied over to all of them.",
-tut:Weapon Basics:TryRipple50,A tutorial label,Try setting the rockets to different ripple intervals and destroy the next set of targets.,
+tut:Weapon Basics:GoodJobGuns41,A tutorial label,Great job!  Now let's work with rockets.,¡Buen trabajo! Ahora usemos los cohetes.
+tut:Weapon Basics:SwitchToRockets42,A tutorial label,Switch to HYDRA70,Cambia a los HYDRA70
+tut:Weapon Basics:Rocket info43,A tutorial label,"Hydra 70's are small, unguided rockets.",Los Hydra 70 son cohetes pequeños no guiados.
+tut:Weapon Basics:Rocket info 244,A tutorial label,"By default, each pull of the trigger will fire one rocket.","Por defecto, cada vez que presionas el gatillo solo disparará un cohete."
+tut:Weapon Basics:Rocket info 345,A tutorial label,"However, they can be configured to launch rapidly.  This is called 'ripple' firing.","Sin embargo, pueden ser configurados para disparar rápidamente. Esto se llama disparar en 'ráfaga'."
+tut:Weapon Basics:Rocket info 446,A tutorial label,"To access a weapons config menu, set the EQUIP MFD page to CONFIG mode","Para acceder a un menú de configuración de armas, en la página EQUIP MFD del modo CONFIG."
+tut:Weapon Basics:Set to config mode47,A tutorial label,Set to CONFIG mode,Ponlo en modo CONFIG
+tut:Weapon Basics:Rocket info 548,A tutorial label,"Then, select the weapon you want to configure.","Ahora, selecciona el armamento que quieras configurar."
+tut:Weapon Basics:Rocket info 649,A tutorial label,"If you have multiple of the same weapon, the settings will be copied over to all of them.","Si tienes multiples armamentos iguales, la configuración será global para todos."
+tut:Weapon Basics:TryRipple50,A tutorial label,Try setting the rockets to different ripple intervals and destroy the next set of targets.,Intenta cambiar los cohetes a diferentes intervalos de ráfaga y destruye el siguiente set de objetivos.
 tut:Weapon Basics:RocketMission51,A tutorial label,,
-tut:Weapon Basics:Well done52,A tutorial label,Well done! You've destroyed all of the targets.,
-tut:Weapon Basics:Conclusion53,A tutorial label,This concludes the basic weapons tutorial.,
-Mk-82 Bomb x2_fullName,Full equip name of: Mk-82 Bomb x2,Mk-82 Bomb x2,
-Mk-82 Bomb x2_description,Item description of: Mk-82 Bomb x2,Two standard un-guided 500lb bombs.,
-AGM-161 Anti Surface Stand-off Missile_fullName,Full equip name of: AGM-161 Anti Surface Stand-off Missile,AGM-161 Anti Surface Stand-off Missile,
-AGM-161 Anti Surface Stand-off Missile_description,Item description of: AGM-161 Anti Surface Stand-off Missile,A cruise missile designed to deliver a large payload to a ground target over a long distance.  It follows a pre-programmed GPS course with automatic terrain avoidance.,
-eqSublabel_GPS-CRUISE,HUD sub-label of an equip,GPS CRUISE,
+tut:Weapon Basics:Well done52,A tutorial label,Well done! You've destroyed all of the targets.,¡Bien hecho! Has destruido todos los objetivos.
+tut:Weapon Basics:Conclusion53,A tutorial label,This concludes the basic weapons tutorial.,Esto concluye el tutorial básico de armamento.
+Mk-82 Bomb x2_fullName,Full equip name of: Mk-82 Bomb x2,Mk-82 Bomb x2,Bomba Mk-82 x2
+Mk-82 Bomb x2_description,Item description of: Mk-82 Bomb x2,Two standard un-guided 500lb bombs.,Dos bombas estandar de 500lb sin guiado.
+AGM-161 Anti Surface Stand-off Missile_fullName,Full equip name of: AGM-161 Anti Surface Stand-off Missile,AGM-161 Anti Surface Stand-off Missile,Misil AGM-161 de ataque a superficie de largo alcance
+AGM-161 Anti Surface Stand-off Missile_description,Item description of: AGM-161 Anti Surface Stand-off Missile,A cruise missile designed to deliver a large payload to a ground target over a long distance.  It follows a pre-programmed GPS course with automatic terrain avoidance.,Un misil de cruCero designado para llevar una gran carga a un objetivo terrrestre sobre distancias largas. Sigue un curso GPS pre-programado con prevención de colisión con el terreno.
+eqSublabel_GPS-CRUISE,HUD sub-label of an equip,GPS CRUISE,CRUCERO GPS
 PAC-3_fullName,Full equip name of: PAC-3,PAC-3,
-PAC-3_description,Item description of: PAC-3,Radar-guided surface-to-air defense missile.,
+PAC-3_description,Item description of: PAC-3,Radar-guided surface-to-air defense missile.,Misil de defensa Tierra-Aire guiado por radar
 GMA-14 x3_fullName,Full equip name of: GMA-14 x3,GMA-14 x3,
-GMA-14 x3_description,Item description of: GMA-14 x3,A rack of 3 laser guided anti-tank missiles.,
+GMA-14 x3_description,Item description of: GMA-14 x3,A rack of 3 laser guided anti-tank missiles.,Un Pilón de 3 misiles anti-tanque guiado por láser
 FLKM-100_fullName,Full equip name of: FLKM-100,FLKM-100,
-FLKM-100_description,Item description of: FLKM-100,Dual stage long range active radar-guided missile that deploys a field of explosive munitions.,
+FLKM-100_description,Item description of: FLKM-100,Dual stage long range active radar-guided missile that deploys a field of explosive munitions.,Misil de largo alcance de dos etapas que despliega un campo de municiones explosivas.
 MK-82 x32_fullName,Full equip name of: MK-82 x32,MK-82 x32,
-MK-82 x32_description,Item description of: MK-82 x32,A rack of 32 MK-82 bombs.,
-CAGM-6 Cluster Missile_fullName,Full equip name of: CAGM-6 Cluster Missile,CAGM-6 Cluster Missile,
+MK-82 x32_description,Item description of: MK-82 x32,A rack of 32 MK-82 bombs.,Un pilón de 32 bombas MK-82.
+CAGM-6 Cluster Missile_fullName,Full equip name of: CAGM-6 Cluster Missile,CAGM-6 Cluster Missile,Misil de racimo CAGM-6
 CAGM-6 Cluster Missile_description,Item description of: CAGM-6 Cluster Missile,"An optically guided ""fire-and-forget"" missile. 
-Deploys 6 submunitions that independently seek targets in the field of view.",
-eqSublabel_OPTICAL-FF-CLUSTER,HUD sub-label of an equip,OPTICAL FF CLUSTER,
+Deploys 6 submunitions that independently seek targets in the field of view.","Un misil con guiado óptico ""tira y olvida"".
+Despliega 6 submuniciones que busca objetivos independientes en su rango de visión"
+eqSublabel_OPTICAL-FF-CLUSTER,HUD sub-label of an equip,OPTICAL FF CLUSTER,RACIMO FF OPTICO
 AGM-126 SideARM II x2_fullName,Full equip name of: AGM-126 SideARM II x2,AGM-126 SideARM II x2,
-AGM-126 SideARM II x2_description,Item description of: AGM-126 SideARM II x2,Compact short range anti-radiation missile based on the AIM-9x.,
+AGM-126 SideARM II x2_description,Item description of: AGM-126 SideARM II x2,Compact short range anti-radiation missile based on the AIM-9x.,Misil compacto de corto alcance anti-radiación basado en el AIM-9x
 AIM-9 Sidewinder x3_fullName,Full equip name of: AIM-9 Sidewinder x3,AIM-9 Sidewinder x3,
-AIM-9 Sidewinder x3_description,Item description of: AIM-9 Sidewinder x3,A rack of three standard heat-seeking Sidewinder anti-air missiles.,
+AIM-9 Sidewinder x3_description,Item description of: AIM-9 Sidewinder x3,A rack of three standard heat-seeking Sidewinder anti-air missiles.,Un pilón de tres misiles estandar Aire-Aire Sidewinder guiado por calor
 F/A-26B_mfd_cam:B3,Label for an MFD button (short!).,PREV,
-F/A-26B_mfd_cam:B5,Label for an MFD button (short!).,NEXT,
+F/A-26B_mfd_cam:B5,Label for an MFD button (short!).,NEXT,SIG
 F/A-26B_mfd_home:B1,Label for an MFD button (short!).,NAV,
-F/A-26B_mfd_home:B1_tooltip,Tooltip for an MFD button.,Navigation,
+F/A-26B_mfd_home:B1_tooltip,Tooltip for an MFD button.,Navigation,Navegación
 F/A-26B_mfd_home:B2,Label for an MFD button (short!).,OBJ,
-F/A-26B_mfd_home:B2_tooltip,Tooltip for an MFD button.,Objectives,
+F/A-26B_mfd_home:B2_tooltip,Tooltip for an MFD button.,Objectives,Objetivos
 F/A-26B_mfd_home:B3,Label for an MFD button (short!).,CAM,
-F/A-26B_mfd_home:B3_tooltip,Tooltip for an MFD button.,External Cameras,
+F/A-26B_mfd_home:B3_tooltip,Tooltip for an MFD button.,External Cameras,Cámaras Externas
 F/A-26B_mfd_home:B4,Label for an MFD button (short!).,TGP,
-F/A-26B_mfd_home:B4_tooltip,Tooltip for an MFD button.,Targeting,
+F/A-26B_mfd_home:B4_tooltip,Tooltip for an MFD button.,Targeting,Desg. Obj.
 F/A-26B_mfd_home:B5,Label for an MFD button (short!).,GPS,
-F/A-26B_mfd_home:B5_tooltip,Tooltip for an MFD button.,GPS Targets,
-F/A-26B_mfd_home:R2,Label for an MFD button (short!).,S-CAM,
-F/A-26B_mfd_home:R2_tooltip,Tooltip for an MFD button.,Spectator Camera,
-F/A-26B_mfd_home:R3,Label for an MFD button (short!).,GAME,
-F/A-26B_mfd_home:R3_tooltip,Tooltip for an MFD button.,Game Menu,
+F/A-26B_mfd_home:B5_tooltip,Tooltip for an MFD button.,GPS Targets,Objetivos GPS
+F/A-26B_mfd_home:R2,Label for an MFD button (short!).,S-CAM,E-CAM
+F/A-26B_mfd_home:R2_tooltip,Tooltip for an MFD button.,Spectator Camera,Cámara Espectador
+F/A-26B_mfd_home:R3,Label for an MFD button (short!).,GAME,JUEGO
+F/A-26B_mfd_home:R3_tooltip,Tooltip for an MFD button.,Game Menu,Menú Juego
 F/A-26B_mfd_home:R4,Label for an MFD button (short!).,LOG,
-F/A-26B_mfd_home:R4_tooltip,Tooltip for an MFD button.,Flight Log,
+F/A-26B_mfd_home:R4_tooltip,Tooltip for an MFD button.,Flight Log,Log de Vuelo
 F/A-26B_mfd_home:L2,Label for an MFD button (short!).,EQUIP,
-F/A-26B_mfd_home:L2_tooltip,Tooltip for an MFD button.,Mounted Equipment,
+F/A-26B_mfd_home:L2_tooltip,Tooltip for an MFD button.,Mounted Equipment,Equipamiento Montado
 F/A-26B_mfd_home:L3,Label for an MFD button (short!).,OPTION,
-F/A-26B_mfd_home:L3_tooltip,Tooltip for an MFD button.,Options,
+F/A-26B_mfd_home:L3_tooltip,Tooltip for an MFD button.,Options,Opciones
 F/A-26B_mfd_home:L4,Label for an MFD button (short!).,COMMS,
-F/A-26B_mfd_home:L4_tooltip,Tooltip for an MFD button.,Communications,
+F/A-26B_mfd_home:L4_tooltip,Tooltip for an MFD button.,Communications,Comunicaciones
 F/A-26B_mfd_home:T4,Label for an MFD button (short!).,RADAR,
 F/A-26B_mfd_home:T4_tooltip,Tooltip for an MFD button.,Radar,
 F/A-26B_mfd_home:T5,Label for an MFD button (short!).,ARAD,
-F/A-26B_mfd_home:T5_tooltip,Tooltip for an MFD button.,Anti-Radar Attack Display,
-F/A-26B_mfd_home:R5,Label for an MFD button (short!).,DATA,
-F/A-26B_mfd_home:R5_tooltip,Tooltip for an MFD button.,Flight Data,
+F/A-26B_mfd_home:T5_tooltip,Tooltip for an MFD button.,Anti-Radar Attack Display,Display de ataque anti-radar
+F/A-26B_mfd_home:R5,Label for an MFD button (short!).,DATA,DATOS
+F/A-26B_mfd_home:R5_tooltip,Tooltip for an MFD button.,Flight Data,Datos de Vuelo
 F/A-26B_mfd_home:L5,Label for an MFD button (short!).,CMS,
-F/A-26B_mfd_home:L5_tooltip,Tooltip for an MFD button.,Countermeasure System,
-F/A-26B_mfd_flightLog:R2_tooltip,Tooltip for an MFD button.,Scroll Up,
-F/A-26B_mfd_flightLog:R4_tooltip,Tooltip for an MFD button.,Scroll Down,
-F/A-26B_mfd_flightLog:R5_tooltip,Tooltip for an MFD button.,Scroll Bottom,
-F/A-26B_mfd_flightLog:B3_tooltip,Tooltip for an MFD button.,Dump log to file.,
-F/A-26B_mfd_mission:B1,Label for an MFD button (short!).,WPT,
-F/A-26B_mfd_mission:B1_tooltip,Tooltip for an MFD button.,Set Waypoint,
-F/A-26B_mfd_mission:B3,Label for an MFD button (short!).,NEXT,
-F/A-26B_mfd_mission:B3_tooltip,Tooltip for an MFD button.,Next Objective,
+F/A-26B_mfd_home:L5_tooltip,Tooltip for an MFD button.,Countermeasure System,Sistema de Contramedidas
+F/A-26B_mfd_flightLog:R2_tooltip,Tooltip for an MFD button.,Scroll Up,Scroll Arriba
+F/A-26B_mfd_flightLog:R4_tooltip,Tooltip for an MFD button.,Scroll Down,Scroll Abajo
+F/A-26B_mfd_flightLog:R5_tooltip,Tooltip for an MFD button.,Scroll Bottom,"Final "
+F/A-26B_mfd_flightLog:B3_tooltip,Tooltip for an MFD button.,Dump log to file.,Descargar registro de vuelo.
+F/A-26B_mfd_mission:B1,Label for an MFD button (short!).,WPT,PUNTO
+F/A-26B_mfd_mission:B1_tooltip,Tooltip for an MFD button.,Set Waypoint,Fijar Punto
+F/A-26B_mfd_mission:B3,Label for an MFD button (short!).,NEXT,SIG
+F/A-26B_mfd_mission:B3_tooltip,Tooltip for an MFD button.,Next Objective,Siguiente Objetivo
 F/A-26B_mfd_mission:B5,Label for an MFD button (short!).,PREV,
-F/A-26B_mfd_mission:B5_tooltip,Tooltip for an MFD button.,Previous Objective,
+F/A-26B_mfd_mission:B5_tooltip,Tooltip for an MFD button.,Previous Objective,Previo Objetivo
 F/A-26B_mfd_gpsTgts:T2,Label for an MFD button (short!).,MAP,
-F/A-26B_mfd_gpsTgts:T2_tooltip,Tooltip for an MFD button.,Nav Map,
-F/A-26B_mfd_gpsTgts:T3,Label for an MFD button (short!).,WPT,
-F/A-26B_mfd_gpsTgts:T3_tooltip,Tooltip for an MFD button.,Set Waypoints,
-F/A-26B_mfd_gpsTgts:L2_tooltip,Tooltip for an MFD button.,Previous Group,
-F/A-26B_mfd_gpsTgts:L3_tooltip,Tooltip for an MFD button.,Next Group,
-F/A-26B_mfd_gpsTgts:B1_tooltip,Tooltip for an MFD button.,Create Group,
-F/A-26B_mfd_gpsTgts:B2_tooltip,Tooltip for an MFD button.,Delete Group,
-F/A-26B_mfd_gpsTgts:B4_tooltip,Tooltip for an MFD button.,Delete Target,
-F/A-26B_mfd_gpsTgts:R3_tooltip,Tooltip for an MFD button.,Next Target,
-F/A-26B_mfd_gpsTgts:R2_tooltip,Tooltip for an MFD button.,Previous Target,
-F/A-26B_mfd_gpsTgts:R1_tooltip,Tooltip for an MFD button.,Toggle Path Mode,
-F/A-26B_mfd_gpsTgts:R4_tooltip,Tooltip for an MFD button.,Move Up,
-F/A-26B_mfd_gpsTgts:R5_tooltip,Tooltip for an MFD button.,MoveDown,
-F/A-26B_mfd_gpsTgts:B5,Label for an MFD button (short!).,SEND,
-F/A-26B_mfd_gpsTgts:B5_tooltip,Tooltip for an MFD button.,Send Data,
-F/A-26B_mfd_flyCam:B2,Label for an MFD button (short!).,START,
-F/A-26B_mfd_flyCam:B2_tooltip,Tooltip for an MFD button.,Start Camera,
-F/A-26B_mfd_flyCam:B3,Label for an MFD button (short!).,END,
-F/A-26B_mfd_flyCam:B3_tooltip,Tooltip for an MFD button.,End Camera,
-F/A-26B_mfd_flyCam:B1,Label for an MFD button (short!).,VIEW,
-F/A-26B_mfd_flyCam:B1_tooltip,Tooltip for an MFD button.,Toggle Preview,
+F/A-26B_mfd_gpsTgts:T2_tooltip,Tooltip for an MFD button.,Nav Map,Mapa nav.
+F/A-26B_mfd_gpsTgts:T3,Label for an MFD button (short!).,WPT,PUNTO
+F/A-26B_mfd_gpsTgts:T3_tooltip,Tooltip for an MFD button.,Set Waypoints,Fijar Punto
+F/A-26B_mfd_gpsTgts:L2_tooltip,Tooltip for an MFD button.,Previous Group,Previo Grupo
+F/A-26B_mfd_gpsTgts:L3_tooltip,Tooltip for an MFD button.,Next Group,Siguiente Grupo
+F/A-26B_mfd_gpsTgts:B1_tooltip,Tooltip for an MFD button.,Create Group,Crear Grupo
+F/A-26B_mfd_gpsTgts:B2_tooltip,Tooltip for an MFD button.,Delete Group,Borrar Grupo
+F/A-26B_mfd_gpsTgts:B4_tooltip,Tooltip for an MFD button.,Delete Target,Borrar Objetivo
+F/A-26B_mfd_gpsTgts:R3_tooltip,Tooltip for an MFD button.,Next Target,Siguiente Objetivo
+F/A-26B_mfd_gpsTgts:R2_tooltip,Tooltip for an MFD button.,Previous Target,Anterior Objetivo
+F/A-26B_mfd_gpsTgts:R1_tooltip,Tooltip for an MFD button.,Toggle Path Mode,Alternar Modo Trayectoria
+F/A-26B_mfd_gpsTgts:R4_tooltip,Tooltip for an MFD button.,Move Up,Mover Arriba
+F/A-26B_mfd_gpsTgts:R5_tooltip,Tooltip for an MFD button.,MoveDown,Mover Abajo
+F/A-26B_mfd_gpsTgts:B5,Label for an MFD button (short!).,SEND,ENV
+F/A-26B_mfd_gpsTgts:B5_tooltip,Tooltip for an MFD button.,Send Data,Enviar datos
+F/A-26B_mfd_flyCam:B2,Label for an MFD button (short!).,START,ENCENDER
+F/A-26B_mfd_flyCam:B2_tooltip,Tooltip for an MFD button.,Start Camera,Encender Cámara
+F/A-26B_mfd_flyCam:B3,Label for an MFD button (short!).,END,APAGAR
+F/A-26B_mfd_flyCam:B3_tooltip,Tooltip for an MFD button.,End Camera,Apgar Cámara
+F/A-26B_mfd_flyCam:B1,Label for an MFD button (short!).,VIEW,VISTA
+F/A-26B_mfd_flyCam:B1_tooltip,Tooltip for an MFD button.,Toggle Preview,Alternar Vista
 F/A-26B_mfd_flyCam:R1,Label for an MFD button (short!).,RANDM,
-F/A-26B_mfd_flyCam:R1_tooltip,Tooltip for an MFD button.,Toggle Random,
+F/A-26B_mfd_flyCam:R1_tooltip,Tooltip for an MFD button.,Toggle Random,Alternar Aleatorio
 F/A-26B_mfd_flyCam:L3,Label for an MFD button (short!).,FOV:,
-F/A-26B_mfd_flyCam:L3_tooltip,Tooltip for an MFD button.,Toggle FOV,
+F/A-26B_mfd_flyCam:L3_tooltip,Tooltip for an MFD button.,Toggle FOV,Alternar FOV
 F/A-26B_mfd_flyCam:L4,Label for an MFD button (short!).," ",
-F/A-26B_mfd_flyCam:L4_tooltip,Tooltip for an MFD button.,Toggle AutoFOV,
+F/A-26B_mfd_flyCam:L4_tooltip,Tooltip for an MFD button.,Toggle AutoFOV,Alternar AutoFOV
 F/A-26B_mfd_flyCam:L5,Label for an MFD button (short!).," ",
-F/A-26B_mfd_flyCam:L5_tooltip,Tooltip for an MFD button.,Toggle Audio,
-F/A-26B_mfd_flyCam:R2,Label for an MFD button (short!).,MODE,
-F/A-26B_mfd_flyCam:R2_tooltip,Tooltip for an MFD button.,Toggle Cam Mode,
-F/A-26B_mfd_flyCam:R3,Label for an MFD button (short!).,LOOK,
-F/A-26B_mfd_flyCam:R3_tooltip,Tooltip for an MFD button.,Toggle Look Mode,
+F/A-26B_mfd_flyCam:L5_tooltip,Tooltip for an MFD button.,Toggle Audio,Alternar Audio
+F/A-26B_mfd_flyCam:R2,Label for an MFD button (short!).,MODE,MODO
+F/A-26B_mfd_flyCam:R2_tooltip,Tooltip for an MFD button.,Toggle Cam Mode,Alternar Modo Cámara
+F/A-26B_mfd_flyCam:R3,Label for an MFD button (short!).,LOOK,MIRAR
+F/A-26B_mfd_flyCam:R3_tooltip,Tooltip for an MFD button.,Toggle Look Mode,Alterar modo Observación
 F/A-26B_mfd_flyCam:R5,Label for an MFD button (short!).," ",
-F/A-26B_mfd_flyCam:R5_tooltip,Tooltip for an MFD button.,Toggle Auto-Reset,
+F/A-26B_mfd_flyCam:R5_tooltip,Tooltip for an MFD button.,Toggle Auto-Reset,Alternar Auto-reset
 F/A-26B_mfd_flyCam:B5,Label for an MFD button (short!).," ",
-F/A-26B_mfd_flyCam:B5_tooltip,Tooltip for an MFD button.,Cycle Reset Time,
+F/A-26B_mfd_flyCam:B5_tooltip,Tooltip for an MFD button.,Cycle Reset Time,Ciclar Tiempo Reinicio
 F/A-26B_mfd_flyCam:T3,Label for an MFD button (short!).,SS,
 F/A-26B_mfd_flyCam:T3_tooltip,Tooltip for an MFD button.,4K Screenshot,
 F/A-26B_mfd_antiRad:T5,Label for an MFD button (short!).,SOI,
-F/A-26B_mfd_antiRad:T5_tooltip,Tooltip for an MFD button.,Sensor of Interest,
+F/A-26B_mfd_antiRad:T5_tooltip,Tooltip for an MFD button.,Sensor of Interest,Sensor de interés
 F/A-26B_mfd_antiRad:R4,Label for an MFD button (short!).,HUD,
-F/A-26B_mfd_antiRad:R4_tooltip,Tooltip for an MFD button.,HUD Mode,
-F/A-26B_mfd_antiRad:R5_tooltip,Tooltip for an MFD button.,Declutter,
-F/A-26B_mfd_cmsPage:L4_tooltip,Tooltip for an MFD button.,Release Mode,
+F/A-26B_mfd_antiRad:R4_tooltip,Tooltip for an MFD button.,HUD Mode,Modo HUD
+F/A-26B_mfd_antiRad:R5_tooltip,Tooltip for an MFD button.,Declutter,Simplificación
+F/A-26B_mfd_cmsPage:L4_tooltip,Tooltip for an MFD button.,Release Mode,Alternar Soltado de Carga
 F/A-26B_mfd_cmsPage:B2,Label for an MFD button (short!).,-,
-F/A-26B_mfd_cmsPage:B2_tooltip,Tooltip for an MFD button.,- Release Rate,
+F/A-26B_mfd_cmsPage:B2_tooltip,Tooltip for an MFD button.,- Release Rate,- Ratio de liberación
 F/A-26B_mfd_cmsPage:B4,Label for an MFD button (short!).,+,
-F/A-26B_mfd_cmsPage:B4_tooltip,Tooltip for an MFD button.,+ Release Rate,
+F/A-26B_mfd_cmsPage:B4_tooltip,Tooltip for an MFD button.,+ Release Rate,+ Ratio de liberación
 F/A-26B_mfd_map:T2,Label for an MFD button (short!).,GPS,
-F/A-26B_mfd_map:T2_tooltip,Tooltip for an MFD button.,GPS Targets,
+F/A-26B_mfd_map:T2_tooltip,Tooltip for an MFD button.,GPS Targets,GPS Objetivos
 F/A-26B_mfd_map:R2,Label for an MFD button (short!).,ZOOM+,
 F/A-26B_mfd_map:R3,Label for an MFD button (short!).,ZOOM-,
-F/A-26B_mfd_map:R4,Label for an MFD button (short!).,UP,
-F/A-26B_mfd_map:R5,Label for an MFD button (short!).,DOWN,
-F/A-26B_mfd_map:B4,Label for an MFD button (short!).,LEFT,
-F/A-26B_mfd_map:B5,Label for an MFD button (short!).,RIGHT,
+F/A-26B_mfd_map:R4,Label for an MFD button (short!).,UP,ARRB
+F/A-26B_mfd_map:R5,Label for an MFD button (short!).,DOWN,ABAJ
+F/A-26B_mfd_map:B4,Label for an MFD button (short!).,LEFT,IZQ
+F/A-26B_mfd_map:B5,Label for an MFD button (short!).,RIGHT,DER
 F/A-26B_mfd_map:R1,Label for an MFD button (short!).,RESET,
-F/A-26B_mfd_map:R1_tooltip,Tooltip for an MFD button.,Reset Offset,
-F/A-26B_mfd_map:T4,Label for an MFD button (short!).,MODE,
-F/A-26B_mfd_map:T4_tooltip,Tooltip for an MFD button.,Toggle Rotation Mode,
+F/A-26B_mfd_map:R1_tooltip,Tooltip for an MFD button.,Reset Offset,Reiniciar Desplazamiento
+F/A-26B_mfd_map:T4,Label for an MFD button (short!).,MODE,MODO
+F/A-26B_mfd_map:T4_tooltip,Tooltip for an MFD button.,Toggle Rotation Mode,Alternar Modo Rotación
 F/A-26B_mfd_map:T5,Label for an MFD button (short!).,SOI,
-F/A-26B_mfd_map:T5_tooltip,Tooltip for an MFD button.,Toggle Sensor of Interest,
-F/A-26B_mfd_map:L4,Label for an MFD button (short!).,FUEL,
-F/A-26B_mfd_map:L4_tooltip,Tooltip for an MFD button.,Set Fuel Waypoint,
-F/A-26B_mfd_map:L3,Label for an MFD button (short!).,RTB,
-F/A-26B_mfd_map:L3_tooltip,Tooltip for an MFD button.,Set Return to Base Waypoint,
+F/A-26B_mfd_map:T5_tooltip,Tooltip for an MFD button.,Toggle Sensor of Interest,Alternar Sensor de Interés
+F/A-26B_mfd_map:L4,Label for an MFD button (short!).,FUEL,COMB
+F/A-26B_mfd_map:L4_tooltip,Tooltip for an MFD button.,Set Fuel Waypoint,Fijar Punto de Combustible
+F/A-26B_mfd_map:L3,Label for an MFD button (short!).,RTB,VAB
+F/A-26B_mfd_map:L3_tooltip,Tooltip for an MFD button.,Set Return to Base Waypoint,Fijar punto Volver a Base
 F/A-26B_mfd_map:L2,Label for an MFD button (short!).,OBJ,
-F/A-26B_mfd_map:L2_tooltip,Tooltip for an MFD button.,Set Objective Waypoint,
-F/A-26B_mfd_map:B1,Label for an MFD button (short!).,SET ALT,
-F/A-26B_mfd_map:B1_tooltip,Tooltip for an MFD button.,Set Target Alt,
+F/A-26B_mfd_map:L2_tooltip,Tooltip for an MFD button.,Set Objective Waypoint,Fijar Punto de Misión
+F/A-26B_mfd_map:B1,Label for an MFD button (short!).,SET ALT,FIJAR ALT
+F/A-26B_mfd_map:B1_tooltip,Tooltip for an MFD button.,Set Target Alt,Fijar Alt del Obj.
 F/A-26B_mfd_map:B2,Label for an MFD button (short!).,ALT+,
-F/A-26B_mfd_map:B2_tooltip,Tooltip for an MFD button.,Raise Target Alt,
-F/A-26B_mfd_map:B3,Label for an MFD button (short!).,GPS-S,
-F/A-26B_mfd_map:B3_tooltip,Tooltip for an MFD button.,Send GPS Target,
-F/A-26B_mfd_options:L2_tooltip,Tooltip for an MFD button.,Unit Options,
-F/A-26B_mfd_options:R2_tooltip,Tooltip for an MFD button.,Toggle Joystick Mode,
-F/A-26B_mfd_options:L3_tooltip,Tooltip for an MFD button.,Fuel Settings,
-F/A-26B_mfd_options:L4_tooltip,Tooltip for an MFD button.,Altitude Warning Settings,
-F/A-26B_mfd_options:R3_tooltip,Tooltip for an MFD button.,Joystick Sensitivity,
-F/A-26B_mfd_unitOptions:L2_tooltip,Tooltip for an MFD button.,Altitude Units,
-F/A-26B_mfd_unitOptions:L3_tooltip,Tooltip for an MFD button.,Distance Units,
-F/A-26B_mfd_unitOptions:L4_tooltip,Tooltip for an MFD button.,Speed Units,
-F/A-26B_mfd_unitOptions:T5_tooltip,Tooltip for an MFD button.,Back,
-F/A-26B_mfd_fuelConfig:T5_tooltip,Tooltip for an MFD button.,Back,
-F/A-26B_mfd_fuelConfig:L4_tooltip,Tooltip for an MFD button.,Bingo Fuel +,
-F/A-26B_mfd_fuelConfig:L5_tooltip,Tooltip for an MFD button.,Bingo Fuel -,
-F/A-26B_mfd_altitudeSettings:T5_tooltip,Tooltip for an MFD button.,Back,
-F/A-26B_mfd_altitudeSettings:L3_tooltip,Tooltip for an MFD button.,Set Min Alt,
+F/A-26B_mfd_map:B2_tooltip,Tooltip for an MFD button.,Raise Target Alt,Subir Alt del Obj.
+F/A-26B_mfd_map:B3,Label for an MFD button (short!).,GPS-S,GPS-E
+F/A-26B_mfd_map:B3_tooltip,Tooltip for an MFD button.,Send GPS Target,Enviar Objetivo GPS
+F/A-26B_mfd_options:L2_tooltip,Tooltip for an MFD button.,Unit Options,Opción Unidades
+F/A-26B_mfd_options:R2_tooltip,Tooltip for an MFD button.,Toggle Joystick Mode,Alternar Modo Joystick
+F/A-26B_mfd_options:L3_tooltip,Tooltip for an MFD button.,Fuel Settings,Opciones Combustible
+F/A-26B_mfd_options:L4_tooltip,Tooltip for an MFD button.,Altitude Warning Settings,Opciones de advertencias de alt
+F/A-26B_mfd_options:R3_tooltip,Tooltip for an MFD button.,Joystick Sensitivity,Sensibilidad Joystick
+F/A-26B_mfd_unitOptions:L2_tooltip,Tooltip for an MFD button.,Altitude Units,Unid. Altitud
+F/A-26B_mfd_unitOptions:L3_tooltip,Tooltip for an MFD button.,Distance Units,Unid. Distancia
+F/A-26B_mfd_unitOptions:L4_tooltip,Tooltip for an MFD button.,Speed Units,Unid. Velocidad
+F/A-26B_mfd_unitOptions:T5_tooltip,Tooltip for an MFD button.,Back,Volver
+F/A-26B_mfd_fuelConfig:T5_tooltip,Tooltip for an MFD button.,Back,Volver
+F/A-26B_mfd_fuelConfig:L4_tooltip,Tooltip for an MFD button.,Bingo Fuel +,Comb Bingo +
+F/A-26B_mfd_fuelConfig:L5_tooltip,Tooltip for an MFD button.,Bingo Fuel -,Comb Bingo -
+F/A-26B_mfd_altitudeSettings:T5_tooltip,Tooltip for an MFD button.,Back,Volver
+F/A-26B_mfd_altitudeSettings:L3_tooltip,Tooltip for an MFD button.,Set Min Alt,Fijar Alt Mín.
 F/A-26B_mfd_altitudeSettings:L4_tooltip,Tooltip for an MFD button.,Min Alt -,
-F/A-26B_mfd_altitudeSettings:R3_tooltip,Tooltip for an MFD button.,Set Max Alt,
+F/A-26B_mfd_altitudeSettings:R3_tooltip,Tooltip for an MFD button.,Set Max Alt,Fijar Alt Max.
 F/A-26B_mfd_altitudeSettings:R4_tooltip,Tooltip for an MFD button.,Max Alt -,
-F/A-26B_mfd_altitudeSettings:L2_tooltip,Tooltip for an MFD button.,Toggle Alt Mode,
+F/A-26B_mfd_altitudeSettings:L2_tooltip,Tooltip for an MFD button.,Toggle Alt Mode,Alternar Modo Alt.
 F/A-26B_mfd_hardpoints:T4_tooltip,Tooltip for an MFD button.,HP Gun,
 F/A-26B_mfd_hardpoints:L5_tooltip,Tooltip for an MFD button.,HP 1,
 F/A-26B_mfd_hardpoints:L4_tooltip,Tooltip for an MFD button.,HP 2,
@@ -1247,303 +1248,314 @@ F/A-26B_mfd_hardpoints:R5_tooltip,Tooltip for an MFD button.,HP 10,
 F/A-26B_mfd_hardpoints:B1_tooltip,Tooltip for an MFD button.,HP 11,
 F/A-26B_mfd_hardpoints:B5_tooltip,Tooltip for an MFD button.,HP 12,
 F/A-26B_mfd_hardpoints:B3_tooltip,Tooltip for an MFD button.,HP 13,
-F/A-26B_mfd_hardpoints:T5,Label for an MFD button (short!).,MODE,
-F/A-26B_mfd_hardpoints:T5_tooltip,Tooltip for an MFD button.,Toggle Mode,
-F/A-26B_mfd_hardpointInfoPage:R1_tooltip,Tooltip for an MFD button.,Return to Equip,
-F/A-26B_mfd_hardpointInfoPage:B2_tooltip,Tooltip for an MFD button.,Toggle Arming,
-F/A-26B_mfd_hardpointInfoPage:B5_tooltip,Tooltip for an MFD button.,Toggle Jettison,
-F/A-26B_mfd_target:B3,Label for an MFD button (short!).,HEAD,
-F/A-26B_mfd_target:B3_tooltip,Tooltip for an MFD button.,Head-track Mode,
-F/A-26B_mfd_target:B2,Label for an MFD button (short!).,FWD,
-F/A-26B_mfd_target:B2_tooltip,Tooltip for an MFD button.,Forward Mode,
-F/A-26B_mfd_target:B5,Label for an MFD button (short!).,PWR,
-F/A-26B_mfd_target:B5_tooltip,Tooltip for an MFD button.,Toggle TGP Power,
+F/A-26B_mfd_hardpoints:T5,Label for an MFD button (short!).,MODE,MODO
+F/A-26B_mfd_hardpoints:T5_tooltip,Tooltip for an MFD button.,Toggle Mode,Alternar Modo
+F/A-26B_mfd_hardpointInfoPage:R1_tooltip,Tooltip for an MFD button.,Return to Equip,Volver al Equipo
+F/A-26B_mfd_hardpointInfoPage:B2_tooltip,Tooltip for an MFD button.,Toggle Arming,Alternar Armado
+F/A-26B_mfd_hardpointInfoPage:B5_tooltip,Tooltip for an MFD button.,Toggle Jettison,Alternar Soltado de Carga
+F/A-26B_mfd_target:B3,Label for an MFD button (short!).,HEAD,CABEZA
+F/A-26B_mfd_target:B3_tooltip,Tooltip for an MFD button.,Head-track Mode,Modo Seguimiento de Cabeza
+F/A-26B_mfd_target:B2,Label for an MFD button (short!).,FWD,ADEL.
+F/A-26B_mfd_target:B2_tooltip,Tooltip for an MFD button.,Forward Mode,Modo Fijo
+F/A-26B_mfd_target:B5,Label for an MFD button (short!).,PWR,ENERG
+F/A-26B_mfd_target:B5_tooltip,Tooltip for an MFD button.,Toggle TGP Power,Encender/Apagar TGP
 F/A-26B_mfd_target:R2,Label for an MFD button (short!).,ZOOM+,
-F/A-26B_mfd_target:R2_tooltip,Tooltip for an MFD button.,Zoom In,
+F/A-26B_mfd_target:R2_tooltip,Tooltip for an MFD button.,Zoom In,Zoom Dentro
 F/A-26B_mfd_target:R3,Label for an MFD button (short!).,ZOOM-,
-F/A-26B_mfd_target:R3_tooltip,Tooltip for an MFD button.,Zoom Out,
-F/A-26B_mfd_target:R4,Label for an MFD button (short!).,GPS-S,
-F/A-26B_mfd_target:R4_tooltip,Tooltip for an MFD button.,GPS Send,
-F/A-26B_mfd_target:R5,Label for an MFD button (short!).,GPS-A,
-F/A-26B_mfd_target:R5_tooltip,Tooltip for an MFD button.,GPS Acquire,
-F/A-26B_mfd_target:L2,Label for an MFD button (short!).,MODE,
-F/A-26B_mfd_target:L2_tooltip,Tooltip for an MFD button.,Cycle Modes,
+F/A-26B_mfd_target:R3_tooltip,Tooltip for an MFD button.,Zoom Out,Zoom Fuera
+F/A-26B_mfd_target:R4,Label for an MFD button (short!).,GPS-S,GPS-E
+F/A-26B_mfd_target:R4_tooltip,Tooltip for an MFD button.,GPS Send,GPS Enviar
+F/A-26B_mfd_target:R5,Label for an MFD button (short!).,GPS-A,GPS-O
+F/A-26B_mfd_target:R5_tooltip,Tooltip for an MFD button.,GPS Acquire,GPS Obtener
+F/A-26B_mfd_target:L2,Label for an MFD button (short!).,MODE,MODO
+F/A-26B_mfd_target:L2_tooltip,Tooltip for an MFD button.,Cycle Modes,Ciclar Modos
 F/A-26B_mfd_target:L3,Label for an MFD button (short!).,SENS,
-F/A-26B_mfd_target:L3_tooltip,Tooltip for an MFD button.,Sensor Mode,
-F/A-26B_mfd_target:T3,Label for an MFD button (short!).,WPT,
-F/A-26B_mfd_target:T3_tooltip,Tooltip for an MFD button.,To Waypoint,
+F/A-26B_mfd_target:L3_tooltip,Tooltip for an MFD button.,Sensor Mode,Modo Sensor
+F/A-26B_mfd_target:T3,Label for an MFD button (short!).,WPT,PUNTO
+F/A-26B_mfd_target:T3_tooltip,Tooltip for an MFD button.,To Waypoint,Al Punto
 F/A-26B_mfd_target:T5,Label for an MFD button (short!).,SOI,
-F/A-26B_mfd_target:T5_tooltip,Tooltip for an MFD button.,Toggle Sensor of Interest,
-F/A-26B_mfd_target:B4_tooltip,Tooltip for an MFD button.,Toggle HMD View,
+F/A-26B_mfd_target:T5_tooltip,Tooltip for an MFD button.,Toggle Sensor of Interest,Altenar Sensor de Interes
+F/A-26B_mfd_target:B4_tooltip,Tooltip for an MFD button.,Toggle HMD View,Alternar vista HMD
 F/A-26B_mfd_target:L4,Label for an MFD button (short!).,LIM,
-F/A-26B_mfd_target:L4_tooltip,Tooltip for an MFD button.,Toggle Limits Overlay,
-F/A-26B_mfd_target:R1,Label for an MFD button (short!).,MARK,
-F/A-26B_mfd_target:R1_tooltip,Tooltip for an MFD button.,Laser Marker,
-F/A-26B_mfd_gameMenu:B2,Label for an MFD button (short!).,RESTART,
-F/A-26B_mfd_gameMenu:B2_tooltip,Tooltip for an MFD button.,Restart Mission,
-F/A-26B_mfd_gameMenu:B4,Label for an MFD button (short!).,EXIT,
-F/A-26B_mfd_gameMenu:B4_tooltip,Tooltip for an MFD button.,Return to Main,
-F/A-26B_mfd_gameMenu:B3,Label for an MFD button (short!).,EXIT,
-F/A-26B_mfd_gameMenu:B3_tooltip,Tooltip for an MFD button.,Return to Briefing Room,
-F/A-26B_mfd_gameMenu:R2,Label for an MFD button (short!).,CENTER,
-F/A-26B_mfd_gameMenu:R2_tooltip,Tooltip for an MFD button.,Recenter Seat,
-F/A-26B_mfd_gameMenu:L3,Label for an MFD button (short!).,QSAVE,
-F/A-26B_mfd_gameMenu:L3_tooltip,Tooltip for an MFD button.,Quick Save Menu,
-F/A-26B_mfd_gameMenu:R4,Label for an MFD button (short!).,PLAYERS,
-F/A-26B_mfd_gameMenu:R4_tooltip,Tooltip for an MFD button.,View Players,
-F/A-26B_mfd_gameMenu:R5,Label for an MFD button (short!).,NETWORK,
-F/A-26B_mfd_gameMenu:R5_tooltip,Tooltip for an MFD button.,Network Analytics,
-F/A-26B_mfd_quicksave:L3_tooltip,Tooltip for an MFD button.,Save,
-F/A-26B_mfd_quicksave:B4_tooltip,Tooltip for an MFD button.,Load,
-F/A-26B_mfd_quicksave:T5,Label for an MFD button (short!).,BACK,
-F/A-26B_mfd_quicksave:T5_tooltip,Tooltip for an MFD button.,Back,
-F/A-26B_mfd_netAnalytics:B1,Label for an MFD button (short!).,BACK,
-F/A-26B_mfd_netAnalytics:B1_tooltip,Tooltip for an MFD button.,Back,
-F/A-26B_mfd_mpPlayers:B1,Label for an MFD button (short!).,BACK,
-F/A-26B_mfd_mpPlayers:B1_tooltip,Tooltip for an MFD button.,Back,
-F/A-26B_mfd_mpPlayers:T5,Label for an MFD button (short!).,MANAGE,
-F/A-26B_mfd_mpPlayers:T5_tooltip,Tooltip for an MFD button.,Manage Players,
-F/A-26B_mfd_mpPlayers:R4_tooltip,Tooltip for an MFD button.,Scroll Up,
-F/A-26B_mfd_mpPlayers:R5_tooltip,Tooltip for an MFD button.,Scroll Down,
+F/A-26B_mfd_target:L4_tooltip,Tooltip for an MFD button.,Toggle Limits Overlay,Alternar OVerlay del Límite
+F/A-26B_mfd_target:R1,Label for an MFD button (short!).,MARK,LASER
+F/A-26B_mfd_target:R1_tooltip,Tooltip for an MFD button.,Laser Marker,Marcador Láser
+F/A-26B_mfd_gameMenu:B2,Label for an MFD button (short!).,RESTART,REINICIAR
+F/A-26B_mfd_gameMenu:B2_tooltip,Tooltip for an MFD button.,Restart Mission,Reiniciar Misión
+F/A-26B_mfd_gameMenu:B4,Label for an MFD button (short!).,EXIT,SALIR
+F/A-26B_mfd_gameMenu:B4_tooltip,Tooltip for an MFD button.,Return to Main,Volver al Menú Principal
+F/A-26B_mfd_gameMenu:B3,Label for an MFD button (short!).,EXIT,SALIR
+F/A-26B_mfd_gameMenu:B3_tooltip,Tooltip for an MFD button.,Return to Briefing Room,Volver a la sala de Briefing
+F/A-26B_mfd_gameMenu:R2,Label for an MFD button (short!).,CENTER,CENTRAR
+F/A-26B_mfd_gameMenu:R2_tooltip,Tooltip for an MFD button.,Recenter Seat,Recentrar Asiento
+F/A-26B_mfd_gameMenu:L3,Label for an MFD button (short!).,QSAVE,GUARD. RÁP.
+F/A-26B_mfd_gameMenu:L3_tooltip,Tooltip for an MFD button.,Quick Save Menu,Menú de Guardado Rápido
+F/A-26B_mfd_gameMenu:R4,Label for an MFD button (short!).,PLAYERS,JUGADORES
+F/A-26B_mfd_gameMenu:R4_tooltip,Tooltip for an MFD button.,View Players,Ver Jugadores
+F/A-26B_mfd_gameMenu:R5,Label for an MFD button (short!).,NETWORK,RED
+F/A-26B_mfd_gameMenu:R5_tooltip,Tooltip for an MFD button.,Network Analytics,Análisis de Red
+F/A-26B_mfd_quicksave:L3_tooltip,Tooltip for an MFD button.,Save,Guardar
+F/A-26B_mfd_quicksave:B4_tooltip,Tooltip for an MFD button.,Load,Cargar
+F/A-26B_mfd_quicksave:T5,Label for an MFD button (short!).,BACK,VOLVER
+F/A-26B_mfd_quicksave:T5_tooltip,Tooltip for an MFD button.,Back,Volver
+F/A-26B_mfd_netAnalytics:B1,Label for an MFD button (short!).,BACK,VOLVER
+F/A-26B_mfd_netAnalytics:B1_tooltip,Tooltip for an MFD button.,Back,Volver
+F/A-26B_mfd_mpPlayers:B1,Label for an MFD button (short!).,BACK,VOLVER
+F/A-26B_mfd_mpPlayers:B1_tooltip,Tooltip for an MFD button.,Back,Volver
+F/A-26B_mfd_mpPlayers:T5,Label for an MFD button (short!).,MANAGE,GESTIONAR
+F/A-26B_mfd_mpPlayers:T5_tooltip,Tooltip for an MFD button.,Manage Players,Gestionar Jugadores
+F/A-26B_mfd_mpPlayers:R4_tooltip,Tooltip for an MFD button.,Scroll Up,Scroll Arriba
+F/A-26B_mfd_mpPlayers:R5_tooltip,Tooltip for an MFD button.,Scroll Down,Scroll Abajo
 F/A-26B_mfd_radar:R2,Label for an MFD button (short!).,R+,
-F/A-26B_mfd_radar:R2_tooltip,Tooltip for an MFD button.,Range +,
+F/A-26B_mfd_radar:R2_tooltip,Tooltip for an MFD button.,Range +,Rango +
 F/A-26B_mfd_radar:R3,Label for an MFD button (short!).,R-,
-F/A-26B_mfd_radar:R3_tooltip,Tooltip for an MFD button.,Range -,
-F/A-26B_mfd_radar:R4,Label for an MFD button (short!).,BORE,
-F/A-26B_mfd_radar:R4_tooltip,Tooltip for an MFD button.,Toggle Boresight,
-F/A-26B_mfd_radar:B1,Label for an MFD button (short!).,CLR,
-F/A-26B_mfd_radar:B1_tooltip,Tooltip for an MFD button.,Clear Tracks,
-F/A-26B_mfd_radar:B2,Label for an MFD button (short!).,UNLCK,
-F/A-26B_mfd_radar:B2_tooltip,Tooltip for an MFD button.,Unlock,
-F/A-26B_mfd_radar:B5_tooltip,Tooltip for an MFD button.,Scan Angle,
+F/A-26B_mfd_radar:R3_tooltip,Tooltip for an MFD button.,Range -,Rango -
+F/A-26B_mfd_radar:R4,Label for an MFD button (short!).,BORE,BORE
+F/A-26B_mfd_radar:R4_tooltip,Tooltip for an MFD button.,Toggle Boresight,Alternar Boresight
+F/A-26B_mfd_radar:B1,Label for an MFD button (short!).,CLR,BORR
+F/A-26B_mfd_radar:B1_tooltip,Tooltip for an MFD button.,Clear Tracks,Borrar Señales
+F/A-26B_mfd_radar:B2,Label for an MFD button (short!).,UNLCK,DESBL
+F/A-26B_mfd_radar:B2_tooltip,Tooltip for an MFD button.,Unlock,Desbloquear
+F/A-26B_mfd_radar:B5_tooltip,Tooltip for an MFD button.,Scan Angle,Ángulo Escaneo
 F/A-26B_mfd_radar:T5,Label for an MFD button (short!).,SOI,
-F/A-26B_mfd_radar:T5_tooltip,Tooltip for an MFD button.,Sensor of Interest,
-F/A-26B_mfd_radar:L2_tooltip,Tooltip for an MFD button.,Track 1,
-F/A-26B_mfd_radar:L3_tooltip,Tooltip for an MFD button.,Track 2,
-F/A-26B_mfd_radar:L4_tooltip,Tooltip for an MFD button.,Track 3,
-F/A-26B_mfd_radar:L5_tooltip,Tooltip for an MFD button.,Track 4,
-F/A-26B_mfd_radar:R5_tooltip,Tooltip for an MFD button.,Toggle Head Sight,
+F/A-26B_mfd_radar:T5_tooltip,Tooltip for an MFD button.,Sensor of Interest,Sensor de Interés
+F/A-26B_mfd_radar:L2_tooltip,Tooltip for an MFD button.,Track 1,Señal 1
+F/A-26B_mfd_radar:L3_tooltip,Tooltip for an MFD button.,Track 2,Señal 2
+F/A-26B_mfd_radar:L4_tooltip,Tooltip for an MFD button.,Track 3,Señal 3
+F/A-26B_mfd_radar:L5_tooltip,Tooltip for an MFD button.,Track 4,Señal 4
+F/A-26B_mfd_radar:R5_tooltip,Tooltip for an MFD button.,Toggle Head Sight,Alternar Mira de Cabeza
 CG25 Twin Chaingun_fullName,Full equip name of: CG25 Twin Chaingun,CG25 Twin Chaingun,
-CG25 Twin Chaingun_description,Item description of: CG25 Twin Chaingun,A fixed 25mm dual-barrel chaingun.,
-AIM-120D Advanced Radar Missile x2_fullName,Full equip name of: AIM-120D Advanced Radar Missile x2,AIM-120D Advanced Radar Missile x2,
+CG25 Twin Chaingun_description,Item description of: CG25 Twin Chaingun,A fixed 25mm dual-barrel chaingun.,Un dos cañones fijo de 25mm
+AIM-120D Advanced Radar Missile x2_fullName,Full equip name of: AIM-120D Advanced Radar Missile x2,AIM-120D Advanced Radar Missile x2,Misil de Radar Avanzado AIM-120D x2
 AIM-120D Advanced Radar Missile x2_description,Item description of: AIM-120D Advanced Radar Missile x2,"Two internally mounted, radar guided, medium range air to air missiles.
-",
+",Dos misiles Aire-Aire de medio alcance guiado por radar internamente montados
 MK-83 x12_fullName,Full equip name of: MK-83 x12,MK-83 x12,
-MK-83 x12_description,Item description of: MK-83 x12,A rack of 12 MK-83 1000lb bombs.,
-GBU-12 Laser Guided Bomb x3_fullName,Full equip name of: GBU-12 Laser Guided Bomb x3,GBU-12 Laser Guided Bomb x3,
-GBU-12 Laser Guided Bomb x3_description,Item description of: GBU-12 Laser Guided Bomb x3,A rack of three 500lb laser guided bomb.,
-AGM-89 Anti-ship Cruise Missile_fullName,Full equip name of: AGM-89 Anti-ship Cruise Missile,AGM-89 Anti-ship Cruise Missile,
-AGM-89 Anti-ship Cruise Missile_description,Item description of: AGM-89 Anti-ship Cruise Missile,"Air-launched anti-ship cruise missile.  Equipped with waypoint following, radar target acquisition, and terminal maneuvering technology.",
-Hydra-70 4x4 Rocket Pod_fullName,Full equip name of: Hydra-70 4x4 Rocket Pod,Hydra-70 4x4 Rocket Pod,
-Hydra-70 4x4 Rocket Pod_description,Item description of: Hydra-70 4x4 Rocket Pod,"A cluster of pods carrying a total of 16 high explosive rockets.  Can be fired in single shot mode, or rapid fire (ripple).",
-GBU-53 Advanced SD Bomb x4_fullName,Full equip name of: GBU-53 Advanced SD Bomb x4,GBU-53 Advanced SD Bomb x4,
-GBU-53 Advanced SD Bomb x4_description,Item description of: GBU-53 Advanced SD Bomb x4,An internally mounted rack of 4 optically guided small diameter bomb. Each bomb has built-in folding wings that allow it to glide for long distances and hit targets with precision. Advanced optics allow it to track moving targets from extended range without laser designation.,
-eqSublabel_OPTICAL-BOMB-FAF,HUD sub-label of an equip,OPTICAL BOMB FAF,
-tutName_Basic Flight,Name of a legacy tutorial objective,Basic Flight,
-tutDesc_Basic Flight,Description of a legacy tutorial,Complete the tutorial.,
-tut:Basic Flight:Intro10,A tutorial label,Welcome to the Basic Flight tutorial.,
-tut:Basic Flight:Intro21,A tutorial label,We'll skip the start-up procedure now.,
-tut:Basic Flight:Intro32,A tutorial label,"The main flight controls are the joystick and throttle.  You can grip them by holding the grip buttons, or toggle lock your hands to them by tapping the grip buttons.",
-tut:Basic Flight:StartTaxi3,A tutorial label,Let's start with taxiing.,
-tut:Basic Flight:GrabStick4,A tutorial label,Grab Joystick,
-tut:Basic Flight:GrabThrottle5,A tutorial label,Grab Throttle,
-tut:Basic Flight:SteerInfo6,A tutorial label,"To steer the front wheel, you will have to twist the joystick on the vertical axis.",
-tut:Basic Flight:TiltInfo7,A tutorial label,"In order to get moving, we need to tilt the engines to the forward position.",
-tut:Basic Flight:HoldBrakes8,A tutorial label,Hold the throttle trigger to lock the brakes,
-tut:Basic Flight:StartTilt9,A tutorial label,Then press and hold up on the throttle thumb control to tilt the engines forward.,
-tut:Basic Flight:StartRoll10,A tutorial label,"If you release the brakes and slightly lift the throttle lever, you will start to roll.",
-tut:Basic Flight:ControlSpeed11,A tutorial label,Apply small amounts of throttle or brakes to control your speed.,
-tut:Basic Flight:DriveToRamp12,A tutorial label,Drive over here!,
-tut:Basic Flight:DriveToRamp213,A tutorial label,Drive over here!,
-tut:Basic Flight:Fullstop14,A tutorial label,Full stop!  Throttle down and hold the throttle brake trigger.,
-tut:Basic Flight:PrepareTakeoff15,A tutorial label,Let's prepare for a conventional take-off.,
-tut:Basic Flight:SetBrakeLock16,A tutorial label,Set the brake lock so you can free up your hands.,
-tut:Basic Flight:Set flaps.17,A tutorial label,Set flaps to setting 1.,
-tut:Basic Flight:SetAssists18,A tutorial label,Make sure all flight assists are enabled,
-tut:Basic Flight:EnsureTilt19,A tutorial label,Check that the engines are tilted all the way forward.,
-tut:Basic Flight:GrabThrottle220,A tutorial label,Now grab the throttle and hold the brakes...,
-tut:Basic Flight:Unlock Brakes21,A tutorial label,...so you can disable brake lock.,
-tut:Basic Flight:TurnOntoRunway22,A tutorial label,Now turn left onto runway 20,
-tut:Basic Flight:BeforeTakeoff23,A tutorial label,"Now.. to take off, raise the throttle to full and steer to keep aligned with the runway.",
-tut:Basic Flight:WaitSpeed24,A tutorial label,Speed up to [80]! Straight down the runway!,
-tut:Basic Flight:Rotate!25,A tutorial label,Now carefully rotate the joystick back to pull the nose up!,
-tut:Basic Flight:Liftoff!26,A tutorial label,"Great! You're in the air. ",
-tut:Basic Flight:RaiseGear27,A tutorial label,Raise the landing gear.,
-tut:Basic Flight:RaiseFlaps28,A tutorial label,Set flaps to 0 (retracted),
-tut:Basic Flight:GainAltitude29,A tutorial label,Now gently steer your nose to about 20 degrees and keep climbing to {1000} ASL.,
-tut:Basic Flight:FlightControls30,A tutorial label,Let's practice basic flight controls.,
-tut:Basic Flight:Roll31,A tutorial label,Rotate the joystick left or right to roll towards your target,
-tut:Basic Flight:Pitch32,A tutorial label,Rotate the joystick forward or back to pitch your nose towards it.,
-tut:Basic Flight:VelVector33,A tutorial label,"This is your velocity vector, showing the direction you are moving.",
-tut:Basic Flight:VelVector234,A tutorial label,You want to steer velocity vector towards where you want to go.,
-tut:Basic Flight:FlyToTarget135,A tutorial label,Fly over here!,
-tut:Basic Flight:FlyToTarget236,A tutorial label,Fly over here!,
-tut:Basic Flight:Great Flying37,A tutorial label,Great flying! Now let's try to land at the airbase.,
-tut:Basic Flight:StartLanding38,A tutorial label,Start your landing here at about [150],
-tut:Basic Flight:Landing239,A tutorial label,Line up with the runway and bring speed down to about [100],
-tut:Basic Flight:Landing340,A tutorial label,"Flaps down, gear down.  Speed down to [80]",
-tut:Basic Flight:Landing441,A tutorial label,Maintain speed and glide slope.  Keep the vector on target!,
-tut:Basic Flight:PrepareToFlare42,A tutorial label,Prepare to flare nose up for a smooth landing,
+MK-83 x12_description,Item description of: MK-83 x12,A rack of 12 MK-83 1000lb bombs.,Un Pilón de 12 Bombas MK-83 de 1000lb
+GBU-12 Laser Guided Bomb x3_fullName,Full equip name of: GBU-12 Laser Guided Bomb x3,GBU-12 Laser Guided Bomb x3,Bomba Guiada por Láser GBU-12 x3
+GBU-12 Laser Guided Bomb x3_description,Item description of: GBU-12 Laser Guided Bomb x3,A rack of three 500lb laser guided bomb.,Un pilón de tres bombas guiadas por láser de 500lb
+AGM-89 Anti-ship Cruise Missile_fullName,Full equip name of: AGM-89 Anti-ship Cruise Missile,AGM-89 Anti-ship Cruise Missile,Misil de Crucero Anti-Buque AGM-89
+AGM-89 Anti-ship Cruise Missile_description,Item description of: AGM-89 Anti-ship Cruise Missile,"Air-launched anti-ship cruise missile.  Equipped with waypoint following, radar target acquisition, and terminal maneuvering technology.","Misil de Crucero Anti-buque lanzado aereamente. Equipado con seguimiento de punto de ruta, adquisición de objetivo por radar y tecnología de maniobravilidad terminal."
+Hydra-70 4x4 Rocket Pod_fullName,Full equip name of: Hydra-70 4x4 Rocket Pod,Hydra-70 4x4 Rocket Pod,Contenedor de Cohetes Hydra-70 4x4
+Hydra-70 4x4 Rocket Pod_description,Item description of: Hydra-70 4x4 Rocket Pod,"A cluster of pods carrying a total of 16 high explosive rockets.  Can be fired in single shot mode, or rapid fire (ripple).","Conjunto de Contenedores llevando un total de 16 cohetes AE.
+Pueden ser disparados en semi, o ráfaga."
+GBU-53 Advanced SD Bomb x4_fullName,Full equip name of: GBU-53 Advanced SD Bomb x4,GBU-53 Advanced SD Bomb x4,Bomba Avanzada SD GBU-53 x4
+GBU-53 Advanced SD Bomb x4_description,Item description of: GBU-53 Advanced SD Bomb x4,An internally mounted rack of 4 optically guided small diameter bomb. Each bomb has built-in folding wings that allow it to glide for long distances and hit targets with precision. Advanced optics allow it to track moving targets from extended range without laser designation.,Un pilón interno de 4 bombas de pequeño diámetro guiadas ópticamente. Cada bomba cuenta con alas plegables integradas que le permiten planear  largas distancias y alcanzar objetivos con precisión. Su sistema óptico avanzado le permite seguir blancos en movimiento a gran distancia sin necesidad de designación láser.
+eqSublabel_OPTICAL-BOMB-FAF,HUD sub-label of an equip,OPTICAL BOMB FAF,BOMBA FAF OPTICA
+tutName_Basic Flight,Name of a legacy tutorial objective,Basic Flight,Vuelo básico
+tutDesc_Basic Flight,Description of a legacy tutorial,Complete the tutorial.,Completa el tutorial.
+tut:Basic Flight:Intro10,A tutorial label,Welcome to the Basic Flight tutorial.,Bienvenido al tutorial de vuelo básico.
+tut:Basic Flight:Intro21,A tutorial label,We'll skip the start-up procedure now.,Vamos a saltarnos la puesta en marcha.
+tut:Basic Flight:Intro32,A tutorial label,"The main flight controls are the joystick and throttle.  You can grip them by holding the grip buttons, or toggle lock your hands to them by tapping the grip buttons.","Los principales controles de vuelo son el joystick y el acelerador. Puedes agarrarlos manteniendo pulsado los botones de agarre, o alternar el agarre simplemente dando un toque."
+tut:Basic Flight:StartTaxi3,A tutorial label,Let's start with taxiing.,Vamos a empezar rodando.
+tut:Basic Flight:GrabStick4,A tutorial label,Grab Joystick,Agarra el joystick
+tut:Basic Flight:GrabThrottle5,A tutorial label,Grab Throttle,Agarra el acelerador
+tut:Basic Flight:SteerInfo6,A tutorial label,"To steer the front wheel, you will have to twist the joystick on the vertical axis.","para mover la rueda de delante, necesitarás girar el joystick en el eje vertical"
+tut:Basic Flight:TiltInfo7,A tutorial label,"In order to get moving, we need to tilt the engines to the forward position.","Para moverte, necesitamos angular los motores hacia delante."
+tut:Basic Flight:HoldBrakes8,A tutorial label,Hold the throttle trigger to lock the brakes,Mantén el gatillo del acelerador para bloquear los frenos
+tut:Basic Flight:StartTilt9,A tutorial label,Then press and hold up on the throttle thumb control to tilt the engines forward.,Ahora presiona y mantén el control del pulgar hacia delante hasta que los motores se inclinen hacia delante.
+tut:Basic Flight:StartRoll10,A tutorial label,"If you release the brakes and slightly lift the throttle lever, you will start to roll.","Si sueltas los frenos y subes lentamente el acelerador, vas a empezar a rodar."
+tut:Basic Flight:ControlSpeed11,A tutorial label,Apply small amounts of throttle or brakes to control your speed.,Aplica acelerones suaves para controlar la velocidad.
+tut:Basic Flight:DriveToRamp12,A tutorial label,Drive over here!,¡Conduce hasta aquí!
+tut:Basic Flight:DriveToRamp213,A tutorial label,Drive over here!,¡Conduce hasta aquí!
+tut:Basic Flight:Fullstop14,A tutorial label,Full stop!  Throttle down and hold the throttle brake trigger.,¡Quieto parao! Baja el acelerador y mantén el botón del bloqueo de frenos.
+tut:Basic Flight:PrepareTakeoff15,A tutorial label,Let's prepare for a conventional take-off.,Vamos a prepararnos para un despegue convencional.
+tut:Basic Flight:SetBrakeLock16,A tutorial label,Set the brake lock so you can free up your hands.,Pon el freno de mano para que puedas tener las manos libres
+tut:Basic Flight:Set flaps.17,A tutorial label,Set flaps to setting 1.,Pon los flaps al 1
+tut:Basic Flight:SetAssists18,A tutorial label,Make sure all flight assists are enabled,Asegurate de que todos los asistentes de vuelo estas activos
+tut:Basic Flight:EnsureTilt19,A tutorial label,Check that the engines are tilted all the way forward.,Comprueba que los motores están inclinados hacia delante del todo.
+tut:Basic Flight:GrabThrottle220,A tutorial label,Now grab the throttle and hold the brakes...,Ahora agarra el acelerador y frena...
+tut:Basic Flight:Unlock Brakes21,A tutorial label,...so you can disable brake lock.,...para así quitar el freno de mano.
+tut:Basic Flight:TurnOntoRunway22,A tutorial label,Now turn left onto runway 20,Ahora gira a la izquierda a la cabezera 20
+tut:Basic Flight:BeforeTakeoff23,A tutorial label,"Now.. to take off, raise the throttle to full and steer to keep aligned with the runway.","Ahora... despega, sube el acelerador a tope y mantente alineado con la pista."
+tut:Basic Flight:WaitSpeed24,A tutorial label,Speed up to [80]! Straight down the runway!,¡Acelera a [80]! ¡Directo por la pista!
+tut:Basic Flight:Rotate!25,A tutorial label,Now carefully rotate the joystick back to pull the nose up!,¡Ahora cuidadosamente rota el joystick hacia atrás y sube el morro!
+tut:Basic Flight:Liftoff!26,A tutorial label,"Great! You're in the air. ",¡Genial! Ya estás volando.
+tut:Basic Flight:RaiseGear27,A tutorial label,Raise the landing gear.,Sube el tren de aterrizaje.
+tut:Basic Flight:RaiseFlaps28,A tutorial label,Set flaps to 0 (retracted),Pon los flaps a 0 (recogidos)
+tut:Basic Flight:GainAltitude29,A tutorial label,Now gently steer your nose to about 20 degrees and keep climbing to {1000} ASL.,Ahora sube el morro a unos 20 grados y sigue subiendo a {1000} SNM.
+tut:Basic Flight:FlightControls30,A tutorial label,Let's practice basic flight controls.,Vamos a practicar los controles básicos de vuelo.
+tut:Basic Flight:Roll31,A tutorial label,Rotate the joystick left or right to roll towards your target,Rota el joystick izquierda o derecho para rodar hacia tu objetivo
+tut:Basic Flight:Pitch32,A tutorial label,Rotate the joystick forward or back to pitch your nose towards it.,Rota el joystick hacia delante o atrás para cabecear el morro hacia el.
+tut:Basic Flight:VelVector33,A tutorial label,"This is your velocity vector, showing the direction you are moving.","Este es tu vector de velocidad, te dice a que dirección vas."
+tut:Basic Flight:VelVector234,A tutorial label,You want to steer velocity vector towards where you want to go.,Quieres mover el vector de velocidad hacia donde quieres ir.
+tut:Basic Flight:FlyToTarget135,A tutorial label,Fly over here!,¡Sobrevuela esto!
+tut:Basic Flight:FlyToTarget236,A tutorial label,Fly over here!,¡Sobrevuela esto!
+tut:Basic Flight:Great Flying37,A tutorial label,Great flying! Now let's try to land at the airbase.,¡Buen pilotaje! Ahora intentemos aterrizar en la base aérea.
+tut:Basic Flight:StartLanding38,A tutorial label,Start your landing here at about [150],Empieza desde aquí tu aterrizaje a sobre [150]
+tut:Basic Flight:Landing239,A tutorial label,Line up with the runway and bring speed down to about [100],Alineate con la pista y baja de velocidad a [100]
+tut:Basic Flight:Landing340,A tutorial label,"Flaps down, gear down.  Speed down to [80]","Abajo flaps, tren de aterrizaje. Velocidad a [80]"
+tut:Basic Flight:Landing441,A tutorial label,Maintain speed and glide slope.  Keep the vector on target!,Manten la velocidad y el ángulo de planeo. ¡Mantén el vector en el objetivo!
+tut:Basic Flight:PrepareToFlare42,A tutorial label,Prepare to flare nose up for a smooth landing,"Prepárate para un aterrizaje suave, haz flare, morro arriba"
 tut:Basic Flight:Flare43,A tutorial label," ",
-tut:Basic Flight:Touchdown44,A tutorial label,Touch down! Bring your nose down.,
-tut:Basic Flight:Bring to stop.45,A tutorial label,"Steer down the runway, throttle down and carefully apply brakes.",
-tut:Basic Flight:Done46,A tutorial label,Congratulations!  This concludes the basic flight tutorial.,
+tut:Basic Flight:Touchdown44,A tutorial label,Touch down! Bring your nose down.,"¡Contacto! Baja el morro. "
+tut:Basic Flight:Bring to stop.45,A tutorial label,"Steer down the runway, throttle down and carefully apply brakes.","Ve al final de la pista, desacelera y frena cuidadosamente."
+tut:Basic Flight:Done46,A tutorial label,Congratulations!  This concludes the basic flight tutorial.,¡Felicidades! Aquí concluye el tutorial de vuelo básico.
 ASMRM-7 x6 Internal_fullName,Full equip name of: ASMRM-7 x6 Internal,ASMRM-7 x6 Internal,
-ASMRM-7 x6 Internal_description,Item description of: ASMRM-7 x6 Internal,Medium range radar guided air to air missile. Missiles are stowed internally to improve stealth and aerodynamics.,
-4200L Fuel Drop Tank_fullName,Full equip name of: 4200L Fuel Drop Tank,4200L Fuel Drop Tank,
-4200L Fuel Drop Tank_description,Item description of: 4200L Fuel Drop Tank,A 4200 liter fuel tank.,
-Hydra-70 x57 Rocket Pod_fullName,Full equip name of: Hydra-70 x57 Rocket Pod,Hydra-70 x57 Rocket Pod,
-Hydra-70 x57 Rocket Pod_description,Item description of: Hydra-70 x57 Rocket Pod,"A pod carrying a total of 57 (19 x 3) high explosive rockets.  Can be fired in single shot mode, or rapid fire (ripple).",
-Mk-82AIR High Drag Bomb x3_fullName,Full equip name of: Mk-82AIR High Drag Bomb x3,Mk-82AIR High Drag Bomb x3,
-Mk-82AIR High Drag Bomb x3_description,Item description of: Mk-82AIR High Drag Bomb x3,Standard un-guided 500lb bombs. Deploys an inflatable drag chute to slow descent for low altitude bombing.,
-4600L Drop Tank_fullName,Full equip name of: 4600L Drop Tank,4600L Drop Tank,
-4600L Drop Tank_description,Item description of: 4600L Drop Tank,A 4600L external fuel drop tank.,
-UCAV GMA-14 Launcher_fullName,Full equip name of: UCAV GMA-14 Launcher,UCAV GMA-14 Launcher,
-UCAV GMA-14 Launcher_description,Item description of: UCAV GMA-14 Launcher,Single air-to-ground missile launcher for UCAV.,
+ASMRM-7 x6 Internal_description,Item description of: ASMRM-7 x6 Internal,Medium range radar guided air to air missile. Missiles are stowed internally to improve stealth and aerodynamics.,Misil Aire-Aire guiado por radar de medio alcanze. Los misiles son almacenados internamente para mejorar furtividad y aerodinámica.
+4200L Fuel Drop Tank_fullName,Full equip name of: 4200L Fuel Drop Tank,4200L Fuel Drop Tank,Tanque extenro 4200L
+4200L Fuel Drop Tank_description,Item description of: 4200L Fuel Drop Tank,A 4200 liter fuel tank.,Un tanque de combustible de 4200 litros
+Hydra-70 x57 Rocket Pod_fullName,Full equip name of: Hydra-70 x57 Rocket Pod,Hydra-70 x57 Rocket Pod,Contenedor de Cohetes Hydra-70 x57
+Hydra-70 x57 Rocket Pod_description,Item description of: Hydra-70 x57 Rocket Pod,"A pod carrying a total of 57 (19 x 3) high explosive rockets.  Can be fired in single shot mode, or rapid fire (ripple).","Un contenedor llevando un total de 57 (19x3) cohetes AE. Pueden ser disparados en modo semi, o ráfaga."
+Mk-82AIR High Drag Bomb x3_fullName,Full equip name of: Mk-82AIR High Drag Bomb x3,Mk-82AIR High Drag Bomb x3,Bomba Mk-82AIR x3
+Mk-82AIR High Drag Bomb x3_description,Item description of: Mk-82AIR High Drag Bomb x3,Standard un-guided 500lb bombs. Deploys an inflatable drag chute to slow descent for low altitude bombing.,Bomba estandar de 500lb sin guiado. Despliega un paracaídas de descenso lento para bombardeos a baja altitud.
+4600L Drop Tank_fullName,Full equip name of: 4600L Drop Tank,4600L Drop Tank,Tanque extenro 4600L
+4600L Drop Tank_description,Item description of: 4600L Drop Tank,A 4600L external fuel drop tank.,Un tanque de combustible de 4600 litros
+UCAV GMA-14 Launcher_fullName,Full equip name of: UCAV GMA-14 Launcher,UCAV GMA-14 Launcher,Lanzador UCAV GMA-14
+UCAV GMA-14 Launcher_description,Item description of: UCAV GMA-14 Launcher,Single air-to-ground missile launcher for UCAV.,LanzaMisil Aire-Tierra para el UCAV
 AIM-92 Stinger_fullName,Full equip name of: AIM-92 Stinger,AIM-92 Stinger,
-AIM-92 Stinger_description,Item description of: AIM-92 Stinger,Wingtip-mounted heat-seeking air-to-air missile.,
-GAU-94 20mm Rotary Cannon_fullName,Full equip name of: GAU-94 20mm Rotary Cannon,GAU-94 20mm Rotary Cannon,
-GAU-94 20mm Rotary Cannon_description,Item description of: GAU-94 20mm Rotary Cannon,Three-barreled 20mm gimbal-mounted rotary cannon in a lightly armored housing.,
+AIM-92 Stinger_description,Item description of: AIM-92 Stinger,Wingtip-mounted heat-seeking air-to-air missile.,Misil Aire-Aire guiado por calor montado en la punta del ala.
+GAU-94 20mm Rotary Cannon_fullName,Full equip name of: GAU-94 20mm Rotary Cannon,GAU-94 20mm Rotary Cannon,Cañón rotatorio GAU-94 20mm
+GAU-94 20mm Rotary Cannon_description,Item description of: GAU-94 20mm Rotary Cannon,Three-barreled 20mm gimbal-mounted rotary cannon in a lightly armored housing.,"Cañón rotativo de 20 mm con tres cañones, montado en gimbal y alojado en una carcasa ligeramente blindada."
 AIM-9+ Sidewinder x2_fullName,Full equip name of: AIM-9+ Sidewinder x2,AIM-9+ Sidewinder x2,
-AIM-9+ Sidewinder x2_description,Item description of: AIM-9+ Sidewinder x2,An internally mounted rack of two advanced heat-seeking AIM-9+ anti-air missiles.,
-loadingView_loadingMap,Text in custom map loading view.,Loading map...,
+AIM-9+ Sidewinder x2_description,Item description of: AIM-9+ Sidewinder x2,An internally mounted rack of two advanced heat-seeking AIM-9+ anti-air missiles.,Un pilón interno de dos misiles Anti-Aéreos avanzados guiados por calor AIM-9+.
+loadingView_loadingMap,Text in custom map loading view.,Loading map...,Cargando mapa...
 GBU-39ER x4_fullName,Full equip name of: GBU-39ER x4,GBU-39ER x4,
-GBU-39ER x4_description,Item description of: GBU-39ER x4,A rack of 4 GPS guided glidebombs equipped with boosters stages.,
+GBU-39ER x4_description,Item description of: GBU-39ER x4,A rack of 4 GPS guided glidebombs equipped with boosters stages.,Un pilón de 4 bombas planeadoras guiadas por GPS con impulsor de etapas
 eqSublabel_GPS,HUD sub-label of an equip,GPS,
 BSM-66_fullName,Full equip name of: BSM-66,BSM-66,
-BSM-66_description,Item description of: BSM-66,Standard semi-active radar-guided surface to air missile.,
-AIM-120D Advanced Radar Missile_fullName,Full equip name of: AIM-120D Advanced Radar Missile,AIM-120D Advanced Radar Missile,
+BSM-66_description,Item description of: BSM-66,Standard semi-active radar-guided surface to air missile.,Misil Tierra-Aire estandar guiado por radar semi activo
+AIM-120D Advanced Radar Missile_fullName,Full equip name of: AIM-120D Advanced Radar Missile,AIM-120D Advanced Radar Missile,Misil de Radar Avanzado AIM-120D
 AIM-120D Advanced Radar Missile_description,Item description of: AIM-120D Advanced Radar Missile,"Radar guided medium range air to air missile.
-",
-AV-42C_description,Short description of playable vehicle AV-42C,"""Kestrel"" Multi-role VTOL aircraft. Tilting jet nozzles give it the ability to take off and land vertically or horizontally. Large cargo bay and multiple weapon mounts allow for both transport and attack missions.",
-F/A-26B_description,Short description of playable vehicle F/A-26B,"""Wasp"" Carrier based air-superiority fighter that can also be configured for ground attack roles.",
-F-45A_description,Short description of playable vehicle F-45A,"""Ghost"" Stealthy, single-engine, VTOL/STOVL capable aircraft with four internal bays. Optional external hardpoints can be used to increase carrying capacity when stealth is not needed.",
-AH-94_description,Short description of playable vehicle AH-94,"The AH-94 ""Dragonfly"" is a twin-turboshaft attack helicopter with a tandem cockpit for two pilots.",
-campaign_av42cTheIsland_name,Name of a campaign.,The Island,
-campaign_av42cTheIsland_description,Description of a campaign.,The Island campaign.,
-av42cTheIsland:01_preparations_name,Name of a mission.,Preparations,
-av42cTheIsland:01_preparations_description,Description of a mission.,Help make preparations to defend the island. Transport personnel to coastal SAM site.,
-AV-42C:av42cTheIsland:01_preparations:obj_0:name,A mission objective name,Pick Up,
-AV-42C:av42cTheIsland:01_preparations:obj_0:info,Mission objective info.,Let the soldiers into your passenger bay.,
-AV-42C:av42cTheIsland:01_preparations:obj_1:name,A mission objective name,Drop Off,
-AV-42C:av42cTheIsland:01_preparations:obj_1:info,Mission objective info.,Drop the soldiers off at the east bay SAM site.,
-AV-42C:av42cTheIsland:01_preparations:obj_2:name,A mission objective name,Join Fighters,
-AV-42C:av42cTheIsland:01_preparations:obj_2:info,Mission objective info.,Join up with the fighter escort wing.,
-AV-42C:av42cTheIsland:01_preparations:obj_4:name,A mission objective name,Investigate,
-AV-42C:av42cTheIsland:01_preparations:obj_4:info,Mission objective info.,Investigate the AV-42 crash site.,
-AV-42C:av42cTheIsland:01_preparations:obj_5:name,A mission objective name,Pick-up Survivors,
-AV-42C:av42cTheIsland:01_preparations:obj_5:info,Mission objective info.,Pick up the survivors from the crash site.,
-AV-42C:av42cTheIsland:01_preparations:obj_6:name,A mission objective name,Deliver Survivors,
-AV-42C:av42cTheIsland:01_preparations:obj_6:info,Mission objective info.,Deliver the survivors to the hospital.,
-AV-42C:av42cTheIsland:01_preparations:obj_7:name,A mission objective name,RTB,
-AV-42C:av42cTheIsland:01_preparations:obj_7:info,Mission objective info.,Return to and land at the airbase.,
-AV-42C:av42cTheIsland:01_preparations:obj_8:name,A mission objective name,Destroy Drones,
-AV-42C:av42cTheIsland:01_preparations:obj_8:info,Mission objective info.,Allow the fighters to clear out the hostile drones.,
-av42cTheIsland:02_minesweeper_name,Name of a mission.,Minesweeper,
-av42cTheIsland:02_minesweeper_description,Description of a mission.,Destroy the drone ships laying mines on supply routes.,
-AV-42C:av42cTheIsland:02_minesweeper:obj_0:name,A mission objective name,Join fighters,
-AV-42C:av42cTheIsland:02_minesweeper:obj_0:info,Mission objective info.,Meet up with Victor1 at the waypoint.,
-AV-42C:av42cTheIsland:02_minesweeper:obj_1:name,A mission objective name,Fly to AO,
-AV-42C:av42cTheIsland:02_minesweeper:obj_1:info,Mission objective info.,Lead the strike group to the area of operations.,
-AV-42C:av42cTheIsland:02_minesweeper:obj_2:name,A mission objective name,Strike,
-AV-42C:av42cTheIsland:02_minesweeper:obj_2:info,Mission objective info.,[Critical] Destroy the mine boats.,
-AV-42C:av42cTheIsland:02_minesweeper:obj_3:name,A mission objective name,Support,
-AV-42C:av42cTheIsland:02_minesweeper:obj_3:info,Mission objective info.,"If able, support your wingmen by destroying the carrier's weapons and drones.",
-AV-42C:av42cTheIsland:02_minesweeper:obj_4:name,A mission objective name,RTB,
-AV-42C:av42cTheIsland:02_minesweeper:obj_4:info,Mission objective info.,Return to the airbase.,
-av42cTheIsland:03_redirection_name,Name of a mission.,Redirection,
-av42cTheIsland:03_redirection_description,Description of a mission.,Join the carrier fleet embarking on a pre-emptive naval strike.,
-AV-42C:av42cTheIsland:03_redirection:obj_0:name,A mission objective name,Search,
-AV-42C:av42cTheIsland:03_redirection:obj_0:info,Mission objective info.,Search for the lost pilot near the objective waypoint.,
-AV-42C:av42cTheIsland:03_redirection:obj_1:name,A mission objective name,Join Tanker,
-AV-42C:av42cTheIsland:03_redirection:obj_1:info,Mission objective info.,Lead the lost pilot to the refuel tanker.,
-AV-42C:av42cTheIsland:03_redirection:obj_2:name,A mission objective name,Refuel,
-AV-42C:av42cTheIsland:03_redirection:obj_2:info,Mission objective info.,Allow the pilot to refuel.,
-AV-42C:av42cTheIsland:03_redirection:obj_3:name,A mission objective name,Join Carrier,
-AV-42C:av42cTheIsland:03_redirection:obj_3:info,Mission objective info.,Lead the pilot to the aircraft carrier.,
-AV-42C:av42cTheIsland:03_redirection:obj_4:name,A mission objective name,Land,
-AV-42C:av42cTheIsland:03_redirection:obj_4:info,Mission objective info.,Land on the aircraft carrier.,
-av42cTheIsland:04_openWater_name,Name of a mission.,Open Water,
-av42cTheIsland:04_openWater_description,Description of a mission.,Meet the enemy in open water for a pre-emptive strike.,
-AV-42C:av42cTheIsland:04_openWater:obj_0:name,A mission objective name,Join Strikers,
-AV-42C:av42cTheIsland:04_openWater:obj_0:info,Mission objective info.,Join the striker group X-Ray1,
-AV-42C:av42cTheIsland:04_openWater:obj_1:name,A mission objective name,Defend,
-AV-42C:av42cTheIsland:04_openWater:obj_1:info,Mission objective info.,Help defend the fleet from the incoming drones.,
-AV-42C:av42cTheIsland:04_openWater:obj_2:name,A mission objective name,Regroup,
-AV-42C:av42cTheIsland:04_openWater:obj_2:info,Mission objective info.,Join up with the fighters.,
-AV-42C:av42cTheIsland:04_openWater:obj_3:name,A mission objective name,Fly to AO,
-AV-42C:av42cTheIsland:04_openWater:obj_3:info,Mission objective info.,Vector to the enemy fleet.,
-AV-42C:av42cTheIsland:04_openWater:obj_4:name,A mission objective name,Destroy Targets,
-AV-42C:av42cTheIsland:04_openWater:obj_4:info,Mission objective info.,"Destroy or disable all enemy weapon systems, sensors, and drones.",
-AV-42C:av42cTheIsland:04_openWater:obj_5:name,A mission objective name,RTB,
-AV-42C:av42cTheIsland:04_openWater:obj_5:info,Mission objective info.,Return to the fleet and land.,
-av42cTheIsland:05_silentIsland_name,Name of a mission.,Silent Island,
-av42cTheIsland:05_silentIsland_description,Description of a mission.,Return to the island to investigate why communications have gone silent.,
-AV-42C:av42cTheIsland:05_silentIsland:obj_0:name,A mission objective name,Join Tanker,
-AV-42C:av42cTheIsland:05_silentIsland:obj_0:info,Mission objective info.,Take off and fly to the aerial fuel tanker.,
-AV-42C:av42cTheIsland:05_silentIsland:obj_1:name,A mission objective name,Refuel 1,
-AV-42C:av42cTheIsland:05_silentIsland:obj_1:info,Mission objective info.,Allow your Romeo1-1 to refuel.,
-AV-42C:av42cTheIsland:05_silentIsland:obj_2:name,A mission objective name,Refuel 2,
-AV-42C:av42cTheIsland:05_silentIsland:obj_2:info,Mission objective info.,Allow Romeo1-2 to refuel. Then you may refuel yourself if necessary.,
-AV-42C:av42cTheIsland:05_silentIsland:obj_3:name,A mission objective name,Investigate,
-AV-42C:av42cTheIsland:05_silentIsland:obj_3:info,Mission objective info.,Investigate the island.,
-AV-42C:av42cTheIsland:05_silentIsland:obj_4:name,A mission objective name,Retreat,
-AV-42C:av42cTheIsland:05_silentIsland:obj_4:info,Mission objective info.,Avoid the enemy fleet. Return to the waypoint and await orders.,
-AV-42C:av42cTheIsland:05_silentIsland:obj_5:name,A mission objective name,CAS,
-AV-42C:av42cTheIsland:05_silentIsland:obj_5:info,Mission objective info.,Destroy the armored units moving toward our allied infantry.,
-AV-42C:av42cTheIsland:05_silentIsland:obj_6:name,A mission objective name,Exfil,
-AV-42C:av42cTheIsland:05_silentIsland:obj_6:info,Mission objective info.,Pick up Bravo squad.,
-AV-42C:av42cTheIsland:05_silentIsland:obj_7:name,A mission objective name,RTB,
-AV-42C:av42cTheIsland:05_silentIsland:obj_7:info,Mission objective info.,Return to the aircraft carrier.,
-av42cTheIsland:06_darkness_name,Name of a mission.,Darkness,
-av42cTheIsland:06_darkness_description,Description of a mission.,Begin a counterattack under the cover of darkness.,
-AV-42C:av42cTheIsland:06_darkness:obj_0:name,A mission objective name,Begin,
-AV-42C:av42cTheIsland:06_darkness:obj_0:info,Mission objective info.,Take off and prepare for your anti-ship strike.,
-AV-42C:av42cTheIsland:06_darkness:obj_1:name,A mission objective name,ASM Strike,
-AV-42C:av42cTheIsland:06_darkness:obj_1:info,Mission objective info.,Destroy the long range missile cruiser.,
-AV-42C:av42cTheIsland:06_darkness:obj_2:name,A mission objective name,RTB,
-AV-42C:av42cTheIsland:06_darkness:obj_2:info,Mission objective info.,Return to the aircraft carrier.,
-av42cTheIsland:07_islandDefense_name,Name of a mission.,Island Defense,
-av42cTheIsland:07_islandDefense_description,Description of a mission.,Begin to take back the island and eliminate the enemy fleet off the northern coast.,
-AV-42C:av42cTheIsland:07_islandDefense:obj_6:name,A mission objective name,AntiShip 2,
-AV-42C:av42cTheIsland:07_islandDefense:obj_6:info,Mission objective info.,Destroy the incoming enemy carrier fleet.,
-AV-42C:av42cTheIsland:07_islandDefense:obj_4:name,A mission objective name,AntiShip,
-AV-42C:av42cTheIsland:07_islandDefense:obj_4:info,Mission objective info.,Destroy the remaining enemy fleet.,
-AV-42C:av42cTheIsland:07_islandDefense:obj_3:name,A mission objective name,Airbase,
-AV-42C:av42cTheIsland:07_islandDefense:obj_3:info,Mission objective info.,Clear out the enemy units at the airbase.,
-AV-42C:av42cTheIsland:07_islandDefense:obj_7:name,A mission objective name,SEAD,
-AV-42C:av42cTheIsland:07_islandDefense:obj_7:info,Mission objective info.,Destroy the enemy SAM site to allow reinforcements to take off.,
-AV-42C:av42cTheIsland:07_islandDefense:obj_8:name,A mission objective name,Launch,
+",Misil Aire-Aire de medio alcance guiado por radar.
+AV-42C_description,Short description of playable vehicle AV-42C,"""Kestrel"" Multi-role VTOL aircraft. Tilting jet nozzles give it the ability to take off and land vertically or horizontally. Large cargo bay and multiple weapon mounts allow for both transport and attack missions.","Aeronave VTOL multipropósito ""Kestrel"". Las toberas de empuje orientables le permiten despegar y aterrizar en forma vertical u horizontal. Su amplia bodega de carga y múltiples soportes de armamento permiten misiones tanto de transporte como de ataque."
+F/A-26B_description,Short description of playable vehicle F/A-26B,"""Wasp"" Carrier based air-superiority fighter that can also be configured for ground attack roles.","""Wasp"": Caza embarcado de superioridad aérea que también puede configurarse para funciones de ataque a tierra."
+F-45A_description,Short description of playable vehicle F-45A,"""Ghost"" Stealthy, single-engine, VTOL/STOVL capable aircraft with four internal bays. Optional external hardpoints can be used to increase carrying capacity when stealth is not needed.","""Ghost"": Aeronave furtiva monomotor con capacidad VTOL/STOVL y cuatro bodegas internas. Dispone de puntos de anclaje externos opcionales para aumentar la capacidad de carga cuando no se requiere sigilo."
+AH-94_description,Short description of playable vehicle AH-94,"The AH-94 ""Dragonfly"" is a twin-turboshaft attack helicopter with a tandem cockpit for two pilots.","El AH-94 ""Dragonfly"" es un helicóptero de ataque bimotor con cabina en tándem para dos pilotos."
+campaign_av42cTheIsland_name,Name of a campaign.,The Island,La Isla
+campaign_av42cTheIsland_description,Description of a campaign.,The Island campaign.,Campaña La Isla.
+av42cTheIsland:01_preparations_name,Name of a mission.,Preparations,Preparaciones
+av42cTheIsland:01_preparations_description,Description of a mission.,Help make preparations to defend the island. Transport personnel to coastal SAM site.,Ayuda a hacer preparaciones para defender la isla. Transporta personal al sitio costero SAM
+AV-42C:av42cTheIsland:01_preparations:obj_0:name,A mission objective name,Pick Up,Recoge
+AV-42C:av42cTheIsland:01_preparations:obj_0:info,Mission objective info.,Let the soldiers into your passenger bay.,Deja que los soldados se metan en la bahía
+AV-42C:av42cTheIsland:01_preparations:obj_1:name,A mission objective name,Drop Off,Suelta
+AV-42C:av42cTheIsland:01_preparations:obj_1:info,Mission objective info.,Drop the soldiers off at the east bay SAM site.,Suelta a los soldados en el sitio SAM en la bahía este
+AV-42C:av42cTheIsland:01_preparations:obj_2:name,A mission objective name,Join Fighters,Únete a los cazas
+AV-42C:av42cTheIsland:01_preparations:obj_2:info,Mission objective info.,Join up with the fighter escort wing.,Únete al ala de cazas escorta
+AV-42C:av42cTheIsland:01_preparations:obj_4:name,A mission objective name,Investigate,Investiga
+AV-42C:av42cTheIsland:01_preparations:obj_4:info,Mission objective info.,Investigate the AV-42 crash site.,Investiga el siniestro del AV-42
+AV-42C:av42cTheIsland:01_preparations:obj_5:name,A mission objective name,Pick-up Survivors,Recoge a los supervivientes
+AV-42C:av42cTheIsland:01_preparations:obj_5:info,Mission objective info.,Pick up the survivors from the crash site.,Recoge a los supervivientes del siniestro
+AV-42C:av42cTheIsland:01_preparations:obj_6:name,A mission objective name,Deliver Survivors,Entrega supervivientes
+AV-42C:av42cTheIsland:01_preparations:obj_6:info,Mission objective info.,Deliver the survivors to the hospital.,Entrega los supervivientes en el hospital
+AV-42C:av42cTheIsland:01_preparations:obj_7:name,A mission objective name,RTB,VAB
+AV-42C:av42cTheIsland:01_preparations:obj_7:info,Mission objective info.,Return to and land at the airbase.,Vuelve y aterriza en la base aérea.
+AV-42C:av42cTheIsland:01_preparations:obj_8:name,A mission objective name,Destroy Drones,Destruye drones
+AV-42C:av42cTheIsland:01_preparations:obj_8:info,Mission objective info.,Allow the fighters to clear out the hostile drones.,Permite que los cazas limpien los drones hostiles
+av42cTheIsland:02_minesweeper_name,Name of a mission.,Minesweeper,Buscaminas
+av42cTheIsland:02_minesweeper_description,Description of a mission.,Destroy the drone ships laying mines on supply routes.,Destruye los barcos drones que están soltando minas en rutas de suministros
+AV-42C:av42cTheIsland:02_minesweeper:obj_0:name,A mission objective name,Join fighters,Únete a los cazas
+AV-42C:av42cTheIsland:02_minesweeper:obj_0:info,Mission objective info.,Meet up with Victor1 at the waypoint.,Queda con Victor 1 en el punto de control.
+AV-42C:av42cTheIsland:02_minesweeper:obj_1:name,A mission objective name,Fly to AO,Vuela al AO
+AV-42C:av42cTheIsland:02_minesweeper:obj_1:info,Mission objective info.,Lead the strike group to the area of operations.,Lidera el grupo de ataque al area de operaciones.
+AV-42C:av42cTheIsland:02_minesweeper:obj_2:name,A mission objective name,Strike,Ataca
+AV-42C:av42cTheIsland:02_minesweeper:obj_2:info,Mission objective info.,[Critical] Destroy the mine boats.,[Critical] Destruye los barcos con minas
+AV-42C:av42cTheIsland:02_minesweeper:obj_3:name,A mission objective name,Support,Apoya
+AV-42C:av42cTheIsland:02_minesweeper:obj_3:info,Mission objective info.,"If able, support your wingmen by destroying the carrier's weapons and drones.","Si es posible, ayuda a tus compañeros destruyendo las armas y los drones del carrier"
+AV-42C:av42cTheIsland:02_minesweeper:obj_4:name,A mission objective name,RTB,VAB
+AV-42C:av42cTheIsland:02_minesweeper:obj_4:info,Mission objective info.,Return to the airbase.,Volver a base.
+av42cTheIsland:03_redirection_name,Name of a mission.,Redirection,Redirección
+av42cTheIsland:03_redirection_description,Description of a mission.,Join the carrier fleet embarking on a pre-emptive naval strike.,Únete a la flota del portaviones que desembarca a un ataque naval preventivo.
+AV-42C:av42cTheIsland:03_redirection:obj_0:name,A mission objective name,Search,Busca
+AV-42C:av42cTheIsland:03_redirection:obj_0:info,Mission objective info.,Search for the lost pilot near the objective waypoint.,Busca el piloto perdido cerca del punto de control objetivo.
+AV-42C:av42cTheIsland:03_redirection:obj_1:name,A mission objective name,Join Tanker,Únete al avión cisterna
+AV-42C:av42cTheIsland:03_redirection:obj_1:info,Mission objective info.,Lead the lost pilot to the refuel tanker.,Lidera al piloto perdido al avión cisterna
+AV-42C:av42cTheIsland:03_redirection:obj_2:name,A mission objective name,Refuel,Repostar
+AV-42C:av42cTheIsland:03_redirection:obj_2:info,Mission objective info.,Allow the pilot to refuel.,Permite que el piloto reposte
+AV-42C:av42cTheIsland:03_redirection:obj_3:name,A mission objective name,Join Carrier,Únete al Portaviones
+AV-42C:av42cTheIsland:03_redirection:obj_3:info,Mission objective info.,Lead the pilot to the aircraft carrier.,Guía al piloto al portaviones
+AV-42C:av42cTheIsland:03_redirection:obj_4:name,A mission objective name,Land,Aterriza
+AV-42C:av42cTheIsland:03_redirection:obj_4:info,Mission objective info.,Land on the aircraft carrier.,Aterriza en el portaviones.
+av42cTheIsland:04_openWater_name,Name of a mission.,Open Water,Aguas Abiertas
+av42cTheIsland:04_openWater_description,Description of a mission.,Meet the enemy in open water for a pre-emptive strike.,Encara al enemigo en aguas abiertas para un ataque preventivo.
+AV-42C:av42cTheIsland:04_openWater:obj_0:name,A mission objective name,Join Strikers,Únete a los atacantes
+AV-42C:av42cTheIsland:04_openWater:obj_0:info,Mission objective info.,Join the striker group X-Ray1,Únete al grupo atacante X-ray 1
+AV-42C:av42cTheIsland:04_openWater:obj_1:name,A mission objective name,Defend,Defiende
+AV-42C:av42cTheIsland:04_openWater:obj_1:info,Mission objective info.,Help defend the fleet from the incoming drones.,Ayuda a defender la flota del los drones entrantes.
+AV-42C:av42cTheIsland:04_openWater:obj_2:name,A mission objective name,Regroup,Reagrupar
+AV-42C:av42cTheIsland:04_openWater:obj_2:info,Mission objective info.,Join up with the fighters.,Reúnete con los cazas.
+AV-42C:av42cTheIsland:04_openWater:obj_3:name,A mission objective name,Fly to AO,Vuela al AO
+AV-42C:av42cTheIsland:04_openWater:obj_3:info,Mission objective info.,Vector to the enemy fleet.,Rumbo hacia la flota enemiga
+AV-42C:av42cTheIsland:04_openWater:obj_4:name,A mission objective name,Destroy Targets,Destruye objetivos
+AV-42C:av42cTheIsland:04_openWater:obj_4:info,Mission objective info.,"Destroy or disable all enemy weapon systems, sensors, and drones.","Destruye o deshabilita todos los sistemas de armamento enemigos, sensores y drones."
+AV-42C:av42cTheIsland:04_openWater:obj_5:name,A mission objective name,RTB,VAB
+AV-42C:av42cTheIsland:04_openWater:obj_5:info,Mission objective info.,Return to the fleet and land.,Vuelve a la flota y aterriza
+av42cTheIsland:05_silentIsland_name,Name of a mission.,Silent Island,Isla Silenciosa
+av42cTheIsland:05_silentIsland_description,Description of a mission.,Return to the island to investigate why communications have gone silent.,Vuelve a la isla a investigar porque las comunicaciones cesaron.
+AV-42C:av42cTheIsland:05_silentIsland:obj_0:name,A mission objective name,Join Tanker,Únete al avión cisterna
+AV-42C:av42cTheIsland:05_silentIsland:obj_0:info,Mission objective info.,Take off and fly to the aerial fuel tanker.,Despega y vuela al avión cisterna
+AV-42C:av42cTheIsland:05_silentIsland:obj_1:name,A mission objective name,Refuel 1,Reposta 1
+AV-42C:av42cTheIsland:05_silentIsland:obj_1:info,Mission objective info.,Allow your Romeo1-1 to refuel.,Permite a Romeo1-1 repostar
+AV-42C:av42cTheIsland:05_silentIsland:obj_2:name,A mission objective name,Refuel 2,Reposta 2
+AV-42C:av42cTheIsland:05_silentIsland:obj_2:info,Mission objective info.,Allow Romeo1-2 to refuel. Then you may refuel yourself if necessary.,Permite a Romeo1-2 repostar. Después podrás repostar si es necesario.
+AV-42C:av42cTheIsland:05_silentIsland:obj_3:name,A mission objective name,Investigate,Investiga
+AV-42C:av42cTheIsland:05_silentIsland:obj_3:info,Mission objective info.,Investigate the island.,Investiga la isla.
+AV-42C:av42cTheIsland:05_silentIsland:obj_4:name,A mission objective name,Retreat,Retirada
+AV-42C:av42cTheIsland:05_silentIsland:obj_4:info,Mission objective info.,Avoid the enemy fleet. Return to the waypoint and await orders.,Evita la flota enemiga. Vuelve al punto de control y espera órdenes
+AV-42C:av42cTheIsland:05_silentIsland:obj_5:name,A mission objective name,CAS,CAS
+AV-42C:av42cTheIsland:05_silentIsland:obj_5:info,Mission objective info.,Destroy the armored units moving toward our allied infantry.,Destruye las unidades blindadas que van hacia la infantería aliada
+AV-42C:av42cTheIsland:05_silentIsland:obj_6:name,A mission objective name,Exfil,Exfiltra
+AV-42C:av42cTheIsland:05_silentIsland:obj_6:info,Mission objective info.,Pick up Bravo squad.,Recoge al escuadrón Bravo.
+AV-42C:av42cTheIsland:05_silentIsland:obj_7:name,A mission objective name,RTB,VAB
+AV-42C:av42cTheIsland:05_silentIsland:obj_7:info,Mission objective info.,Return to the aircraft carrier.,Vuelve al portaviones.
+av42cTheIsland:06_darkness_name,Name of a mission.,Darkness,Oscuridad
+av42cTheIsland:06_darkness_description,Description of a mission.,Begin a counterattack under the cover of darkness.,Empieza un contrataque bajo el amparo de la oscuridad.
+AV-42C:av42cTheIsland:06_darkness:obj_0:name,A mission objective name,Begin,Empieza
+AV-42C:av42cTheIsland:06_darkness:obj_0:info,Mission objective info.,Take off and prepare for your anti-ship strike.,Despega y preparate para el ataque anti-buque.
+AV-42C:av42cTheIsland:06_darkness:obj_1:name,A mission objective name,ASM Strike,Ataque ASM
+AV-42C:av42cTheIsland:06_darkness:obj_1:info,Mission objective info.,Destroy the long range missile cruiser.,Destruye el crucero de misiles de largo alcance.
+AV-42C:av42cTheIsland:06_darkness:obj_2:name,A mission objective name,RTB,VAB
+AV-42C:av42cTheIsland:06_darkness:obj_2:info,Mission objective info.,Return to the aircraft carrier.,Volver al portaviones
+av42cTheIsland:07_islandDefense_name,Name of a mission.,Island Defense,Defensa de Isla
+av42cTheIsland:07_islandDefense_description,Description of a mission.,Begin to take back the island and eliminate the enemy fleet off the northern coast.,Empieza a tomar de vuelta la isla y elimina la flota enemiga de la costa norte
+AV-42C:av42cTheIsland:07_islandDefense:obj_6:name,A mission objective name,AntiShip 2,AntiBuque 2
+AV-42C:av42cTheIsland:07_islandDefense:obj_6:info,Mission objective info.,Destroy the incoming enemy carrier fleet.,Destruye la flota del portaviones enemigo entrante.
+AV-42C:av42cTheIsland:07_islandDefense:obj_4:name,A mission objective name,AntiShip,AntiBuque
+AV-42C:av42cTheIsland:07_islandDefense:obj_4:info,Mission objective info.,Destroy the remaining enemy fleet.,Destruye el resto de la flota enemiga.
+AV-42C:av42cTheIsland:07_islandDefense:obj_3:name,A mission objective name,Airbase,Base aérea
+AV-42C:av42cTheIsland:07_islandDefense:obj_3:info,Mission objective info.,Clear out the enemy units at the airbase.,Limpia la base aérea de unidades enemigas
+AV-42C:av42cTheIsland:07_islandDefense:obj_7:name,A mission objective name,SEAD,SEAD
+AV-42C:av42cTheIsland:07_islandDefense:obj_7:info,Mission objective info.,Destroy the enemy SAM site to allow reinforcements to take off.,Destruye el sitio SAM enemigo perminitendo que los refuerzos despeguen
+AV-42C:av42cTheIsland:07_islandDefense:obj_8:name,A mission objective name,Launch,Despegue
 AV-42C:av42cTheIsland:07_islandDefense:obj_8:info,Mission objective info.,,
-AV-42C:av42cTheIsland:07_islandDefense:obj_9:name,A mission objective name,Regroup,
-AV-42C:av42cTheIsland:07_islandDefense:obj_9:info,Mission objective info.,"Rearm if necessary, then regroup with Victor 1.",
-AV-42C:av42cTheIsland:07_islandDefense:obj_10:name,A mission objective name,RTB,
-AV-42C:av42cTheIsland:07_islandDefense:obj_10:info,Mission objective info.,Land at the airbase.,
-AV-42C:av42cTheIsland:07_islandDefense:obj_11:name,A mission objective name,Drone Boats,
-AV-42C:av42cTheIsland:07_islandDefense:obj_11:info,Mission objective info.,Destroy the rocket-equipped drone boats threatening the carrier.,
-AV-42C:av42cTheIsland:07_islandDefense:obj_12:name,A mission objective name,Destroy Ship Defense,
-AV-42C:av42cTheIsland:07_islandDefense:obj_12:info,Mission objective info.,Destroy the carrier group's radars and air defenses so bombers can come to help.,
+AV-42C:av42cTheIsland:07_islandDefense:obj_9:name,A mission objective name,Regroup,Reagrupar
+AV-42C:av42cTheIsland:07_islandDefense:obj_9:info,Mission objective info.,"Rearm if necessary, then regroup with Victor 1.","Rearma si es necesario, después, reagrúpate con Victor 1"
+AV-42C:av42cTheIsland:07_islandDefense:obj_10:name,A mission objective name,RTB,VAB
+AV-42C:av42cTheIsland:07_islandDefense:obj_10:info,Mission objective info.,Land at the airbase.,Vuelve al portaviones
+AV-42C:av42cTheIsland:07_islandDefense:obj_11:name,A mission objective name,Drone Boats,Barcos dron
+AV-42C:av42cTheIsland:07_islandDefense:obj_11:info,Mission objective info.,Destroy the rocket-equipped drone boats threatening the carrier.,Destruye los barcos drones equipados con cohetes que amenazan al portaviones
+AV-42C:av42cTheIsland:07_islandDefense:obj_12:name,A mission objective name,Destroy Ship Defense,Destruye la defensa marítima
+AV-42C:av42cTheIsland:07_islandDefense:obj_12:info,Mission objective info.,Destroy the carrier group's radars and air defenses so bombers can come to help.,Destruye el grupo de radares y sistema de defensa aéreos para que los bombarderos puedan ayudar
 av42cTheIsland_01_preparations_b0,Text from a mission briefing.,"Negotiations for peace have failed.  We believe the enemy will strike here first, as a stepping stone to the mainland.
 
-We have begun preparing coastal air defenses.",
+We have begun preparing coastal air defenses.","Las negociaciones para la paz han fallado. Creemos que el enemigo va a atacar aquí primero, como un primer paso al continente.
+
+Hemos empezado la preparación de defensas aéreas costeras."
 av42cTheIsland_01_preparations_b1,Text from a mission briefing.,"As an AV-42C pilot, you will deliver personnel to the defense sites.
 
-Other pilots and soldiers will be arriving by air from the mainland soon.",
-av42cTheIsland_02_minesweeper_b0,Text from a mission briefing.,"As we continue to prepare our defenses against the invasive enemy forces, we need to secure supply routes from the mainland to the island.",
-av42cTheIsland_02_minesweeper_b1,Text from a mission briefing.,The troops you recovered from the crash site reported that they spotted what seemed to be unmanned vessels deploying sea mines near the south east supply route.,
+Other pilots and soldiers will be arriving by air from the mainland soon.","Como un piloto de AV-42C, vas a entregar personal a los sitios de defensa.
+
+Otros pilotos y soldados llegarán desde el aire desde el continente pronto."
+av42cTheIsland_02_minesweeper_b0,Text from a mission briefing.,"As we continue to prepare our defenses against the invasive enemy forces, we need to secure supply routes from the mainland to the island.","Mientras continuamos los preparativos para nuestras defensas contra las fuerzas enemigas invasoras, necesitamos asegurar rutas de suministros desde el continente hasta la isla."
+av42cTheIsland_02_minesweeper_b1,Text from a mission briefing.,The troops you recovered from the crash site reported that they spotted what seemed to be unmanned vessels deploying sea mines near the south east supply route.,Las tropas que rescataste del siniestro han reportado que avistaron lo que parecía una embarcación no tripulada soltando minas cerca de nuestra ruta de suministros del este.
 av42cTheIsland_02_minesweeper_b2,Text from a mission briefing.,"You will lead a strike group with the order of destroying all hostile targets in the designated area.  
 
-Prepare your aircraft appropriately.",
-av42cTheIsland_03_redirection_b0,Text from a mission briefing.,Our engineers were able to salvage the navigation computers from the drone ships and used them to determine the location of the main naval fleet of the enemy.,
-av42cTheIsland_03_redirection_b1,Text from a mission briefing.,"We have tasked an aircraft carrier fleet to intercept before they get too close to the island.  In order to maximize their force, you and other pilots are ordered to join the fleet.",
-av42cTheIsland_03_redirection_b2,Text from a mission briefing.,"A pilot belonging to the carrier was out on combat air patrol when his navigation systems experienced a failure.  The pilot is lost and low on fuel, so you must quickly find him and lead him to the fuel tanker on the way to the carrier.",
-av42cTheIsland_04_openWater_b0,Text from a mission briefing.,"We have intercepted the enemy fleet sooner than we expected to. They have already deployed aerial drones which are heading towards our fleet. All units are to scramble to defend the fleet, as well as quickly launch a counter-attack.",
+Prepare your aircraft appropriately.","Liderarás un grupo de ataque con la orden de destruir todos los objetivos hostiles en el área designada.
+
+Prepara tu nave apropiadamente."
+av42cTheIsland_03_redirection_b0,Text from a mission briefing.,Our engineers were able to salvage the navigation computers from the drone ships and used them to determine the location of the main naval fleet of the enemy.,Nuestros Ingenieros fueron capaces de recuperar los ordenadores de navegación de los barcos drones y usarlos para determinar la localización de la flota naval principal del enemigo.
+av42cTheIsland_03_redirection_b1,Text from a mission briefing.,"We have tasked an aircraft carrier fleet to intercept before they get too close to the island.  In order to maximize their force, you and other pilots are ordered to join the fleet.","Hemos agenciado la tarea a la flota del portaviones a interceptar antes de que se acerquen más a la isla. En orden de maximizar sus fuerzas, tú y otros pilotos sois ordenados a unirte a la flota."
+av42cTheIsland_03_redirection_b2,Text from a mission briefing.,"A pilot belonging to the carrier was out on combat air patrol when his navigation systems experienced a failure.  The pilot is lost and low on fuel, so you must quickly find him and lead him to the fuel tanker on the way to the carrier.","Un piloto asignado al portaaviones estaba en patrulla aérea de combate cuando sus sistemas de navegación fallaron. Ahora está perdido y con poco combustible, por lo que debes encontrarlo rápidamente y guiarlo hasta el avión cisterna rumbo al portaaviones."
+av42cTheIsland_04_openWater_b0,Text from a mission briefing.,"We have intercepted the enemy fleet sooner than we expected to. They have already deployed aerial drones which are heading towards our fleet. All units are to scramble to defend the fleet, as well as quickly launch a counter-attack.",Hemos interceptado a la flota enemiga antes de lo previsto. Ya han desplegado drones aéreos que se dirigen hacia nuestra flota. Todas las unidades deben despegar de inmediato para defenderla y lanzar rápidamente un contraataque.
 av42cTheIsland_04_openWater_b1,Text from a mission briefing.,"The enemy force is numerous and includes small drone boats, missile cruisers, and drone carriers. This is going to get messy.
 
-Good luck.",
+Good luck.","La fuerza enemiga es numerosa e incluye pequeñas lanchas con drones, cruceros lanzamisiles y portadrones. Esto se va a poner feo.
+
+Buena suerte."
 av42cTheIsland_05_silentIsland_b0,Text from a mission briefing.,"We received an encrypted message from the island airbase which suggested that a large presence was detected coming in from the north.
 
-After that, all communications went silent.",
+After that, all communications went silent.","Recibimos un mensaje cifrado de la base aérea de la isla que sugería que se había detectado una gran presencia procedente del norte.
+
+Después de eso, todas las comunicaciones quedaron en silencio."
 av42cTheIsland_05_silentIsland_b1,Text from a mission briefing.,"The captain is worried that the enemy fleet we just attacked was just a diversion, and a larger enemy fleet somehow sailed to the island undetected.
 
 We are returning to the island to investigate the radio silence.",
