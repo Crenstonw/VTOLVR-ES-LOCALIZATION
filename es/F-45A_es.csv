@@ -24,7 +24,7 @@ Label_280582,HUD Unit label (g-force),G,G
 helmVisorInteractable_913784,VR Interactable,Visor,Visor
 helmNVGInteractable_916002,VR Interactable,NVG,VN
 PendingText_912704,UI Text,in progress...,en progreso...
-CompleteText_915034,UI Text,COMPLETE,COMPLETADO
+CompleteText_915034,UI Text,COMPLETE,COMPLETADA
 MissionText_913392,UI Text,"MISSION
 ",MISIÓN
 FailedText_916378,UI Text,FAILED,FALLIDA

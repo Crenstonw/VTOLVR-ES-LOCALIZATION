@@ -1558,231 +1558,259 @@ After that, all communications went silent.","Recibimos un mensaje cifrado de la
 Después de eso, todas las comunicaciones quedaron en silencio."
 av42cTheIsland_05_silentIsland_b1,Text from a mission briefing.,"The captain is worried that the enemy fleet we just attacked was just a diversion, and a larger enemy fleet somehow sailed to the island undetected.
 
-We are returning to the island to investigate the radio silence.",
+We are returning to the island to investigate the radio silence.","El capitán teme que la flota enemiga que acabamos de atacar haya sido solo una distracción, y que una flota enemiga mayor haya llegado a la isla sin ser detectada.
+
+Estamos regresando a la isla para investigar el silencio en las comunicaciones."
 av42cTheIsland_05_silentIsland_b2,Text from a mission briefing.,"We are conserving on-board jet fuel in anticipation of responding to the potential threat, so the fighter escorts will need to refuel in the air.
 
-Once everyone is topped off, scout the island and report back.  Good luck.",
+Once everyone is topped off, scout the island and report back.  Good luck.","Estamos conservando el combustible a bordo en previsión de una posible amenaza, por lo que los cazas escolta deberán repostar en el aire.
+
+Una vez que todos estén reabastecidos, reconozcan la isla y reporten. Buena suerte."
 av42cTheIsland_06_darkness_b0,Text from a mission briefing.,"On the scouting sortie, a large enemy fleet was detected north of the island.  The enemy has also begun landing ground units on the island.
 
-Before we can begin to move in and take back the island, we need to eliminate the threat posed by the enemy long range missile cruiser.",
-av42cTheIsland_06_darkness_b1,Text from a mission briefing.,"The cruiser has an array of launch tubes which we believe are capable of deploying two-stage surface-to-air and anti-ship missiles.  It also has a vertical launching system defense cannons, so it may not be effective to use conventional bombs or air-to-ground missiles.",
-av42cTheIsland_06_darkness_b2,Text from a mission briefing.,"In order to take out the threat, we are authorizing the use of the AGM-89 anti-ship cruise missile.  It has advanced features such as waypoint navigation, radar target acquisition, and a large payload.  Use it wisely and destroy the high priority target.",
+Before we can begin to move in and take back the island, we need to eliminate the threat posed by the enemy long range missile cruiser.","En la misión de reconocimiento, se detectó una gran flota enemiga al norte de la isla. El enemigo también ha comenzado a desembarcar unidades terrestres en la isla.
+
+Antes de que podamos avanzar y recuperar la isla, necesitamos eliminar la amenaza que representa el crucero de misiles de largo alcance enemigo."
+av42cTheIsland_06_darkness_b1,Text from a mission briefing.,"The cruiser has an array of launch tubes which we believe are capable of deploying two-stage surface-to-air and anti-ship missiles.  It also has a vertical launching system defense cannons, so it may not be effective to use conventional bombs or air-to-ground missiles.","El crucero tiene una serie de tubos de lanzamiento que creemos que son capaces de desplegar misiles superficie-aire y antibuque de dos etapas. También cuenta con un sistema vertical de lanzamiento y cañones de defensa, por lo que puede que no sea efectivo usar bombas convencionales o misiles aire-tierra."
+av42cTheIsland_06_darkness_b2,Text from a mission briefing.,"In order to take out the threat, we are authorizing the use of the AGM-89 anti-ship cruise missile.  It has advanced features such as waypoint navigation, radar target acquisition, and a large payload.  Use it wisely and destroy the high priority target.","Para eliminar la amenaza, estamos autorizando el uso del misil de crucero antibuque AGM-89. Cuenta con funciones avanzadas como navegación por puntos de ruta, adquisición de objetivos por radar y una gran carga explosiva. Úsalo con sabiduría y destruye el objetivo de alta prioridad."
 av42cTheIsland_06_darkness_b3,Text from a mission briefing.,"The mission launches at midnight. You will be escorted by a small wing of fighters to defend you from airborne threats.
 
 The enemy has likely deployed more self-propelled SAM units to the island, so keep an eye out for missile launches and radar locks.
 
-Good luck.",
+Good luck.","La misión comienza a medianoche. Serás escoltado por una pequeña ala de cazas para defenderte de amenazas aéreas.
+
+Es probable que el enemigo haya desplegado más unidades SAM autopropulsadas en la isla, así que mantente atento a los lanzamientos de misiles y bloqueos de radar.
+
+Buena suerte."
 av42cTheIsland_07_islandDefense_b0,Text from a mission briefing.,"With the destruction of the enemy fleet's most powerful ship, we can begin an effort to take back the island.
 
-Through the night, the enemy has continued to deploy troops and set up defenses around the island.",
+Through the night, the enemy has continued to deploy troops and set up defenses around the island.","Con la destrucción del barco más poderoso de la flota enemiga, podemos comenzar los esfuerzos para recuperar la isla.
+
+Durante la noche, el enemigo ha seguido desplegando tropas y estableciendo defensas alrededor de la isla."
 av42cTheIsland_07_islandDefense_b1,Text from a mission briefing.,"The first order is to clear out enemy units from the island airbase. Air defenses have been set up, so be prepared to use the surrounding hills for cover.
 
-Once the airbase has been cleared, we can use it for refueling and rearming.",
+Once the airbase has been cleared, we can use it for refueling and rearming.","La primera orden es eliminar las unidades enemigas de la base aérea de la isla. Se han instalado defensas aéreas, así que prepárate para usar las colinas cercanas como cobertura.
+
+Una vez que la base aérea haya sido despejada, podremos usarla para repostar y rearmarnos."
 av42cTheIsland_07_islandDefense_b2,Text from a mission briefing.,"Once that is out of the way, we must eliminate the rest of the enemy fleet parked off the norther coast.
 
-An allied carrier fleet is arriving from the east to support us, but are unable to launch aircraft due to enemy air defenses in the eastern city.",
+An allied carrier fleet is arriving from the east to support us, but are unable to launch aircraft due to enemy air defenses in the eastern city.","Una vez que eso esté resuelto, debemos eliminar el resto de la flota enemiga estacionada frente a la costa norte.
+
+Una flota de portaaviones aliada está llegando desde el este para apoyarnos, pero no puede lanzar aeronaves debido a las defensas aéreas enemigas en la ciudad del este."
 av42cTheIsland_07_islandDefense_b3,Text from a mission briefing.,"Destroy the eastern air defenses to allow the allied pilots to take off, then make a combined effort to destroy the enemy fleet.
 
-The allied fleet will also move into firing range to support with anti-ship missiles.",
-campaign_av42cQuickFlight_name,Name of a campaign.,Quick Flight,
-campaign_av42cQuickFlight_description,Description of a campaign.,Quick flights and practice scenarios for the AV-42C.,
-av42cQuickFlight:42c_freeFlight2_name,Name of a mission.,Free Flight 2,
-av42cQuickFlight:42c_freeFlight2_description,Description of a mission.,Free flight on a custom map.,
-av42cQuickFlight:aerialRefuelPractice_name,Name of a mission.,Aerial Refueling Practice,
-av42cQuickFlight:aerialRefuelPractice_description,Description of a mission.,Practice refueling in the air. Remember to lower your starting fuel.,
-AV-42C:av42cQuickFlight:aerialRefuelPractice:obj_0:name,A mission objective name,Refuel,
-AV-42C:av42cQuickFlight:aerialRefuelPractice:obj_0:info,Mission objective info.,Refuel in the air.,
-av42cQuickFlight:carrierLanding_name,Name of a mission.,Naval Landing Practice,
-av42cQuickFlight:carrierLanding_description,Description of a mission.,Practice landing on the carrier or one of the cruisers.,
-AV-42C:av42cQuickFlight:carrierLanding:obj_0:name,A mission objective name,Land,
-AV-42C:av42cQuickFlight:carrierLanding:obj_0:info,Mission objective info.,Land on the carrier or one of the cruisers.,
-av42cQuickFlight:freeFlight_name,Name of a mission.,Free Flight,
-av42cQuickFlight:freeFlight_description,Description of a mission.,No objectives or hostiles.  Just fly around and have fun!,
-AV-42C:av42cQuickFlight:freeFlight:obj_0:name,A mission objective name,Free Flight,
-AV-42C:av42cQuickFlight:freeFlight:obj_0:info,Mission objective info.,"This is a free flight, however, landing on the carrier will complete the mission",
-av42cQuickFlight:targetPractice_name,Name of a mission.,Target Practice,
-av42cQuickFlight:targetPractice_description,Description of a mission.,Practice using different weapons on multiple groups of non-hostile targets.,
-AV-42C:av42cQuickFlight:targetPractice:obj_0:name,A mission objective name,Destroy Artillery,
-AV-42C:av42cQuickFlight:targetPractice:obj_0:info,Mission objective info.,Destroy the artillery on the edge of the south-eastern city.,
-AV-42C:av42cQuickFlight:targetPractice:obj_1:name,A mission objective name,Destroy Infantry,
-AV-42C:av42cQuickFlight:targetPractice:obj_1:info,Mission objective info.,Eliminate the enemy infantry squad patrolling near the hospital,
-AV-42C:av42cQuickFlight:targetPractice:obj_2:name,A mission objective name,Destroy Convoy,
-AV-42C:av42cQuickFlight:targetPractice:obj_2:info,Mission objective info.,Destroy the armored convoy moving west from the eastern city.,
-AV-42C:av42cQuickFlight:targetPractice:obj_3:name,A mission objective name,Destroy Air Defense,
-AV-42C:av42cQuickFlight:targetPractice:obj_3:info,Mission objective info.,Destroy the air defense network on the mountain peak.,
-AV-42C:av42cQuickFlight:targetPractice:obj_4:name,A mission objective name,Kill Enemy Strikers,
-AV-42C:av42cQuickFlight:targetPractice:obj_4:info,Mission objective info.,Destroy the wing of enemy attack aircraft.,
-AV-42C:av42cQuickFlight:targetPractice:obj_5:name,A mission objective name,RTB,
-AV-42C:av42cQuickFlight:targetPractice:obj_5:info,Mission objective info.,Land at the airbase.,
-av42cQuickFlight_42c_freeFlight2_b0,Text from a mission briefing.,Just fly around and have fun!,
-av42cQuickFlight_42c_freeFlight2_b1,Text from a mission briefing.,A tanker is available for A2A refuelling.,
-av42cQuickFlight_42c_freeFlight2_b2,Text from a mission briefing.,Try landing on one of the ships!,
-av42cQuickFlight_aerialRefuelPractice_b0,Text from a mission briefing.,"Practice refueling in the air. Remember to lower your starting fuel, or else the tanker won't bother lowering the boom.",
+The allied fleet will also move into firing range to support with anti-ship missiles.","Destruye las defensas aéreas del este para permitir que los pilotos aliados despeguen, luego realiza un esfuerzo combinado para destruir la flota enemiga.
+
+La flota aliada también se moverá dentro del alcance de disparo para apoyar con misiles antibuque."
+campaign_av42cQuickFlight_name,Name of a campaign.,Quick Flight,Vuelo rápido
+campaign_av42cQuickFlight_description,Description of a campaign.,Quick flights and practice scenarios for the AV-42C.,Escenarios de Vuelo rápido y práctica para el AV-42C.
+av42cQuickFlight:42c_freeFlight2_name,Name of a mission.,Free Flight 2,Vuelo Libre 2
+av42cQuickFlight:42c_freeFlight2_description,Description of a mission.,Free flight on a custom map.,Vuelo libre en un mapa customizado.
+av42cQuickFlight:aerialRefuelPractice_name,Name of a mission.,Aerial Refueling Practice,Práctica de Reabastecimiento aéreo
+av42cQuickFlight:aerialRefuelPractice_description,Description of a mission.,Practice refueling in the air. Remember to lower your starting fuel.,Practica repostado en el aire. Recuerda ir bajo de combustible
+AV-42C:av42cQuickFlight:aerialRefuelPractice:obj_0:name,A mission objective name,Refuel,Reposta
+AV-42C:av42cQuickFlight:aerialRefuelPractice:obj_0:info,Mission objective info.,Refuel in the air.,Reposta en el aire.
+av42cQuickFlight:carrierLanding_name,Name of a mission.,Naval Landing Practice,Práctica de aterrizaje naval
+av42cQuickFlight:carrierLanding_description,Description of a mission.,Practice landing on the carrier or one of the cruisers.,Practica aterrizando en un portaviones o en uno de los cruceros
+AV-42C:av42cQuickFlight:carrierLanding:obj_0:name,A mission objective name,Land,Aterriza
+AV-42C:av42cQuickFlight:carrierLanding:obj_0:info,Mission objective info.,Land on the carrier or one of the cruisers.,Aterriza en el portaviones o en uno de los cruceros
+av42cQuickFlight:freeFlight_name,Name of a mission.,Free Flight,Vuelo libre
+av42cQuickFlight:freeFlight_description,Description of a mission.,No objectives or hostiles.  Just fly around and have fun!,Ni objetivos ni hostiles. ¡Vuela libremente y diviertete!
+AV-42C:av42cQuickFlight:freeFlight:obj_0:name,A mission objective name,Free Flight,Vuelo libre
+AV-42C:av42cQuickFlight:freeFlight:obj_0:info,Mission objective info.,"This is a free flight, however, landing on the carrier will complete the mission","Es vuelo libre, sin embargo, si aterrizas en el portaviones la misión terminará."
+av42cQuickFlight:targetPractice_name,Name of a mission.,Target Practice,Práctica de tiro
+av42cQuickFlight:targetPractice_description,Description of a mission.,Practice using different weapons on multiple groups of non-hostile targets.,Practica usando diferentes armamentos en multiples grupos de objetivos no hostiles.
+AV-42C:av42cQuickFlight:targetPractice:obj_0:name,A mission objective name,Destroy Artillery,Destruye Artillería
+AV-42C:av42cQuickFlight:targetPractice:obj_0:info,Mission objective info.,Destroy the artillery on the edge of the south-eastern city.,Destruye la artillería en el borde de la ciudad sureste.
+AV-42C:av42cQuickFlight:targetPractice:obj_1:name,A mission objective name,Destroy Infantry,Destruye Infantería
+AV-42C:av42cQuickFlight:targetPractice:obj_1:info,Mission objective info.,Eliminate the enemy infantry squad patrolling near the hospital,Elimina el escuadrón de infantería enemiga patrullando cerca del hospital
+AV-42C:av42cQuickFlight:targetPractice:obj_2:name,A mission objective name,Destroy Convoy,Destruye Convoy
+AV-42C:av42cQuickFlight:targetPractice:obj_2:info,Mission objective info.,Destroy the armored convoy moving west from the eastern city.,Destruye el convoy blindado moviendose hacia el oeste desde la ciudad este.
+AV-42C:av42cQuickFlight:targetPractice:obj_3:name,A mission objective name,Destroy Air Defense,Destruye Defensas Aereas
+AV-42C:av42cQuickFlight:targetPractice:obj_3:info,Mission objective info.,Destroy the air defense network on the mountain peak.,Destruye la red de defensa aérea en el pico de la montaña.
+AV-42C:av42cQuickFlight:targetPractice:obj_4:name,A mission objective name,Kill Enemy Strikers,Derriba Atacantes Enemigos
+AV-42C:av42cQuickFlight:targetPractice:obj_4:info,Mission objective info.,Destroy the wing of enemy attack aircraft.,Destruye el ala enemiga de cazas.
+AV-42C:av42cQuickFlight:targetPractice:obj_5:name,A mission objective name,RTB,VAB
+AV-42C:av42cQuickFlight:targetPractice:obj_5:info,Mission objective info.,Land at the airbase.,Aterriza en la base.
+av42cQuickFlight_42c_freeFlight2_b0,Text from a mission briefing.,Just fly around and have fun!,¡Vuela libre y diviertete!
+av42cQuickFlight_42c_freeFlight2_b1,Text from a mission briefing.,A tanker is available for A2A refuelling.,Un avión cisterna para reabastecimiento de combustible aéreo.
+av42cQuickFlight_42c_freeFlight2_b2,Text from a mission briefing.,Try landing on one of the ships!,¡Intenta aterrizar en uno de los buques!
+av42cQuickFlight_aerialRefuelPractice_b0,Text from a mission briefing.,"Practice refueling in the air. Remember to lower your starting fuel, or else the tanker won't bother lowering the boom.","Practica repostado en el aire. Recuerda ir bajo de combustible, o el avión cisterna no se molestará en bajar la pértiga."
 av42cQuickFlight_carrierLanding_b0,Text from a mission briefing.,"Practice landing on the ships.  For the carrier, you can land vertically or with the arrestor cables.
 
-The carrier will be moving from east to west.  Use the NAV screen on the MFD to aid you in your approach.",
+The carrier will be moving from east to west.  Use the NAV screen on the MFD to aid you in your approach.","Practica aterrizar en los barcos. Para el portaaviones, puedes aterrizar verticalmente o usando los cables de detención.
+
+El portaaviones se moverá de este a oeste. Usa la pantalla NAV en el MFD para ayudarte en la aproximación."
 av42cQuickFlight_freeFlight_b0,Text from a mission briefing.,"There are no objectives. Just fly around and have fun!
 
-There is an aircraft carrier at sea and an aerial refueling tanker in the sky.",
+There is an aircraft carrier at sea and an aerial refueling tanker in the sky.","No hay objetivos. ¡Simplemente vuela y diviértete!
+
+Hay un portaaviones en el mar y un avión cisterna en el cielo."
 av42cQuickFlight_targetPractice_b0,Text from a mission briefing.,"There are multiple groups of surface and air targets for you to practice on.
 
-Check the waypoints and information in the Objectives MFD page.",
-campaign_fa26bFreeFlight_name,Name of a campaign.,Quick Flight,
-campaign_fa26bFreeFlight_description,Description of a campaign.,Simple scenarios for the F/A-26B.,
-fa26bFreeFlight:26b_targetPractice2_name,Name of a mission.,Target Practice,
-fa26bFreeFlight:26b_targetPractice2_description,Description of a mission.,Several ground and air targets to practice deploying your weapons on. Targets will not shoot back.,
-F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_0:name,A mission objective name,Moving Targets,
-F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_0:info,Mission objective info.,Destroy the column of vehicles crossing the bridge.,
-F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_1:name,A mission objective name,Artillery Targets,
-F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_1:info,Mission objective info.,Destroy the artillery targets.,
-F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_2:name,A mission objective name,Bomber Group,
-F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_2:info,Mission objective info.,Destroy the bomber and its escorts flying at high altitude.,
-F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_3:name,A mission objective name,Radar Network,
-F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_3:info,Mission objective info.,Destroy the radar network around the central mountains.,
-F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_4:name,A mission objective name,Attack Jets,
-F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_4:info,Mission objective info.,Destroy the vertical take-off attack jets coming from the FARP.,
-F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_5:name,A mission objective name,RTB,
-F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_5:info,Mission objective info.,Land at any of the airbases or aircraft carrier.,
-fa26bFreeFlight:2v2dogfight_name,Name of a mission.,2v2 Air Combat,
-fa26bFreeFlight:2v2dogfight_description,Description of a mission.,Take on two enemy fighters with your wingman.,
+Check the waypoints and information in the Objectives MFD page.","Hay varios grupos de objetivos terrestres y aéreos para que practiques.
+
+Consulta los puntos de ruta y la información en la página de Objetivos del MFD."
+campaign_fa26bFreeFlight_name,Name of a campaign.,Quick Flight,Vuelo Rápido
+campaign_fa26bFreeFlight_description,Description of a campaign.,Simple scenarios for the F/A-26B.,Escenarios simples para el F/A-26B.
+fa26bFreeFlight:26b_targetPractice2_name,Name of a mission.,Target Practice,Práctica de tiro
+fa26bFreeFlight:26b_targetPractice2_description,Description of a mission.,Several ground and air targets to practice deploying your weapons on. Targets will not shoot back.,Varios objetivos terrestres y aéreos para practicar el uso de tus armas. Los objetivos no devolverán el fuego.
+F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_0:name,A mission objective name,Moving Targets,Objetivos en movimiento
+F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_0:info,Mission objective info.,Destroy the column of vehicles crossing the bridge.,Destruye la columna de vehículos que cruza el puente.
+F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_1:name,A mission objective name,Artillery Targets,Objetivos de artillería
+F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_1:info,Mission objective info.,Destroy the artillery targets.,Destruye los objetivos de artillería.
+F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_2:name,A mission objective name,Bomber Group,Grupo de bombarderos
+F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_2:info,Mission objective info.,Destroy the bomber and its escorts flying at high altitude.,"ChatGPT Plus
+Destruye el bombardero y sus escoltas que vuelan a gran altitud."
+F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_3:name,A mission objective name,Radar Network,Red de radares
+F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_3:info,Mission objective info.,Destroy the radar network around the central mountains.,Destruye la red de radares alrededor de las montañas centrales.
+F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_4:name,A mission objective name,Attack Jets,Cazas de ataque
+F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_4:info,Mission objective info.,Destroy the vertical take-off attack jets coming from the FARP.,Destruye los cazas de ataque de despegue vertical que salen del FARP.
+F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_5:name,A mission objective name,RTB,VAB
+F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_5:info,Mission objective info.,Land at any of the airbases or aircraft carrier.,Aterriza en cualquiera de las bases aéreas o en el portaaviones.
+fa26bFreeFlight:2v2dogfight_name,Name of a mission.,2v2 Air Combat,Combate aéreo 2 v 2
+fa26bFreeFlight:2v2dogfight_description,Description of a mission.,Take on two enemy fighters with your wingman.,Enfréntate a dos cazas enemigos junto a tu compañero de ala.
 F/A-26B:fa26bFreeFlight:2v2dogfight:obj_0:name,A mission objective name,CAP,
-F/A-26B:fa26bFreeFlight:2v2dogfight:obj_0:info,Mission objective info.,Destroy the two enemy fighters.,
-F/A-26B:fa26bFreeFlight:2v2dogfight:obj_1:name,A mission objective name,Surprise,
-F/A-26B:fa26bFreeFlight:2v2dogfight:obj_1:info,Mission objective info.,Surprise! More fighters to kill. Where will they come from?,
-F/A-26B:fa26bFreeFlight:2v2dogfight:obj_2:name,A mission objective name,Land,
-F/A-26B:fa26bFreeFlight:2v2dogfight:obj_2:info,Mission objective info.,Land at the airbase.,
-fa26bFreeFlight:carrierLandingPractice_name,Name of a mission.,Carrier Landing Practice,
-fa26bFreeFlight:carrierLandingPractice_description,Description of a mission.,Practice landing on the aircraft carrier.,
-F/A-26B:fa26bFreeFlight:carrierLandingPractice:obj_0:name,A mission objective name,Land,
-F/A-26B:fa26bFreeFlight:carrierLandingPractice:obj_0:info,Mission objective info.,Land on the carrier.,
-fa26bFreeFlight:FA26Difficult_name,Name of a mission.,Difficult Mission,
-fa26bFreeFlight:FA26Difficult_description,Description of a mission.,"A variety of hostile targets to destroy.  Practice using the aircraft as a fighter, a striker, or a mix of both.",
-F/A-26B:fa26bFreeFlight:FA26Difficult:obj_0:name,A mission objective name,Destroy Radars 1,
-F/A-26B:fa26bFreeFlight:FA26Difficult:obj_0:info,Mission objective info.,Destroy the enemy fire control radars around south city.,
-F/A-26B:fa26bFreeFlight:FA26Difficult:obj_1:name,A mission objective name,Destroy Ships,
-F/A-26B:fa26bFreeFlight:FA26Difficult:obj_1:info,Mission objective info.,Destroy the naval group to the east.,
-F/A-26B:fa26bFreeFlight:FA26Difficult:obj_2:name,A mission objective name,CAP,
-F/A-26B:fa26bFreeFlight:FA26Difficult:obj_2:info,Mission objective info.,Search for and destroy enemy fighters.,
-F/A-26B:fa26bFreeFlight:FA26Difficult:obj_3:name,A mission objective name,RTB,
-F/A-26B:fa26bFreeFlight:FA26Difficult:obj_3:info,Mission objective info.,Return to the carrier.,
-fa26bFreeFlight:fa26Refuel_name,Name of a mission.,FA-26 Aerial Refuel Practice,
-fa26bFreeFlight:fa26Refuel_description,Description of a mission.,Practice aerial refuelling.,
-F/A-26B:fa26bFreeFlight:fa26Refuel:obj_0:name,A mission objective name,Refuel,
-F/A-26B:fa26bFreeFlight:fa26Refuel:obj_0:info,Mission objective info.,Refuel without landing. Fuel must be below 95% for the tanker to serve.,
-fa26bFreeFlight:Free Flight_name,Name of a mission.,Free Flight,
-fa26bFreeFlight:Free Flight_description,Description of a mission.,No enemies or objectives.  Just fly around and have fun!,
-fa26bFreeFlight:freeFlight2_name,Name of a mission.,Free Flight 2,
-fa26bFreeFlight:freeFlight2_description,Description of a mission.,Free flight in the twin-city bay map. No enemies or objectives.,
+F/A-26B:fa26bFreeFlight:2v2dogfight:obj_0:info,Mission objective info.,Destroy the two enemy fighters.,Destruye 2 cazas enemigos.
+F/A-26B:fa26bFreeFlight:2v2dogfight:obj_1:name,A mission objective name,Surprise,Sorpresa
+F/A-26B:fa26bFreeFlight:2v2dogfight:obj_1:info,Mission objective info.,Surprise! More fighters to kill. Where will they come from?,¡Sorpresa! Más objetivos que derribar. ¿De donde han salido?
+F/A-26B:fa26bFreeFlight:2v2dogfight:obj_2:name,A mission objective name,Land,Aterriza
+F/A-26B:fa26bFreeFlight:2v2dogfight:obj_2:info,Mission objective info.,Land at the airbase.,Aterriza en la base aérea.
+fa26bFreeFlight:carrierLandingPractice_name,Name of a mission.,Carrier Landing Practice,Práctica de aterrizaje en portaaviones
+fa26bFreeFlight:carrierLandingPractice_description,Description of a mission.,Practice landing on the aircraft carrier.,Practica aterrizar en el portaaviones.
+F/A-26B:fa26bFreeFlight:carrierLandingPractice:obj_0:name,A mission objective name,Land,Aterriza
+F/A-26B:fa26bFreeFlight:carrierLandingPractice:obj_0:info,Mission objective info.,Land on the carrier.,Aterriza en el portaaviones.
+fa26bFreeFlight:FA26Difficult_name,Name of a mission.,Difficult Mission,Misión difícil
+fa26bFreeFlight:FA26Difficult_description,Description of a mission.,"A variety of hostile targets to destroy.  Practice using the aircraft as a fighter, a striker, or a mix of both.","Una variedad de objetivos hostiles para destruir. Practica usando la aeronave como caza, bombardero o una combinación de ambos."
+F/A-26B:fa26bFreeFlight:FA26Difficult:obj_0:name,A mission objective name,Destroy Radars 1,Destruye los radares 1
+F/A-26B:fa26bFreeFlight:FA26Difficult:obj_0:info,Mission objective info.,Destroy the enemy fire control radars around south city.,Destruye los radares de control de fuego enemigos alrededor de la ciudad del sur.
+F/A-26B:fa26bFreeFlight:FA26Difficult:obj_1:name,A mission objective name,Destroy Ships,Destruye los barcos
+F/A-26B:fa26bFreeFlight:FA26Difficult:obj_1:info,Mission objective info.,Destroy the naval group to the east.,Destruye el grupo naval al este.
+F/A-26B:fa26bFreeFlight:FA26Difficult:obj_2:name,A mission objective name,CAP,Busca y destruye a los cazas enemigos.
+F/A-26B:fa26bFreeFlight:FA26Difficult:obj_2:info,Mission objective info.,Search for and destroy enemy fighters.,Regresa al portaaviones.
+F/A-26B:fa26bFreeFlight:FA26Difficult:obj_3:name,A mission objective name,RTB,VAB
+F/A-26B:fa26bFreeFlight:FA26Difficult:obj_3:info,Mission objective info.,Return to the carrier.,Regresa al portaaviones.
+fa26bFreeFlight:fa26Refuel_name,Name of a mission.,FA-26 Aerial Refuel Practice,Práctica de reabastecimiento aéreo con el FA-26
+fa26bFreeFlight:fa26Refuel_description,Description of a mission.,Practice aerial refuelling.,Practica el reabastecimiento aéreo.
+F/A-26B:fa26bFreeFlight:fa26Refuel:obj_0:name,A mission objective name,Refuel,Reabastece
+F/A-26B:fa26bFreeFlight:fa26Refuel:obj_0:info,Mission objective info.,Refuel without landing. Fuel must be below 95% for the tanker to serve.,Reabastece sin aterrizar. El combustible debe estar por debajo del 95 % para que el avión cisterna te atienda.
+fa26bFreeFlight:Free Flight_name,Name of a mission.,Free Flight,Vuelo libre
+fa26bFreeFlight:Free Flight_description,Description of a mission.,No enemies or objectives.  Just fly around and have fun!,Sin enemigos ni objetivos. ¡Solo vuela y diviértete!
+fa26bFreeFlight:freeFlight2_name,Name of a mission.,Free Flight 2,Vuelo libre 2
+fa26bFreeFlight:freeFlight2_description,Description of a mission.,Free flight in the twin-city bay map. No enemies or objectives.,Vuelo libre en el mapa de la bahía de las ciudades gemelas. Sin enemigos ni objetivos.
 fa26bFreeFlight_26b_targetPractice2_b0,Text from a mission briefing.,"Various air and land targets are scattered around the area. Practice using your sensors and weapons to find and destroy the targets without worrying about them shooting back.
 
-Several airbases and a carrier are available for you to use for rearming and refuelling if necessary.",
-fa26bFreeFlight_2v2dogfight_b0,Text from a mission briefing.,"In this scenario, you will start in the air with a wingman.  Fly towards the island and take out the two enemy fighters.",
-fa26bFreeFlight_carrierLandingPractice_b0,Text from a mission briefing.,"You will start in the air near the carrier.  Find it, then circle around for a landing approach.",
+Several airbases and a carrier are available for you to use for rearming and refuelling if necessary.","Varios objetivos aéreos y terrestres están dispersos por la zona. Practica usando tus sensores y armas para encontrar y destruir los objetivos sin preocuparte de que te devuelvan el fuego.
+
+Hay varias bases aéreas y un portaaviones disponibles para rearmarte y reabastecerte si es necesario."
+fa26bFreeFlight_2v2dogfight_b0,Text from a mission briefing.,"In this scenario, you will start in the air with a wingman.  Fly towards the island and take out the two enemy fighters.","En este escenario, comenzarás en el aire con un compañero de ala. Vuela hacia la isla y elimina a los dos cazas enemigos."
+fa26bFreeFlight_carrierLandingPractice_b0,Text from a mission briefing.,"You will start in the air near the carrier.  Find it, then circle around for a landing approach.",Comenzarás en el aire cerca del portaaviones. Encuéntralo y luego da la vuelta para realizar la aproximación de aterrizaje.
 fa26bFreeFlight_FA26Difficult_b0,Text from a mission briefing.,"Several enemy air, land, and naval units are scattered around the island.
-Complete each of the mission objectives and return to the carrier.",
-fa26bFreeFlight_FA26Difficult_b1,Text from a mission briefing.,You may need to return to the carrier to refuel and rearm during the mission.,
-fa26bFreeFlight_fa26Refuel_b0,Text from a mission briefing.,"Practice aerial refueling with the F/A-26B.  Make sure to start off with a partially empty fuel tank.  Otherwise, the tanker will not lower to fuel boom.",
-fa26bFreeFlight_freeFlight2_b0,Text from a mission briefing.,Just fly around and have fun!,
-campaign_j4Campaign_name,Name of a campaign.,July 4,
-campaign_j4Campaign_description,Description of a campaign.,Enter description...,
-j4Campaign:j4_name,Name of a mission.,July 4th,
-j4Campaign:j4_description,Description of a mission.,Happy Independence day!,
-F/A-26B:j4Campaign:j4:obj_0:name,A mission objective name,July 4,
-F/A-26B:j4Campaign:j4:obj_0:info,Mission objective info.,Defend the city from the enemy attack.,
-j4Campaign_j4_b0,Text from a mission briefing.,Happy Independence day!,
-j4Campaign_j4_b1,Text from a mission briefing.,"An unidentified flying object has been detected over the island.  It appears to be giving off the same signals as those recorded near the recent attacks on mainland cities, so we're assuming hostility.  Find it and destroy it at all cost.",
-campaign_fa26-opDesertCobra_name,Name of a campaign.,Operation: Desert Cobra,
-campaign_fa26-opDesertCobra_description,Description of a campaign.,"A short campaign for the F/A-26B based around mountainous desert regions. ",
-fa26-opDesertCobra:mission1_name,Name of a mission.,Base Defense,
-fa26-opDesertCobra:mission1_description,Description of a mission.,Defend the airbase supply depots from the incoming enemy attack.,
-F/A-26B:fa26-opDesertCobra:mission1:obj_0:name,A mission objective name,Defend Base,
-F/A-26B:fa26-opDesertCobra:mission1:obj_0:info,Mission objective info.,Prevent the enemy from destroying all of the storage depots.,
-F/A-26B:fa26-opDesertCobra:mission1:obj_1:name,A mission objective name,Destroy Bombers,
-F/A-26B:fa26-opDesertCobra:mission1:obj_1:info,Mission objective info.,Destroy bomber (HB-106) and 2 escorts (ASF-30) before they destroy the depots.,
-F/A-26B:fa26-opDesertCobra:mission1:obj_2:name,A mission objective name,Destroy Strikers,
-F/A-26B:fa26-opDesertCobra:mission1:obj_2:info,Mission objective info.,"Destroy 3 strikers (GAV-25), 2 escorts (ASF-30) before they destroy the depots.",
-F/A-26B:fa26-opDesertCobra:mission1:obj_3:name,A mission objective name,Destroy Artillery,
-F/A-26B:fa26-opDesertCobra:mission1:obj_3:info,Mission objective info.,Destroy the artillery unit before it does more damage to the depots.,
-F/A-26B:fa26-opDesertCobra:mission1:obj_4:name,A mission objective name,RTB,
-F/A-26B:fa26-opDesertCobra:mission1:obj_4:info,Mission objective info.,Mission complete!  Land back at the airbase.,
-F/A-26B:fa26-opDesertCobra:mission1:obj_5:name,A mission objective name,[Opt] Defend AWACs,
-F/A-26B:fa26-opDesertCobra:mission1:obj_5:info,Mission objective info.,Destroy the 2 fighters (ASF-58) before they can take down our AWACs.,
-fa26-opDesertCobra:mission2_name,Name of a mission.,Retalliation,
-fa26-opDesertCobra:mission2_description,Description of a mission.,Turn the tables and attack the enemy airbases' supplies.,
-F/A-26B:fa26-opDesertCobra:mission2:obj_7:name,A mission objective name,Destroy Depots North,
-F/A-26B:fa26-opDesertCobra:mission2:obj_7:info,Mission objective info.,Destroy the enemy depots at the northern airbase.,
-F/A-26B:fa26-opDesertCobra:mission2:obj_4:name,A mission objective name,RTB,
-F/A-26B:fa26-opDesertCobra:mission2:obj_4:info,Mission objective info.,Mission complete!  Land back at the airbase.,
-F/A-26B:fa26-opDesertCobra:mission2:obj_6:name,A mission objective name,Destroy Depots East,
-F/A-26B:fa26-opDesertCobra:mission2:obj_6:info,Mission objective info.,Destroy the enemy depots at the eastern airbase.,
-fa26-opDesertCobra:mission3_name,Name of a mission.,Strike on Naval Test Lake,
-fa26-opDesertCobra:mission3_description,Description of a mission.,Escort a strike group sent to destroy ships at the enemy's naval testing area.,
-F/A-26B:fa26-opDesertCobra:mission3:obj_0:name,A mission objective name,Destroy Ships,
-F/A-26B:fa26-opDesertCobra:mission3:obj_0:info,Mission objective info.,SEAD & protect X-Ray while they complete anti-shipping mission.,
-F/A-26B:fa26-opDesertCobra:mission3:obj_1:name,A mission objective name,RTB,
-F/A-26B:fa26-opDesertCobra:mission3:obj_1:info,Mission objective info.,Mission complete! Return to base.,
-F/A-26B:fa26-opDesertCobra:mission3:obj_2:name,A mission objective name,Join Strikers,
-F/A-26B:fa26-opDesertCobra:mission3:obj_2:info,Mission objective info.,Join the group of Anti-Ship strikers.,
-F/A-26B:fa26-opDesertCobra:mission3:obj_3:name,A mission objective name,Assist Bomber,
-F/A-26B:fa26-opDesertCobra:mission3:obj_3:info,Mission objective info.,Protect the bomber while it attacks the remaining ships.,
-F/A-26B:fa26-opDesertCobra:mission3:obj_4:name,A mission objective name,Escort,
-F/A-26B:fa26-opDesertCobra:mission3:obj_4:info,Mission objective info.,Follow and protect the strike group along the way to the attack waypoint.,
-F/A-26B:fa26-opDesertCobra:mission3:obj_5:name,A mission objective name,Defend X-Ray,
-F/A-26B:fa26-opDesertCobra:mission3:obj_5:info,Mission objective info.,Destroy the fighters threatening X-Ray strike group.,
-fa26-opDesertCobra:mission4_name,Name of a mission.,Tanker Escort,
-fa26-opDesertCobra:mission4_description,Description of a mission.,Defend a tanker from airborne threats while it rendezvous with allied bombers.,
-F/A-26B:fa26-opDesertCobra:mission4:obj_0:name,A mission objective name,Protect Tanker,
-F/A-26B:fa26-opDesertCobra:mission4:obj_0:info,Mission objective info.,Defend the tanker as it rendezvous with bomber group Sierra.,
-F/A-26B:fa26-opDesertCobra:mission4:obj_1:name,A mission objective name,Protect RTB,
-F/A-26B:fa26-opDesertCobra:mission4:obj_1:info,Mission objective info.,Defend the tanker and bombers as they refuel and return to base.,
-F/A-26B:fa26-opDesertCobra:mission4:obj_2:name,A mission objective name,RTB,
-F/A-26B:fa26-opDesertCobra:mission4:obj_2:info,Mission objective info.,Mission complete. Return to base.,
-fa26-opDesertCobra:mission5_name,Name of a mission.,Departure,
-fa26-opDesertCobra:mission5_description,Description of a mission.,Our naval strike group will be departing from port on the western coast. Hostile forces are trying to stop them.,
-F/A-26B:fa26-opDesertCobra:mission5:obj_0:name,A mission objective name,Fly To AO,
-F/A-26B:fa26-opDesertCobra:mission5:obj_0:info,Mission objective info.,Fly to the naval base.,
-F/A-26B:fa26-opDesertCobra:mission5:obj_1:name,A mission objective name,Defend the fleet,
-F/A-26B:fa26-opDesertCobra:mission5:obj_1:info,Mission objective info.,Defend the carrier fleet as it embarks form the  port.,
-F/A-26B:fa26-opDesertCobra:mission5:obj_2:name,A mission objective name,Carrier Landing,
-F/A-26B:fa26-opDesertCobra:mission5:obj_2:info,Mission objective info.,Land on the carrier.,
-F/A-26B:fa26-opDesertCobra:mission5:obj_3:name,A mission objective name,Ground Targets Brdg,
-F/A-26B:fa26-opDesertCobra:mission5:obj_3:info,Mission objective info.,Destroy armored vehicles moving towards the base.,
-F/A-26B:fa26-opDesertCobra:mission5:obj_4:name,A mission objective name,Ground Targets Cnyn,
-F/A-26B:fa26-opDesertCobra:mission5:obj_4:info,Mission objective info.,Destroy ground targets moving through the canyons towards the base.,
-F/A-26B:fa26-opDesertCobra:mission5:obj_5:name,A mission objective name,Hostile Attackers,
-F/A-26B:fa26-opDesertCobra:mission5:obj_5:info,Mission objective info.,Destroy hostile attack aircraft.,
-F/A-26B:fa26-opDesertCobra:mission5:obj_6:name,A mission objective name,Hostile Attackers 2,
-F/A-26B:fa26-opDesertCobra:mission5:obj_6:info,Mission objective info.,Destroy hostile attack aircraft.,
-F/A-26B:fa26-opDesertCobra:mission5:obj_7:name,A mission objective name,Hostile Bombers,
-F/A-26B:fa26-opDesertCobra:mission5:obj_7:info,Mission objective info.,Destroy hostile bomber and its escorts.,
-fa26-opDesertCobra:mission6_name,Name of a mission.,Northern Assault,
-fa26-opDesertCobra:mission6_description,Description of a mission.,Participate in a strike on hostile military targets.,
+Complete each of the mission objectives and return to the carrier.","Varias unidades enemigas aéreas, terrestres y navales están dispersas por la isla.
+Completa cada uno de los objetivos de la misión y regresa al portaaviones."
+fa26bFreeFlight_FA26Difficult_b1,Text from a mission briefing.,You may need to return to the carrier to refuel and rearm during the mission.,Es posible que necesites regresar al portaaviones para repostar y rearmarte durante la misión.
+fa26bFreeFlight_fa26Refuel_b0,Text from a mission briefing.,"Practice aerial refueling with the F/A-26B.  Make sure to start off with a partially empty fuel tank.  Otherwise, the tanker will not lower to fuel boom.","Practica el reabastecimiento aéreo con el F/A-26B. Asegúrate de comenzar con el tanque de combustible parcialmente vacío. De lo contrario, el avión cisterna no bajará la pértiga de reabastecimiento."
+fa26bFreeFlight_freeFlight2_b0,Text from a mission briefing.,Just fly around and have fun!,¡Solo vuela y diviértete!
+campaign_j4Campaign_name,Name of a campaign.,July 4,4 de julio
+campaign_j4Campaign_description,Description of a campaign.,Enter description...,Introduce la descripción...
+j4Campaign:j4_name,Name of a mission.,July 4th,4 de julio
+j4Campaign:j4_description,Description of a mission.,Happy Independence day!,¡Feliz Día de la Independencia!
+F/A-26B:j4Campaign:j4:obj_0:name,A mission objective name,July 4,4 de julio
+F/A-26B:j4Campaign:j4:obj_0:info,Mission objective info.,Defend the city from the enemy attack.,Defiende la ciudad del ataque enemigo.
+j4Campaign_j4_b0,Text from a mission briefing.,Happy Independence day!,¡Feliz Día de la Independencia!
+j4Campaign_j4_b1,Text from a mission briefing.,"An unidentified flying object has been detected over the island.  It appears to be giving off the same signals as those recorded near the recent attacks on mainland cities, so we're assuming hostility.  Find it and destroy it at all cost.","Se ha detectado un objeto volador no identificado sobre la isla. Parece emitir las mismas señales que se registraron cerca de los recientes ataques en ciudades del continente, así que asumimos que es hostil. Encuéntralo y destrúyelo a toda costa."
+campaign_fa26-opDesertCobra_name,Name of a campaign.,Operation: Desert Cobra,Operación: Cobra del Desierto
+campaign_fa26-opDesertCobra_description,Description of a campaign.,"A short campaign for the F/A-26B based around mountainous desert regions. ",Una campaña corta para el F/A-26B ambientada en regiones montañosas del desierto.
+fa26-opDesertCobra:mission1_name,Name of a mission.,Base Defense,Defensa de la base
+fa26-opDesertCobra:mission1_description,Description of a mission.,Defend the airbase supply depots from the incoming enemy attack.,Defiende los depósitos de suministros de la base aérea del ataque enemigo entrante.
+F/A-26B:fa26-opDesertCobra:mission1:obj_0:name,A mission objective name,Defend Base,Defiende la base
+F/A-26B:fa26-opDesertCobra:mission1:obj_0:info,Mission objective info.,Prevent the enemy from destroying all of the storage depots.,Evita que el enemigo destruya todos los depósitos de almacenamiento.
+F/A-26B:fa26-opDesertCobra:mission1:obj_1:name,A mission objective name,Destroy Bombers,Destruye los bombarderos
+F/A-26B:fa26-opDesertCobra:mission1:obj_1:info,Mission objective info.,Destroy bomber (HB-106) and 2 escorts (ASF-30) before they destroy the depots.,Destruye el bombardero (HB-106) y sus 2 escoltas (ASF-30) antes de que destruyan los depósitos.
+F/A-26B:fa26-opDesertCobra:mission1:obj_2:name,A mission objective name,Destroy Strikers,Destruye los bombarderos tácticos
+F/A-26B:fa26-opDesertCobra:mission1:obj_2:info,Mission objective info.,"Destroy 3 strikers (GAV-25), 2 escorts (ASF-30) before they destroy the depots.",Destruye 3 bombarderos tácticos (GAV-25) y 2 escoltas (ASF-30) antes de que destruyan los depósitos.
+F/A-26B:fa26-opDesertCobra:mission1:obj_3:name,A mission objective name,Destroy Artillery,Destruye la artillería
+F/A-26B:fa26-opDesertCobra:mission1:obj_3:info,Mission objective info.,Destroy the artillery unit before it does more damage to the depots.,Destruye la unidad de artillería antes de que cause más daños a los depósitos.
+F/A-26B:fa26-opDesertCobra:mission1:obj_4:name,A mission objective name,RTB,VAB
+F/A-26B:fa26-opDesertCobra:mission1:obj_4:info,Mission objective info.,Mission complete!  Land back at the airbase.,¡Misión completada! Aterriza de nuevo en la base aérea.
+F/A-26B:fa26-opDesertCobra:mission1:obj_5:name,A mission objective name,[Opt] Defend AWACs,[Opt] Defender los AWACs
+F/A-26B:fa26-opDesertCobra:mission1:obj_5:info,Mission objective info.,Destroy the 2 fighters (ASF-58) before they can take down our AWACs.,Destruye los 2 cazas (ASF-58) antes de que puedan derribar nuestros AWACs.
+fa26-opDesertCobra:mission2_name,Name of a mission.,Retalliation,Represalia
+fa26-opDesertCobra:mission2_description,Description of a mission.,Turn the tables and attack the enemy airbases' supplies.,Da la vuelta a la situación y ataca los suministros de las bases aéreas enemigas.
+F/A-26B:fa26-opDesertCobra:mission2:obj_7:name,A mission objective name,Destroy Depots North,Destruye los depósitos del norte
+F/A-26B:fa26-opDesertCobra:mission2:obj_7:info,Mission objective info.,Destroy the enemy depots at the northern airbase.,Destruye los depósitos enemigos en la base aérea norte.
+F/A-26B:fa26-opDesertCobra:mission2:obj_4:name,A mission objective name,RTB,VAB
+F/A-26B:fa26-opDesertCobra:mission2:obj_4:info,Mission objective info.,Mission complete!  Land back at the airbase.,¡Misión completada! Aterriza de nuevo en la base aérea.
+F/A-26B:fa26-opDesertCobra:mission2:obj_6:name,A mission objective name,Destroy Depots East,Destruye los depósitos del este.
+F/A-26B:fa26-opDesertCobra:mission2:obj_6:info,Mission objective info.,Destroy the enemy depots at the eastern airbase.,Destruye los depósitos enemigos en la base aérea este.
+fa26-opDesertCobra:mission3_name,Name of a mission.,Strike on Naval Test Lake,Ataca el lago de pruebas navales.
+fa26-opDesertCobra:mission3_description,Description of a mission.,Escort a strike group sent to destroy ships at the enemy's naval testing area.,Escolta un grupo de ataque enviado para destruir barcos en la zona de pruebas navales enemiga.
+F/A-26B:fa26-opDesertCobra:mission3:obj_0:name,A mission objective name,Destroy Ships,Destruye los barcos.
+F/A-26B:fa26-opDesertCobra:mission3:obj_0:info,Mission objective info.,SEAD & protect X-Ray while they complete anti-shipping mission.,SEAD y protege a X-Ray mientras completan la misión antisuperficie.
+F/A-26B:fa26-opDesertCobra:mission3:obj_1:name,A mission objective name,RTB,VAB
+F/A-26B:fa26-opDesertCobra:mission3:obj_1:info,Mission objective info.,Mission complete! Return to base.,¡Misión completada! Regresa a la base.
+F/A-26B:fa26-opDesertCobra:mission3:obj_2:name,A mission objective name,Join Strikers,Únete a los Atacantes
+F/A-26B:fa26-opDesertCobra:mission3:obj_2:info,Mission objective info.,Join the group of Anti-Ship strikers.,Únete al grupo de atacantes antisuperficie.
+F/A-26B:fa26-opDesertCobra:mission3:obj_3:name,A mission objective name,Assist Bomber,Asiste al bombardero
+F/A-26B:fa26-opDesertCobra:mission3:obj_3:info,Mission objective info.,Protect the bomber while it attacks the remaining ships.,Protege al bombardero mientras ataca los barcos restantes.
+F/A-26B:fa26-opDesertCobra:mission3:obj_4:name,A mission objective name,Escort,Escoltar
+F/A-26B:fa26-opDesertCobra:mission3:obj_4:info,Mission objective info.,Follow and protect the strike group along the way to the attack waypoint.,Sigue y protege al grupo de ataque en el camino hacia el punto de ataque.
+F/A-26B:fa26-opDesertCobra:mission3:obj_5:name,A mission objective name,Defend X-Ray,Defiende a X-Ray
+F/A-26B:fa26-opDesertCobra:mission3:obj_5:info,Mission objective info.,Destroy the fighters threatening X-Ray strike group.,Destruye los cazas que amenazan al grupo de ataque X-Ray.
+fa26-opDesertCobra:mission4_name,Name of a mission.,Tanker Escort,Escolta al avión cisterna
+fa26-opDesertCobra:mission4_description,Description of a mission.,Defend a tanker from airborne threats while it rendezvous with allied bombers.,Defiende un avión cisterna de las amenazas aéreas mientras se reúne con los bombarderos aliados.
+F/A-26B:fa26-opDesertCobra:mission4:obj_0:name,A mission objective name,Protect Tanker,Protege al avión cisterna
+F/A-26B:fa26-opDesertCobra:mission4:obj_0:info,Mission objective info.,Defend the tanker as it rendezvous with bomber group Sierra.,Defiende al avión cisterna mientras se reúne con el grupo de bombarderos Sierra.
+F/A-26B:fa26-opDesertCobra:mission4:obj_1:name,A mission objective name,Protect RTB,Protege el VAB
+F/A-26B:fa26-opDesertCobra:mission4:obj_1:info,Mission objective info.,Defend the tanker and bombers as they refuel and return to base.,Defiende al avión cisterna y a los bombarderos mientras se reabastecen y regresan a la base.
+F/A-26B:fa26-opDesertCobra:mission4:obj_2:name,A mission objective name,RTB,VAB
+F/A-26B:fa26-opDesertCobra:mission4:obj_2:info,Mission objective info.,Mission complete. Return to base.,Misión completada. Volver a base.
+fa26-opDesertCobra:mission5_name,Name of a mission.,Departure,Salida
+fa26-opDesertCobra:mission5_description,Description of a mission.,Our naval strike group will be departing from port on the western coast. Hostile forces are trying to stop them.,Nuestro grupo de ataque naval zarpará del puerto de la costa oeste. Las fuerzas hostiles intentan detenerlo.
+F/A-26B:fa26-opDesertCobra:mission5:obj_0:name,A mission objective name,Fly To AO,Vuela al AO
+F/A-26B:fa26-opDesertCobra:mission5:obj_0:info,Mission objective info.,Fly to the naval base.,Vuela a la base naval.
+F/A-26B:fa26-opDesertCobra:mission5:obj_1:name,A mission objective name,Defend the fleet,Defiende a la flota.
+F/A-26B:fa26-opDesertCobra:mission5:obj_1:info,Mission objective info.,Defend the carrier fleet as it embarks form the  port.,Defiende a la flota de portaaviones mientras zarpa del puerto.
+F/A-26B:fa26-opDesertCobra:mission5:obj_2:name,A mission objective name,Carrier Landing,Aterrizaje en portaaviones.
+F/A-26B:fa26-opDesertCobra:mission5:obj_2:info,Mission objective info.,Land on the carrier.,Aterriza en el portaaviones.
+F/A-26B:fa26-opDesertCobra:mission5:obj_3:name,A mission objective name,Ground Targets Brdg,Obj. Terr. Puente
+F/A-26B:fa26-opDesertCobra:mission5:obj_3:info,Mission objective info.,Destroy armored vehicles moving towards the base.,Destruye los vehículos blindados que se dirigen hacia la base.
+F/A-26B:fa26-opDesertCobra:mission5:obj_4:name,A mission objective name,Ground Targets Cnyn,Obj. Terr. Cañón
+F/A-26B:fa26-opDesertCobra:mission5:obj_4:info,Mission objective info.,Destroy ground targets moving through the canyons towards the base.,Destruye los objetivos terrestres que se desplazan por los cañones hacia la base.
+F/A-26B:fa26-opDesertCobra:mission5:obj_5:name,A mission objective name,Hostile Attackers,Atacantes hostiles
+F/A-26B:fa26-opDesertCobra:mission5:obj_5:info,Mission objective info.,Destroy hostile attack aircraft.,Destruye los aviones de ataque hostiles.
+F/A-26B:fa26-opDesertCobra:mission5:obj_6:name,A mission objective name,Hostile Attackers 2,Atacantes hostiles 2
+F/A-26B:fa26-opDesertCobra:mission5:obj_6:info,Mission objective info.,Destroy hostile attack aircraft.,Destruye los aviones de ataque hostiles.
+F/A-26B:fa26-opDesertCobra:mission5:obj_7:name,A mission objective name,Hostile Bombers,Bombarderos hostiles
+F/A-26B:fa26-opDesertCobra:mission5:obj_7:info,Mission objective info.,Destroy hostile bomber and its escorts.,Destruye al bombardero hostil y sus escoltas.
+fa26-opDesertCobra:mission6_name,Name of a mission.,Northern Assault,Asalto norte
+fa26-opDesertCobra:mission6_description,Description of a mission.,Participate in a strike on hostile military targets.,Participa en un ataque contra objetivos militares hostiles.
 F/A-26B:fa26-opDesertCobra:mission6:obj_0:name,A mission objective name,CAP,
-F/A-26B:fa26-opDesertCobra:mission6:obj_0:info,Mission objective info.,General objective: Fly Combat Air Patrol.,
-F/A-26B:fa26-opDesertCobra:mission6:obj_1:name,A mission objective name,Air Targets,
-F/A-26B:fa26-opDesertCobra:mission6:obj_1:info,Mission objective info.,Destroy enemy air targets.,
-F/A-26B:fa26-opDesertCobra:mission6:obj_2:name,A mission objective name,Carrier Aircraft,
-F/A-26B:fa26-opDesertCobra:mission6:obj_2:info,Mission objective info.,Destroy air targets launching from enemy carrier.,
-F/A-26B:fa26-opDesertCobra:mission6:obj_3:name,A mission objective name,Phase 2,
-F/A-26B:fa26-opDesertCobra:mission6:obj_3:info,Mission objective info.,Shift CAP focus to the next waypoint.,
-F/A-26B:fa26-opDesertCobra:mission6:obj_4:name,A mission objective name,Air Targets 2,
-F/A-26B:fa26-opDesertCobra:mission6:obj_4:info,Mission objective info.,Destroy aircraft departing from the enemy airbase.,
-F/A-26B:fa26-opDesertCobra:mission6:obj_5:name,A mission objective name,Destroy Bomber,
-F/A-26B:fa26-opDesertCobra:mission6:obj_5:info,Mission objective info.,Destroy enemy bomber and escorts threatening carrier.,
-F/A-26B:fa26-opDesertCobra:mission6:obj_6:name,A mission objective name,RTB,
+F/A-26B:fa26-opDesertCobra:mission6:obj_0:info,Mission objective info.,General objective: Fly Combat Air Patrol.,Objetivo general: Volar patrulla aérea de combate.
+F/A-26B:fa26-opDesertCobra:mission6:obj_1:name,A mission objective name,Air Targets,Objetivos aéreos.
+F/A-26B:fa26-opDesertCobra:mission6:obj_1:info,Mission objective info.,Destroy enemy air targets.,Destruye los objetivos aéreos enemigos.
+F/A-26B:fa26-opDesertCobra:mission6:obj_2:name,A mission objective name,Carrier Aircraft,Aeronaves de portaaviones.
+F/A-26B:fa26-opDesertCobra:mission6:obj_2:info,Mission objective info.,Destroy air targets launching from enemy carrier.,Destruye los objetivos aéreos que despegan del portaaviones enemigo.
+F/A-26B:fa26-opDesertCobra:mission6:obj_3:name,A mission objective name,Phase 2,Fase 2
+F/A-26B:fa26-opDesertCobra:mission6:obj_3:info,Mission objective info.,Shift CAP focus to the next waypoint.,Desplaza el enfoque de la patrulla aérea de combate al siguiente punto de ruta.
+F/A-26B:fa26-opDesertCobra:mission6:obj_4:name,A mission objective name,Air Targets 2,Objetivos aéreos 2
+F/A-26B:fa26-opDesertCobra:mission6:obj_4:info,Mission objective info.,Destroy aircraft departing from the enemy airbase.,Destruye las aeronaves que despegan de la base aérea enemiga.
+F/A-26B:fa26-opDesertCobra:mission6:obj_5:name,A mission objective name,Destroy Bomber,Destruye el bombardero
+F/A-26B:fa26-opDesertCobra:mission6:obj_5:info,Mission objective info.,Destroy enemy bomber and escorts threatening carrier.,Destruye al bombardero enemigo y sus escoltas que amenazan al portaaviones.
+F/A-26B:fa26-opDesertCobra:mission6:obj_6:name,A mission objective name,RTB,VAB
 F/A-26B:fa26-opDesertCobra:mission6:obj_6:info,Mission objective info.,,
-F/A-26B:fa26-opDesertCobra:mission6:obj_7:name,A mission objective name,Begin Attack,
-F/A-26B:fa26-opDesertCobra:mission6:obj_7:info,Mission objective info.,Approach the attack waypoint with the other air groups.,
-fa26-opDesertCobra:mission7_name,Name of a mission.,Striking Oil,
-fa26-opDesertCobra:mission7_description,Description of a mission.,The carrier group's next target is one of the enemy's main sources of oil.,
-F/A-26B:fa26-opDesertCobra:mission7:obj_0:name,A mission objective name,Launch,
-F/A-26B:fa26-opDesertCobra:mission7:obj_0:info,Mission objective info.,Take off and orbit waypoint.,
-F/A-26B:fa26-opDesertCobra:mission7:obj_1:name,A mission objective name,Attack Oil Rigs,
-F/A-26B:fa26-opDesertCobra:mission7:obj_1:info,Mission objective info.,Destroy the four oil rigs.,
-F/A-26B:fa26-opDesertCobra:mission7:obj_3:name,A mission objective name,Pending,
-F/A-26B:fa26-opDesertCobra:mission7:obj_3:info,Mission objective info.,Fly to objective waypoint and await further instructions.,
-F/A-26B:fa26-opDesertCobra:mission7:obj_4:name,A mission objective name,VIP Target,
-F/A-26B:fa26-opDesertCobra:mission7:obj_4:info,Mission objective info.,Find and destroy the high priority target.,
+F/A-26B:fa26-opDesertCobra:mission6:obj_7:name,A mission objective name,Begin Attack,Inicia el ataque
+F/A-26B:fa26-opDesertCobra:mission6:obj_7:info,Mission objective info.,Approach the attack waypoint with the other air groups.,Acércate al punto de ataque con los otros grupos aéreos.
+fa26-opDesertCobra:mission7_name,Name of a mission.,Striking Oil,Atacando Petroleras
+fa26-opDesertCobra:mission7_description,Description of a mission.,The carrier group's next target is one of the enemy's main sources of oil.,El próximo objetivo del grupo de portaaviones es una de las principales fuentes de petróleo del enemigo.
+F/A-26B:fa26-opDesertCobra:mission7:obj_0:name,A mission objective name,Launch,Despega
+F/A-26B:fa26-opDesertCobra:mission7:obj_0:info,Mission objective info.,Take off and orbit waypoint.,Despega y mantén una órbita sobre el punto de ruta.
+F/A-26B:fa26-opDesertCobra:mission7:obj_1:name,A mission objective name,Attack Oil Rigs,Ataca plat. petr.
+F/A-26B:fa26-opDesertCobra:mission7:obj_1:info,Mission objective info.,Destroy the four oil rigs.,Destruye las cuatro plataformas petrolíferas.
+F/A-26B:fa26-opDesertCobra:mission7:obj_3:name,A mission objective name,Pending,Pendiente
+F/A-26B:fa26-opDesertCobra:mission7:obj_3:info,Mission objective info.,Fly to objective waypoint and await further instructions.,Vuela al punto de ruta del objetivo y espera más instrucciones.
+F/A-26B:fa26-opDesertCobra:mission7:obj_4:name,A mission objective name,VIP Target,Objetivo VIP
+F/A-26B:fa26-opDesertCobra:mission7:obj_4:info,Mission objective info.,Find and destroy the high priority target.,Encuentra y destruye el objetivo de alta prioridad.
 F/A-26B:fa26-opDesertCobra:mission7:obj_5:name,A mission objective name,RTB,
 F/A-26B:fa26-opDesertCobra:mission7:obj_5:info,Mission objective info.,Return to the carrier.,
 fa26-opDesertCobra:mission8_name,Name of a mission.,Decapitation,

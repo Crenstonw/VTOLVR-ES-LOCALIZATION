@@ -31,10 +31,10 @@ ButtonText_856918,UI Text,Save,Guardar
 helmVisorInteractable_857720,VR Interactable,Visor,Visor
 helmNVGInteractable_856016,VR Interactable,NVG,VN
 PendingText_857928,UI Text,in progress...,en progreso...
-CompleteText_856172,UI Text,COMPLETE,COMPLETADO
+CompleteText_856172,UI Text,COMPLETE,COMPLETADA
 MissionText_855910,UI Text,"MISSION
 ",MISION
-FailedText_855830,UI Text,FAILED,FALLADO
+FailedText_855830,UI Text,FAILED,FALLIDA
 Handle_112840,VR Interactable,Scroll,Scroll
 Text_857226,UI Text,Restart Mission,Reiniciar Misión
 ReturnButton_856630,VR Interactable,Return to Main,Volver al Menú
