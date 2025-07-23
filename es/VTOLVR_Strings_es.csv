@@ -1660,12 +1660,11 @@ F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_0:info,Mission objective info.,D
 F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_1:name,A mission objective name,Artillery Targets,Objetivos de artillería
 F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_1:info,Mission objective info.,Destroy the artillery targets.,Destruye los objetivos de artillería.
 F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_2:name,A mission objective name,Bomber Group,Grupo de bombarderos
-F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_2:info,Mission objective info.,Destroy the bomber and its escorts flying at high altitude.,"ChatGPT Plus
-Destruye el bombardero y sus escoltas que vuelan a gran altitud."
+F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_2:info,Mission objective info.,Destroy the bomber and its escorts flying at high altitude.,Destruye el bombardero y sus escoltas que vuelan a gran altitud.
 F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_3:name,A mission objective name,Radar Network,Red de radares
 F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_3:info,Mission objective info.,Destroy the radar network around the central mountains.,Destruye la red de radares alrededor de las montañas centrales.
 F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_4:name,A mission objective name,Attack Jets,Cazas de ataque
-F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_4:info,Mission objective info.,Destroy the vertical take-off attack jets coming from the FARP.,Destruye los cazas de ataque de despegue vertical que salen del FARP.
+F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_4:info,Mission objective info.,Destroy the vertical take-off attack jets coming from the FARP.,Destruye los cazas de ataque de despegue vertical que salen del PAAF.
 F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_5:name,A mission objective name,RTB,VAB
 F/A-26B:fa26bFreeFlight:26b_targetPractice2:obj_5:info,Mission objective info.,Land at any of the airbases or aircraft carrier.,Aterriza en cualquiera de las bases aéreas o en el portaaviones.
 fa26bFreeFlight:2v2dogfight_name,Name of a mission.,2v2 Air Combat,Combate aéreo 2 v 2
@@ -1811,38 +1810,46 @@ F/A-26B:fa26-opDesertCobra:mission7:obj_3:name,A mission objective name,Pending,
 F/A-26B:fa26-opDesertCobra:mission7:obj_3:info,Mission objective info.,Fly to objective waypoint and await further instructions.,Vuela al punto de ruta del objetivo y espera más instrucciones.
 F/A-26B:fa26-opDesertCobra:mission7:obj_4:name,A mission objective name,VIP Target,Objetivo VIP
 F/A-26B:fa26-opDesertCobra:mission7:obj_4:info,Mission objective info.,Find and destroy the high priority target.,Encuentra y destruye el objetivo de alta prioridad.
-F/A-26B:fa26-opDesertCobra:mission7:obj_5:name,A mission objective name,RTB,
-F/A-26B:fa26-opDesertCobra:mission7:obj_5:info,Mission objective info.,Return to the carrier.,
-fa26-opDesertCobra:mission8_name,Name of a mission.,Decapitation,
-fa26-opDesertCobra:mission8_description,Description of a mission.,End the conflict for good by launching a heavy strike on the command center.,
-F/A-26B:fa26-opDesertCobra:mission8:obj_0:name,A mission objective name,Rejoin,
-F/A-26B:fa26-opDesertCobra:mission8:obj_0:info,Mission objective info.,Rejoin with the wing leader.,
-F/A-26B:fa26-opDesertCobra:mission8:obj_1:name,A mission objective name,Follow,
-F/A-26B:fa26-opDesertCobra:mission8:obj_1:info,Mission objective info.,Follow the wing leader and her commands on the way to the AO.,
-F/A-26B:fa26-opDesertCobra:mission8:obj_2:name,A mission objective name,Strike Supplies,
-F/A-26B:fa26-opDesertCobra:mission8:obj_2:info,Mission objective info.,Destroy all supply depots in the base.,
-F/A-26B:fa26-opDesertCobra:mission8:obj_4:name,A mission objective name,Clear Defenses,
-F/A-26B:fa26-opDesertCobra:mission8:obj_4:info,Mission objective info.,Disable any remaining air defenses around the base.,
-F/A-26B:fa26-opDesertCobra:mission8:obj_5:name,A mission objective name,Protect Transport,
-F/A-26B:fa26-opDesertCobra:mission8:obj_5:info,Mission objective info.,Protect the transport and the team of soldiers it carries.,
-F/A-26B:fa26-opDesertCobra:mission8:obj_6:name,A mission objective name,Take Off,
-F/A-26B:fa26-opDesertCobra:mission8:obj_6:info,Mission objective info.,Take off and wait for wingmen.,
-F/A-26B:fa26-opDesertCobra:mission8:obj_7:name,A mission objective name,Destroy Tanks,
-F/A-26B:fa26-opDesertCobra:mission8:obj_7:info,Mission objective info.,Destroy tanks threatening the raid team.,
-F/A-26B:fa26-opDesertCobra:mission8:obj_9:name,A mission objective name,RTB,
-F/A-26B:fa26-opDesertCobra:mission8:obj_9:info,Mission objective info.,Return to the carrier.,
+F/A-26B:fa26-opDesertCobra:mission7:obj_5:name,A mission objective name,RTB,VAB
+F/A-26B:fa26-opDesertCobra:mission7:obj_5:info,Mission objective info.,Return to the carrier.,Vuelve al portaviones.
+fa26-opDesertCobra:mission8_name,Name of a mission.,Decapitation,Decapitación
+fa26-opDesertCobra:mission8_description,Description of a mission.,End the conflict for good by launching a heavy strike on the command center.,Termina el conflícto de una vez por todas lanzando un contundente ataque al centro de comandos.
+F/A-26B:fa26-opDesertCobra:mission8:obj_0:name,A mission objective name,Rejoin,Reúnete
+F/A-26B:fa26-opDesertCobra:mission8:obj_0:info,Mission objective info.,Rejoin with the wing leader.,Reúnete con el lider del ala.
+F/A-26B:fa26-opDesertCobra:mission8:obj_1:name,A mission objective name,Follow,Sigue
+F/A-26B:fa26-opDesertCobra:mission8:obj_1:info,Mission objective info.,Follow the wing leader and her commands on the way to the AO.,Sigue al lider del ala y sus órdenes de camino al AO
+F/A-26B:fa26-opDesertCobra:mission8:obj_2:name,A mission objective name,Strike Supplies,Ataca los suministros
+F/A-26B:fa26-opDesertCobra:mission8:obj_2:info,Mission objective info.,Destroy all supply depots in the base.,Destruye todos los depósitos de suministros de la base.
+F/A-26B:fa26-opDesertCobra:mission8:obj_4:name,A mission objective name,Clear Defenses,Despeja defensas
+F/A-26B:fa26-opDesertCobra:mission8:obj_4:info,Mission objective info.,Disable any remaining air defenses around the base.,Incapacita las defensas aéreas restantes alrededor de la base.
+F/A-26B:fa26-opDesertCobra:mission8:obj_5:name,A mission objective name,Protect Transport,Proteje el transporte
+F/A-26B:fa26-opDesertCobra:mission8:obj_5:info,Mission objective info.,Protect the transport and the team of soldiers it carries.,Proteje el transporte y al equipo de soldado que transporta.
+F/A-26B:fa26-opDesertCobra:mission8:obj_6:name,A mission objective name,Take Off,Despega
+F/A-26B:fa26-opDesertCobra:mission8:obj_6:info,Mission objective info.,Take off and wait for wingmen.,Despega y espera a tus compañeros.
+F/A-26B:fa26-opDesertCobra:mission8:obj_7:name,A mission objective name,Destroy Tanks,Destruye blindados.
+F/A-26B:fa26-opDesertCobra:mission8:obj_7:info,Mission objective info.,Destroy tanks threatening the raid team.,Destruye los blindados que amenazan al equípo asaltante.
+F/A-26B:fa26-opDesertCobra:mission8:obj_9:name,A mission objective name,RTB,VAB
+F/A-26B:fa26-opDesertCobra:mission8:obj_9:info,Mission objective info.,Return to the carrier.,Vuelve al portaviones
 fa26-opDesertCobra_mission1_b0,Text from a mission briefing.,"You are stationed at our most remote airbase, closest to the enemy border.
 
-The enemy seeks to destroy the airbase's supplies in order to prevent us from conducting airstrikes in this region.",
+The enemy seeks to destroy the airbase's supplies in order to prevent us from conducting airstrikes in this region.","Estás estacionado en nuestra base aérea más remota, la más cercana a la frontera enemiga.
+
+El enemigo busca destruir los suministros de la base aérea para impedirnos llevar a cabo incursiones aéreas en esta región."
 fa26-opDesertCobra_mission1_b1,Text from a mission briefing.,"Intel has revealed that the enemy has launched a multi-pronged effort to attack the airbase.
 
-A small group of hostile self-propelled artillery have mobilized to get into firing range of our supply depots.",
+A small group of hostile self-propelled artillery have mobilized to get into firing range of our supply depots.","Inteligencia ha revelado que el enemigo ha lanzado un esfuerzo multifacético para atacar la base aérea.
+
+Un pequeño grupo de artillería autopropulsada enemiga se ha movilizado para situarse a alcance de disparo de nuestros depósitos de suministros."
 fa26-opDesertCobra_mission1_b2,Text from a mission briefing.,"While it will be necessary to destroy the artillery, we believe that the attack is aimed to distract us from a follow-up airstrike.
 
-The type of attackers, their locations, and numbers are unknown at this time.",
+The type of attackers, their locations, and numbers are unknown at this time.","Si bien será necesario destruir la artillería, creemos que el ataque tiene como objetivo distraernos de una contraofensiva aérea de seguimiento.
+
+El tipo de atacantes, sus ubicaciones y su número se desconocen por el momento."
 fa26-opDesertCobra_mission1_b3,Text from a mission briefing.,"An E-4 AWACS will be deployed in order to aid in locating the airborne threats.
 
-Due to our proximity to enemy territory, the AWACS will be vulnerable.  Please defend it if necessary.",
+Due to our proximity to enemy territory, the AWACS will be vulnerable.  Please defend it if necessary.","Un E‑4 AWACS será desplegado para ayudar a localizar las amenazas aéreas.
+
+Debido a nuestra proximidad al territorio enemigo, el AWACS es vulnerable. Defiéndelo si es necesario."
 fa26-opDesertCobra_mission1_b4,Text from a mission briefing.,"SUMMARY:
 Objective:
 Defend airbase supply depots.
@@ -1851,41 +1858,74 @@ Known targets:
 3x self-propelled artillery
 
 Unknown targets:
-Bombers and/or attack aircraft.",
+Bombers and/or attack aircraft.","RESUMEN:
+Objetivo:
+Defender los depósitos de suministros de la base aérea.
+
+Objetivos conocidos:
+3x artillería autopropulsada
+
+Objetivos desconocidos:
+Bombarderos y/o aviones de ataque."
 fa26-opDesertCobra_mission2_b0,Text from a mission briefing.,"Now's our chance to head back out and return the favor to the enemy.
 
-They occupy two airbases -- one to the northeast, and one further due north.",
+They occupy two airbases -- one to the northeast, and one further due north.","Ahora es nuestra oportunidad de salir de nuevo y devolverles el favor al enemigo. 
+
+Ocupan dos bases aéreas: una al noreste y otra más al norte."
 fa26-opDesertCobra_mission2_b1,Text from a mission briefing.,"You must destroy the 4 supply depots at each base, for a total of 8 targets.
 
 The enemy is most likely expecting us, so they probably beefed up air defenses as well as numerous aircraft on patrol.
 
-Use the cover of darkness and terrain to mask your approach to the targets.",
+Use the cover of darkness and terrain to mask your approach to the targets.","Debes destruir los 4 depósitos de suministros en cada base, un total de 8 objetivos.
+
+Es probable que el enemigo nos esté esperando, por lo que han reforzado sus defensas aéreas y hay numerosas aeronaves en patrulla.
+
+Utiliza la cobertura de la oscuridad y el terreno para enmascarar tu aproximación a los objetivos.
+"
 fa26-opDesertCobra_mission2_b2,Text from a mission briefing.,"We have gathered intel on the near exact locations of their supplies, which will be set as the objective waypoints.
 
 How you want to attack is up to you.
-I recommend to remain radar silent to avoid detection.",
+I recommend to remain radar silent to avoid detection.","Hemos recopilado información sobre las ubicaciones casi exactas de sus suministros, que se establecerán como puntos de ruta objetivo.
+
+Cómo quieras atacar depende de ti. Recomiendo permanecer en silencio de radar para evitar la detección."
 fa26-opDesertCobra_mission2_b3,Text from a mission briefing.,"SUMMARY:
 Objective: 
 - Destroy the 8 supply depots at each base (4 each).
 
 Threats:
 - Numerous radar and IR SAM sites
-- Hostile combat air patrol",
+- Hostile combat air patrol","RESUMEN:
+Objetivo:
+
+- Destruir los 8 depósitos de suministros en ambas bases (4 en cada una).
+
+Amenazas:
+
+- Numerosos emplazamientos de SAM con radar e IR
+- Patrulla aérea de combate hostil"
 fa26-opDesertCobra_mission3_b0,Text from a mission briefing.,"You've been transferred to the airbase near Gloom Lake.  
 
-This lake lies on another border between our nation and the enemy's, and is where they conduct tests on naval vessels and aircraft.",
+This lake lies on another border between our nation and the enemy's, and is where they conduct tests on naval vessels and aircraft.","Te han trasladado a la base aérea cerca del lago Gloom.
+
+Este lago se encuentra en otra frontera entre nuestra nación y la del enemigo, y es donde llevan a cabo pruebas de buques navales y aeronaves."
 fa26-opDesertCobra_mission3_b1,Text from a mission briefing.,"There have been an unusually high number of enemy drones harassing us recently.  They fly dangerously close to our base and force us to take defensive measures.  
 
-We believe that they're attempting to distract us while they test new military technologies.",
+We believe that they're attempting to distract us while they test new military technologies.","Ha habido un número inusualmente alto de drones enemigos que nos hostigan recientemente. Vuelan peligrosamente cerca de nuestra base y nos obligan a tomar medidas defensivas.
+
+Creemos que intentan distraernos mientras prueban nuevas tecnologías militares."
 fa26-opDesertCobra_mission3_b2,Text from a mission briefing.,"In order to put a damper on their research efforts, we're sending out a group of F/A-26Bs configured to sink their test ships.
 
-Although this is a testing area, the enemy ships are fully functional and armed.",
+Although this is a testing area, the enemy ships are fully functional and armed.","Para frenar sus esfuerzos de investigación, estamos enviando un grupo de F/A-26B configurados para hundir sus barcos de pruebas.
+
+Aunque se trata de una zona de pruebas, los buques enemigos están plenamente operativos y armados."
 fa26-opDesertCobra_mission3_b3,Text from a mission briefing.,"You and your wingmen are tasked to destroy enemy air defenses and patrol aircraft, to allow the strikers to perform the anti-shipping attack.
 
-The strikers will be in the air waiting for you.  Join them and escort them along their attack path.",
+The strikers will be in the air waiting for you.  Join them and escort them along their attack path.","Tú y tus compañeros de ala tienen la misión de destruir las defensas aéreas enemigas y las aeronaves de patrulla, para permitir que los Strikers lleven a cabo el ataque antisuperficie. Los Strikers estarán en el aire esperándote. Reúnete con ellos y escoltadlos a lo largo de su ruta de ataque."
 fa26-opDesertCobra_mission3_b4,Text from a mission briefing.,"When you reach the end of the attack path, the strikers will begin anti-shipping. Target radars to prevent them from defending against the attack.
 
-Simultaneously, allied combat air patrol will be vectored to the area to help keep enemy aircraft away.",
+Simultaneously, allied combat air patrol will be vectored to the area to help keep enemy aircraft away.","Cuando llegues al final de la ruta de ataque, los Strikers comenzarán el ataque antisuperficie. Apunta a los radares para impedir que se defiendan contra el ataque.
+
+Al mismo tiempo, la patrulla aérea de combate aliada será dirigida a la zona para ayudar a mantener alejados a los aviones enemigos."
 fa26-opDesertCobra_mission3_b5,Text from a mission briefing.,"SUMMARY:
 Objective: Support strikers while they attack enemy ships.
 - Suppress enemy air defenses
@@ -1899,13 +1939,26 @@ Threats:
 - Ships
 - Aircraft
 - SAMs
-- AAA",
+- AAA","RESUMEN:
+Objetivo: Apoyar a los Strikers mientras atacan barcos enemigos.
+-Suprimir defensas aéreas enemigas
+-Defender a los Strikers de las patrullas aéreas enemigas
+
+Objetivos principales:
+-Radares
+-Aeronaves hostiles agresivas
+
+Amenazas:
+-Buques
+-Aeronaves
+-SAM
+-AAA"
 fa26-opDesertCobra_mission4_b0,Text from a mission briefing.,"A couple of bombers are returning from a long range mission.  Their fuel reserves are low, so we're sending out a KC-49 tanker to provide air-to-air refuelling.
 
-We are concerned that enemy aircraft will intercept the tanker, which is where you and your wingmen come in.",
+We are concerned that enemy aircraft will intercept the tanker, which is where you and your wingmen come in.","Un par de bombarderos están regresando de una misión de largo alcance. Sus reservas de combustible están bajas, así que estamos enviando un cisterna KC-49 para proporcionar reabastecimiento en vuelo. Nos preocupa que aviones enemigos intercepten al cisterna, ahí es donde entras tú y tus compañeros de ala."
 fa26-opDesertCobra_mission4_b1,Text from a mission briefing.,"Fly with the tanker and keep it safe. Maintain active radar and RWR so you are aware of hostiles. 
 
-AWACs will also be available to help spot incoming threats.",
+AWACs will also be available to help spot incoming threats.",Vuela con el cisterna y protégelo. Mantén el radar activo y el RWR para detectar hostiles. También habrá un AWACS disponible para ayudar a detectar amenazas entrantes.
 fa26-opDesertCobra_mission4_b2,Text from a mission briefing.,"SUMMARY
 Objective: 
 - Escort the tanker to the rendezvous.  
@@ -1913,13 +1966,20 @@ Objective:
 - Mission complete when the tanker and bombers return to base.
 
 Threats:
-- Hostile aircraft",
+- Hostile aircraft","RESUMEN
+Objetivo:
+-Escoltar al cisterna hasta el punto de encuentro.
+-Enfrentarse a todas las aeronaves hostiles que se acerquen.
+-Misión completada cuando el cisterna y los bombarderos regresen a la base.
+
+Amenazas:
+-Aeronaves hostiles"
 fa26-opDesertCobra_mission5_b0,Text from a mission briefing.,"It's time to send a naval strike group deep into enemy territory.  The aircraft carrier and its escorts will soon be ready to depart, but enemy forces are close.  
 
-They will likely attempt to stop the carrier group before our mission can even begin.",
+They will likely attempt to stop the carrier group before our mission can even begin.","Es hora de enviar un grupo de ataque naval en profundidad al territorio enemigo. El portaaviones y sus escoltas estarán listos pronto para zarpar, pero las fuerzas enemigas están cerca. Probablemente intentarán detener al grupo de portaaviones antes de que nuestra misión pueda siquiera comenzar."
 fa26-opDesertCobra_mission5_b1,Text from a mission briefing.,"Your job is to protect the ships, onboard aircraft, and the naval base from the enemy attack.  Hostile aircraft and land vehicles are approaching.  
 
-Once the coast is clear, you will land on the carrier and join on the offensive.",
+Once the coast is clear, you will land on the carrier and join on the offensive.","Tu misión es proteger los buques, las aeronaves a bordo y la base naval del ataque enemigo. Se acercan aeronaves hostiles y vehículos terrestres. Una vez despejada la zona, aterrizarás en el portaaviones y te unirás a la ofensiva."
 fa26-opDesertCobra_mission5_b2,Text from a mission briefing.,"SUMMARY
 
 Objective:
@@ -1929,20 +1989,34 @@ Threats:
 - Fighter Aircraft
 - Bombers
 - Tanks
-- Mobile Anti-Air",
+- Mobile Anti-Air","RESUMEN:
+Objetivo:
+-Defender el grupo de ataque naval y la base naval
+
+Amenazas:
+-Aviones de combate
+-Bombarderos
+-Tanques
+-Sistemas antiaéreos móviles"
 fa26-opDesertCobra_mission6_b0,Text from a mission briefing.,"The carrier group's first stop is a small northern island territory occupied by the enemy.
 
-They have a few military bases here and use the island to stage their attacks on our western coast.",
+They have a few military bases here and use the island to stage their attacks on our western coast.","La primera parada del grupo de portaaviones es un pequeño territorio insular al norte, ocupado por el enemigo.
+
+Tienen varias bases militares aquí y utilizan la isla para lanzar sus ataques contra nuestra costa occidental."
 fa26-opDesertCobra_mission6_b1,Text from a mission briefing.,"The island is a valuable asset to the enemy's air and naval forces, so it's our duty to halt their operations here.
 
-We will launch a full on air assault.",
+We will launch a full on air assault.","La isla es un activo valioso para las fuerzas aéreas y navales enemigas, por lo que es nuestro deber detener sus operaciones aquí. Lanzaremos un asalto aéreo total."
 fa26-opDesertCobra_mission6_b2,Text from a mission briefing.,"There are 4 major components to the attack, which will be split up among 4 specialized air groups.
 
-Whiskey group will suppress enemy air defenses. X-ray group will attack ground targets such as armored vehicles and supply depots.  Bravo will sink the enemy ships.",
+Whiskey group will suppress enemy air defenses. X-ray group will attack ground targets such as armored vehicles and supply depots.  Bravo will sink the enemy ships.","Hay cuatro componentes principales del ataque, que se dividirán entre cuatro grupos aéreos especializados.
+
+El grupo Whiskey suprimirá las defensas aéreas enemigas. El grupo X-Ray atacará objetivos terrestres, como vehículos blindados y depósitos de suministros. El grupo Bravo hundirá los buques enemigos."
 fa26-opDesertCobra_mission6_b3,Text from a mission briefing.,"Kilo group, your group, will fly combat air patrol and keep the enemy fighters away from the other groups.
 
-The enemy only has a few groups of fighters in the air, but they have a carrier full of aircraft ready to go, and an airbase not far from our point of entry.",
-fa26-opDesertCobra_mission6_b4,Text from a mission briefing.,"All groups will maintain open communications, but you will only have command over your own group.  Focus on your own objective (CAP) but maintain awareness of the bigger picture.",
+The enemy only has a few groups of fighters in the air, but they have a carrier full of aircraft ready to go, and an airbase not far from our point of entry.","Grupo Kilo, vuestro grupo realizará patrulla aérea de combate y mantendrá alejados a los cazas enemigos de los otros grupos.
+
+El enemigo solo cuenta con unos pocos grupos de cazas en el aire, pero dispone de un portaaviones lleno de aeronaves listas para entrar en acción y de una base aérea no muy lejos de nuestro punto de entrada."
+fa26-opDesertCobra_mission6_b4,Text from a mission briefing.,"All groups will maintain open communications, but you will only have command over your own group.  Focus on your own objective (CAP) but maintain awareness of the bigger picture.","Todos los grupos mantendrán comunicaciones abiertas, pero solo tendrás mando sobre tu propio grupo. Concéntrate en tu objetivo (CAP) pero mantén la conciencia del panorama general."
 fa26-opDesertCobra_mission6_b5,Text from a mission briefing.,"SUMMARY
 
 Objective:
@@ -1954,23 +2028,44 @@ Targets:
 Threats:
 - Hostile Aircraft
 - SAMs
-- Ships",
+- Ships","RESUMEN
+
+Objetivo:
+-Realizar Combat Air Patrol (CAP)
+
+Objetivos:
+-Varias aeronaves hostiles
+
+Amenazas:
+-Aeronaves enemigas
+-SAMs
+-Buques
+
+Mantén la CAP sobre el área, protege a los demás grupos y responde rápidamente a cualquier amenaza."
 fa26-opDesertCobra_mission7_b0,Text from a mission briefing.,"We have located the enemy's main source of oil off the shore of some remote islands.  
 
-The carrier group has been sent to destroy the oil platforms and further reduce the enemy's ability to fuel war.",
+The carrier group has been sent to destroy the oil platforms and further reduce the enemy's ability to fuel war.","Hemos localizado la principal fuente de petróleo del enemigo frente a la costa de unas islas remotas. 
+
+El grupo de portaaviones ha sido enviado para destruir las plataformas petrolíferas y reducir aún más la capacidad del enemigo para abastecerse de combustible en la guerra."
 fa26-opDesertCobra_mission7_b1,Text from a mission briefing.,"There seems to be an unusually high naval military presence here, so the guided missile cruisers will be assisting your attack.
 
-Air groups X-ray and Sierra will be primarily focused on SEAD, while Bravo will provide CAP.",
+Air groups X-ray and Sierra will be primarily focused on SEAD, while Bravo will provide CAP.","Parece haber una presencia militar naval inusualmente elevada aquí, por lo que los cruceros de misiles guiados asistirán en tu ataque. Los grupos aéreos X‑Ray y Sierra se centrarán principalmente en SEAD, mientras que Bravo proporcionará CAP."
 fa26-opDesertCobra_mission7_b2,Text from a mission briefing.,"Your group, Kilo, will be responsible for striking the oil platforms.
 
-We need the platforms to be destroyed beyond all repair, so you can either destroy all key components on the platform, or destroy two support pillars to topple the entire platform.",
+We need the platforms to be destroyed beyond all repair, so you can either destroy all key components on the platform, or destroy two support pillars to topple the entire platform.","Tu grupo, Kilo, será responsable de atacar las plataformas petrolíferas. 
+
+Necesitamos que las plataformas queden destruidas irreparablemente, así que puedes destruir todos los componentes clave de la plataforma o destruir dos pilares de sustentación para derribar toda la estructura."
 fa26-opDesertCobra_mission7_b3,Text from a mission briefing.,"Our cruisers will approach from the north, on the western side of the ridge. 
 
-The air groups will approach on the eastern side of the ridge at low altitude. You should remain undetected until you reach the channel.",
+The air groups will approach on the eastern side of the ridge at low altitude. You should remain undetected until you reach the channel.","Nuestros cruceros se aproximarán desde el norte, por el lado oeste de la cresta.
+
+Los grupos aéreos se aproximarán por el lado este de la cresta a baja altitud. Debéis permanecer indetectados hasta llegar al canal."
 fa26-opDesertCobra_mission7_b4,Text from a mission briefing.,"The SEAD attack from the east should occur at the same time that the cruiser anti-ship missiles reach the enemy.
 
-This will keep their defenses saturated while Kilo comes in to take down the oil platforms.",
-fa26-opDesertCobra_mission7_b5,Text from a mission briefing.,"There may be other ground targets for you, but we will keep you updated on those as we acquire more information.",
+This will keep their defenses saturated while Kilo comes in to take down the oil platforms.","El ataque SEAD desde el este debe realizarse al mismo tiempo que los misiles antibuque de los cruceros alcancen al enemigo. 
+
+Esto mantendrá sus defensas saturadas mientras el grupo Kilo entra para destruir las plataformas petrolíferas."
+fa26-opDesertCobra_mission7_b5,Text from a mission briefing.,"There may be other ground targets for you, but we will keep you updated on those as we acquire more information.","Puede haber otros objetivos terrestres para ustedes, pero les mantendremos informados a medida que obtengamos más información."
 fa26-opDesertCobra_mission7_b6,Text from a mission briefing.,"SUMMARY
 
 Objective:
@@ -1979,33 +2074,59 @@ Objective:
 Threats
 - Ships
 - SAMs
-- Aircraft",
+- Aircraft","RESUMEN
+
+Objetivo:
+-Destruir 4 plataformas petrolíferas
+
+Amenazas:
+-Buques
+-SAM
+-Aeronaves"
 fa26-opDesertCobra_mission8_b0,Text from a mission briefing.,"This mission will have two phases.
 On the first phase, Kilo 1-1 will lead the flight into enemy territory.
 
-You will be Kilo 1-2, and are assigned to support the flight lead.  Execute her commands to destroy secondary targets on the way to the enemy base.",
+You will be Kilo 1-2, and are assigned to support the flight lead.  Execute her commands to destroy secondary targets on the way to the enemy base.","Esta misión tendrá dos fases.
+En la primera fase, Kilo 1‑1 liderará el vuelo en territorio enemigo.
+
+Tú serás Kilo 1‑2 y estarás asignado para apoyar a la líder de vuelo. Ejecuta sus órdenes para destruir objetivos secundarios en el camino a la base enemiga."
 fa26-opDesertCobra_mission8_b1,Text from a mission briefing.,"The mission is scheduled to start when one of the enemy's coastal defense sites goes down temporarily.
 
-We expect the defenses to resume operation when they spot your approach, but at least it will give you an opportunity to disable them before they can acquire you.",
+We expect the defenses to resume operation when they spot your approach, but at least it will give you an opportunity to disable them before they can acquire you.","La misión está programada para comenzar cuando uno de los sitios de defensa costera enemigos quede temporalmente fuera de servicio.
+
+Esperamos que las defensas reanuden su operación en cuanto detecten tu aproximación, pero al menos te dará la oportunidad de desactivarlas antes de que puedan adquirir tu posición."
 fa26-opDesertCobra_mission8_b2,Text from a mission briefing.,"The flight path will be low, weaving through the valleys to avoid line of sight with enemy radar.
 
-Maintain formation with Kilo 1 for the entirety of the ingress phase.",
+Maintain formation with Kilo 1 for the entirety of the ingress phase.","La ruta de vuelo será baja, serpenteando por los valles para evitar la línea de visión del radar enemigo.
+
+Mantén la formación con Kilo 1 durante toda la fase de ingreso."
 fa26-opDesertCobra_mission8_b3,Text from a mission briefing.,"The secondary targets are coastal defenses at Alpha and two IR SAM units at Bravo. Destroying them will help clear the way for the bomber. 
 
-Again, flight leader Kilo 1-1 will call the shots on these targets.",
+Again, flight leader Kilo 1-1 will call the shots on these targets.","Los objetivos secundarios son las defensas costeras en Alpha y dos unidades de SAM infrarrojos en Bravo. Destruirlas ayudará a despejar el camino para el bombardero.
+
+De nuevo, la líder de vuelo Kilo 1‑1 dará las órdenes sobre estos objetivos."
 fa26-opDesertCobra_mission8_b4,Text from a mission briefing.,"The primary objective will begin when you reach the base at Charlie.
 
-Allied rocket artillery will be in the area launching strikes on the base's air defenses.",
+Allied rocket artillery will be in the area launching strikes on the base's air defenses.","El objetivo primario comenzará cuando llegues a la base en Charlie.
+
+La artillería de cohetes aliada estará en la zona lanzando ataques contra las defensas antiaéreas de la base."
 fa26-opDesertCobra_mission8_b5,Text from a mission briefing.,"The primary targets are rows of cylindrical tents lined up from east to west.
 
-Your flight path will allow you to strike multiple targets in a single low-altitude bombing pass.",
-fa26-opDesertCobra_mission8_b6,Text from a mission briefing.,"After the first pass, flight lead duties will be passed over to you (Kilo 1-2).  Lead your wingmen to take down the remaining targets.",
+Your flight path will allow you to strike multiple targets in a single low-altitude bombing pass.","Los objetivos primarios son filas de tiendas cilíndricas alineadas de este a oeste.
+Tu trayectoria de vuelo te permitirá atacar múltiples objetivos en una sola pasada de bombardeo a baja altitud."
+fa26-opDesertCobra_mission8_b6,Text from a mission briefing.,"After the first pass, flight lead duties will be passed over to you (Kilo 1-2).  Lead your wingmen to take down the remaining targets.","Después de la primera pasada, las funciones de líder de vuelo pasarán a ti (Kilo 1‑2).
+
+Dirige a tus compañeros de ala para derribar los objetivos restantes."
 fa26-opDesertCobra_mission8_b7,Text from a mission briefing.,"A group of F-45A's will take off from a nearby FARP to help keep enemy aircraft and other threats off of you and your wingmen.
 
-Once primary targets have been destroyed, an AV-42C will also dispatch from here to deliver troops to the headquarters and capture the enemy leaders.",
+Once primary targets have been destroyed, an AV-42C will also dispatch from here to deliver troops to the headquarters and capture the enemy leaders.","Un grupo de F‑45A despegará de un PAAF cercano para mantener alejados a los aviones enemigos y otras amenazas de ti y tus compañeros de ala.
+
+Una vez destruidos los objetivos primarios, también se despachará un AV‑42C desde aquí para llevar tropas al cuartel general y capturar a los líderes enemigos."
 fa26-opDesertCobra_mission8_b8,Text from a mission briefing.,"You will be tasked to protect them at that time, but we'll update you on that final operation when we get to it.
 
-Focus on supporting your wingmen during the flight through hostile territory and destroying the primary targets.",
+Focus on supporting your wingmen during the flight through hostile territory and destroying the primary targets.","Se te asignará la tarea de protegerlos en ese momento, pero te actualizaremos sobre esa operación final cuando lleguemos a ella.
+
+Concéntrate en apoyar a tus compañeros de ala durante el vuelo por territorio hostil y en destruir los objetivos primarios."
 fa26-opDesertCobra_mission8_b9,Text from a mission briefing.,"SUMMARY
 
 OBJECTIVES
@@ -2015,199 +2136,252 @@ OBJECTIVES
 
 THREATS
 - IR and Radar SAMs
-- Aircraft",
-campaign_f45-quickFlight_name,Name of a campaign.,Quick Flight,
-campaign_f45-quickFlight_description,Description of a campaign.,A small collection of quick missions for the F-45A.,
-f45-quickFlight:45_2StageAttack_name,Name of a mission.,Counter-Bomber,
-f45-quickFlight:45_2StageAttack_description,Description of a mission.,Take the lead on this two-part mission to take down hostile bombers.,
-F-45A:f45-quickFlight:45_2StageAttack:obj_0:name,A mission objective name,SEAD,
-F-45A:f45-quickFlight:45_2StageAttack:obj_0:info,Mission objective info.,Destroy the long range MAD-4 Radar (M4) near the airbase.,
-F-45A:f45-quickFlight:45_2StageAttack:obj_1:name,A mission objective name,Destroy Fighters,
-F-45A:f45-quickFlight:45_2StageAttack:obj_1:info,Mission objective info.,Destroy the fighters taking off from the base with the help of India group.,
-F-45A:f45-quickFlight:45_2StageAttack:obj_2:name,A mission objective name,Rearm,
-F-45A:f45-quickFlight:45_2StageAttack:obj_2:info,Mission objective info.,Rearm at FARP,
-F-45A:f45-quickFlight:45_2StageAttack:obj_3:name,A mission objective name,Destroy Bombers,
-F-45A:f45-quickFlight:45_2StageAttack:obj_3:info,Mission objective info.,Destroy bombers taking off from second airbase.,
-F-45A:f45-quickFlight:45_2StageAttack:obj_4:name,A mission objective name,RTB,
-F-45A:f45-quickFlight:45_2StageAttack:obj_4:info,Mission objective info.,Return to the fleet.,
-f45-quickFlight:45_BayAssault_name,Name of a mission.,Bay Assault,
-f45-quickFlight:45_BayAssault_description,Description of a mission.,Attack high value targets in an attack on enemy territory.,
-F-45A:f45-quickFlight:45_BayAssault:obj_0:name,A mission objective name,Destroy C2,
-F-45A:f45-quickFlight:45_BayAssault:obj_0:info,Mission objective info.,Locate and destroy the command & control bunkers,
-F-45A:f45-quickFlight:45_BayAssault:obj_1:name,A mission objective name,Destroy Artillery,
-F-45A:f45-quickFlight:45_BayAssault:obj_1:info,Mission objective info.,Destroy the artillery attacking our ships.,
-F-45A:f45-quickFlight:45_BayAssault:obj_2:name,A mission objective name,Destroy Aircraft,
-F-45A:f45-quickFlight:45_BayAssault:obj_2:info,Mission objective info.,Find and destroy the highly capable enemy stealth fighters.,
-F-45A:f45-quickFlight:45_BayAssault:obj_3:name,A mission objective name,Destroy Bombers,
-F-45A:f45-quickFlight:45_BayAssault:obj_3:info,Mission objective info.,Find and destroy the enemy bomber aircraft.,
-F-45A:f45-quickFlight:45_BayAssault:obj_4:name,A mission objective name,RTB,
-F-45A:f45-quickFlight:45_BayAssault:obj_4:info,Mission objective info.,Return to the assault carrier.,
-F-45A:f45-quickFlight:45_BayAssault:obj_5:name,A mission objective name,Protect Carriers,
-F-45A:f45-quickFlight:45_BayAssault:obj_5:info,Mission objective info.,Do not let the enemy destroy either of our carriers!,
-f45-quickFlight:45_carrierPractice_name,Name of a mission.,Carrier Landing Practice,
-f45-quickFlight:45_carrierPractice_description,Description of a mission.,Practice arrested or vertical landings on a moving carrier.,
-f45-quickFlight:f45-freeFlight_name,Name of a mission.,Free Flight,
-f45-quickFlight:f45-freeFlight_description,Description of a mission.,No enemies or objectives.,
-f45-quickFlight:f45_quickMission1_name,Name of a mission.,Stealth Strike,
-f45-quickFlight:f45_quickMission1_description,Description of a mission.,"Search for and destroy enemy weapon caches. Avoid detection or pay the price. Once they know where you are, they'll do anything to stop you.",
-F-45A:f45-quickFlight:f45_quickMission1:obj_0:name,A mission objective name,Destroy Targets,
-F-45A:f45-quickFlight:f45_quickMission1:obj_0:info,Mission objective info.,Find and destroy enemy weapon caches. Locations unknown.,
-F-45A:f45-quickFlight:f45_quickMission1:obj_1:name,A mission objective name,RTB,
-F-45A:f45-quickFlight:f45_quickMission1:obj_1:info,Mission objective info.,Return to and land on the helipad.,
+- Aircraft","RESUMEN
+
+OBJETIVOS
+-Despejar las defensas aéreas para los bombarderos
+-*Destruir activos enemigos
+-Proteger el transporte de tropas
+
+AMENAZAS
+-SAM infrarrojos y de radar
+-Aeronaves"
+campaign_f45-quickFlight_name,Name of a campaign.,Quick Flight,Vuelo rápido
+campaign_f45-quickFlight_description,Description of a campaign.,A small collection of quick missions for the F-45A.,Una pequeña colección de misiones rápidas para el F-45A.
+f45-quickFlight:45_2StageAttack_name,Name of a mission.,Counter-Bomber,Contra bombarderos
+f45-quickFlight:45_2StageAttack_description,Description of a mission.,Take the lead on this two-part mission to take down hostile bombers.,Asume el liderazgo en esta misión de dos partes para derribar bombarderos hostiles.
+F-45A:f45-quickFlight:45_2StageAttack:obj_0:name,A mission objective name,SEAD,SEAD
+F-45A:f45-quickFlight:45_2StageAttack:obj_0:info,Mission objective info.,Destroy the long range MAD-4 Radar (M4) near the airbase.,Destruye el radar MAD-4 de largo alcance cerca de la base aérea.
+F-45A:f45-quickFlight:45_2StageAttack:obj_1:name,A mission objective name,Destroy Fighters,Destruir cazas
+F-45A:f45-quickFlight:45_2StageAttack:obj_1:info,Mission objective info.,Destroy the fighters taking off from the base with the help of India group.,Destruye los cazas que despegan de la base con el apoyo del grupo India.
+F-45A:f45-quickFlight:45_2StageAttack:obj_2:name,A mission objective name,Rearm,Rearmar
+F-45A:f45-quickFlight:45_2StageAttack:obj_2:info,Mission objective info.,Rearm at FARP,Reabastecer en el PAAF
+F-45A:f45-quickFlight:45_2StageAttack:obj_3:name,A mission objective name,Destroy Bombers,Destruir bombarderos
+F-45A:f45-quickFlight:45_2StageAttack:obj_3:info,Mission objective info.,Destroy bombers taking off from second airbase.,Destruye los bombarderos que despegan de la segunda base aérea.
+F-45A:f45-quickFlight:45_2StageAttack:obj_4:name,A mission objective name,RTB,VAB
+F-45A:f45-quickFlight:45_2StageAttack:obj_4:info,Mission objective info.,Return to the fleet.,Regresa a la flota.
+f45-quickFlight:45_BayAssault_name,Name of a mission.,Bay Assault,Asalto a la bahía
+f45-quickFlight:45_BayAssault_description,Description of a mission.,Attack high value targets in an attack on enemy territory.,Ataca objetivos de alto valor en territorio enemigo.
+F-45A:f45-quickFlight:45_BayAssault:obj_0:name,A mission objective name,Destroy C2,Destruye C2
+F-45A:f45-quickFlight:45_BayAssault:obj_0:info,Mission objective info.,Locate and destroy the command & control bunkers,Localiza y destruye los bunqueres de comando y control
+F-45A:f45-quickFlight:45_BayAssault:obj_1:name,A mission objective name,Destroy Artillery,Destruye la artillería
+F-45A:f45-quickFlight:45_BayAssault:obj_1:info,Mission objective info.,Destroy the artillery attacking our ships.,Destruye la artillería que ataca a nuestra flota.
+F-45A:f45-quickFlight:45_BayAssault:obj_2:name,A mission objective name,Destroy Aircraft,Destruye Aeronave.
+F-45A:f45-quickFlight:45_BayAssault:obj_2:info,Mission objective info.,Find and destroy the highly capable enemy stealth fighters.,Encuentra y destruye los cazas furtivos altamente capaces del enemigo.
+F-45A:f45-quickFlight:45_BayAssault:obj_3:name,A mission objective name,Destroy Bombers,Destruye bombarderos
+F-45A:f45-quickFlight:45_BayAssault:obj_3:info,Mission objective info.,Find and destroy the enemy bomber aircraft.,Encuentra y destruye el bombardero enemigo.
+F-45A:f45-quickFlight:45_BayAssault:obj_4:name,A mission objective name,RTB,VAB
+F-45A:f45-quickFlight:45_BayAssault:obj_4:info,Mission objective info.,Return to the assault carrier.,Vuelve al portaviones de asalto.
+F-45A:f45-quickFlight:45_BayAssault:obj_5:name,A mission objective name,Protect Carriers,Proteje portaviones.
+F-45A:f45-quickFlight:45_BayAssault:obj_5:info,Mission objective info.,Do not let the enemy destroy either of our carriers!,¡No dejes que el enemigo destruya ninguno de nuestros portaviones!
+f45-quickFlight:45_carrierPractice_name,Name of a mission.,Carrier Landing Practice,Práctica de aterrizaje en portaviones
+f45-quickFlight:45_carrierPractice_description,Description of a mission.,Practice arrested or vertical landings on a moving carrier.,Practica aterrizajes horizontales o verticales en un portaviones en movimiento.
+f45-quickFlight:f45-freeFlight_name,Name of a mission.,Free Flight,Vuelo libre
+f45-quickFlight:f45-freeFlight_description,Description of a mission.,No enemies or objectives.,Ni enemigos ni objetivos.
+f45-quickFlight:f45_quickMission1_name,Name of a mission.,Stealth Strike,Ataque Furtivo.
+f45-quickFlight:f45_quickMission1_description,Description of a mission.,"Search for and destroy enemy weapon caches. Avoid detection or pay the price. Once they know where you are, they'll do anything to stop you.","Busca y destruye los alijos de armas enemigo. Evita que te detecten o paga las consecuencias. Una vez que sepan donde estás, harán lo que sea para pararte."
+F-45A:f45-quickFlight:f45_quickMission1:obj_0:name,A mission objective name,Destroy Targets,Destruye objetivos
+F-45A:f45-quickFlight:f45_quickMission1:obj_0:info,Mission objective info.,Find and destroy enemy weapon caches. Locations unknown.,Busca y destruye los alijos de armas enemigo. Ubicaciones desconocidas.
+F-45A:f45-quickFlight:f45_quickMission1:obj_1:name,A mission objective name,RTB,VAB
+F-45A:f45-quickFlight:f45_quickMission1:obj_1:info,Mission objective info.,Return to and land on the helipad.,Vuelve y aterriza en el helipad
 f45-quickFlight_45_2StageAttack_b0,Text from a mission briefing.,"You will be the first to launch from the carrier.
 
-Destroy the long range air defenses at the enemy coastal airbase Alpha first so that we can launch fighters.",
-f45-quickFlight_45_2StageAttack_b1,Text from a mission briefing.,"Once the air defenses are destroyed, CAP group India will launch from the carrier to help you clean up the enemy fighters.",
+Destroy the long range air defenses at the enemy coastal airbase Alpha first so that we can launch fighters.","Serás el primero en despegar del portaaviones. 
+
+Destruye primero las defensas aéreas de largo alcance en la base aérea costera enemiga Alpha para que podamos lanzar los cazas."
+f45-quickFlight_45_2StageAttack_b1,Text from a mission briefing.,"Once the air defenses are destroyed, CAP group India will launch from the carrier to help you clean up the enemy fighters.","Una vez destruidas las defensas aéreas, el grupo CAP India despegará del portaaviones para ayudarte a eliminar a los cazas enemigos."
 f45-quickFlight_45_2StageAttack_b2,Text from a mission briefing.,"After clearing the fighters, land at the FARP to reconfigure for a purely air-to-air role. You will be joined by another F-45 to take down the enemy bombers taking off from airbase Bravo.
 
-SEAD group Romeo will launch from the carrier to disable the SAM sites at Bravo.",
-f45-quickFlight_45_2StageAttack_b3,Text from a mission briefing.,Destroy the two bombers from Bravo then return to carrier to complete the mission!,
+SEAD group Romeo will launch from the carrier to disable the SAM sites at Bravo.","Después de eliminar a los cazas, aterriza en el PAAF para reconfigurarte en un rol puramente aire‑aire. Te unirás a otro F‑45 para derribar los bombarderos enemigos que despegan de la base aérea Bravo.
+
+El grupo SEAD Romeo despegará del portaaviones para desactivar los sitios SAM en Bravo."
+f45-quickFlight_45_2StageAttack_b3,Text from a mission briefing.,Destroy the two bombers from Bravo then return to carrier to complete the mission!,Destruye los dos bombarderos de Bravo y luego regresa al portaaviones para completar la misión.
 f45-quickFlight_45_BayAssault_b0,Text from a mission briefing.,"Complete all of the objectives, then return to the assault carrier.
 
 You can complete them in any order you choose.
 
-There's a mix of hardened surface targets and air targets.",
+There's a mix of hardened surface targets and air targets.","Completa todos los objetivos y luego regresa al portaaviones de asalto.
+
+Puedes completarlos en cualquier orden que elijas.
+
+Hay una mezcla de objetivos de superficie endurecidos y objetivos aéreos."
 f45-quickFlight_45_BayAssault_b1,Text from a mission briefing.,"Enemy rocket artillery have moved into range and have begun firing on our fleet from the other side of a mountain.
 
-They have a low hit probability, but we must destroy them.",
-f45-quickFlight_45_BayAssault_b2,Text from a mission briefing.,"Enemy bombers have also been known to operate from this area. If they decide to deploy them against our assault fleet, they will be a high priority target.",
-f45-quickFlight_45_BayAssault_b3,Text from a mission briefing.,"We have little intel on their whereabouts, but a handful of enemy stealth fighters are stationed by the bay and must be destroyed.",
-f45-quickFlight_45_BayAssault_b4,Text from a mission briefing.,"Finally, you must find the enemy command post and destroy the two bunkers. The bunkers will likely be adjacent to large supply tents.",
-f45-quickFlight_45_BayAssault_b5,Text from a mission briefing.,"Enemy bases are well defended, so use caution when operating near them.",
-f45-quickFlight_45_BayAssault_b6,Text from a mission briefing.,The mission will be considered a failure if either of our carriers are destroyed.,
+They have a low hit probability, but we must destroy them.","La artillería de cohetes enemiga se ha acercado al alcance y ha comenzado a disparar a nuestra flota desde el otro lado de una montaña. 
+
+Tienen una baja probabilidad de acierto, pero debemos destruirlas."
+f45-quickFlight_45_BayAssault_b2,Text from a mission briefing.,"Enemy bombers have also been known to operate from this area. If they decide to deploy them against our assault fleet, they will be a high priority target.","También se sabe que bombarderos enemigos operan en esta zona. Si deciden emplearlos contra nuestra flota de asalto, serán un objetivo de alta prioridad."
+f45-quickFlight_45_BayAssault_b3,Text from a mission briefing.,"We have little intel on their whereabouts, but a handful of enemy stealth fighters are stationed by the bay and must be destroyed.","Tenemos poca inteligencia sobre su paradero, pero un puñado de cazas furtivos enemigos está estacionado en la bahía y debe ser destruido."
+f45-quickFlight_45_BayAssault_b4,Text from a mission briefing.,"Finally, you must find the enemy command post and destroy the two bunkers. The bunkers will likely be adjacent to large supply tents.","Finalmente, debes encontrar el puesto de mando enemigo y destruir los dos búnkeres. Los búnkeres probablemente estarán junto a grandes tiendas de suministros."
+f45-quickFlight_45_BayAssault_b5,Text from a mission briefing.,"Enemy bases are well defended, so use caution when operating near them.","Las bases enemigas están bien defendidas, así que ten cuidado al operar cerca de ellas."
+f45-quickFlight_45_BayAssault_b6,Text from a mission briefing.,The mission will be considered a failure if either of our carriers are destroyed.,La misión se considerará un fracaso si alguno de nuestros portaaviones es destruido.
 f45-quickFlight_45_carrierPractice_b0,Text from a mission briefing.,"No objectives or enemies.
 
-You will start at 300kts, 1000ft above two carriers.  Contact one of them to request clearance to land.",
-f45-quickFlight_f45-freeFlight_b0,Text from a mission briefing.,No objectives or enemies.,
-f45-quickFlight_f45_quickMission1_b0,Text from a mission briefing.,"You are stationed at small FARP (forward arming and refueling point) near an enemy airbase.  Unfortunately, you only have enough supplies for one last sortie, and it's a tough one.",
-f45-quickFlight_f45_quickMission1_b1,Text from a mission briefing.,"The mission is to destroy 3 enemy weapon caches.  We don't know exactly where they are, but they are most likely near air defenses.  Based on their radar emissions, we have estimated the positions of 4 sites.  The caches may all be at one site, or spread out between them.",
-f45-quickFlight_f45_quickMission1_b2,Text from a mission briefing.,"You don't have any support on this mission.  No extra fuel, no rearming, no wingmen, nothing.  With scattered SAM sites and numerous enemy air patrols, the odds are stacked against you.  Use stealthy tactics to maneuver around the area and destroy the targets.",
+You will start at 300kts, 1000ft above two carriers.  Contact one of them to request clearance to land.","Comenzarás a 300 nudos, a 1 000 pies sobre dos portaaviones. Contacta con uno de ellos para solicitar autorización para aterrizar."
+f45-quickFlight_f45-freeFlight_b0,Text from a mission briefing.,No objectives or enemies.,Sin objetivos ni enemigos.
+f45-quickFlight_f45_quickMission1_b0,Text from a mission briefing.,"You are stationed at small FARP (forward arming and refueling point) near an enemy airbase.  Unfortunately, you only have enough supplies for one last sortie, and it's a tough one.","Estás estacionado en un pequeño PAAF (punto avanzado de armamento y reabastecimiento) cerca de una base aérea enemiga.
+Desafortunadamente, solo tienes suministros para una última misión, y es muy exigente."
+f45-quickFlight_f45_quickMission1_b1,Text from a mission briefing.,"The mission is to destroy 3 enemy weapon caches.  We don't know exactly where they are, but they are most likely near air defenses.  Based on their radar emissions, we have estimated the positions of 4 sites.  The caches may all be at one site, or spread out between them.","La misión es destruir tres depósitos de armas enemigos. No sabemos exactamente dónde están, pero lo más probable es que estén cerca de defensas antiaéreas. Según sus emisiones de radar, hemos estimado las posiciones de cuatro emplazamientos. Los depósitos pueden estar todos en un mismo emplazamiento o repartidos entre ellos."
+f45-quickFlight_f45_quickMission1_b2,Text from a mission briefing.,"You don't have any support on this mission.  No extra fuel, no rearming, no wingmen, nothing.  With scattered SAM sites and numerous enemy air patrols, the odds are stacked against you.  Use stealthy tactics to maneuver around the area and destroy the targets.","No tienes ningún apoyo en esta misión. Sin combustible extra, sin reabastecimiento, sin compañeros de ala, nada. Con emplazamientos SAM dispersos y numerosas patrullas aéreas enemigas, las probabilidades están en tu contra. Emplea tácticas furtivas para maniobrar por la zona y destruir los objetivos."
 f45-quickFlight_f45_quickMission1_b3,Text from a mission briefing.,"SUMMARY:
 Objective:
   - Destroy the 3 weapon caches (supply tents)
 
 Threats:
   - SAMs
-  - Patrolling aircraft",
-campaign_arcadeTutorial_name,Name of a campaign.,Tutorials,
-campaign_arcadeTutorial_description,Description of a campaign.,Basic tutorials for the AV-42C,
-arcadeTutorial:tut_gettingStarted_name,Name of a mission.,Getting Started,
-arcadeTutorial:tut_gettingStarted_description,Description of a mission.,"Cockpit familiarization, start-up procedures.",
-arcadeTutorial:tut_weapons1_name,Name of a mission.,Basic Weapons,
-arcadeTutorial:tut_weapons1_description,Description of a mission.,"Learn how to use the cannon, rockets, and targeting system.",
-arcadeTutorial:verticalFlight1_name,Name of a mission.,AP Vertical Flight,
-arcadeTutorial:verticalFlight1_description,Description of a mission.,Learn how to use the hover autopilot feature.,
-arcadeTutorial:tut_basicFlight_name,Name of a mission.,Basic Flight,
-arcadeTutorial:tut_basicFlight_description,Description of a mission.,"Taxi, take off, landing.",
+  - Patrolling aircraft","RESUMEN:
+Objetivo:
+-Destruir los 3 depósitos de armas (tiendas de suministros)
+
+Amenazas:
+-SAM
+-Aeronaves de patrulla"
+campaign_arcadeTutorial_name,Name of a campaign.,Tutorials,Tutoriales
+campaign_arcadeTutorial_description,Description of a campaign.,Basic tutorials for the AV-42C,Tutorial básico para el AV-42C
+arcadeTutorial:tut_gettingStarted_name,Name of a mission.,Getting Started,Empezando
+arcadeTutorial:tut_gettingStarted_description,Description of a mission.,"Cockpit familiarization, start-up procedures.","Familiarización con la cabina, procedimientos de puesta en marcha."
+arcadeTutorial:tut_weapons1_name,Name of a mission.,Basic Weapons,Armamento básico
+arcadeTutorial:tut_weapons1_description,Description of a mission.,"Learn how to use the cannon, rockets, and targeting system.","Aprende a usar el cañón, los cohetes y el sistema de apuntado."
+arcadeTutorial:verticalFlight1_name,Name of a mission.,AP Vertical Flight,Vuelo Vertical con PA
+arcadeTutorial:verticalFlight1_description,Description of a mission.,Learn how to use the hover autopilot feature.,Aprende a usar el vuelo estacionario con el piloto automático.
+arcadeTutorial:tut_basicFlight_name,Name of a mission.,Basic Flight,Vuelo Básico
+arcadeTutorial:tut_basicFlight_description,Description of a mission.,"Taxi, take off, landing.","Rodar, despegar, aterrizar."
 arcadeTutorial_tut_gettingStarted_b0,Text from a mission briefing.,"Today we will be learning how to operate the AV-42C.
 
-The start-up procedure is not very complicated, so let's jump in and get started.",
-arcadeTutorial_tut_weapons1_b0,Text from a mission briefing.,"The AV-42C is capable of equipping various weapons.  Today you will learn how to use the 30mm GAU-8 cannon, and the Hydra-70 unguided rockets.  You will also learn how to find and acquire targets using the TGP.",
-arcadeTutorial_verticalFlight1_b0,Text from a mission briefing.,"Vertical flight can be tricky, but by using the hover autopilot, you can take off, hover, and land with ease.",
-campaign_ah94-quickFlight_name,Name of a campaign.,AH-94 Quick Flight,
-campaign_ah94-quickFlight_description,Description of a campaign.,Quick flights and missions for the AH-94 Attack Helicopter.,
-ah94-quickFlight:arcticAssault_name,Name of a mission.,Arctic Assault,
-ah94-quickFlight:arcticAssault_description,Description of a mission.,Scout targets for artillery and destroy anything that remains.,
-AH-94:ah94-quickFlight:arcticAssault:obj_0:name,A mission objective name,Artillery Targets,
-AH-94:ah94-quickFlight:arcticAssault:obj_0:info,Mission objective info.,Destroy any remaining targets at the waypoint.,
-AH-94:ah94-quickFlight:arcticAssault:obj_1:name,A mission objective name,Armored Targets,
-AH-94:ah94-quickFlight:arcticAssault:obj_1:info,Mission objective info.,Destroy the armored group moving towards our troops.,
-AH-94:ah94-quickFlight:arcticAssault:obj_2:name,A mission objective name,Find Targets,
-AH-94:ah94-quickFlight:arcticAssault:obj_2:info,Mission objective info.,Pinpoint the location of targets at the waypoint.,
-AH-94:ah94-quickFlight:arcticAssault:obj_3:name,A mission objective name,Destroy Targets,
-AH-94:ah94-quickFlight:arcticAssault:obj_3:info,Mission objective info.,Destroy the targets you found. Artillery will assist.,
-AH-94:ah94-quickFlight:arcticAssault:obj_4:name,A mission objective name,Destroy MAD-4,
-AH-94:ah94-quickFlight:arcticAssault:obj_4:info,Mission objective info.,Destroy enemy air defenses to allow bombers to pass.,
-AH-94:ah94-quickFlight:arcticAssault:obj_5:name,A mission objective name,RTB,
-AH-94:ah94-quickFlight:arcticAssault:obj_5:info,Mission objective info.,Return to the FARP.,
-ah94-quickFlight:flightPractice_name,Name of a mission.,Flight Practice,
-ah94-quickFlight:flightPractice_description,Description of a mission.,"Practice take off, flight, and landing in various locations.",
-AH-94:ah94-quickFlight:flightPractice:obj_0:name,A mission objective name,Take Off,
-AH-94:ah94-quickFlight:flightPractice:obj_0:info,Mission objective info.,Take off to 50ft.,
-AH-94:ah94-quickFlight:flightPractice:obj_1:name,A mission objective name,Land Pad 1,
-AH-94:ah94-quickFlight:flightPractice:obj_1:info,Mission objective info.,Land on the same pad you took off from.,
-AH-94:ah94-quickFlight:flightPractice:obj_2:name,A mission objective name,Short Hop,
-AH-94:ah94-quickFlight:flightPractice:obj_2:info,Mission objective info.,Land on Pad 2,
-AH-94:ah94-quickFlight:flightPractice:obj_3:name,A mission objective name,Medium Hop,
-AH-94:ah94-quickFlight:flightPractice:obj_3:info,Mission objective info.,Slight turn to Pad 3,
-AH-94:ah94-quickFlight:flightPractice:obj_4:name,A mission objective name,Long Hop,
-AH-94:ah94-quickFlight:flightPractice:obj_4:info,Mission objective info.,Long hop to pad 4.  Small pad!,
-AH-94:ah94-quickFlight:flightPractice:obj_5:name,A mission objective name,Tight Spot,
-AH-94:ah94-quickFlight:flightPractice:obj_5:info,Mission objective info.,Land on the pad between the buildings.,
-AH-94:ah94-quickFlight:flightPractice:obj_6:name,A mission objective name,Rooftop 1,
-AH-94:ah94-quickFlight:flightPractice:obj_6:info,Mission objective info.,Land on the rooftop.,
-AH-94:ah94-quickFlight:flightPractice:obj_7:name,A mission objective name,Rooftop 2,
-AH-94:ah94-quickFlight:flightPractice:obj_7:info,Mission objective info.,Land on the rooftop 2.,
-AH-94:ah94-quickFlight:flightPractice:obj_8:name,A mission objective name,Dock Pad,
+The start-up procedure is not very complicated, so let's jump in and get started.","Hoy aprenderemos a operar el AV-42C. El procedimiento de arranque no es muy complicado, así que vamos a meternos en faena y empezar."
+arcadeTutorial_tut_weapons1_b0,Text from a mission briefing.,"The AV-42C is capable of equipping various weapons.  Today you will learn how to use the 30mm GAU-8 cannon, and the Hydra-70 unguided rockets.  You will also learn how to find and acquire targets using the TGP.",El AV-42C es capaz de equipar diversas armas. Hoy aprenderás a usar el cañón GAU-8 de 30 mm y los cohetes no guiados Hydra-70. También aprenderás a encontrar y adquirir objetivos usando el TGP.
+arcadeTutorial_verticalFlight1_b0,Text from a mission briefing.,"Vertical flight can be tricky, but by using the hover autopilot, you can take off, hover, and land with ease.","El vuelo vertical puede ser complicado, pero usando el piloto automático de sustentación, puedes despegar, mantenerte en vuelo estacionario y aterrizar con facilidad."
+campaign_ah94-quickFlight_name,Name of a campaign.,AH-94 Quick Flight,Vuelo rápido AH-94
+campaign_ah94-quickFlight_description,Description of a campaign.,Quick flights and missions for the AH-94 Attack Helicopter.,Vuelos rápidos y misiones para el helicóptero de ataque AH-94.
+ah94-quickFlight:arcticAssault_name,Name of a mission.,Arctic Assault,Asalto Ártico
+ah94-quickFlight:arcticAssault_description,Description of a mission.,Scout targets for artillery and destroy anything that remains.,Reconoce objetivos para la artillería y destruye todo lo que quede.
+AH-94:ah94-quickFlight:arcticAssault:obj_0:name,A mission objective name,Artillery Targets,Objetivos de artillería
+AH-94:ah94-quickFlight:arcticAssault:obj_0:info,Mission objective info.,Destroy any remaining targets at the waypoint.,Destruye cualquier objetivo que quede en el punto.
+AH-94:ah94-quickFlight:arcticAssault:obj_1:name,A mission objective name,Armored Targets,Objetivos Blindados
+AH-94:ah94-quickFlight:arcticAssault:obj_1:info,Mission objective info.,Destroy the armored group moving towards our troops.,Destruye el grupo de blindados que se movilizan hacia nuestras tropas
+AH-94:ah94-quickFlight:arcticAssault:obj_2:name,A mission objective name,Find Targets,Encuentra Objetivos
+AH-94:ah94-quickFlight:arcticAssault:obj_2:info,Mission objective info.,Pinpoint the location of targets at the waypoint.,Necesitamos localización precisa de los objetivos en el punto.
+AH-94:ah94-quickFlight:arcticAssault:obj_3:name,A mission objective name,Destroy Targets,Destruye objetivos
+AH-94:ah94-quickFlight:arcticAssault:obj_3:info,Mission objective info.,Destroy the targets you found. Artillery will assist.,Destruir los objetivos que encuentres. La artillería te asistirá.
+AH-94:ah94-quickFlight:arcticAssault:obj_4:name,A mission objective name,Destroy MAD-4,Destruye MAD-4
+AH-94:ah94-quickFlight:arcticAssault:obj_4:info,Mission objective info.,Destroy enemy air defenses to allow bombers to pass.,Destruye las defensas aéreas enemigos y permite a los bombarderos pasar.
+AH-94:ah94-quickFlight:arcticAssault:obj_5:name,A mission objective name,RTB,VAB
+AH-94:ah94-quickFlight:arcticAssault:obj_5:info,Mission objective info.,Return to the FARP.,Vuelvea la PAAF
+ah94-quickFlight:flightPractice_name,Name of a mission.,Flight Practice,Práctica de vuelo
+ah94-quickFlight:flightPractice_description,Description of a mission.,"Practice take off, flight, and landing in various locations.","Practica el despegue, vuelo y aterrizaje en varias localizaciones."
+AH-94:ah94-quickFlight:flightPractice:obj_0:name,A mission objective name,Take Off,Despega
+AH-94:ah94-quickFlight:flightPractice:obj_0:info,Mission objective info.,Take off to 50ft.,Despega a 50ft.
+AH-94:ah94-quickFlight:flightPractice:obj_1:name,A mission objective name,Land Pad 1,Helipuerto 1
+AH-94:ah94-quickFlight:flightPractice:obj_1:info,Mission objective info.,Land on the same pad you took off from.,Aterriza en la misma plaforma de la que despegaste
+AH-94:ah94-quickFlight:flightPractice:obj_2:name,A mission objective name,Short Hop,Pequeño salto
+AH-94:ah94-quickFlight:flightPractice:obj_2:info,Mission objective info.,Land on Pad 2,Aterriza en Pad 2
+AH-94:ah94-quickFlight:flightPractice:obj_3:name,A mission objective name,Medium Hop,Salto moderado
+AH-94:ah94-quickFlight:flightPractice:obj_3:info,Mission objective info.,Slight turn to Pad 3,Gira ligeramente al Pad 3
+AH-94:ah94-quickFlight:flightPractice:obj_4:name,A mission objective name,Long Hop,Salto largo
+AH-94:ah94-quickFlight:flightPractice:obj_4:info,Mission objective info.,Long hop to pad 4.  Small pad!,Salto largo al pad 4. ¡Helipuerto pequeño!
+AH-94:ah94-quickFlight:flightPractice:obj_5:name,A mission objective name,Tight Spot,Sitio apretado
+AH-94:ah94-quickFlight:flightPractice:obj_5:info,Mission objective info.,Land on the pad between the buildings.,Aterriza en el Helipuerto entre los edificios.
+AH-94:ah94-quickFlight:flightPractice:obj_6:name,A mission objective name,Rooftop 1,Tejado 1
+AH-94:ah94-quickFlight:flightPractice:obj_6:info,Mission objective info.,Land on the rooftop.,Aterriza en el tejado.
+AH-94:ah94-quickFlight:flightPractice:obj_7:name,A mission objective name,Rooftop 2,Tejado 2
+AH-94:ah94-quickFlight:flightPractice:obj_7:info,Mission objective info.,Land on the rooftop 2.,Aterriza en el tejado 2.
+AH-94:ah94-quickFlight:flightPractice:obj_8:name,A mission objective name,Dock Pad,Helipuerto en Muelle
 AH-94:ah94-quickFlight:flightPractice:obj_8:info,Mission objective info.,,
-AH-94:ah94-quickFlight:flightPractice:obj_9:name,A mission objective name,Cross Country,
-AH-94:ah94-quickFlight:flightPractice:obj_9:info,Mission objective info.,Land on the rooftop in the next city.,
-AH-94:ah94-quickFlight:flightPractice:obj_10:name,A mission objective name,Cruiser,
-AH-94:ah94-quickFlight:flightPractice:obj_10:info,Mission objective info.,Land on the cruiser deck.,
-ah94-quickFlight:smallArms_name,Name of a mission.,Small Arms,
-ah94-quickFlight:smallArms_description,Description of a mission.,Attack lightly defended enemy encampments.,
-AH-94:ah94-quickFlight:smallArms:obj_0:name,A mission objective name,Target Outpost A,
-AH-94:ah94-quickFlight:smallArms:obj_0:info,Mission objective info.,Destroy all units at the waypoint.,
-AH-94:ah94-quickFlight:smallArms:obj_1:name,A mission objective name,Target Outpost B,
-AH-94:ah94-quickFlight:smallArms:obj_1:info,Mission objective info.,Destroy all units at the waypoint.,
-AH-94:ah94-quickFlight:smallArms:obj_2:name,A mission objective name,Recon,
-AH-94:ah94-quickFlight:smallArms:obj_2:info,Mission objective info.,Fly to the designated area.,
-AH-94:ah94-quickFlight:smallArms:obj_3:name,A mission objective name,Find Targets,
-AH-94:ah94-quickFlight:smallArms:obj_3:info,Mission objective info.,Use TADS to get an ID on targets in the area.,
-AH-94:ah94-quickFlight:smallArms:obj_4:name,A mission objective name,Destroy Radar,
-AH-94:ah94-quickFlight:smallArms:obj_4:info,Mission objective info.,Destroy the radar on the mountain site.,
-AH-94:ah94-quickFlight:smallArms:obj_5:name,A mission objective name,RTB,
-AH-94:ah94-quickFlight:smallArms:obj_5:info,Mission objective info.,Land anywhere at base.,
-ah94-quickFlight:surpriseAttack_name,Name of a mission.,Surprise Attack,
-ah94-quickFlight:surpriseAttack_description,Description of a mission.,Surprise the enemy with a quick and sneaky attack on their airbase.,
-AH-94:ah94-quickFlight:surpriseAttack:obj_0:name,A mission objective name,Destroy Aircraft,
-AH-94:ah94-quickFlight:surpriseAttack:obj_0:info,Mission objective info.,Wait for bomber to land then destroy the aircraft before they take off!,
-AH-94:ah94-quickFlight:surpriseAttack:obj_1:name,A mission objective name,RTB,
-AH-94:ah94-quickFlight:surpriseAttack:obj_1:info,Mission objective info.,Return to the FARP.,
-ah94-quickFlight:Target Practice_name,Name of a mission.,Target Practice,
-ah94-quickFlight:Target Practice_description,Description of a mission.,Practice using the AH-94's weapons on various targets.,
-AH-94:ah94-quickFlight:Target Practice:obj_0:name,A mission objective name,Beach Targets,
-AH-94:ah94-quickFlight:Target Practice:obj_0:info,Mission objective info.,Destroy the stationary targets at the beach.,
-AH-94:ah94-quickFlight:Target Practice:obj_1:name,A mission objective name,Downtown MAD Targets,
-AH-94:ah94-quickFlight:Target Practice:obj_1:info,Mission objective info.,Destroy the MAD-4 launchers stationed between the skyscrapers.,
-AH-94:ah94-quickFlight:Target Practice:obj_2:name,A mission objective name,Moving Targets 1,
-AH-94:ah94-quickFlight:Target Practice:obj_2:info,Mission objective info.,Destroy the column of tanks driving around the suburbs.,
-AH-94:ah94-quickFlight:Target Practice:obj_3:name,A mission objective name,Moving Targets 2,
-AH-94:ah94-quickFlight:Target Practice:obj_3:info,Mission objective info.,Destroy the column of tanks driving around downtown.,
-AH-94:ah94-quickFlight:Target Practice:obj_4:name,A mission objective name,Oil Platform Targets,
-AH-94:ah94-quickFlight:Target Practice:obj_4:info,Mission objective info.,Neutralize the soldiers occupying the oil platform.,
-AH-94:ah94-quickFlight:Target Practice:obj_5:name,A mission objective name,Destroy Boats,
-AH-94:ah94-quickFlight:Target Practice:obj_5:info,Mission objective info.,Destroy the boats in the channel.,
-AH-94:ah94-quickFlight:Target Practice:obj_7:name,A mission objective name,Destroy Air Targets,
-AH-94:ah94-quickFlight:Target Practice:obj_7:info,Mission objective info.,Destroy the air targets patrolling the channel.,
+AH-94:ah94-quickFlight:flightPractice:obj_9:name,A mission objective name,Cross Country,Travesía
+AH-94:ah94-quickFlight:flightPractice:obj_9:info,Mission objective info.,Land on the rooftop in the next city.,Aterriza en el tejado en la siguiente ciudad.
+AH-94:ah94-quickFlight:flightPractice:obj_10:name,A mission objective name,Cruiser,Crucero
+AH-94:ah94-quickFlight:flightPractice:obj_10:info,Mission objective info.,Land on the cruiser deck.,Aterriza en la cubierta del crucero
+ah94-quickFlight:smallArms_name,Name of a mission.,Small Arms,Armas ligeras
+ah94-quickFlight:smallArms_description,Description of a mission.,Attack lightly defended enemy encampments.,Atacas campamentos enemigos ligeramente defendidos.
+AH-94:ah94-quickFlight:smallArms:obj_0:name,A mission objective name,Target Outpost A,Objetivo puesto avanzado A
+AH-94:ah94-quickFlight:smallArms:obj_0:info,Mission objective info.,Destroy all units at the waypoint.,Destruye todas las unidades en el punto.
+AH-94:ah94-quickFlight:smallArms:obj_1:name,A mission objective name,Target Outpost B,Objetivo puesto avanzado B
+AH-94:ah94-quickFlight:smallArms:obj_1:info,Mission objective info.,Destroy all units at the waypoint.,Destruye todas las unidades en el punto.
+AH-94:ah94-quickFlight:smallArms:obj_2:name,A mission objective name,Recon,Reconocimiento
+AH-94:ah94-quickFlight:smallArms:obj_2:info,Mission objective info.,Fly to the designated area.,Vuela al área designada
+AH-94:ah94-quickFlight:smallArms:obj_3:name,A mission objective name,Find Targets,Encuentra Objetivos
+AH-94:ah94-quickFlight:smallArms:obj_3:info,Mission objective info.,Use TADS to get an ID on targets in the area.,Usa el TADS para obtener un ID del objetivo en el área.
+AH-94:ah94-quickFlight:smallArms:obj_4:name,A mission objective name,Destroy Radar,Destruye Radar
+AH-94:ah94-quickFlight:smallArms:obj_4:info,Mission objective info.,Destroy the radar on the mountain site.,Destruye el radar en el sitio de montaña.
+AH-94:ah94-quickFlight:smallArms:obj_5:name,A mission objective name,RTB,VAB
+AH-94:ah94-quickFlight:smallArms:obj_5:info,Mission objective info.,Land anywhere at base.,Aterriza en cualquier sitio de la base.
+ah94-quickFlight:surpriseAttack_name,Name of a mission.,Surprise Attack,Ataque Sorpresa
+ah94-quickFlight:surpriseAttack_description,Description of a mission.,Surprise the enemy with a quick and sneaky attack on their airbase.,Sorprende al enemigo con un ataque rápido y sigiloso en su base aérea.
+AH-94:ah94-quickFlight:surpriseAttack:obj_0:name,A mission objective name,Destroy Aircraft,Destruye Aeronave
+AH-94:ah94-quickFlight:surpriseAttack:obj_0:info,Mission objective info.,Wait for bomber to land then destroy the aircraft before they take off!,¡Espera a que el bombardero aterrice y destruyelo antes de que despegue de nuevo!
+AH-94:ah94-quickFlight:surpriseAttack:obj_1:name,A mission objective name,RTB,VAB
+AH-94:ah94-quickFlight:surpriseAttack:obj_1:info,Mission objective info.,Return to the FARP.,Volver al PAAF
+ah94-quickFlight:Target Practice_name,Name of a mission.,Target Practice,Práctica de tiro
+ah94-quickFlight:Target Practice_description,Description of a mission.,Practice using the AH-94's weapons on various targets.,Practica usando el armamento del AHG-94 en varios objetivos.
+AH-94:ah94-quickFlight:Target Practice:obj_0:name,A mission objective name,Beach Targets,Objetivos Playa
+AH-94:ah94-quickFlight:Target Practice:obj_0:info,Mission objective info.,Destroy the stationary targets at the beach.,Destruye los objetivos estacionarios en la playa.
+AH-94:ah94-quickFlight:Target Practice:obj_1:name,A mission objective name,Downtown MAD Targets,Objetivos MAD centro ciudad
+AH-94:ah94-quickFlight:Target Practice:obj_1:info,Mission objective info.,Destroy the MAD-4 launchers stationed between the skyscrapers.,Destruye los MAD-4 estacionados entre los rascacielos.
+AH-94:ah94-quickFlight:Target Practice:obj_2:name,A mission objective name,Moving Targets 1,Objetivos en Movimiento1
+AH-94:ah94-quickFlight:Target Practice:obj_2:info,Mission objective info.,Destroy the column of tanks driving around the suburbs.,Destruye la columna de blindados moviendose por el centro de la ciudad.
+AH-94:ah94-quickFlight:Target Practice:obj_3:name,A mission objective name,Moving Targets 2,Objetivos en movimiento 2
+AH-94:ah94-quickFlight:Target Practice:obj_3:info,Mission objective info.,Destroy the column of tanks driving around downtown.,Destruye la columna de blindados moviendose por el centro de la ciudad.
+AH-94:ah94-quickFlight:Target Practice:obj_4:name,A mission objective name,Oil Platform Targets,Objetivos en Plat. Petr.
+AH-94:ah94-quickFlight:Target Practice:obj_4:info,Mission objective info.,Neutralize the soldiers occupying the oil platform.,Neutraliza los soldados ocupando la plataforma petrolífera.
+AH-94:ah94-quickFlight:Target Practice:obj_5:name,A mission objective name,Destroy Boats,Destruye barcos
+AH-94:ah94-quickFlight:Target Practice:obj_5:info,Mission objective info.,Destroy the boats in the channel.,Destruye los barcos en el canal.
+AH-94:ah94-quickFlight:Target Practice:obj_7:name,A mission objective name,Destroy Air Targets,Destruye obj. aéreos
+AH-94:ah94-quickFlight:Target Practice:obj_7:info,Mission objective info.,Destroy the air targets patrolling the channel.,Destruye los objetivos aéreos patrullando el canal.
 ah94-quickFlight_arcticAssault_b0,Text from a mission briefing.,"We're in the final stages of the assault on the enemy base.
 
-We have the enemy right where we want them -- a small valley within range of our artillery.",
+We have the enemy right where we want them -- a small valley within range of our artillery.","Estamos en las etapas finales del asalto a la base enemiga.
+
+Tenemos al enemigo justo donde queremos: un pequeño valle al alcance de nuestra artillería."
 ah94-quickFlight_arcticAssault_b1,Text from a mission briefing.,"We'll begin firing rocket artillery and need you to scout out the enemy position to confirm their destruction.
 
-Your job will be to clean up any targets that remain after the artillery barrage.",
-ah94-quickFlight_arcticAssault_b2,Text from a mission briefing.,"Once the main enemy battalion has been destroyed, we'll have you scout out and destroy a few other secondary targets to support our ground forces and clear the way for our bombers.",
-ah94-quickFlight_arcticAssault_b3,Text from a mission briefing.,Your role is crucial in this final push towards victory. Good luck!,
-ah94-quickFlight_flightPractice_b0,Text from a mission briefing.,Practice taking off and landing in various locations.,
-ah94-quickFlight_flightPractice_b1,Text from a mission briefing.,Just follow each waypoint. Can you make each landing smoother or more efficient than the last?,
-ah94-quickFlight_flightPractice_b2,Text from a mission briefing.,Finish the mission by landing on the moving cruiser's deck.,
+Your job will be to clean up any targets that remain after the artillery barrage.","Comenzaremos a disparar la artillería de cohetes y necesitamos que reconozcas la posición enemiga para confirmar su destrucción.
+
+Tu misión será eliminar cualquier objetivo que quede después del bombardeo de artillería."
+ah94-quickFlight_arcticAssault_b2,Text from a mission briefing.,"Once the main enemy battalion has been destroyed, we'll have you scout out and destroy a few other secondary targets to support our ground forces and clear the way for our bombers.","Una vez destruido el batallón enemigo principal, te haremos reconocer y destruir algunos objetivos secundarios para apoyar a nuestras fuerzas terrestres y despejar el camino para nuestros bombarderos."
+ah94-quickFlight_arcticAssault_b3,Text from a mission briefing.,Your role is crucial in this final push towards victory. Good luck!,Tu papel es crucial en este empuje final hacia la victoria. ¡Buena suerte!
+ah94-quickFlight_flightPractice_b0,Text from a mission briefing.,Practice taking off and landing in various locations.,Practica despegues y aterrizajes en varios lugares.
+ah94-quickFlight_flightPractice_b1,Text from a mission briefing.,Just follow each waypoint. Can you make each landing smoother or more efficient than the last?,Simplemente siga cada punto. ¿Puede hacer que cada aterrizaje sea más suave o más eficiente que el anterior?
+ah94-quickFlight_flightPractice_b2,Text from a mission briefing.,Finish the mission by landing on the moving cruiser's deck.,Termina la misión aterrizando en la cubierta del crucero en movimiento.
 ah94-quickFlight_smallArms_b0,Text from a mission briefing.,"Welcome!
 
 I know you've been itching for a bit of action so I have a few tasks lined up for you today.
 
-Let's get started.",
+Let's get started.","¡Bienvenido!
+
+Sé que has estado deseando un poco de acción, así que tengo algunas tareas preparadas para ti hoy.
+
+Empecemos."
 ah94-quickFlight_smallArms_b1,Text from a mission briefing.,"A huge mountain range divides us from the enemy territory, so we usually don't get too much activity in the area.
 
-Recently we began spotting small groups passing through and setting up small camps on our side of the ridge.",
+Recently we began spotting small groups passing through and setting up small camps on our side of the ridge.","Una enorme cadena montañosa nos separa del territorio enemigo, así que normalmente no hay mucha actividad en la zona.
+
+Recientemente hemos empezado a detectar pequeños grupos que cruzan y montan pequeños campamentos en nuestro lado de la cresta.
+
+
+
+
+
+
+
+
+
+Preguntar a ChatGPT
+"
 ah94-quickFlight_smallArms_b2,Text from a mission briefing.,"They appear to be setting up forward operating bases to service their VTOL capable attack aircraft.
 
-They are still early in the preparation stage so we should attack now before they get too fortified.",
+They are still early in the preparation stage so we should attack now before they get too fortified.","Parece que están estableciendo bases de operaciones avanzadas para dar servicio a sus aeronaves de ataque con capacidad VTOL.
+
+Aún están en una etapa temprana de preparación, así que deberíamos atacar ahora antes de que se fortifiquen demasiado."
 ah94-quickFlight_smallArms_b3,Text from a mission briefing.,"We currently have positive intel on two camps.  We know where they are, and that they're only equipped with small arms, so this should be a breeze for you.
 
-Their locations are available in the objective data.",
+Their locations are available in the objective data.","Actualmente tenemos información confirmada sobre dos campamentos. Sabemos dónde están y que solo están equipados con armas ligeras, así que esto debería ser pan comido para ti.
+
+Sus ubicaciones están disponibles en los datos del objetivo."
 ah94-quickFlight_smallArms_b4,Text from a mission briefing.,"After you clear out those sites, there will be one more matter we need to look into.  
 
-We are aware of transport activity in the high mountain region so we'll have you go and perform some recon.  Be sure to bring enough fuel.",
+We are aware of transport activity in the high mountain region so we'll have you go and perform some recon.  Be sure to bring enough fuel.","Después de despejar esos sitios, habrá un asunto más que necesitamos investigar.
+
+Tenemos conocimiento de actividad de transporte en la región montañosa alta, así que te enviaremos a realizar una misión de reconocimiento. Asegúrate de llevar suficiente combustible."
 ah94-quickFlight_smallArms_b5,Text from a mission briefing.,"Absolutely never go beyond the mountain range and into the plains.
 
 Beyond that point is the enemy territory which is heavily defended by long range air defenses and fighters.",
