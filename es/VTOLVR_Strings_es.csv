@@ -977,14 +977,14 @@ fa26_loadout_extFuelC,External Fuel Centerline,Ext fuel center,Comb Ext Central
 fa26_loadout_extSensor,External Sensor,Ext sensor,Sensor Ext
 fa26_loadout_cft,Conformal Fuel Tank,Cft,Tcc
 Mk.82 Bomb x2_fullName,Full equip name of: Mk.82 Bomb x2,Mk.82 Bomb x2,Bomba Mk.82 x2
-Mk.82 Bomb x2_description,Item description of: Mk.82 Bomb x2,Two standard un-guided 500lb bombs.,"Dos bombas estandar de 500lb sin guiado "
+Mk.82 Bomb x2_description,Item description of: Mk.82 Bomb x2,Two standard un-guided 500lb bombs.,"Dos bombas estandar de 500lb sin guiado"
 eqSublabel_BOMB-INTERNAL,HUD sub-label of an equip,BOMB INTERNAL,INTERNO BOMBAS
 GAU-8 Avenger_fullName,Full equip name of: GAU-8 Avenger,GAU-8 Avenger,
 GAU-8 Avenger_description,Item description of: GAU-8 Avenger,"A 30mm, 7-barrel rotary cannon. Fires depleted uranium rounds at a high rate of fire.",Cañón de 7 cañones de 30mm. Dispara balas de uranio empobrecido a una alta cadencia de fuego.
 AN/APG-108 Fire Control Radar_fullName,Full equip name of: AN/APG-108 Fire Control Radar,AN/APG-108 Fire Control Radar,Radar Contro de Tiro AN/APG-108
 AN/APG-108 Fire Control Radar_description,Item description of: AN/APG-108 Fire Control Radar,"A millimeter-wave radar housed and mounted over the main rotor. This radar can be used to scan land, sea, and air to detect, track, and classify multiple targets. Its high mounting point allows it to be used while the vehicle remains behind cover.","Un radar de ondas milimétricas alojado y montado sobre el rotor principal. Este radar puede escanear tierra, mar y aire para detectar, seguir y clasificar múltiples objetivos. Su posición elevada permite su uso mientras el vehículo permanece cubierto."
 SB-1 x32_fullName,Full equip name of: SB-1 x32,SB-1 x32,
-SB-1 x32_description,Item description of: SB-1 x32,A rack of 32 standard un-guided 500lb bombs.,Un Pilón de 32 bombas de 500lb sin guiado.
+SB-1 x32_description,Item description of: SB-1 x32,A rack of 32 standard un-guided 500lb bombs.,Un pilón de 32 bombas de 500lb sin guiado.
 AIRS-T Advanced SRM_fullName,Full equip name of: AIRS-T Advanced SRM,AIRS-T Advanced SRM,AIRS-T avanzado SRM
 AIRS-T Advanced SRM_description,Item description of: AIRS-T Advanced SRM,"Short range heat seeking air to air missile with thrust vectoring.
 Improved maneuverability, range, and counter-countermeasure system.
@@ -1005,7 +1005,7 @@ AIM-9 Sidewinder_fullName,Full equip name of: AIM-9 Sidewinder,AIM-9 Sidewinder,
 AIM-9 Sidewinder_description,Item description of: AIM-9 Sidewinder,A standard short range heat seeking air to air missile.,Un misil Aire-Aire estandar de corto alcance guiado por calor.
 MAD-4A Missile_fullName,Full equip name of: MAD-4A Missile,MAD-4A Missile,Misil MAD-4A
 MAD-4A Missile_description,Item description of: MAD-4A Missile,Advanced active radar-guided missile built for the Mobile Air Defense launcher. It has a range of about 55km (30nm).,Misil avanzado guiado por radar activo fabricado para el Lanzador Móvil de Defensa Aérea. Tiene un rango de unos 55km (30nm)
-Mk-82 Bomb x1_fullName,Full equip name of: Mk-82 Bomb x1,Mk-82 Bomb x1,Bopmba Mk-82 x1
+Mk-82 Bomb x1_fullName,Full equip name of: Mk-82 Bomb x1,Mk-82 Bomb x1,Bomba Mk-82 x1
 Mk-82 Bomb x1_description,Item description of: Mk-82 Bomb x1,Standard un-guided 500lb bomb.,Bomba estandar de 500lb sin guiado.
 s_cs_granted,Text in campaign selector,Granted,Asignado
 s_cs_budget,Text in campaign selector,Budget,Presupuesto
@@ -1084,7 +1084,7 @@ eqSublabel_GPS-CRUISE,HUD sub-label of an equip,GPS CRUISE,CRUCERO GPS
 PAC-3_fullName,Full equip name of: PAC-3,PAC-3,
 PAC-3_description,Item description of: PAC-3,Radar-guided surface-to-air defense missile.,Misil de defensa Tierra-Aire guiado por radar
 GMA-14 x3_fullName,Full equip name of: GMA-14 x3,GMA-14 x3,
-GMA-14 x3_description,Item description of: GMA-14 x3,A rack of 3 laser guided anti-tank missiles.,Un Pilón de 3 misiles anti-tanque guiado por láser
+GMA-14 x3_description,Item description of: GMA-14 x3,A rack of 3 laser guided anti-tank missiles.,Un pilón de 3 misiles anti-tanque guiado por láser
 FLKM-100_fullName,Full equip name of: FLKM-100,FLKM-100,
 FLKM-100_description,Item description of: FLKM-100,Dual stage long range active radar-guided missile that deploys a field of explosive munitions.,Misil de largo alcance de dos etapas que despliega un campo de municiones explosivas.
 MK-82 x32_fullName,Full equip name of: MK-82 x32,MK-82 x32,
@@ -1330,11 +1330,11 @@ AIM-120D Advanced Radar Missile x2_fullName,Full equip name of: AIM-120D Advance
 AIM-120D Advanced Radar Missile x2_description,Item description of: AIM-120D Advanced Radar Missile x2,"Two internally mounted, radar guided, medium range air to air missiles.
 ",Dos misiles Aire-Aire de medio alcance guiado por radar internamente montados
 MK-83 x12_fullName,Full equip name of: MK-83 x12,MK-83 x12,
-MK-83 x12_description,Item description of: MK-83 x12,A rack of 12 MK-83 1000lb bombs.,Un Pilón de 12 Bombas MK-83 de 1000lb
+MK-83 x12_description,Item description of: MK-83 x12,A rack of 12 MK-83 1000lb bombs.,Un pilón de 12 Bombas MK-83 de 1000lb
 GBU-12 Laser Guided Bomb x3_fullName,Full equip name of: GBU-12 Laser Guided Bomb x3,GBU-12 Laser Guided Bomb x3,Bomba Guiada por Láser GBU-12 x3
 GBU-12 Laser Guided Bomb x3_description,Item description of: GBU-12 Laser Guided Bomb x3,A rack of three 500lb laser guided bomb.,Un pilón de tres bombas guiadas por láser de 500lb
 AGM-89 Anti-ship Cruise Missile_fullName,Full equip name of: AGM-89 Anti-ship Cruise Missile,AGM-89 Anti-ship Cruise Missile,Misil de Crucero Anti-Buque AGM-89
-AGM-89 Anti-ship Cruise Missile_description,Item description of: AGM-89 Anti-ship Cruise Missile,"Air-launched anti-ship cruise missile.  Equipped with waypoint following, radar target acquisition, and terminal maneuvering technology.","Misil de Crucero Anti-buque lanzado aereamente. Equipado con seguimiento de punto de ruta, adquisición de objetivo por radar y tecnología de maniobravilidad terminal."
+AGM-89 Anti-ship Cruise Missile_description,Item description of: AGM-89 Anti-ship Cruise Missile,"Air-launched anti-ship cruise missile.  Equipped with waypoint following, radar target acquisition, and terminal maneuvering technology.","Misil de Crucero Anti-buque lanzado aéreamente. Equipado con seguimiento de punto de ruta, adquisición de objetivo por radar y tecnología de maniobravilidad terminal."
 Hydra-70 4x4 Rocket Pod_fullName,Full equip name of: Hydra-70 4x4 Rocket Pod,Hydra-70 4x4 Rocket Pod,Contenedor de Cohetes Hydra-70 4x4
 Hydra-70 4x4 Rocket Pod_description,Item description of: Hydra-70 4x4 Rocket Pod,"A cluster of pods carrying a total of 16 high explosive rockets.  Can be fired in single shot mode, or rapid fire (ripple).","Conjunto de Contenedores llevando un total de 16 cohetes AE.
 Pueden ser disparados en semi, o ráfaga."
@@ -2355,18 +2355,7 @@ ah94-quickFlight_smallArms_b1,Text from a mission briefing.,"A huge mountain ran
 
 Recently we began spotting small groups passing through and setting up small camps on our side of the ridge.","Una enorme cadena montañosa nos separa del territorio enemigo, así que normalmente no hay mucha actividad en la zona.
 
-Recientemente hemos empezado a detectar pequeños grupos que cruzan y montan pequeños campamentos en nuestro lado de la cresta.
-
-
-
-
-
-
-
-
-
-Preguntar a ChatGPT
-"
+Recientemente hemos empezado a detectar pequeños grupos que cruzan y montan pequeños campamentos en nuestro lado de la cresta."
 ah94-quickFlight_smallArms_b2,Text from a mission briefing.,"They appear to be setting up forward operating bases to service their VTOL capable attack aircraft.
 
 They are still early in the preparation stage so we should attack now before they get too fortified.","Parece que están estableciendo bases de operaciones avanzadas para dar servicio a sus aeronaves de ataque con capacidad VTOL.
@@ -2384,26 +2373,43 @@ We are aware of transport activity in the high mountain region so we'll have you
 Tenemos conocimiento de actividad de transporte en la región montañosa alta, así que te enviaremos a realizar una misión de reconocimiento. Asegúrate de llevar suficiente combustible."
 ah94-quickFlight_smallArms_b5,Text from a mission briefing.,"Absolutely never go beyond the mountain range and into the plains.
 
-Beyond that point is the enemy territory which is heavily defended by long range air defenses and fighters.",
+Beyond that point is the enemy territory which is heavily defended by long range air defenses and fighters.","Jamás vayas más allá de la cordillera y hacia las llanuras.
+
+Más allá de ese punto está el territorio enemigo, fuertemente defendido por defensas aéreas de largo alcance y cazas."
 ah94-quickFlight_smallArms_b6,Text from a mission briefing.,"Summary
  Objectives
  - Destroy all targets at sites A and B
  - Perform recon in the high mountains
  Threats
  - Small arms fire
-- MANPADS",
+- MANPADS","Resumen
+Objetivos
+-Destruir todos los objetivos en los sitios A y B
+-Realizar reconocimiento en las montañas altas
+
+Amenazas
+-Fuego de armas ligeras
+-MANPADS"
 ah94-quickFlight_surpriseAttack_b0,Text from a mission briefing.,"For this mission, you will need to act quickly and quietly.
 
 The enemy plans to launch several groups of aircraft from their base.
 
-Your objective is to destroy all of these aircraft before they take off.",
+Your objective is to destroy all of these aircraft before they take off.","Para esta misión, deberás actuar rápida y silenciosamente.
+
+El enemigo planea lanzar varios grupos de aeronaves desde su base.
+
+Tu objetivo es destruir todas esas aeronaves antes de que despeguen."
 ah94-quickFlight_surpriseAttack_b1,Text from a mission briefing.,"You will be taking off from a forward arming and refueling point (FARP) about 30 miles from the target.
 
-Fly low and make your way to the to the airbase undetected.",
+Fly low and make your way to the to the airbase undetected.","Despegarás desde un punto avanzado de armamento y reabastecimiento (FARP) a unas 30 millas del objetivo.
+
+Vuela bajo y dirígete a la base aérea sin ser detectado."
 ah94-quickFlight_surpriseAttack_b2,Text from a mission briefing.,"A bomber is inbound to land at the airbase.  After it lands, the enemy fighters will begin to take off.  
 
-You will have this window to strike while all aircraft are still on the ground.",
-ah94-quickFlight_surpriseAttack_b3,Text from a mission briefing.,"Beware that if they spot you before you are ready to attack, they may launch preemptively to defend themselves.",
+You will have this window to strike while all aircraft are still on the ground.","Un bombardero está en ruta para aterrizar en la base aérea. Después de que aterrice, los cazas enemigos comenzarán a despegar.
+
+Tendrás esa ventana para atacar mientras todas las aeronaves aún están en tierra."
+ah94-quickFlight_surpriseAttack_b3,Text from a mission briefing.,"Beware that if they spot you before you are ready to attack, they may launch preemptively to defend themselves.","Ten cuidado: si te detectan antes de que estés listo para atacar, podrían despegar anticipadamente para defenderse."
 ah94-quickFlight_surpriseAttack_b4,Text from a mission briefing.,"SUMMARY
 
 Primary Targets:
@@ -2412,244 +2418,296 @@ Primary Targets:
 Threats:
 - IR guided SAMs
 - Small arms fire
-- AAA",
+- AAA","RESUMEN
+
+Objetivos principales:
+-Aeronaves en tierra
+
+Amenazas:
+-SAMs guiados por infrarrojos
+-Fuego de armas ligeras
+-AAA"
 ah94-quickFlight_Target Practice_b0,Text from a mission briefing.,"Practice using the AH-94's weapons on various targets.
 
 Targets will not shoot back so take your time to learn the equipment.
 
-Check the objectives data to find targets.",
-campaign_av42c_tutorials_name,Name of a campaign.,AV-42C Tutorials,
-campaign_av42c_tutorials_description,Description of a campaign.,Tutorials for the AV-42C,
-av42c_tutorials:tut_av42c_agm_name,Name of a mission.,Air-to-Ground Missiles,
-av42c_tutorials:tut_av42c_agm_description,Description of a mission.,Learn how to use air-to-ground missiles.,
-AV-42C:av42c_tutorials:tut_av42c_agm:obj_0:name,A mission objective name,AGM Tutorial,
-AV-42C:av42c_tutorials:tut_av42c_agm:obj_0:info,Mission objective info.,Complete the AGM tutorial.,
-AV-42C:av42c_tutorials:tut_av42c_agm:obj_1:name,A mission objective name,Destroy Targets A,
-AV-42C:av42c_tutorials:tut_av42c_agm:obj_1:info,Mission objective info.,Destroy some of the targets around the waypoint using the AGM-114.,
-AV-42C:av42c_tutorials:tut_av42c_agm:obj_2:name,A mission objective name,Destroy Targets B,
+Check the objectives data to find targets.","Practica el uso de las armas del AH-94 en varios objetivos.
+
+Los blancos no devolverán el fuego, así que tómate tu tiempo para aprender el equipo.
+
+Consulta los datos de objetivos para encontrar blancos."
+campaign_av42c_tutorials_name,Name of a campaign.,AV-42C Tutorials,Tutoriales AV-42C
+campaign_av42c_tutorials_description,Description of a campaign.,Tutorials for the AV-42C,Tutoriales para el AV-42C
+av42c_tutorials:tut_av42c_agm_name,Name of a mission.,Air-to-Ground Missiles,Misiles Aire-Tierra
+av42c_tutorials:tut_av42c_agm_description,Description of a mission.,Learn how to use air-to-ground missiles.,Aprende a usar misiles Aire-Tierra.
+AV-42C:av42c_tutorials:tut_av42c_agm:obj_0:name,A mission objective name,AGM Tutorial,Tutorial AGM
+AV-42C:av42c_tutorials:tut_av42c_agm:obj_0:info,Mission objective info.,Complete the AGM tutorial.,Completa el tutorial del AGM.
+AV-42C:av42c_tutorials:tut_av42c_agm:obj_1:name,A mission objective name,Destroy Targets A,Destruye Objetivos A
+AV-42C:av42c_tutorials:tut_av42c_agm:obj_1:info,Mission objective info.,Destroy some of the targets around the waypoint using the AGM-114.,Destruye algunos objetivos alrededor del punto usando el AGM-114
+AV-42C:av42c_tutorials:tut_av42c_agm:obj_2:name,A mission objective name,Destroy Targets B,Destruye Objetivos B
 AV-42C:av42c_tutorials:tut_av42c_agm:obj_2:info,Mission objective info.,,
-av42c_tutorials:tut_basicFlight_name,Name of a mission.,Basic Flight,
-av42c_tutorials:tut_basicFlight_description,Description of a mission.,"Taxi, take off, landing.",
-av42c_tutorials:tut_gettingStarted_name,Name of a mission.,Getting Started,
-av42c_tutorials:tut_gettingStarted_description,Description of a mission.,"Cockpit familiarization, start-up procedures.",
-av42c_tutorials:tut_weapons1_name,Name of a mission.,Basic Weapons,
-av42c_tutorials:tut_weapons1_description,Description of a mission.,"Learn how to use the cannon, rockets, and targeting system.",
-av42c_tutorials:verticalFlight1_name,Name of a mission.,AP Vertical Flight,
-av42c_tutorials:verticalFlight1_description,Description of a mission.,Learn how to use the hover autopilot feature.,
-av42c_tutorials_tut_av42c_agm_b0,Text from a mission briefing.,"Today, you will learn how to use air-to-ground missiles (AGMs) to destroy armored ground targets.",
-av42c_tutorials_tut_basicFlight_b0,Text from a mission briefing.,"Learn how to use the virtual flight controls to taxi, take off, and land the AV-42C ""Kestrel"".",
+av42c_tutorials:tut_basicFlight_name,Name of a mission.,Basic Flight,Vuelo Básico
+av42c_tutorials:tut_basicFlight_description,Description of a mission.,"Taxi, take off, landing.","Rueda, despega y aterriza."
+av42c_tutorials:tut_gettingStarted_name,Name of a mission.,Getting Started,Primeros pasos
+av42c_tutorials:tut_gettingStarted_description,Description of a mission.,"Cockpit familiarization, start-up procedures.","Familiarización con la cabina, procedimientos de puesta en marcha."
+av42c_tutorials:tut_weapons1_name,Name of a mission.,Basic Weapons,Armamento básico
+av42c_tutorials:tut_weapons1_description,Description of a mission.,"Learn how to use the cannon, rockets, and targeting system.","Aprende a usar el cañón, cohetes y sistemas de apuntado."
+av42c_tutorials:verticalFlight1_name,Name of a mission.,AP Vertical Flight,Vuelo vertical PA
+av42c_tutorials:verticalFlight1_description,Description of a mission.,Learn how to use the hover autopilot feature.,Aprende a usar el piloto automático para volar estacionariamente.
+av42c_tutorials_tut_av42c_agm_b0,Text from a mission briefing.,"Today, you will learn how to use air-to-ground missiles (AGMs) to destroy armored ground targets.",Hoy aprenderás a usar misiles aire-tierra (AGM) para destruir objetivos terrestres blindados.
+av42c_tutorials_tut_basicFlight_b0,Text from a mission briefing.,"Learn how to use the virtual flight controls to taxi, take off, and land the AV-42C ""Kestrel"".","Aprende a usar los controles de vuelo virtuales para rodar, despegar y aterrizar el AV-42C ""Kestrel""."
 av42c_tutorials_tut_gettingStarted_b0,Text from a mission briefing.,"Today we will be learning how to operate the AV-42C.
 
-The start-up procedure is not very complicated, so let's jump in and get started.",
-av42c_tutorials_tut_weapons1_b0,Text from a mission briefing.,"The AV-42C is capable of equipping various weapons.  Today you will learn how to use the 30mm GAU-8 cannon, and the Hydra-70 unguided rockets.  You will also learn how to find and acquire targets using the TGP.",
-av42c_tutorials_verticalFlight1_b0,Text from a mission briefing.,"Vertical flight can be tricky, but by using the hover autopilot, you can take off, hover, and land with ease.",
-campaign_fa26b_tutorials_name,Name of a campaign.,FA-26B Tutorials,
-campaign_fa26b_tutorials_description,Description of a campaign.,Built-in tutorials for the F/A-26B.,
+The start-up procedure is not very complicated, so let's jump in and get started.","Hoy aprenderemos a operar el AV-42C.
+
+El procedimiento de arranque no es muy complicado, así que vamos directo al grano."
+av42c_tutorials_tut_weapons1_b0,Text from a mission briefing.,"The AV-42C is capable of equipping various weapons.  Today you will learn how to use the 30mm GAU-8 cannon, and the Hydra-70 unguided rockets.  You will also learn how to find and acquire targets using the TGP.",El AV-42C puede equipar varias armas. Hoy aprenderás a usar el cañón GAU-8 de 30 mm y los cohetes no guiados Hydra-70. También aprenderás a encontrar y fijar objetivos usando el TGP.
+av42c_tutorials_verticalFlight1_b0,Text from a mission briefing.,"Vertical flight can be tricky, but by using the hover autopilot, you can take off, hover, and land with ease.","El vuelo vertical puede ser complicado, pero usando el piloto automático de suspensión, puedes despegar, mantener el vuelo estacionario y aterrizar con facilidad."
+campaign_fa26b_tutorials_name,Name of a campaign.,FA-26B Tutorials,Tutoriales FA-26B
+campaign_fa26b_tutorials_description,Description of a campaign.,Built-in tutorials for the F/A-26B.,Tutoriales incluidos para el F/A-26B.
 fa26b_tutorials:tut_26_radar_name,Name of a mission.,Radar,
-fa26b_tutorials:tut_26_radar_description,Description of a mission.,"Learn how to use the radar to find, track, and lock onto aircraft.",
+fa26b_tutorials:tut_26_radar_description,Description of a mission.,"Learn how to use the radar to find, track, and lock onto aircraft.","Aprende a usar el radar para encontrar, seguir y mantener lock a un avión."
 F/A-26B:fa26b_tutorials:tut_26_radar:obj_0:name,A mission objective name,Tutorial,
-F/A-26B:fa26b_tutorials:tut_26_radar:obj_0:info,Mission objective info.,Complete the radar tutorial,
-F/A-26B:fa26b_tutorials:tut_26_radar:obj_1:name,A mission objective name,Air Target 1,
-F/A-26B:fa26b_tutorials:tut_26_radar:obj_1:info,Mission objective info.,Shoot the target with an AIM-120,
-F/A-26B:fa26b_tutorials:tut_26_radar:obj_2:name,A mission objective name,Air Targets 2,
-F/A-26B:fa26b_tutorials:tut_26_radar:obj_2:info,Mission objective info.,Destroy the 5 other air targets.,
+F/A-26B:fa26b_tutorials:tut_26_radar:obj_0:info,Mission objective info.,Complete the radar tutorial,Completa el tutorial de radar
+F/A-26B:fa26b_tutorials:tut_26_radar:obj_1:name,A mission objective name,Air Target 1,Objetivo aéreo 1
+F/A-26B:fa26b_tutorials:tut_26_radar:obj_1:info,Mission objective info.,Shoot the target with an AIM-120,Derriba al objetivo con un AIM-120
+F/A-26B:fa26b_tutorials:tut_26_radar:obj_2:name,A mission objective name,Air Targets 2,Objetivo aéreo 2
+F/A-26B:fa26b_tutorials:tut_26_radar:obj_2:info,Mission objective info.,Destroy the 5 other air targets.,Destruye los otros 5 objetivos.
 fa26b_tutorials:tut_26_sead_name,Name of a mission.,SEAD,
-fa26b_tutorials:tut_26_sead_description,Description of a mission.,Learn how to use the ARAD and AGM-88 to destroy radar targets.,
-F/A-26B:fa26b_tutorials:tut_26_sead:obj_0:name,A mission objective name,SEAD Tutorial,
-F/A-26B:fa26b_tutorials:tut_26_sead:obj_0:info,Mission objective info.,Complete the SEAD tutorial,
+fa26b_tutorials:tut_26_sead_description,Description of a mission.,Learn how to use the ARAD and AGM-88 to destroy radar targets.,Aprende a usar el ARAD y el AGM-88 para destruir objetivos con radar.
+F/A-26B:fa26b_tutorials:tut_26_sead:obj_0:name,A mission objective name,SEAD Tutorial,Tutorial SEAD
+F/A-26B:fa26b_tutorials:tut_26_sead:obj_0:info,Mission objective info.,Complete the SEAD tutorial,Completa el tutorial SEAD
 F/A-26B:fa26b_tutorials:tut_26_sead:obj_1:name,A mission objective name,SEAD,
-F/A-26B:fa26b_tutorials:tut_26_sead:obj_1:info,Mission objective info.,Destroy the SAM radars.,
-fa26b_tutorials_tut_26_radar_b0,Text from a mission briefing.,The F/A-26B is equipped with powerful forward facing radar. Learn how to use it to detect and track other aircraft.  Lock onto enemy targets to allow you to fire radar guided missiles.,
+F/A-26B:fa26b_tutorials:tut_26_sead:obj_1:info,Mission objective info.,Destroy the SAM radars.,Destruye los radares SAM.
+fa26b_tutorials_tut_26_radar_b0,Text from a mission briefing.,The F/A-26B is equipped with powerful forward facing radar. Learn how to use it to detect and track other aircraft.  Lock onto enemy targets to allow you to fire radar guided missiles.,El F/A-26B está equipado con un potente radar frontal. Aprende a usarlo para detectar y rastrear otras aeronaves. Fija blancos enemigos para poder disparar misiles guiados por radar.
 fa26b_tutorials_tut_26_sead_b0,Text from a mission briefing.,"One of the most abundant and dangerous threats to aircraft are Surface-to-Air Missiles (SAMs), most of which rely on radar to find and track targets.
 
-Suppression of Enemy Air Defense (SEAD) operations neutralize or destroy these threats.",
+Suppression of Enemy Air Defense (SEAD) operations neutralize or destroy these threats.","Una de las amenazas más comunes y peligrosas para las aeronaves son los misiles superficie-aire (SAM), la mayoría de los cuales usan radar para detectar y seguir objetivos.
+
+Las operaciones de Supresión de Defensa Aérea Enemiga (SEAD) neutralizan o destruyen estas amenazas."
 fa26b_tutorials_tut_26_sead_b1,Text from a mission briefing.,"One method of performing SEAD involves destroying the radar used by the SAMs.
 
-You will learn how to use the Anti-Radar Attack Display (ARAD) in conjunction with the AGM-88 weapon to locate, target, and destroy enemy radars.",
-campaign_ah94-tutorials_name,Name of a campaign.,AH-94 Tutorials,
-campaign_ah94-tutorials_description,Description of a campaign.,Enter description...,
-ah94-tutorials:ah94tut_intro_name,Name of a mission.,Introduction,
-ah94-tutorials:ah94tut_intro_description,Description of a mission.,"Introduction to the vehicle, and a general overview of the cockpit.",
-AH-94:ah94-tutorials:ah94tut_intro:obj_0:name,A mission objective name,Introduction,
-AH-94:ah94-tutorials:ah94tut_intro:obj_0:info,Mission objective info.,Complete the tutorial.,
-ah94-tutorials:ah94tut_startup_name,Name of a mission.,Start Up/Shut Down,
-ah94-tutorials:ah94tut_startup_description,Description of a mission.,How to start up and shut down the AH-94.,
+You will learn how to use the Anti-Radar Attack Display (ARAD) in conjunction with the AGM-88 weapon to locate, target, and destroy enemy radars.","Un método para realizar SEAD consiste en destruir el radar que usan los SAM.
+
+Aprenderás a usar la pantalla de ataque antirradar (ARAD) junto con el arma AGM-88 para localizar, apuntar y destruir radares enemigos."
+campaign_ah94-tutorials_name,Name of a campaign.,AH-94 Tutorials,Tutoriales AH-94
+campaign_ah94-tutorials_description,Description of a campaign.,Enter description...,Poner descripción...
+ah94-tutorials:ah94tut_intro_name,Name of a mission.,Introduction,Introducción
+ah94-tutorials:ah94tut_intro_description,Description of a mission.,"Introduction to the vehicle, and a general overview of the cockpit.","Introducción del vehículo, y una vista general de la cabina."
+AH-94:ah94-tutorials:ah94tut_intro:obj_0:name,A mission objective name,Introduction,Introducción
+AH-94:ah94-tutorials:ah94tut_intro:obj_0:info,Mission objective info.,Complete the tutorial.,Completa el tutorial.
+ah94-tutorials:ah94tut_startup_name,Name of a mission.,Start Up/Shut Down,Encendido/Apagado
+ah94-tutorials:ah94tut_startup_description,Description of a mission.,How to start up and shut down the AH-94.,Como encender y apagar el AH-94
 AH-94:ah94-tutorials:ah94tut_startup:obj_0:name,A mission objective name,Tutorial,
-AH-94:ah94-tutorials:ah94tut_startup:obj_0:info,Mission objective info.,Complete the tutorial.,
-ah94-tutorials:ah94tut_wpnTads_name,Name of a mission.,TADS and Gun,
-ah94-tutorials:ah94tut_wpnTads_description,Description of a mission.,Control the TADS with the TEDAC and use it to slave the gun.,
-ah94-tutorials_ah94tut_intro_b0,Text from a mission briefing.,Learn about the AH-94 and take a quick look at each of the components in the cockpit.,
-ah94-tutorials_ah94tut_startup_b0,Text from a mission briefing.,"Learn the steps to properly start up the engines, spin up the rotor, and safely turn everything off.",
-ah94-tutorials_ah94tut_wpnTads_b0,Text from a mission briefing.,"Learn about the TADS, controlling it with the TEDAC, and steering the gun turret.",
-campaign_quickMPFlights_name,Name of a campaign.,Coop/Freeflight,
-campaign_quickMPFlights_description,Description of a campaign.,A collection of cooperative or freeflight scenarios for multiplayer.,
-quickMPFlights:45_pveStrike_name,Name of a mission.,F-45 Cooperative Mission,
-quickMPFlights:45_pveStrike_description,Description of a mission.,Use cooperation and the advanced capabilities of the F-45A to complete various objectives.,
-F/A-26B:quickMPFlights:45_pveStrike:obj_0:name,A mission objective name,Strike,
-F/A-26B:quickMPFlights:45_pveStrike:obj_0:info,Mission objective info.,Destroy bunkers and supply tents at enemy airbase.,
-F/A-26B:quickMPFlights:45_pveStrike:obj_1:name,A mission objective name,CAP,
-F/A-26B:quickMPFlights:45_pveStrike:obj_1:info,Mission objective info.,Destroy all enemy aircraft.,
-F/A-26B:quickMPFlights:45_pveStrike:obj_2:name,A mission objective name,Defend,
-F/A-26B:quickMPFlights:45_pveStrike:obj_2:info,Mission objective info.,Destroy the enemy unit on the way to attack our base.,
-F/A-26B:quickMPFlights:45_pveStrike:obj_4:name,A mission objective name,Destroy Nearby SAMs,
-F/A-26B:quickMPFlights:45_pveStrike:obj_4:info,Mission objective info.,Destroy the MAD-4 set up near base to allow our AWACS to deploy.,
-quickMPFlights:airshowFreeflight_name,Name of a mission.,Free Flight / Airshow,
-quickMPFlights:airshowFreeflight_description,Description of a mission.,"All vehicles, no weapons.",
-F/A-26B:quickMPFlights:airshowFreeflight:obj_0:name,A mission objective name,Free Flight,
-F/A-26B:quickMPFlights:airshowFreeflight:obj_0:info,Mission objective info.,Have fun! Be nice!,
-quickMPFlights:mp_navalMission_name,Name of a mission.,F/A-26B Naval Strike Mission,
-quickMPFlights:mp_navalMission_description,Description of a mission.,Fly strike missions off the Aircraft Carrier with your buddies.,
-F/A-26B:quickMPFlights:mp_navalMission:obj_1:name,A mission objective name,Hidden Bunkers,
-F/A-26B:quickMPFlights:mp_navalMission:obj_1:info,Mission objective info.,Destroy the enemy's secret bunkers hidden in the caldera.,
-F/A-26B:quickMPFlights:mp_navalMission:obj_2:name,A mission objective name,Mine Laying Vessels,
-F/A-26B:quickMPFlights:mp_navalMission:obj_2:info,Mission objective info.,Destroy the mine laying ships parked in the bay.,
-F/A-26B:quickMPFlights:mp_navalMission:obj_3:name,A mission objective name,Enemy Carrier Group,
-F/A-26B:quickMPFlights:mp_navalMission:obj_3:info,Mission objective info.,Find and destroy all ships in the enemy carrier group.,
-F/A-26B:quickMPFlights:mp_navalMission:obj_4:name,A mission objective name,Assassinate,
-F/A-26B:quickMPFlights:mp_navalMission:obj_4:info,Mission objective info.,Find and kill the enemy leadership hiding in the town.,
-F/A-26B:quickMPFlights:mp_navalMission:obj_5:name,A mission objective name,Protect Carrier,
-F/A-26B:quickMPFlights:mp_navalMission:obj_5:info,Mission objective info.,Do not allow your carrier to be destroyed.,
+AH-94:ah94-tutorials:ah94tut_startup:obj_0:info,Mission objective info.,Complete the tutorial.,Completa el tutorial.
+ah94-tutorials:ah94tut_wpnTads_name,Name of a mission.,TADS and Gun,TADS y Cañón
+ah94-tutorials:ah94tut_wpnTads_description,Description of a mission.,Control the TADS with the TEDAC and use it to slave the gun.,Controla el TADS con el TEDAC y usalo para vincular el cañón.
+ah94-tutorials_ah94tut_intro_b0,Text from a mission briefing.,Learn about the AH-94 and take a quick look at each of the components in the cockpit.,Aprende sobre el AH-94 y echa un vistazo rápido a todos los componentes de la cabina.
+ah94-tutorials_ah94tut_startup_b0,Text from a mission briefing.,"Learn the steps to properly start up the engines, spin up the rotor, and safely turn everything off.","Aprende los pasos para encender los motores apropiadamente, girar el rotor, y apagarlo todo de forma segura."
+ah94-tutorials_ah94tut_wpnTads_b0,Text from a mission briefing.,"Learn about the TADS, controlling it with the TEDAC, and steering the gun turret.","Aprende sobre el TADS, controlandolo con el TEDAC, y controlando la torreta."
+campaign_quickMPFlights_name,Name of a campaign.,Coop/Freeflight,Coop/VueloLibre
+campaign_quickMPFlights_description,Description of a campaign.,A collection of cooperative or freeflight scenarios for multiplayer.,Una colección de escenarios cooperativos o de vuelo libre para multijugador.
+quickMPFlights:45_pveStrike_name,Name of a mission.,F-45 Cooperative Mission,Misiones cooperativas F-45
+quickMPFlights:45_pveStrike_description,Description of a mission.,Use cooperation and the advanced capabilities of the F-45A to complete various objectives.,Usa la cooperación y las capacidades avanzadas del F-45A para completar varios objetivos.
+F/A-26B:quickMPFlights:45_pveStrike:obj_0:name,A mission objective name,Strike,Ataca
+F/A-26B:quickMPFlights:45_pveStrike:obj_0:info,Mission objective info.,Destroy bunkers and supply tents at enemy airbase.,Destruye bunkeres y tiendas de suministros en la base aérea enemiga.
+F/A-26B:quickMPFlights:45_pveStrike:obj_1:name,A mission objective name,CAP,CAP
+F/A-26B:quickMPFlights:45_pveStrike:obj_1:info,Mission objective info.,Destroy all enemy aircraft.,Destruye todos los cazas enemigos.
+F/A-26B:quickMPFlights:45_pveStrike:obj_2:name,A mission objective name,Defend,Defiende
+F/A-26B:quickMPFlights:45_pveStrike:obj_2:info,Mission objective info.,Destroy the enemy unit on the way to attack our base.,Destruye las unidades enemigas que vienen de camino a atacar nuestra base.
+F/A-26B:quickMPFlights:45_pveStrike:obj_4:name,A mission objective name,Destroy Nearby SAMs,Destruye SAMs cercanos
+F/A-26B:quickMPFlights:45_pveStrike:obj_4:info,Mission objective info.,Destroy the MAD-4 set up near base to allow our AWACS to deploy.,Destruye los MAD-4 desplegados cerca de la base para permitir a nuestro AWACS despegar.
+quickMPFlights:airshowFreeflight_name,Name of a mission.,Free Flight / Airshow,Vuelo Libre/ espectáculo aéreo
+quickMPFlights:airshowFreeflight_description,Description of a mission.,"All vehicles, no weapons.","Todos los vehículos, sin armas."
+F/A-26B:quickMPFlights:airshowFreeflight:obj_0:name,A mission objective name,Free Flight,Vuelo libre
+F/A-26B:quickMPFlights:airshowFreeflight:obj_0:info,Mission objective info.,Have fun! Be nice!,¡Diviertete! ¡Se majo!
+quickMPFlights:mp_navalMission_name,Name of a mission.,F/A-26B Naval Strike Mission,Misión Ataque Naval F/A26B
+quickMPFlights:mp_navalMission_description,Description of a mission.,Fly strike missions off the Aircraft Carrier with your buddies.,Vuela misiones de ataque con tus colegas desde un portaviones.
+F/A-26B:quickMPFlights:mp_navalMission:obj_1:name,A mission objective name,Hidden Bunkers,Bunkers escondidos
+F/A-26B:quickMPFlights:mp_navalMission:obj_1:info,Mission objective info.,Destroy the enemy's secret bunkers hidden in the caldera.,Destruye los bunkeres secretos enemigos escondidos en la caldera.
+F/A-26B:quickMPFlights:mp_navalMission:obj_2:name,A mission objective name,Mine Laying Vessels,buques mineros
+F/A-26B:quickMPFlights:mp_navalMission:obj_2:info,Mission objective info.,Destroy the mine laying ships parked in the bay.,Destruye los buques mineros aparcados en la bahía.
+F/A-26B:quickMPFlights:mp_navalMission:obj_3:name,A mission objective name,Enemy Carrier Group,Grupo del Portaviones Enemigo
+F/A-26B:quickMPFlights:mp_navalMission:obj_3:info,Mission objective info.,Find and destroy all ships in the enemy carrier group.,Encuentra y destruye todas los navíos en el grupo del portaviones enemigo.
+F/A-26B:quickMPFlights:mp_navalMission:obj_4:name,A mission objective name,Assassinate,Asesina
+F/A-26B:quickMPFlights:mp_navalMission:obj_4:info,Mission objective info.,Find and kill the enemy leadership hiding in the town.,Encuentra y mata al cabecilla enemigo escondido en el pueblo
+F/A-26B:quickMPFlights:mp_navalMission:obj_5:name,A mission objective name,Protect Carrier,Proteje el portaviones
+F/A-26B:quickMPFlights:mp_navalMission:obj_5:info,Mission objective info.,Do not allow your carrier to be destroyed.,No permitas que destruyan tu portaviones.
 quickMPFlights_45_pveStrike_b0,Text from a mission briefing.,"Your team of F-45 pilots have been tasked to carry out an attack against the enemy.
 
-Use cooperation and the advanced capabilities of your aircraft to complete the mission.",
+Use cooperation and the advanced capabilities of your aircraft to complete the mission.","Tu escuadrón de pilotos F-45 tiene la tarea de llevar a cabo un ataque contra el enemigo.
+
+Usa la cooperación y las capacidades avanzadas de tu aeronave para completar la misión."
 quickMPFlights_45_pveStrike_b1,Text from a mission briefing.,"The first objective is to destroy the enemy Mobile Air Defense units (MAD-4) which are stationed just outside of our airbase.
 
-We can't deploy our AWACS until these air defenses are eliminated.",
-quickMPFlights_45_pveStrike_b2,Text from a mission briefing.,"A convoy of tanks are on their way to our base.  They may be little more than a nuisance to you, but destroy them nonetheless.  If they reach the base they will likely start destroying our supplies and other assets.",
-quickMPFlights_45_pveStrike_b3,Text from a mission briefing.,"At your discretion, complete the rest of the mission by finding and destroying the numerous hostile aircraft, and finally busting the bunkers and supply depots at the enemy base.",
+We can't deploy our AWACS until these air defenses are eliminated.","El primer objetivo es destruir las unidades móviles de defensa aérea enemigas (MAD-4) que están estacionadas justo fuera de nuestra base aérea.
+
+No podemos desplegar nuestro AWACS hasta que estas defensas sean eliminadas."
+quickMPFlights_45_pveStrike_b2,Text from a mission briefing.,"A convoy of tanks are on their way to our base.  They may be little more than a nuisance to you, but destroy them nonetheless.  If they reach the base they will likely start destroying our supplies and other assets.","Un convoy de tanques se dirige a nuestra base. Puede que no sean gran cosa para ti, pero destrúyelos de todos modos. Si llegan, probablemente empezarán a destruir nuestros suministros y otros recursos."
+quickMPFlights_45_pveStrike_b3,Text from a mission briefing.,"At your discretion, complete the rest of the mission by finding and destroying the numerous hostile aircraft, and finally busting the bunkers and supply depots at the enemy base.","A tu discreción, completa el resto de la misión encontrando y destruyendo las numerosas aeronaves enemigas, y finalmente destruye los búnkeres y depósitos de suministros en la base enemiga."
 quickMPFlights_airshowFreeflight_b0,Text from a mission briefing.,"This is a freeflight scenario with no objectives.
 
-A",
+A","Este es un escenario de vuelo libre sin objetivos.
+
+A"
 quickMPFlights_mp_navalMission_b0,Text from a mission briefing.,"The carrier strike group has arrived at the enemy's doorstep in the northern sea.
 
-Launch with your wingmen and take on the various objectives.",
+Launch with your wingmen and take on the various objectives.",El grupo de ataque del portaaviones ha llegado a las puertas del enemigo en el mar del Norte. Despega con tus compañeros de ala y cumple los objetivos.
 quickMPFlights_mp_navalMission_b1,Text from a mission briefing.,"The skies are covered by enemy patrols and air defense units.  
 
-Split the responsibilities of CAP, SEAD and Attack among your team members and work together to complete the mission.",
-campaign_mp_PVPScenarios_name,Name of a campaign.,PVP Scenarios,
-campaign_mp_PVPScenarios_description,Description of a campaign.,Various competitive multiplayer game modes.,
-mp_PVPScenarios:26b_bvrTest_name,Name of a mission.,A2A BVR Combat,
-mp_PVPScenarios:26b_bvrTest_description,Description of a mission.,Each team gets 4x F/A-26Bs and 2x F-45As. First team to 24 points wins!,
-F/A-26B:mp_PVPScenarios:26b_bvrTest:obj_0:name,A mission objective name,24 Kills,
-F/A-26B:mp_PVPScenarios:26b_bvrTest:obj_0:info,Mission objective info.,First team to 24 points wins!,
-mp_PVPScenarios:26b_dogfightGunsMissiles_name,Name of a mission.,Dogfight Guns'n'Heaters,
-mp_PVPScenarios:26b_dogfightGunsMissiles_description,Description of a mission.,Quick dogfight match for F/A-26B with guns and heat seeking missiles (AIM-9). First team to 24 points wins!,
-F/A-26B:mp_PVPScenarios:26b_dogfightGunsMissiles:obj_0:name,A mission objective name,24 Kills,
-F/A-26B:mp_PVPScenarios:26b_dogfightGunsMissiles:obj_0:info,Mission objective info.,First team to 24 points wins!,
-mp_PVPScenarios:42c_deathmatch_name,Name of a mission.,AV-42C Deathmatch,
-mp_PVPScenarios:42c_deathmatch_description,Description of a mission.,6 vs 6 Kestrels!  This was originally to look for bugs relating to the AV-42C.,
-F/A-26B:mp_PVPScenarios:42c_deathmatch:obj_0:name,A mission objective name,24 Kills,
-F/A-26B:mp_PVPScenarios:42c_deathmatch:obj_0:info,Mission objective info.,First team to 24 points wins!,
-mp_PVPScenarios:Capture the Flag_name,Name of a mission.,Capture the Flag,
-mp_PVPScenarios:Capture the Flag_description,Description of a mission.,Rescue your soldiers from the enemy base and bring them back to your own. Each team will need to bring home 3 soldiers.,
-AV-42C:mp_PVPScenarios:Capture the Flag:obj_0:name,A mission objective name,Pickup 1,
-AV-42C:mp_PVPScenarios:Capture the Flag:obj_0:info,Mission objective info.,Pick up the soldier.,
-AV-42C:mp_PVPScenarios:Capture the Flag:obj_1:name,A mission objective name,Bring it home!,
-AV-42C:mp_PVPScenarios:Capture the Flag:obj_1:info,Mission objective info.,Bring the soldier to Homeplate.,
-AV-42C:mp_PVPScenarios:Capture the Flag:obj_2:name,A mission objective name,Pickup 2,
-AV-42C:mp_PVPScenarios:Capture the Flag:obj_2:info,Mission objective info.,Pick up the second soldier.,
-AV-42C:mp_PVPScenarios:Capture the Flag:obj_3:name,A mission objective name,Bring it home! 2,
-AV-42C:mp_PVPScenarios:Capture the Flag:obj_3:info,Mission objective info.,Bring the soldier to Homeplate.,
-AV-42C:mp_PVPScenarios:Capture the Flag:obj_4:name,A mission objective name,Pickup 3,
-AV-42C:mp_PVPScenarios:Capture the Flag:obj_4:info,Mission objective info.,Pick up the final soldier.,
-AV-42C:mp_PVPScenarios:Capture the Flag:obj_5:name,A mission objective name,Bring it home! 3,
-AV-42C:mp_PVPScenarios:Capture the Flag:obj_5:info,Mission objective info.,Bring the final soldier to homeplate!,
-mp_PVPScenarios:mp_26bDogfightGuns_name,Name of a mission.,F/A-26B Dogfight (Guns Only),
-mp_PVPScenarios:mp_26bDogfightGuns_description,Description of a mission.,Quick dogfight match for F/A-26B. First team to 24 points wins!,
-F/A-26B:mp_PVPScenarios:mp_26bDogfightGuns:obj_0:name,A mission objective name,Dogfight,
-F/A-26B:mp_PVPScenarios:mp_26bDogfightGuns:obj_0:info,Mission objective info.,First team to 24 points wins!,
-mp_PVPScenarios:mp_baseAttack_name,Name of a mission.,PVP Strike Mission,
-mp_PVPScenarios:mp_baseAttack_description,Description of a mission.,Destroy the ground targets at the enemy base before they destroy yours. Defend your own assets from the enemy attack.,
-F/A-26B:mp_PVPScenarios:mp_baseAttack:obj_0:name,A mission objective name,Airbase Targets,
-F/A-26B:mp_PVPScenarios:mp_baseAttack:obj_0:info,Mission objective info.,Destroy bunkers and supply tents at the enemy airbase.,
-F/A-26B:mp_PVPScenarios:mp_baseAttack:obj_1:name,A mission objective name,Outpost A Targets,
-F/A-26B:mp_PVPScenarios:mp_baseAttack:obj_1:info,Mission objective info.,Destroy tents and bunkers at Outpost A.,
-F/A-26B:mp_PVPScenarios:mp_baseAttack:obj_2:name,A mission objective name,Outpost B Targets,
-F/A-26B:mp_PVPScenarios:mp_baseAttack:obj_2:info,Mission objective info.,Destroy tents and bunkers at Outpost B.,
-mp_PVPScenarios:mp_pvpStrikeLowTech_name,Name of a mission.,[LOW TECH] PVP Strike Mission,
-mp_PVPScenarios:mp_pvpStrikeLowTech_description,Description of a mission.,Destroy the ground targets at the enemy base before they destroy yours. Defend your own assets from the enemy attack. Low-tech weapons only.,
-F/A-26B:mp_PVPScenarios:mp_pvpStrikeLowTech:obj_0:name,A mission objective name,Airbase Targets,
-F/A-26B:mp_PVPScenarios:mp_pvpStrikeLowTech:obj_0:info,Mission objective info.,Destroy bunkers and supply tents at the enemy airbase.,
-F/A-26B:mp_PVPScenarios:mp_pvpStrikeLowTech:obj_1:name,A mission objective name,Outpost A Targets,
-F/A-26B:mp_PVPScenarios:mp_pvpStrikeLowTech:obj_1:info,Mission objective info.,Destroy tents and bunkers at Outpost A.,
-F/A-26B:mp_PVPScenarios:mp_pvpStrikeLowTech:obj_2:name,A mission objective name,Outpost B Targets,
-F/A-26B:mp_PVPScenarios:mp_pvpStrikeLowTech:obj_2:info,Mission objective info.,Destroy tents and bunkers at Outpost B.,
-mp_PVPScenarios_26b_bvrTest_b0,Text from a mission briefing.,Each team gets 4x F/A-26Bs and 2x F-45As. Try out some pure air combat!,
-mp_PVPScenarios_26b_bvrTest_b1,Text from a mission briefing.,"The bases are about 75 nautical miles apart, so you will be able to spread out and make use of BVR (beyond visual range) tactics.",
-mp_PVPScenarios_26b_bvrTest_b2,Text from a mission briefing.,The first team to score 24 kills wins.,
-mp_PVPScenarios_26b_dogfightGunsMissiles_b0,Text from a mission briefing.,You're in the merge!  Get ready for a fight!,
-mp_PVPScenarios_26b_dogfightGunsMissiles_b1,Text from a mission briefing.,"Use your guns, missiles, and flares to achieve victory!",
-mp_PVPScenarios_42c_deathmatch_b0,Text from a mission briefing.,This is just a test scenario for the AV-42C.,
-mp_PVPScenarios_42c_deathmatch_b1,Text from a mission briefing.,Shoot each other... for science!,
+Split the responsibilities of CAP, SEAD and Attack among your team members and work together to complete the mission.","Los cielos están cubiertos por patrullas enemigas y unidades de defensa aérea.
+
+Dividan las responsabilidades de CAP, SEAD y Ataque entre los miembros del equipo y trabajen juntos para completar la misión."
+campaign_mp_PVPScenarios_name,Name of a campaign.,PVP Scenarios,Escenarios PVP
+campaign_mp_PVPScenarios_description,Description of a campaign.,Various competitive multiplayer game modes.,Varios modos de juego multijugador competitivo.
+mp_PVPScenarios:26b_bvrTest_name,Name of a mission.,A2A BVR Combat,Combate A2A BVR
+mp_PVPScenarios:26b_bvrTest_description,Description of a mission.,Each team gets 4x F/A-26Bs and 2x F-45As. First team to 24 points wins!,Cada equipo tiene 4x F/A-26Bs y 2x F-45As. ¡El primer equipo en obtener 24 puntos gana!
+F/A-26B:mp_PVPScenarios:26b_bvrTest:obj_0:name,A mission objective name,24 Kills,24 bajas
+F/A-26B:mp_PVPScenarios:26b_bvrTest:obj_0:info,Mission objective info.,First team to 24 points wins!,¡El primer equipo en llegar a 24 puntos gana!
+mp_PVPScenarios:26b_dogfightGunsMissiles_name,Name of a mission.,Dogfight Guns'n'Heaters,Combate aéreo cercano Cañónes & Fox 2
+mp_PVPScenarios:26b_dogfightGunsMissiles_description,Description of a mission.,Quick dogfight match for F/A-26B with guns and heat seeking missiles (AIM-9). First team to 24 points wins!,Rápido combate aéreo cercano para el F/A-26B con cañones y misiles guiados por calor (AIM-9). ¡El primer equipo en obtener 24 puntos gana!
+F/A-26B:mp_PVPScenarios:26b_dogfightGunsMissiles:obj_0:name,A mission objective name,24 Kills,24 bajas
+F/A-26B:mp_PVPScenarios:26b_dogfightGunsMissiles:obj_0:info,Mission objective info.,First team to 24 points wins!,¡El primer equipo en llegar a 24 puntos gana!
+mp_PVPScenarios:42c_deathmatch_name,Name of a mission.,AV-42C Deathmatch,Combate a muerte AV-42C
+mp_PVPScenarios:42c_deathmatch_description,Description of a mission.,6 vs 6 Kestrels!  This was originally to look for bugs relating to the AV-42C.,6vs6 Kestrels! Esta misión era originalmente para buscar bugs relacionados con el AV-42C.
+F/A-26B:mp_PVPScenarios:42c_deathmatch:obj_0:name,A mission objective name,24 Kills,24 bajas
+F/A-26B:mp_PVPScenarios:42c_deathmatch:obj_0:info,Mission objective info.,First team to 24 points wins!,¡El primer equipo en llegar a 24 puntos gana!
+mp_PVPScenarios:Capture the Flag_name,Name of a mission.,Capture the Flag,Captura la bandera
+mp_PVPScenarios:Capture the Flag_description,Description of a mission.,Rescue your soldiers from the enemy base and bring them back to your own. Each team will need to bring home 3 soldiers.,Rescata tus soldados de las bases enemigas y tráelos de vuelta a la tuya. Cada equipo debe llevar a casa 3 soldados.
+AV-42C:mp_PVPScenarios:Capture the Flag:obj_0:name,A mission objective name,Pickup 1,Recoge 1
+AV-42C:mp_PVPScenarios:Capture the Flag:obj_0:info,Mission objective info.,Pick up the soldier.,Recoge al soldado.
+AV-42C:mp_PVPScenarios:Capture the Flag:obj_1:name,A mission objective name,Bring it home!,¡Llevalo a casa!
+AV-42C:mp_PVPScenarios:Capture the Flag:obj_1:info,Mission objective info.,Bring the soldier to Homeplate.,Lleva al soldado a la base.
+AV-42C:mp_PVPScenarios:Capture the Flag:obj_2:name,A mission objective name,Pickup 2,Recoge 2
+AV-42C:mp_PVPScenarios:Capture the Flag:obj_2:info,Mission objective info.,Pick up the second soldier.,Recoge al segundo soldado.
+AV-42C:mp_PVPScenarios:Capture the Flag:obj_3:name,A mission objective name,Bring it home! 2,¡Llévalo a casa! 2
+AV-42C:mp_PVPScenarios:Capture the Flag:obj_3:info,Mission objective info.,Bring the soldier to Homeplate.,Lleva al soldado a la base.
+AV-42C:mp_PVPScenarios:Capture the Flag:obj_4:name,A mission objective name,Pickup 3,Recoge 3
+AV-42C:mp_PVPScenarios:Capture the Flag:obj_4:info,Mission objective info.,Pick up the final soldier.,Recoge al último soldado.
+AV-42C:mp_PVPScenarios:Capture the Flag:obj_5:name,A mission objective name,Bring it home! 3,¡Llévalo a casa! 3
+AV-42C:mp_PVPScenarios:Capture the Flag:obj_5:info,Mission objective info.,Bring the final soldier to homeplate!,Lleva al último soldado a la base.
+mp_PVPScenarios:mp_26bDogfightGuns_name,Name of a mission.,F/A-26B Dogfight (Guns Only),Combate aéreo cercano F/A-26B (solo cañones)
+mp_PVPScenarios:mp_26bDogfightGuns_description,Description of a mission.,Quick dogfight match for F/A-26B. First team to 24 points wins!,Rápido combate aéreo cercano para el F/A-26B. ¡El primer equipo en llegar a 24 puntos gana!
+F/A-26B:mp_PVPScenarios:mp_26bDogfightGuns:obj_0:name,A mission objective name,Dogfight,Combate aéreo cercano
+F/A-26B:mp_PVPScenarios:mp_26bDogfightGuns:obj_0:info,Mission objective info.,First team to 24 points wins!,¡El primer equipo en llegar a 24 puntos gana!
+mp_PVPScenarios:mp_baseAttack_name,Name of a mission.,PVP Strike Mission,Misión de ataque PVP
+mp_PVPScenarios:mp_baseAttack_description,Description of a mission.,Destroy the ground targets at the enemy base before they destroy yours. Defend your own assets from the enemy attack.,Destruye los objetivos terrestres en la base enemiga antes de que ellos destruyan las tuyas. Defiende tus objetivos del ataque enemigo.
+F/A-26B:mp_PVPScenarios:mp_baseAttack:obj_0:name,A mission objective name,Airbase Targets,Objetivos Base Aérea
+F/A-26B:mp_PVPScenarios:mp_baseAttack:obj_0:info,Mission objective info.,Destroy bunkers and supply tents at the enemy airbase.,Destruye los bunkers y tiendas de suministros de la base aérea enemiga.
+F/A-26B:mp_PVPScenarios:mp_baseAttack:obj_1:name,A mission objective name,Outpost A Targets,Objetivos puesto avanzado A
+F/A-26B:mp_PVPScenarios:mp_baseAttack:obj_1:info,Mission objective info.,Destroy tents and bunkers at Outpost A.,Destruye tiendas y bunkeres del puesto avanzado A.
+F/A-26B:mp_PVPScenarios:mp_baseAttack:obj_2:name,A mission objective name,Outpost B Targets,Objetivos puesto avanzado B
+F/A-26B:mp_PVPScenarios:mp_baseAttack:obj_2:info,Mission objective info.,Destroy tents and bunkers at Outpost B.,Destruye tiendas y bunkeres del puesto avanzado B.
+mp_PVPScenarios:mp_pvpStrikeLowTech_name,Name of a mission.,[LOW TECH] PVP Strike Mission,Misión ataque PVP [GEN ANT]
+mp_PVPScenarios:mp_pvpStrikeLowTech_description,Description of a mission.,Destroy the ground targets at the enemy base before they destroy yours. Defend your own assets from the enemy attack. Low-tech weapons only.,Destruye los objetivos terrestres en la base enemiga antes de que destruyan los nuestros. Defiende los objetivos del ataque enemigo. Solo armas de generación anterior
+F/A-26B:mp_PVPScenarios:mp_pvpStrikeLowTech:obj_0:name,A mission objective name,Airbase Targets,Objetivos Base
+F/A-26B:mp_PVPScenarios:mp_pvpStrikeLowTech:obj_0:info,Mission objective info.,Destroy bunkers and supply tents at the enemy airbase.,Destruye bunkeres y tiendas de suministros en la base aérea enemiga.
+F/A-26B:mp_PVPScenarios:mp_pvpStrikeLowTech:obj_1:name,A mission objective name,Outpost A Targets,Objetivos puesto avanzado A
+F/A-26B:mp_PVPScenarios:mp_pvpStrikeLowTech:obj_1:info,Mission objective info.,Destroy tents and bunkers at Outpost A.,Destruye tiendas y bunkeres del puesto avanzado A.
+F/A-26B:mp_PVPScenarios:mp_pvpStrikeLowTech:obj_2:name,A mission objective name,Outpost B Targets,Objetivos puesto avanzado B
+F/A-26B:mp_PVPScenarios:mp_pvpStrikeLowTech:obj_2:info,Mission objective info.,Destroy tents and bunkers at Outpost B.,Destruye tiendas y bunkeres del puesto avanzado B.
+mp_PVPScenarios_26b_bvrTest_b0,Text from a mission briefing.,Each team gets 4x F/A-26Bs and 2x F-45As. Try out some pure air combat!,Cada equipo tiene 4x F/A-26Bs y 2x F-45As. ¡Combate aéreo puro y duro!
+mp_PVPScenarios_26b_bvrTest_b1,Text from a mission briefing.,"The bases are about 75 nautical miles apart, so you will be able to spread out and make use of BVR (beyond visual range) tactics.","Las bases estan sobre a 75 millas náuticas de si, así que deberíais ser capaces de dividiros y usar tácticas BVR (Más allá de la vista)."
+mp_PVPScenarios_26b_bvrTest_b2,Text from a mission briefing.,The first team to score 24 kills wins.,El primer equipo en apuntar 24 muertes gana.
+mp_PVPScenarios_26b_dogfightGunsMissiles_b0,Text from a mission briefing.,You're in the merge!  Get ready for a fight!,¡Estás en medio! ¡Prepárate para pelear!
+mp_PVPScenarios_26b_dogfightGunsMissiles_b1,Text from a mission briefing.,"Use your guns, missiles, and flares to achieve victory!","¡Usa tus cañones, misiles y bengalas para ganar!"
+mp_PVPScenarios_42c_deathmatch_b0,Text from a mission briefing.,This is just a test scenario for the AV-42C.,Esto es un escenario de prueba para el AV-42C
+mp_PVPScenarios_42c_deathmatch_b1,Text from a mission briefing.,Shoot each other... for science!,Disparaos entre vosotros... por la ciencia!
 mp_PVPScenarios_Capture the Flag_b0,Text from a mission briefing.,"The object of the game is to pick up and bring home 3 soldiers.
 
-You will need at least one AV-42C on your team to complete the objectives.",
+You will need at least one AV-42C on your team to complete the objectives.","El objetivo del juego es recoger y traer a casa a 3 soldados. 
+
+Necesitarás al menos un AV-42C en tu equipo para completar los objetivos."
 mp_PVPScenarios_Capture the Flag_b1,Text from a mission briefing.,"Only one soldier will appear at a time.  Once you successfully bring home the soldier, a new one will appear in a different location.
 
-Each new soldier will be closer to the enemy base.",
-mp_PVPScenarios_Capture the Flag_b2,Text from a mission briefing.,"The soldiers can't be killed.  If an AV-42C is shot down while carrying a soldier, the soldier will return to its spawn point.",
-mp_PVPScenarios_Capture the Flag_b3,Text from a mission briefing.,Good luck!,
+Each new soldier will be closer to the enemy base.","Solo aparecerá un soldado a la vez. Una vez que lo lleves a casa con éxito, aparecerá otro en una ubicación diferente.
+
+Cada nuevo soldado estará más cerca de la base enemiga."
+mp_PVPScenarios_Capture the Flag_b2,Text from a mission briefing.,"The soldiers can't be killed.  If an AV-42C is shot down while carrying a soldier, the soldier will return to its spawn point.","Los soldados no pueden morir. Si un AV-42C es derribado mientras transporta a un soldado, el soldado regresará a su punto de aparición."
+mp_PVPScenarios_Capture the Flag_b3,Text from a mission briefing.,Good luck!,¡Buena suerte!
 mp_PVPScenarios_mp_26bDogfightGuns_b0,Text from a mission briefing.,"This is a classic guns-only dogfight scenario. 
 
 You will spawn head to head with your opponents.  
 
-Prepare for combat!",
-mp_PVPScenarios_mp_26bDogfightGuns_b1,Text from a mission briefing.,Try to avoid shooting before the merge!,
-mp_PVPScenarios_mp_26bDogfightGuns_b2,Text from a mission briefing.,The first team to suffer 24 deaths loses.,
+Prepare for combat!","Este es un clásico escenario de combate aéreo solo con cañones.
+
+Aparecerás cara a cara con tus oponentes.
+
+¡Prepárate para el combate!"
+mp_PVPScenarios_mp_26bDogfightGuns_b1,Text from a mission briefing.,Try to avoid shooting before the merge!,¡Intenta no disparar antes del merge!
+mp_PVPScenarios_mp_26bDogfightGuns_b2,Text from a mission briefing.,The first team to suffer 24 deaths loses.,El primer equipo en sufrir 24 bajas pierde.
 mp_PVPScenarios_mp_baseAttack_b0,Text from a mission briefing.,"In this scenario, each team has assets that they will need to defend, as well as enemy targets they need to destroy.
 
-Work together with your team to attack and defend.",
+Work together with your team to attack and defend.","En este escenario, cada equipo tiene objetivos que deben defender, como objetivos enemigos que deben destruir.
+
+Trabajad juntos con tu equipo para atacar y defender."
 mp_PVPScenarios_mp_baseAttack_b1,Text from a mission briefing.,"Team A is based in the north-western region, while Team B is in the south-eastern region.
 
-Each team has 3 outposts which are the primary targets to attack/defend.",
+Each team has 3 outposts which are the primary targets to attack/defend.","Equipo A tiene base al noroeste de la región, mientras que el equipo B la tiene en la región sureste.
+
+Cada equipo tiene 3 puestos avanzados que son los objetivos principales que deben atacar/defender."
 mp_PVPScenarios_mp_pvpStrikeLowTech_b0,Text from a mission briefing.,"In this scenario, each team has assets that they will need to defend, as well as enemy targets they need to destroy.
 
-Work together with your team to attack and defend.",
+Work together with your team to attack and defend.","En este escenario, cada equipo tiene objetivos que deberán defender, como objetivos enemigos que deben destruir.
+
+Trabajad juntos con tu equipo para atacar y defender."
 mp_PVPScenarios_mp_pvpStrikeLowTech_b1,Text from a mission briefing.,"Team A is based in the north-western region, while Team B is in the south-eastern region.
 
-Each team has 3 outposts which are the primary targets to attack/defend.",
-campaign_ah94-mpMissions_name,Name of a campaign.,AH-94 Multicrew,
-campaign_ah94-mpMissions_description,Description of a campaign.,Larger scale missions designed for multicrew and multiple helicopters.,
-ah94-mpMissions:ah94_mp1_name,Name of a mission.,Urban Liberation,
-ah94-mpMissions:ah94_mp1_description,Description of a mission.,Spearhead the effort to liberate a city under enemy occupation.,
+Each team has 3 outposts which are the primary targets to attack/defend.","Equipo A tiene base al noroeste de la región, mientras que el equipo B la tiene en la región sureste.
+
+Cada equipo tiene 3 puestos avanzados que son los objetivos principales que deben atacar/defender."
+campaign_ah94-mpMissions_name,Name of a campaign.,AH-94 Multicrew,AH-94 tripulación múltiple
+campaign_ah94-mpMissions_description,Description of a campaign.,Larger scale missions designed for multicrew and multiple helicopters.,Misiones de gran escala para tripulación múltiple y muchos helicopteros.
+ah94-mpMissions:ah94_mp1_name,Name of a mission.,Urban Liberation,Liberación Urbana
+ah94-mpMissions:ah94_mp1_description,Description of a mission.,Spearhead the effort to liberate a city under enemy occupation.,Lidera el esfuerzo para liberar una ciudad bajo ocupación enemiga.
 AV-42C:ah94-mpMissions:ah94_mp1:obj_0:name,A mission objective name,SEAD MAD-4,
-AV-42C:ah94-mpMissions:ah94_mp1:obj_0:info,Mission objective info.,Destroy or disable all MAD-4 units.,
-AV-42C:ah94-mpMissions:ah94_mp1:obj_1:name,A mission objective name,SEAD Ships,
-AV-42C:ah94-mpMissions:ah94_mp1:obj_1:info,Mission objective info.,Disable the long range air defenses on the ships.,
-AV-42C:ah94-mpMissions:ah94_mp1:obj_2:name,A mission objective name,Destroy HQ,
-AV-42C:ah94-mpMissions:ah94_mp1:obj_2:info,Mission objective info.,Find the makeshift HQ and destroy all of its major assets.,
-AV-42C:ah94-mpMissions:ah94_mp1:obj_3:name,A mission objective name,Kill Air Patrol,
-AV-42C:ah94-mpMissions:ah94_mp1:obj_3:info,Mission objective info.,"Destroy patrolling GAV-25 group, or let our fighters handle it.",
-AV-42C:ah94-mpMissions:ah94_mp1:obj_4:name,A mission objective name,Escort Bravo,
-AV-42C:ah94-mpMissions:ah94_mp1:obj_4:info,Mission objective info.,Escort special forces unit Bravo to extract the civillians.,
-AV-42C:ah94-mpMissions:ah94_mp1:obj_6:name,A mission objective name,Armored Units,
-AV-42C:ah94-mpMissions:ah94_mp1:obj_6:info,Mission objective info.,Destroy the armored units moving up the road towards our base.,
-AV-42C:ah94-mpMissions:ah94_mp1:obj_7:name,A mission objective name,RTB,
-AV-42C:ah94-mpMissions:ah94_mp1:obj_7:info,Mission objective info.,Return to base.,
-ah94-mpMissions:ah94_mp2_coast_name,Name of a mission.,Midnight Assassin,
-ah94-mpMissions:ah94_mp2_coast_description,Description of a mission.,Assassinate the elusive dictators.,
-AV-42C:ah94-mpMissions:ah94_mp2_coast:obj_0:name,A mission objective name,Assassinate,
-AV-42C:ah94-mpMissions:ah94_mp2_coast:obj_0:info,Mission objective info.,Destroy the 3 APCs carrying the enemy dictators.,
-AV-42C:ah94-mpMissions:ah94_mp2_coast:obj_1:name,A mission objective name,Artillery Trucks,
-AV-42C:ah94-mpMissions:ah94_mp2_coast:obj_1:info,Mission objective info.,Find and destroy rocket artillery trucks.,
-AV-42C:ah94-mpMissions:ah94_mp2_coast:obj_2:name,A mission objective name,Artillery Boats,
+AV-42C:ah94-mpMissions:ah94_mp1:obj_0:info,Mission objective info.,Destroy or disable all MAD-4 units.,Destruye o deshabilita todas las unidades MAD-4.
+AV-42C:ah94-mpMissions:ah94_mp1:obj_1:name,A mission objective name,SEAD Ships,SEAD Buques.
+AV-42C:ah94-mpMissions:ah94_mp1:obj_1:info,Mission objective info.,Disable the long range air defenses on the ships.,Deshabilita las defensas aéreas de largo alcance de los buques.
+AV-42C:ah94-mpMissions:ah94_mp1:obj_2:name,A mission objective name,Destroy HQ,Destruye HQ
+AV-42C:ah94-mpMissions:ah94_mp1:obj_2:info,Mission objective info.,Find the makeshift HQ and destroy all of its major assets.,Encuentra el HQ improvisado y destruye sus activos principales.
+AV-42C:ah94-mpMissions:ah94_mp1:obj_3:name,A mission objective name,Kill Air Patrol,Elimina Patrulla Aérea
+AV-42C:ah94-mpMissions:ah94_mp1:obj_3:info,Mission objective info.,"Destroy patrolling GAV-25 group, or let our fighters handle it.","Destruye el grupo de GAV-25 que patrulla, o deja que tus cazas se encarguen."
+AV-42C:ah94-mpMissions:ah94_mp1:obj_4:name,A mission objective name,Escort Bravo,Escorta Bravo
+AV-42C:ah94-mpMissions:ah94_mp1:obj_4:info,Mission objective info.,Escort special forces unit Bravo to extract the civillians.,Escorta la unidad de fuerzas especiales Bravo para extraer a los civiles.
+AV-42C:ah94-mpMissions:ah94_mp1:obj_6:name,A mission objective name,Armored Units,Unidades Blindadas
+AV-42C:ah94-mpMissions:ah94_mp1:obj_6:info,Mission objective info.,Destroy the armored units moving up the road towards our base.,Destruye las unidades blindadas moviendose
+AV-42C:ah94-mpMissions:ah94_mp1:obj_7:name,A mission objective name,RTB,VAB
+AV-42C:ah94-mpMissions:ah94_mp1:obj_7:info,Mission objective info.,Return to base.,Volver a base.
+ah94-mpMissions:ah94_mp2_coast_name,Name of a mission.,Midnight Assassin,Asesinato a Medianoche.
+ah94-mpMissions:ah94_mp2_coast_description,Description of a mission.,Assassinate the elusive dictators.,Asesina a los elusivos dictadores.
+AV-42C:ah94-mpMissions:ah94_mp2_coast:obj_0:name,A mission objective name,Assassinate,Asesinar
+AV-42C:ah94-mpMissions:ah94_mp2_coast:obj_0:info,Mission objective info.,Destroy the 3 APCs carrying the enemy dictators.,Destruye los 3 APCs transportando los dictadores enemigos.
+AV-42C:ah94-mpMissions:ah94_mp2_coast:obj_1:name,A mission objective name,Artillery Trucks,Camiones Artillería
+AV-42C:ah94-mpMissions:ah94_mp2_coast:obj_1:info,Mission objective info.,Find and destroy rocket artillery trucks.,Encuentra y destruye los camiones de artillería de cohetes.
+AV-42C:ah94-mpMissions:ah94_mp2_coast:obj_2:name,A mission objective name,Artillery Boats,Lanchas Artillería
 AV-42C:ah94-mpMissions:ah94_mp2_coast:obj_2:info,Mission objective info.,,
 ah94-mpMissions_ah94_mp1_b0,Text from a mission briefing.,"The city has been overrun by the enemy. They've taken complete control and have set up a makeshift HQ at the city center.
 
-Most of the civillians have been evacuated, however a small group is trapped in one of the industrial buildings.",
-ah94-mpMissions_ah94_mp1_b1,Text from a mission briefing.,"Our main goal today is to get those civillians to safety, but there are a few steps we need to take in order to do that.",
+Most of the civillians have been evacuated, however a small group is trapped in one of the industrial buildings.","La ciudad ha sido sobrepasada por el enemigo. Han tomado control absoluto y han montado un HQ improvisado en el centro de la ciudad.
+
+La mayoría de civiles han sido evacuados, sin embargo, un pequeño grupo está atrapado en uno de los edificios industriales."
+ah94-mpMissions_ah94_mp1_b1,Text from a mission briefing.,"Our main goal today is to get those civillians to safety, but there are a few steps we need to take in order to do that.","Nuestro objetivo principal hoy es poner esos civiles a salvo, pero hay algunos pasos que tenemos que llevar a cabo antes de hacer eso."
 ah94-mpMissions_ah94_mp1_b2,Text from a mission briefing.,"A pair enemy ground attack aircraft are patrolling the area.  They need to be destroyed before we can begin the rescue operation.
 
-We would send in fighters to take care of them but the enemy have strong air defenses.",
+We would send in fighters to take care of them but the enemy have strong air defenses.","Un par de aviones de ataque a tierra enemigos están patrullando el área. Tienen que ser destruidos antes de que empiece la operación de rescate.
+
+Deberíamos enviar cazas para hacernos cargo de ellos pero el enemigo tiene defensas aéreas sólidas."
 ah94-mpMissions_ah94_mp1_b3,Text from a mission briefing.,"This is where you will begin.
 
 Destroy the MAD-4 units around the city, as well as the long range anti-air missile systems on the ships parked off the coast.
 
-This will allow us to send the fighters to gain air superiority.",
+This will allow us to send the fighters to gain air superiority.","Aquí es donde tu empiezas.
+
+Destruye los MAD-4 alrededor de la ciudad, como el sistema de misiles de largo alcance aire-aire de los buques atracados en la costa.
+
+Esto va a permitirnos lanzar los cazas para ganar la superioridad aérea."
 ah94-mpMissions_ah94_mp1_b4,Text from a mission briefing.,"Once the air defenses and air patrol are destroyed, special forces unit Bravo will enter the city by road vehicles.
 
-You will need to provide close air support and clear their way through the city streets.",
-ah94-mpMissions_ah94_mp1_b5,Text from a mission briefing.,"Finally, while we have you on station and are maintaining air superiority, we need you to find the HQ that the enemy has set up downtown.  They are storing valuable supplies and equipment there, so destroy everything you find.",
+You will need to provide close air support and clear their way through the city streets.","Una vez las defensas aéreas y la patruya aérea haya sido destruida, la unidad de fuerzas especiales Bravo va a entrar a la ciudad con vehículos por la carretera.
+
+Vas a tener que proporcionarles apoyo aéreo cercano y limpiar su camino a través de las calles de la ciudad."
+ah94-mpMissions_ah94_mp1_b5,Text from a mission briefing.,"Finally, while we have you on station and are maintaining air superiority, we need you to find the HQ that the enemy has set up downtown.  They are storing valuable supplies and equipment there, so destroy everything you find.","Finalmente, mientras te mantenemos en la zona y conservamos la superioridad aérea, necesitamos que encuentres el HQ que el enemigo ha puesto en el centro de la ciudad. Estan almacenando suministros valiosos y equipamiento allí, así que destruye todo lo que encuentres."
 ah94-mpMissions_ah94_mp1_b6,Text from a mission briefing.,"SUMMARY
 Objectives
 1. SEAD (MAD-4 and ship SAMs)
@@ -2657,154 +2715,201 @@ Objectives
  3. Escort Bravo on rescue mission
  4. Find and destroy assets at enemy HQ
 Threats
-- SAMs, infantry, attack aircraft",
+- SAMs, infantry, attack aircraft","RESUMEN
+Objetivos
+1.SEAD(MAD-4 y buques SAMs)
+2.Destruye aeronaves enemigas (con ayuda)
+3. escorta Bravo en una misión de rescate
+4.Encuetnra y destruye activos del HQ enemigo
+- SAMs, infantería, aviones de ataque"
 ah94-mpMissions_ah94_mp2_coast_b0,Text from a mission briefing.,"Tonight, we're taking on a daring but crucial mission.
 
 It's time to stop enemy's reign of terror.
 
-We'll be launching from the carrier at midnight.",
-ah94-mpMissions_ah94_mp2_coast_b1,Text from a mission briefing.,"The enemy leaders have been highly elusive, but thanks to our network of informants, we have intel that all of the top officials will be in Pike City to oversee an inspection of 5 new warships.",
+We'll be launching from the carrier at midnight.","Esta noche, emprenderemos una misión atrevida pero crucial.
+
+Es momento de parar el reino de terror del enemigo.
+
+Despegaremos desde el portaviones a medianoche."
+ah94-mpMissions_ah94_mp2_coast_b1,Text from a mission briefing.,"The enemy leaders have been highly elusive, but thanks to our network of informants, we have intel that all of the top officials will be in Pike City to oversee an inspection of 5 new warships.","Los líderes enemigos han sido muy escurridizos, pero gracias a nuestra red de informantes, tenemos información de que todos los altos mandos estarán en Pike City para supervisar la inspección de 5 nuevos buques de guerra."
 ah94-mpMissions_ah94_mp2_coast_b2,Text from a mission briefing.,"The city, and the harbor especially, are heavily defended, but we can't pass up this opportunity.
 
-Move towards the harbor, delaying detection as long as possible.  The moment they know we're here, the leaders will attempt to flee the city.",
-ah94-mpMissions_ah94_mp2_coast_b3,Text from a mission briefing.,"The primary objective is to assassinate the leaders, who will be riding in 3 armored personnel carriers (APCs).",
-ah94-mpMissions_ah94_mp2_coast_b4,Text from a mission briefing.,"We are also aware that mobile artillery units, both land and sea, are ready to deploy when provoked, so we must find them and destroy them before they can fire on our ships.",
-ah94-mpMissions_ah94_mp2_coast_b5,Text from a mission briefing.,"Find and assassinate the leaders, destroy the artillery boats and trucks, then return to the carrier.",
-campaign_ah94-quickFlight_mp_name,Name of a campaign.,AH-94 Quick Flight,
-campaign_ah94-quickFlight_mp_description,Description of a campaign.,Quick flights and missions for the AH-94 Attack Helicopter.,
+Move towards the harbor, delaying detection as long as possible.  The moment they know we're here, the leaders will attempt to flee the city.","La ciudad, y especialmente el puerto, están fuertemente defendidos, pero no podemos dejar pasar esta oportunidad.
+
+Avanza hacia el puerto retrasando la detección todo lo posible. En cuanto sepan que estamos aquí, los líderes intentarán huir de la ciudad."
+ah94-mpMissions_ah94_mp2_coast_b3,Text from a mission briefing.,"The primary objective is to assassinate the leaders, who will be riding in 3 armored personnel carriers (APCs).","El objetivo principal es asesinar a los líderes, que viajarán en 3 transportes blindados de personal (APCs)."
+ah94-mpMissions_ah94_mp2_coast_b4,Text from a mission briefing.,"We are also aware that mobile artillery units, both land and sea, are ready to deploy when provoked, so we must find them and destroy them before they can fire on our ships.","También sabemos que unidades de artillería móvil, tanto terrestres como navales, están listas para desplegarse si se les provoca, así que debemos encontrarlas y destruirlas antes de que puedan abrir fuego contra nuestros barcos."
+ah94-mpMissions_ah94_mp2_coast_b5,Text from a mission briefing.,"Find and assassinate the leaders, destroy the artillery boats and trucks, then return to the carrier.","Encuentra y asesina a los líderes, destruye las lanchas y camiones de artillería, luego regresa al portaaviones."
+campaign_ah94-quickFlight_mp_name,Name of a campaign.,AH-94 Quick Flight,AH-94 Vuelo rápido
+campaign_ah94-quickFlight_mp_description,Description of a campaign.,Quick flights and missions for the AH-94 Attack Helicopter.,Vuelo rápido y misiones para el helicóptero de ataque AH-94.
 ah94-quickFlight_mp:ah94_4v4pvp_name,Name of a mission.,AH-94 Deathmatch 4v4,
-ah94-quickFlight_mp:ah94_4v4pvp_description,Description of a mission.,Four AH-94s (8 pilots total) per team.,
-AH-94:ah94-quickFlight_mp:ah94_4v4pvp:obj_0:name,A mission objective name,24 Deaths Loses,
-AH-94:ah94-quickFlight_mp:ah94_4v4pvp:obj_0:info,Mission objective info.,First team to 24 deaths loses.,
-ah94-quickFlight_mp:ah94_mpFreeFlight_name,Name of a mission.,AH-94 Free Flight,
-ah94-quickFlight_mp:ah94_mpFreeFlight_description,Description of a mission.,"16 pilots, 8 choppers, 0 objectives.",
-ah94-quickFlight_mp:arcticAssault_name,Name of a mission.,Arctic Assault,
-ah94-quickFlight_mp:arcticAssault_description,Description of a mission.,Scout targets for artillery and destroy anything that remains.,
-AH-94:ah94-quickFlight_mp:arcticAssault:obj_0:name,A mission objective name,Artillery Targets,
-AH-94:ah94-quickFlight_mp:arcticAssault:obj_0:info,Mission objective info.,Destroy any remaining targets at the waypoint.,
-AH-94:ah94-quickFlight_mp:arcticAssault:obj_1:name,A mission objective name,Armored Targets,
-AH-94:ah94-quickFlight_mp:arcticAssault:obj_1:info,Mission objective info.,Destroy the armored group moving towards our troops.,
-AH-94:ah94-quickFlight_mp:arcticAssault:obj_2:name,A mission objective name,Find Targets,
-AH-94:ah94-quickFlight_mp:arcticAssault:obj_2:info,Mission objective info.,Pinpoint the location of targets at the waypoint.,
-AH-94:ah94-quickFlight_mp:arcticAssault:obj_3:name,A mission objective name,Destroy Targets,
-AH-94:ah94-quickFlight_mp:arcticAssault:obj_3:info,Mission objective info.,Destroy the targets you found. Artillery will assist.,
-AH-94:ah94-quickFlight_mp:arcticAssault:obj_4:name,A mission objective name,Destroy MAD-4,
-AH-94:ah94-quickFlight_mp:arcticAssault:obj_4:info,Mission objective info.,Destroy enemy air defenses to allow bombers to pass.,
-AH-94:ah94-quickFlight_mp:arcticAssault:obj_5:name,A mission objective name,RTB,
-AH-94:ah94-quickFlight_mp:arcticAssault:obj_5:info,Mission objective info.,Return to the FARP.,
-ah94-quickFlight_mp:flightPractice_name,Name of a mission.,Flight Practice,
-ah94-quickFlight_mp:flightPractice_description,Description of a mission.,"Practice take off, flight, and landing in various locations.",
-AH-94:ah94-quickFlight_mp:flightPractice:obj_0:name,A mission objective name,Take Off,
-AH-94:ah94-quickFlight_mp:flightPractice:obj_0:info,Mission objective info.,Take off to 50ft.,
-AH-94:ah94-quickFlight_mp:flightPractice:obj_1:name,A mission objective name,Land Pad 1,
-AH-94:ah94-quickFlight_mp:flightPractice:obj_1:info,Mission objective info.,Land on the same pad you took off from.,
-AH-94:ah94-quickFlight_mp:flightPractice:obj_2:name,A mission objective name,Short Hop,
-AH-94:ah94-quickFlight_mp:flightPractice:obj_2:info,Mission objective info.,Land on Pad 2,
-AH-94:ah94-quickFlight_mp:flightPractice:obj_3:name,A mission objective name,Medium Hop,
-AH-94:ah94-quickFlight_mp:flightPractice:obj_3:info,Mission objective info.,Slight turn to Pad 3,
-AH-94:ah94-quickFlight_mp:flightPractice:obj_4:name,A mission objective name,Long Hop,
-AH-94:ah94-quickFlight_mp:flightPractice:obj_4:info,Mission objective info.,Long hop to pad 4.  Small pad!,
-AH-94:ah94-quickFlight_mp:flightPractice:obj_5:name,A mission objective name,Tight Spot,
-AH-94:ah94-quickFlight_mp:flightPractice:obj_5:info,Mission objective info.,Land on the pad between the buildings.,
-AH-94:ah94-quickFlight_mp:flightPractice:obj_6:name,A mission objective name,Rooftop 1,
-AH-94:ah94-quickFlight_mp:flightPractice:obj_6:info,Mission objective info.,Land on the rooftop.,
-AH-94:ah94-quickFlight_mp:flightPractice:obj_7:name,A mission objective name,Rooftop 2,
-AH-94:ah94-quickFlight_mp:flightPractice:obj_7:info,Mission objective info.,Land on the rooftop 2.,
-AH-94:ah94-quickFlight_mp:flightPractice:obj_8:name,A mission objective name,Dock Pad,
+ah94-quickFlight_mp:ah94_4v4pvp_description,Description of a mission.,Four AH-94s (8 pilots total) per team.,Cuatro AH-94s (8 pilotos en total) por equipo.
+AH-94:ah94-quickFlight_mp:ah94_4v4pvp:obj_0:name,A mission objective name,24 Deaths Loses,24 Muertes pierdes
+AH-94:ah94-quickFlight_mp:ah94_4v4pvp:obj_0:info,Mission objective info.,First team to 24 deaths loses.,El primer equipo en llegar a 24 muertes pierde
+ah94-quickFlight_mp:ah94_mpFreeFlight_name,Name of a mission.,AH-94 Free Flight,AH-94 Vuelo Libre
+ah94-quickFlight_mp:ah94_mpFreeFlight_description,Description of a mission.,"16 pilots, 8 choppers, 0 objectives.","16 pilotos, 8 helis, 0 objetivos."
+ah94-quickFlight_mp:arcticAssault_name,Name of a mission.,Arctic Assault,Asalto Ártico
+ah94-quickFlight_mp:arcticAssault_description,Description of a mission.,Scout targets for artillery and destroy anything that remains.,Avista enemigos para la artillería y destruye lo que quede.
+AH-94:ah94-quickFlight_mp:arcticAssault:obj_0:name,A mission objective name,Artillery Targets,Objetivos Artillería
+AH-94:ah94-quickFlight_mp:arcticAssault:obj_0:info,Mission objective info.,Destroy any remaining targets at the waypoint.,Destruye lo que quede en el punto.
+AH-94:ah94-quickFlight_mp:arcticAssault:obj_1:name,A mission objective name,Armored Targets,Objetivos Blindados
+AH-94:ah94-quickFlight_mp:arcticAssault:obj_1:info,Mission objective info.,Destroy the armored group moving towards our troops.,Destruye el grupo blindado moviendose hacia nuestras tropas.
+AH-94:ah94-quickFlight_mp:arcticAssault:obj_2:name,A mission objective name,Find Targets,Encuentra Objetivos
+AH-94:ah94-quickFlight_mp:arcticAssault:obj_2:info,Mission objective info.,Pinpoint the location of targets at the waypoint.,Localización precisa de los objetivos en el punto.
+AH-94:ah94-quickFlight_mp:arcticAssault:obj_3:name,A mission objective name,Destroy Targets,Destruye Objetivos
+AH-94:ah94-quickFlight_mp:arcticAssault:obj_3:info,Mission objective info.,Destroy the targets you found. Artillery will assist.,Destruye los objetivos que encuentres. La artillería ayudará.
+AH-94:ah94-quickFlight_mp:arcticAssault:obj_4:name,A mission objective name,Destroy MAD-4,Destruye MAD-4
+AH-94:ah94-quickFlight_mp:arcticAssault:obj_4:info,Mission objective info.,Destroy enemy air defenses to allow bombers to pass.,Destruye las defensas aéreas enemigas para permitir a los bombarderos pasar.
+AH-94:ah94-quickFlight_mp:arcticAssault:obj_5:name,A mission objective name,RTB,VAB
+AH-94:ah94-quickFlight_mp:arcticAssault:obj_5:info,Mission objective info.,Return to the FARP.,Volver a la FARP
+ah94-quickFlight_mp:flightPractice_name,Name of a mission.,Flight Practice,Práctica de vuelo
+ah94-quickFlight_mp:flightPractice_description,Description of a mission.,"Practice take off, flight, and landing in various locations.","Practica el despegue, vuelo y aterrizaje en varias localizaciones."
+AH-94:ah94-quickFlight_mp:flightPractice:obj_0:name,A mission objective name,Take Off,Despega
+AH-94:ah94-quickFlight_mp:flightPractice:obj_0:info,Mission objective info.,Take off to 50ft.,Despega a 50ft.
+AH-94:ah94-quickFlight_mp:flightPractice:obj_1:name,A mission objective name,Land Pad 1,Aterriza en Pad 1
+AH-94:ah94-quickFlight_mp:flightPractice:obj_1:info,Mission objective info.,Land on the same pad you took off from.,Aterriza en el mismo Pad del que despegaste.
+AH-94:ah94-quickFlight_mp:flightPractice:obj_2:name,A mission objective name,Short Hop,Pequeño Salto
+AH-94:ah94-quickFlight_mp:flightPractice:obj_2:info,Mission objective info.,Land on Pad 2,Aterriza en Pad 2
+AH-94:ah94-quickFlight_mp:flightPractice:obj_3:name,A mission objective name,Medium Hop,Salto Medio
+AH-94:ah94-quickFlight_mp:flightPractice:obj_3:info,Mission objective info.,Slight turn to Pad 3,Gira ligeramente al Pad 3
+AH-94:ah94-quickFlight_mp:flightPractice:obj_4:name,A mission objective name,Long Hop,Gran Salto
+AH-94:ah94-quickFlight_mp:flightPractice:obj_4:info,Mission objective info.,Long hop to pad 4.  Small pad!,Gran salto al Pad 4. ¡Es pequeño!
+AH-94:ah94-quickFlight_mp:flightPractice:obj_5:name,A mission objective name,Tight Spot,Espacio Reducido
+AH-94:ah94-quickFlight_mp:flightPractice:obj_5:info,Mission objective info.,Land on the pad between the buildings.,Aterriza en el Pad entre los edificios.
+AH-94:ah94-quickFlight_mp:flightPractice:obj_6:name,A mission objective name,Rooftop 1,Tejado 1
+AH-94:ah94-quickFlight_mp:flightPractice:obj_6:info,Mission objective info.,Land on the rooftop.,Aterriza en el tejado.
+AH-94:ah94-quickFlight_mp:flightPractice:obj_7:name,A mission objective name,Rooftop 2,Tejado 2
+AH-94:ah94-quickFlight_mp:flightPractice:obj_7:info,Mission objective info.,Land on the rooftop 2.,Aterriza en el tejado 2.
+AH-94:ah94-quickFlight_mp:flightPractice:obj_8:name,A mission objective name,Dock Pad,Puerto Pad
 AH-94:ah94-quickFlight_mp:flightPractice:obj_8:info,Mission objective info.,,
-AH-94:ah94-quickFlight_mp:flightPractice:obj_9:name,A mission objective name,Cross Country,
-AH-94:ah94-quickFlight_mp:flightPractice:obj_9:info,Mission objective info.,Land on the rooftop in the next city.,
-AH-94:ah94-quickFlight_mp:flightPractice:obj_10:name,A mission objective name,Cruiser,
-AH-94:ah94-quickFlight_mp:flightPractice:obj_10:info,Mission objective info.,Land on the cruiser deck.,
-ah94-quickFlight_mp:smallArms_name,Name of a mission.,Small Arms,
-ah94-quickFlight_mp:smallArms_description,Description of a mission.,Attack lightly defended enemy encampments.,
-AH-94:ah94-quickFlight_mp:smallArms:obj_0:name,A mission objective name,Target Outpost A,
-AH-94:ah94-quickFlight_mp:smallArms:obj_0:info,Mission objective info.,Destroy all units at the waypoint.,
-AH-94:ah94-quickFlight_mp:smallArms:obj_1:name,A mission objective name,Target Outpost B,
-AH-94:ah94-quickFlight_mp:smallArms:obj_1:info,Mission objective info.,Destroy all units at the waypoint.,
-AH-94:ah94-quickFlight_mp:smallArms:obj_2:name,A mission objective name,Recon,
-AH-94:ah94-quickFlight_mp:smallArms:obj_2:info,Mission objective info.,Fly to the designated area.,
-AH-94:ah94-quickFlight_mp:smallArms:obj_3:name,A mission objective name,Find Targets,
-AH-94:ah94-quickFlight_mp:smallArms:obj_3:info,Mission objective info.,Use TADS to get an ID on targets in the area.,
-AH-94:ah94-quickFlight_mp:smallArms:obj_4:name,A mission objective name,Destroy Radar,
-AH-94:ah94-quickFlight_mp:smallArms:obj_4:info,Mission objective info.,Destroy the radar on the mountain site.,
-AH-94:ah94-quickFlight_mp:smallArms:obj_5:name,A mission objective name,RTB,
-AH-94:ah94-quickFlight_mp:smallArms:obj_5:info,Mission objective info.,Land anywhere at base.,
-ah94-quickFlight_mp:surpriseAttack_name,Name of a mission.,Surprise Attack,
-ah94-quickFlight_mp:surpriseAttack_description,Description of a mission.,Surprise the enemy with a quick and sneaky attack on their airbase.,
-AH-94:ah94-quickFlight_mp:surpriseAttack:obj_0:name,A mission objective name,Destroy Aircraft,
-AH-94:ah94-quickFlight_mp:surpriseAttack:obj_0:info,Mission objective info.,Wait for bomber to land then destroy the aircraft before they take off!,
-AH-94:ah94-quickFlight_mp:surpriseAttack:obj_1:name,A mission objective name,RTB,
-AH-94:ah94-quickFlight_mp:surpriseAttack:obj_1:info,Mission objective info.,Return to the FARP.,
-ah94-quickFlight_mp:Target Practice_name,Name of a mission.,Target Practice,
-ah94-quickFlight_mp:Target Practice_description,Description of a mission.,Practice using the AH-94's weapons on various targets.,
-AH-94:ah94-quickFlight_mp:Target Practice:obj_0:name,A mission objective name,Beach Targets,
-AH-94:ah94-quickFlight_mp:Target Practice:obj_0:info,Mission objective info.,Destroy the stationary targets at the beach.,
-AH-94:ah94-quickFlight_mp:Target Practice:obj_1:name,A mission objective name,Downtown MAD Targets,
-AH-94:ah94-quickFlight_mp:Target Practice:obj_1:info,Mission objective info.,Destroy the MAD-4 launchers stationed between the skyscrapers.,
-AH-94:ah94-quickFlight_mp:Target Practice:obj_2:name,A mission objective name,Moving Targets 1,
-AH-94:ah94-quickFlight_mp:Target Practice:obj_2:info,Mission objective info.,Destroy the column of tanks driving around the suburbs.,
-AH-94:ah94-quickFlight_mp:Target Practice:obj_3:name,A mission objective name,Moving Targets 2,
-AH-94:ah94-quickFlight_mp:Target Practice:obj_3:info,Mission objective info.,Destroy the column of tanks driving around downtown.,
-AH-94:ah94-quickFlight_mp:Target Practice:obj_4:name,A mission objective name,Oil Platform Targets,
-AH-94:ah94-quickFlight_mp:Target Practice:obj_4:info,Mission objective info.,Neutralize the soldiers occupying the oil platform.,
-AH-94:ah94-quickFlight_mp:Target Practice:obj_5:name,A mission objective name,Destroy Boats,
-AH-94:ah94-quickFlight_mp:Target Practice:obj_5:info,Mission objective info.,Destroy the boats in the channel.,
-AH-94:ah94-quickFlight_mp:Target Practice:obj_7:name,A mission objective name,Destroy Air Targets,
-AH-94:ah94-quickFlight_mp:Target Practice:obj_7:info,Mission objective info.,Destroy the air targets patrolling the channel.,
+AH-94:ah94-quickFlight_mp:flightPractice:obj_9:name,A mission objective name,Cross Country,Travesía
+AH-94:ah94-quickFlight_mp:flightPractice:obj_9:info,Mission objective info.,Land on the rooftop in the next city.,Aterriza en el tejado de la siguiente ciudad.
+AH-94:ah94-quickFlight_mp:flightPractice:obj_10:name,A mission objective name,Cruiser,Crucero
+AH-94:ah94-quickFlight_mp:flightPractice:obj_10:info,Mission objective info.,Land on the cruiser deck.,Aterriza en la cubierta del crucero.
+ah94-quickFlight_mp:smallArms_name,Name of a mission.,Small Arms,Armas ligeras
+ah94-quickFlight_mp:smallArms_description,Description of a mission.,Attack lightly defended enemy encampments.,Atacas campamentos enemigos ligeramente defendidos.
+AH-94:ah94-quickFlight_mp:smallArms:obj_0:name,A mission objective name,Target Outpost A,Objetivo puesto avanzado A
+AH-94:ah94-quickFlight_mp:smallArms:obj_0:info,Mission objective info.,Destroy all units at the waypoint.,Destruye todas las unidades en el punto.
+AH-94:ah94-quickFlight_mp:smallArms:obj_1:name,A mission objective name,Target Outpost B,Objetivo puesto avanzado B
+AH-94:ah94-quickFlight_mp:smallArms:obj_1:info,Mission objective info.,Destroy all units at the waypoint.,Destruye todas las unidades en el punto.
+AH-94:ah94-quickFlight_mp:smallArms:obj_2:name,A mission objective name,Recon,Reconocimiento
+AH-94:ah94-quickFlight_mp:smallArms:obj_2:info,Mission objective info.,Fly to the designated area.,Vuela al área designada
+AH-94:ah94-quickFlight_mp:smallArms:obj_3:name,A mission objective name,Find Targets,Encuentra Objetivos
+AH-94:ah94-quickFlight_mp:smallArms:obj_3:info,Mission objective info.,Use TADS to get an ID on targets in the area.,Usa el TADS para obtener un ID del objetivo en el área.
+AH-94:ah94-quickFlight_mp:smallArms:obj_4:name,A mission objective name,Destroy Radar,Destruye Radar
+AH-94:ah94-quickFlight_mp:smallArms:obj_4:info,Mission objective info.,Destroy the radar on the mountain site.,Destruye el radar en el sitio de montaña.
+AH-94:ah94-quickFlight_mp:smallArms:obj_5:name,A mission objective name,RTB,VAB
+AH-94:ah94-quickFlight_mp:smallArms:obj_5:info,Mission objective info.,Land anywhere at base.,Aterriza en cualquier sitio de la base.
+ah94-quickFlight_mp:surpriseAttack_name,Name of a mission.,Surprise Attack,Ataque Sorpresa
+ah94-quickFlight_mp:surpriseAttack_description,Description of a mission.,Surprise the enemy with a quick and sneaky attack on their airbase.,Sorprende al enemigo con un ataque rápido y sigiloso en su base aérea.
+AH-94:ah94-quickFlight_mp:surpriseAttack:obj_0:name,A mission objective name,Destroy Aircraft,Destruye Aeronave
+AH-94:ah94-quickFlight_mp:surpriseAttack:obj_0:info,Mission objective info.,Wait for bomber to land then destroy the aircraft before they take off!,¡Espera a que el bombardero aterrice y destruyelo antes de que despegue de nuevo!
+AH-94:ah94-quickFlight_mp:surpriseAttack:obj_1:name,A mission objective name,RTB,VAB
+AH-94:ah94-quickFlight_mp:surpriseAttack:obj_1:info,Mission objective info.,Return to the FARP.,Volver al PAAF
+ah94-quickFlight_mp:Target Practice_name,Name of a mission.,Target Practice,Práctica de tiro
+ah94-quickFlight_mp:Target Practice_description,Description of a mission.,Practice using the AH-94's weapons on various targets.,Practica usando el armamento del AHG-94 en varios objetivos.
+AH-94:ah94-quickFlight_mp:Target Practice:obj_0:name,A mission objective name,Beach Targets,Objetivos Playa
+AH-94:ah94-quickFlight_mp:Target Practice:obj_0:info,Mission objective info.,Destroy the stationary targets at the beach.,Destruye los objetivos estacionarios en la playa.
+AH-94:ah94-quickFlight_mp:Target Practice:obj_1:name,A mission objective name,Downtown MAD Targets,Objetivos MAD centro ciudad
+AH-94:ah94-quickFlight_mp:Target Practice:obj_1:info,Mission objective info.,Destroy the MAD-4 launchers stationed between the skyscrapers.,Destruye los MAD-4 estacionados entre los rascacielos.
+AH-94:ah94-quickFlight_mp:Target Practice:obj_2:name,A mission objective name,Moving Targets 1,Objetivos en Movimiento 1
+AH-94:ah94-quickFlight_mp:Target Practice:obj_2:info,Mission objective info.,Destroy the column of tanks driving around the suburbs.,Destruye la columna de blindados moviendose por el centro de la ciudad.
+AH-94:ah94-quickFlight_mp:Target Practice:obj_3:name,A mission objective name,Moving Targets 2,Objetivos en Movimiento 2
+AH-94:ah94-quickFlight_mp:Target Practice:obj_3:info,Mission objective info.,Destroy the column of tanks driving around downtown.,Destruye la columna de blindados moviendose por el centro de la ciudad.
+AH-94:ah94-quickFlight_mp:Target Practice:obj_4:name,A mission objective name,Oil Platform Targets,Objetivos en Plat. Petr.
+AH-94:ah94-quickFlight_mp:Target Practice:obj_4:info,Mission objective info.,Neutralize the soldiers occupying the oil platform.,Neutraliza los soldados ocupando la plataforma petrolífera.
+AH-94:ah94-quickFlight_mp:Target Practice:obj_5:name,A mission objective name,Destroy Boats,Destruye barcos
+AH-94:ah94-quickFlight_mp:Target Practice:obj_5:info,Mission objective info.,Destroy the boats in the channel.,Destruye los barcos en el canal.
+AH-94:ah94-quickFlight_mp:Target Practice:obj_7:name,A mission objective name,Destroy Air Targets,Destruye obj. aéreos
+AH-94:ah94-quickFlight_mp:Target Practice:obj_7:info,Mission objective info.,Destroy the air targets patrolling the channel.,Destruye los objetivos aéreos patrullando el canal.
 ah94-quickFlight_mp_ah94_mpFreeFlight_b0,Text from a mission briefing.,"Free Flight
 
-- No objectives",
+- No objectives","Vuelo libre
+
+-Sin Objetivos"
 ah94-quickFlight_mp_arcticAssault_b0,Text from a mission briefing.,"We're in the final stages of the assault on the enemy base.
 
-We have the enemy right where we want them -- a small valley within range of our artillery.",
+We have the enemy right where we want them -- a small valley within range of our artillery.","Estamos en las etapas finales del asalto a la base enemiga.
+
+Tenemos al enemigo justo donde lo queremos: un valle estrecho dentro del alcance de nuestra artillería."
 ah94-quickFlight_mp_arcticAssault_b1,Text from a mission briefing.,"We'll begin firing rocket artillery and need you to scout out the enemy position to confirm their destruction.
 
-Your job will be to clean up any targets that remain after the artillery barrage.",
-ah94-quickFlight_mp_arcticAssault_b2,Text from a mission briefing.,"Once the main enemy battalion has been destroyed, we'll have you scout out and destroy a few other secondary targets to support our ground forces and clear the way for our bombers.",
-ah94-quickFlight_mp_arcticAssault_b3,Text from a mission briefing.,Your role is crucial in this final push towards victory. Good luck!,
-ah94-quickFlight_mp_flightPractice_b0,Text from a mission briefing.,Practice taking off and landing in various locations.,
-ah94-quickFlight_mp_flightPractice_b1,Text from a mission briefing.,Just follow each waypoint. Can you make each landing smoother or more efficient than the last?,
-ah94-quickFlight_mp_flightPractice_b2,Text from a mission briefing.,Finish the mission by landing on the moving cruiser's deck.,
+Your job will be to clean up any targets that remain after the artillery barrage.","Comenzaremos a disparar artillería de cohetes y necesitamos que reconozcas la posición enemiga para confirmar su destrucción.
+
+Tu trabajo será eliminar cualquier objetivo que quede tras el bombardeo."
+ah94-quickFlight_mp_arcticAssault_b2,Text from a mission briefing.,"Once the main enemy battalion has been destroyed, we'll have you scout out and destroy a few other secondary targets to support our ground forces and clear the way for our bombers.","Una vez destruido el batallón principal enemigo, te enviaremos a localizar y destruir algunos objetivos secundarios para apoyar a nuestras fuerzas terrestres y despejar el camino para nuestros bombarderos."
+ah94-quickFlight_mp_arcticAssault_b3,Text from a mission briefing.,Your role is crucial in this final push towards victory. Good luck!,Tu papel es crucial en este último empuje hacia la victoria. ¡Buena suerte!
+ah94-quickFlight_mp_flightPractice_b0,Text from a mission briefing.,Practice taking off and landing in various locations.,Practica despegues y aterrizajes en varias ubicaciones.
+ah94-quickFlight_mp_flightPractice_b1,Text from a mission briefing.,Just follow each waypoint. Can you make each landing smoother or more efficient than the last?,Solo sigue cada punto de ruta. ¿Puedes hacer cada aterrizaje más suave o eficiente que el anterior?
+ah94-quickFlight_mp_flightPractice_b2,Text from a mission briefing.,Finish the mission by landing on the moving cruiser's deck.,Termina la misión aterrizando en la cubierta del crucero en movimiento.
 ah94-quickFlight_mp_smallArms_b0,Text from a mission briefing.,"Welcome!
 
 I know you've been itching for a bit of action so I have a few tasks lined up for you today.
 
-Let's get started.",
+Let's get started.","¡Bienvenido!
+
+Sé que tienes ganas de un poco de acción, así que tengo unas cuantas tareas preparadas para ti hoy.
+
+Vamos a empezar."
 ah94-quickFlight_mp_smallArms_b1,Text from a mission briefing.,"A huge mountain range divides us from the enemy territory, so we usually don't get too much activity in the area.
 
-Recently we began spotting small groups passing through and setting up small camps on our side of the ridge.",
+Recently we began spotting small groups passing through and setting up small camps on our side of the ridge.","Una enorme cordillera nos separa del territorio enemigo, así que normalmente no hay mucha actividad en la zona.
+
+Recientemente empezamos a detectar pequeños grupos cruzando y estableciendo campamentos en nuestro lado de la cresta."
 ah94-quickFlight_mp_smallArms_b2,Text from a mission briefing.,"They appear to be setting up forward operating bases to service their VTOL capable attack aircraft.
 
-They are still early in the preparation stage so we should attack now before they get too fortified.",
+They are still early in the preparation stage so we should attack now before they get too fortified.","Parece que están estableciendo bases operativas avanzadas para dar soporte a sus aeronaves de ataque con capacidad VTOL.
+
+Aún están en una fase temprana de preparación, así que debemos atacar ahora antes de que se fortifiquen demasiado."
 ah94-quickFlight_mp_smallArms_b3,Text from a mission briefing.,"We currently have positive intel on two camps.  We know where they are, and that they're only equipped with small arms, so this should be a breeze for you.
 
-Their locations are available in the objective data.",
+Their locations are available in the objective data.","Actualmente tenemos información confirmada sobre dos campamentos. Sabemos dónde están y que solo están equipados con armas ligeras, así que esto debería ser pan comido para ti.
+
+Sus ubicaciones están disponibles en los datos de objetivos."
 ah94-quickFlight_mp_smallArms_b4,Text from a mission briefing.,"After you clear out those sites, there will be one more matter we need to look into.  
 
-We are aware of transport activity in the high mountain region so we'll have you go and perform some recon.  Be sure to bring enough fuel.",
+We are aware of transport activity in the high mountain region so we'll have you go and perform some recon.  Be sure to bring enough fuel.","Después de despejar esos sitios, habrá un asunto más que necesitamos investigar.
+
+Sabemos de actividad de transporte en la región montañosa alta, así que te enviaremos a hacer reconocimiento. Asegúrate de llevar suficiente combustible."
 ah94-quickFlight_mp_smallArms_b5,Text from a mission briefing.,"Absolutely never go beyond the mountain range and into the plains.
 
-Beyond that point is the enemy territory which is heavily defended by long range air defenses and fighters.",
+Beyond that point is the enemy territory which is heavily defended by long range air defenses and fighters.","Jamás cruces la cordillera ni entres en las llanuras.
+
+Más allá está el territorio enemigo, fuertemente defendido por defensas aéreas de largo alcance y cazas."
 ah94-quickFlight_mp_smallArms_b6,Text from a mission briefing.,"Summary
  Objectives
  - Destroy all targets at sites A and B
  - Perform recon in the high mountains
  Threats
  - Small arms fire
-- MANPADS",
+- MANPADS","Resumen
+Objetivos
+-Destruir todos los objetivos en los sitios A y B
+-Realizar reconocimiento en las montañas altas
+
+Amenazas
+-Fuego de armas ligeras
+-MANPADS"
 ah94-quickFlight_mp_surpriseAttack_b0,Text from a mission briefing.,"For this mission, you will need to act quickly and quietly.
 
 The enemy plans to launch several groups of aircraft from their base.
 
-Your objective is to destroy all of these aircraft before they take off.",
+Your objective is to destroy all of these aircraft before they take off.","Para esta misión, deberás actuar rápida y silenciosamente.
+
+El enemigo planea lanzar varios grupos de aeronaves desde su base.
+
+Tu objetivo es destruir todas esas aeronaves antes de que despeguen."
 ah94-quickFlight_mp_surpriseAttack_b1,Text from a mission briefing.,"You will be taking off from a forward arming and refueling point (FARP) about 30 miles from the target.
 
-Fly low and make your way to the to the airbase undetected.",
+Fly low and make your way to the to the airbase undetected.","Despegarás desde un punto avanzado de armamento y reabastecimiento (FARP) a unas 30 millas del objetivo.
+
+Vuela bajo y dirígete a la base aérea sin ser detectado."
 ah94-quickFlight_mp_surpriseAttack_b2,Text from a mission briefing.,"A bomber is inbound to land at the airbase.  After it lands, the enemy fighters will begin to take off.  
 
-You will have this window to strike while all aircraft are still on the ground.",
-ah94-quickFlight_mp_surpriseAttack_b3,Text from a mission briefing.,"Beware that if they spot you before you are ready to attack, they may launch preemptively to defend themselves.",
+You will have this window to strike while all aircraft are still on the ground.","Un bombardero está en camino para aterrizar en la base aérea. Después de que aterrice, los cazas enemigos comenzarán a despegar.
+
+Tendrás esa ventana para atacar mientras todas las aeronaves aún están en tierra."
+ah94-quickFlight_mp_surpriseAttack_b3,Text from a mission briefing.,"Beware that if they spot you before you are ready to attack, they may launch preemptively to defend themselves.","Ten cuidado: si te detectan antes de que estés listo para atacar, podrían lanzar un despegue preventivo para defenderse."
 ah94-quickFlight_mp_surpriseAttack_b4,Text from a mission briefing.,"SUMMARY
 
 Primary Targets:
@@ -2813,317 +2918,338 @@ Primary Targets:
 Threats:
 - IR guided SAMs
 - Small arms fire
-- AAA",
+- AAA","RESUMEN
+
+Objetivos principales:
+-Aeronaves en tierra
+
+Amenazas:
+-SAMs guiados por infrarrojos
+-Fuego de armas ligeras
+-AAA"
 ah94-quickFlight_mp_Target Practice_b0,Text from a mission briefing.,"Practice using the AH-94's weapons on various targets.
 
 Targets will not shoot back so take your time to learn the equipment.
 
-Check the objectives data to find targets.",
-:example1_name,Name of a mission.,Dangerous Transport,
-:example1_description,Description of a mission.,Example AV-42C scenario.,
-AV-42C::example1:obj_0:name,A mission objective name,Pick-up,
-AV-42C::example1:obj_0:info,Mission objective info.,Pick up the soldiers at the waypoint.,
-AV-42C::example1:obj_1:name,A mission objective name,Drop Off,
-AV-42C::example1:obj_1:info,Mission objective info.,Transport the soldiers to the objective waypoint.,
-AV-42C::example1:obj_2:name,A mission objective name,CAS,
-AV-42C::example1:obj_2:info,Mission objective info.,Destroy the enemy units on the road towards our soldiers.,
-AV-42C::example1:obj_3:name,A mission objective name,RTB,
-AV-42C::example1:obj_3:info,Mission objective info.,Return to the carrier.,
-AV-42C::example1:obj_4:name,A mission objective name,Clear LZ,
-AV-42C::example1:obj_4:info,Mission objective info.,Destroy the units in the city by the landing zone.,
-:hmap2Test_name,Name of a mission.,Large Map Test,
-:hmap2Test_description,Description of a mission.,Strike enemy artillery. This mission is intended to test the performance of a large custom map.,
-F/A-26B::hmap2Test:obj_0:name,A mission objective name,Patrol,
-F/A-26B::hmap2Test:obj_0:info,Mission objective info.,"Form up with your air group and fly the patrol path, MSN-1",
-F/A-26B::hmap2Test:obj_1:name,A mission objective name,Strike,
-F/A-26B::hmap2Test:obj_1:info,Mission objective info.,Destroy the five artillery vehicles.,
-F/A-26B::hmap2Test:obj_2:name,A mission objective name,RTB,
-F/A-26B::hmap2Test:obj_2:info,Mission objective info.,Return to base.,
-setting_Interactable Tooltips,The name of a game option.,Interactable Tooltips,
-settingDescription_Interactable Tooltips,The description of a game option.,Show names of interactable objects when hovering over them.,
-setting_Unit Icons,The name of a game option.,Unit Icons,
-settingDescription_Unit Icons,The description of a game option.,Show team-colored icons on units.,
-setting_Body Physics,The name of a game option.,Body Physics,
-settingDescription_Body Physics,The description of a game option.,Pilot body is affected by g-forces. Nausea risk.,
-setting_Experimental Wind,The name of a game option.,Experimental Wind,
-settingDescription_Experimental Wind,The description of a game option.,EXPERIMENTAL: Dynamic wind up to 30 knots. Just a test!,
-setting_Tree Collisions,The name of a game option.,Tree Collisions,
-settingDescription_Tree Collisions,The description of a game option.,Player vehicle can collide with trees.,
-setting_Tailhook Physics,The name of a game option.,Tailhook Physics,
-settingDescription_Tailhook Physics,The description of a game option.,"Arrestor hook will collide with surface, bouncing and skipping slightly. Increased difficulty.",
-setting_Persistent S-Cam,The name of a game option.,Persistent S-Cam,
-settingDescription_Persistent S-Cam,The description of a game option.,"Start each mission with the spectator camera enabled, if it was enabled on the previous flight.",
-setting_Bobblehead,The name of a game option.,Bobblehead,
-settingDescription_Bobblehead,The description of a game option.,Show the BD bobblehead in the cockpit.,
-setting_Thumbstick Mode,The name of a game option.,Thumbstick Mode,
-settingDescription_Thumbstick Mode,The description of a game option.,Use controller thumbstick instead of touch-pad.,
-setting_Thumb Control Rudder,The name of a game option.,Thumb Control Rudder,
-settingDescription_Thumb Control Rudder,The description of a game option.,Use throttle thumb control for rudder instead of joystick-twist.,
-setting_Hardware Control Rudder,The name of a game option.,Hardware Control Rudder,
-settingDescription_Hardware Control Rudder,The description of a game option.,Use hardware (rudder pedals) for rudder. Overrides other settings.,
-setting_Toggle Grip,The name of a game option.,Toggle Grip,
-settingDescription_Toggle Grip,The description of a game option.,Allow toggling throttle/joystick grip by tapping grip button. Holding grip button still allows releasing after letting go.,
-setting_Flight Control Haptics,The name of a game option.,Flight Control Haptics,
-settingDescription_Flight Control Haptics,The description of a game option.,Set the intensity of joystick/throttle haptic feedback.,
-setting_Hide FPV Helmet,The name of a game option.,Hide FPV Helmet,
-settingDescription_Hide FPV Helmet,The description of a game option.,Don't show the pilot helmet from first person view.,
-setting_Fullscreen NVG,The name of a game option.,Fullscreen NVG,
-settingDescription_Fullscreen NVG,The description of a game option.,Apply NVG effect to full field of view.,
-setting_Multi-Display Mode,The name of a game option.,Multi-Display Mode,
-settingDescription_Multi-Display Mode,The description of a game option.,Display spectator camera on the second display.,
-setting_BGM Volume,The name of a game option.,BGM Volume,
-settingDescription_BGM Volume,The description of a game option.,The volume of background music in menus and missions.,
-setting_Voice Volume,The name of a game option.,Voice Volume,
-settingDescription_Voice Volume,The description of a game option.,The volume of incoming unfiltered voice chat.,
-setting_Skeleton Fingers,The name of a game option.,Skeleton Fingers,
-settingDescription_Skeleton Fingers,The description of a game option.,Animate hand poses using SteamVR's skeleton poses feature. Recommended for Index controllers only.,
-setting_Test Quicksave,The name of a game option.,Test Quicksave,
-settingDescription_Test Quicksave,The description of a game option.,Opt-in to test the quicksave/load feature. Please report issues to developer.,
-setting_Cloud Diagnostics,The name of a game option.,Cloud Diagnostics,
-settingDescription_Cloud Diagnostics,The description of a game option.,Opt-in to allow anonymous error reports to be automatically sent to the developer.,
-setting_Persistent Seat Position,The name of a game option.,Persistent Seat Position,
-settingDescription_Persistent Seat Position,The description of a game option.,Attempt to recall the seated position when starting the game.,
-pilotSelect_totalFlightTime,Title for label showing the player's total flight time.,Total Flight Time,
-pilotSelect_lastVehicle,Title for label showing the vehicle the player has most recently flown.,Last Vehicle,
+Check the objectives data to find targets.","Practica el uso de las armas del AH-94 en varios objetivos.
+
+Los blancos no devolverán el fuego, así que tómate tu tiempo para familiarizarte con el equipo.
+
+Consulta los datos de objetivos para localizar los blancos."
+:example1_name,Name of a mission.,Dangerous Transport,Transporte Peligroso
+:example1_description,Description of a mission.,Example AV-42C scenario.,Escenario de ejemplo AV-42C.
+AV-42C::example1:obj_0:name,A mission objective name,Pick-up,Recoge
+AV-42C::example1:obj_0:info,Mission objective info.,Pick up the soldiers at the waypoint.,Recoge a los soldados en el punto.
+AV-42C::example1:obj_1:name,A mission objective name,Drop Off,Suelta
+AV-42C::example1:obj_1:info,Mission objective info.,Transport the soldiers to the objective waypoint.,Transporta a los soldados al punto objetivo.
+AV-42C::example1:obj_2:name,A mission objective name,CAS,CAS
+AV-42C::example1:obj_2:info,Mission objective info.,Destroy the enemy units on the road towards our soldiers.,Destruye las unidades enemigas en la carretera frente a nuestros soldados.
+AV-42C::example1:obj_3:name,A mission objective name,RTB,VAB
+AV-42C::example1:obj_3:info,Mission objective info.,Return to the carrier.,Volver al portaviones.
+AV-42C::example1:obj_4:name,A mission objective name,Clear LZ,Limpia LZ
+AV-42C::example1:obj_4:info,Mission objective info.,Destroy the units in the city by the landing zone.,Destruye las unidades en la ciudad cerca de la zona de aterrizaje.
+:hmap2Test_name,Name of a mission.,Large Map Test,Test Gran Mapa
+:hmap2Test_description,Description of a mission.,Strike enemy artillery. This mission is intended to test the performance of a large custom map.,Ataca la artillería enemiga. Esta misión es para probar el rendimiento de un mapa customizado grande
+F/A-26B::hmap2Test:obj_0:name,A mission objective name,Patrol,Patrulla
+F/A-26B::hmap2Test:obj_0:info,Mission objective info.,"Form up with your air group and fly the patrol path, MSN-1","Forma con tu ala y vuela sobre el camino de patrilla, MSN-1"
+F/A-26B::hmap2Test:obj_1:name,A mission objective name,Strike,Ataca
+F/A-26B::hmap2Test:obj_1:info,Mission objective info.,Destroy the five artillery vehicles.,Destruye las 5 artillerías autopropulsadas.
+F/A-26B::hmap2Test:obj_2:name,A mission objective name,RTB,VAB
+F/A-26B::hmap2Test:obj_2:info,Mission objective info.,Return to base.,Volver a base.
+setting_Interactable Tooltips,The name of a game option.,Interactable Tooltips,Descripciones emergentes interactivas
+settingDescription_Interactable Tooltips,The description of a game option.,Show names of interactable objects when hovering over them.,Muestra nombres de los objetos interactuables cuando pasas la mano por encima
+setting_Unit Icons,The name of a game option.,Unit Icons,Icono Unidades
+settingDescription_Unit Icons,The description of a game option.,Show team-colored icons on units.,Muestra iconos de color sobre las unidades.
+setting_Body Physics,The name of a game option.,Body Physics,Física Cuerpos
+settingDescription_Body Physics,The description of a game option.,Pilot body is affected by g-forces. Nausea risk.,El cuerpo del piloto es afectado por las fuerzas G. Riesgo de náuseas.
+setting_Experimental Wind,The name of a game option.,Experimental Wind,Viento experimental
+settingDescription_Experimental Wind,The description of a game option.,EXPERIMENTAL: Dynamic wind up to 30 knots. Just a test!,EXPERIMENTAL: Viento dinámico de hasta 30 nudos. ¡Solo para probar!
+setting_Tree Collisions,The name of a game option.,Tree Collisions,Colisión Árboles
+settingDescription_Tree Collisions,The description of a game option.,Player vehicle can collide with trees.,El vehículo del jugador puede colisionar con árboles.
+setting_Tailhook Physics,The name of a game option.,Tailhook Physics,Físicas Gancho Detención
+settingDescription_Tailhook Physics,The description of a game option.,"Arrestor hook will collide with surface, bouncing and skipping slightly. Increased difficulty.","El gancho de detención colisionará con el suelo, rebotando y saltando ligeramente. Dificultad Aumentada."
+setting_Persistent S-Cam,The name of a game option.,Persistent S-Cam,E-Cam Persistente
+settingDescription_Persistent S-Cam,The description of a game option.,"Start each mission with the spectator camera enabled, if it was enabled on the previous flight.","Empieza cada misión con la cámara de espectador activada, si fué activada en un vuelo previo."
+setting_Bobblehead,The name of a game option.,Bobblehead,Figurita
+settingDescription_Bobblehead,The description of a game option.,Show the BD bobblehead in the cockpit.,Muestra la figurita de BD en la cabina.
+setting_Thumbstick Mode,The name of a game option.,Thumbstick Mode,Modo Thumbstick
+settingDescription_Thumbstick Mode,The description of a game option.,Use controller thumbstick instead of touch-pad.,Usa el thumbstick del controlador en lugar del touch-pad.
+setting_Thumb Control Rudder,The name of a game option.,Thumb Control Rudder,Timón controlado con el pulgar
+settingDescription_Thumb Control Rudder,The description of a game option.,Use throttle thumb control for rudder instead of joystick-twist.,Usa el control del pulgar del acelerador para controlar el timón en lugar de girar el joystick derecho.
+setting_Hardware Control Rudder,The name of a game option.,Hardware Control Rudder,Hardware de Control de Timón
+settingDescription_Hardware Control Rudder,The description of a game option.,Use hardware (rudder pedals) for rudder. Overrides other settings.,Usa hardware (pedales) para timonear. Anula otras configuraciones.
+setting_Toggle Grip,The name of a game option.,Toggle Grip,Alternar Grip
+settingDescription_Toggle Grip,The description of a game option.,Allow toggling throttle/joystick grip by tapping grip button. Holding grip button still allows releasing after letting go.,Permite alternar Acelerador/Joystick presionando el botón de agarre. Mantener el botón de agarre aun permite soltarlo si dejas de agarrar.
+setting_Flight Control Haptics,The name of a game option.,Flight Control Haptics,Hápticos de control de vuelo
+settingDescription_Flight Control Haptics,The description of a game option.,Set the intensity of joystick/throttle haptic feedback.,Ajusta la intensidad del joystick/acelerador.
+setting_Hide FPV Helmet,The name of a game option.,Hide FPV Helmet,Esconder la FPV del casco
+settingDescription_Hide FPV Helmet,The description of a game option.,Don't show the pilot helmet from first person view.,No muestra el casco del piloto en primera persona.
+setting_Fullscreen NVG,The name of a game option.,Fullscreen NVG,VN Pantalla completa
+settingDescription_Fullscreen NVG,The description of a game option.,Apply NVG effect to full field of view.,Aplica el efecto de VN a todo el campo de visión.
+setting_Multi-Display Mode,The name of a game option.,Multi-Display Mode,Modo Multi-Display
+settingDescription_Multi-Display Mode,The description of a game option.,Display spectator camera on the second display.,Pone la cámara de espectador en el segundo display.
+setting_BGM Volume,The name of a game option.,BGM Volume,Volumen BGM
+settingDescription_BGM Volume,The description of a game option.,The volume of background music in menus and missions.,El volumen de la música de fondo en menús y misiones.
+setting_Voice Volume,The name of a game option.,Voice Volume,Volumen de Voces
+settingDescription_Voice Volume,The description of a game option.,The volume of incoming unfiltered voice chat.,El volumen de las voces sin filtrar del chat de voz.
+setting_Skeleton Fingers,The name of a game option.,Skeleton Fingers,Dedos Esqueleto
+settingDescription_Skeleton Fingers,The description of a game option.,Animate hand poses using SteamVR's skeleton poses feature. Recommended for Index controllers only.,"Anima poses de manos usando el SteamVR' Skeleton poses.
+Solo recomendado para usuarios de Index."
+setting_Test Quicksave,The name of a game option.,Test Quicksave,Prueba de guardado rápido
+settingDescription_Test Quicksave,The description of a game option.,Opt-in to test the quicksave/load feature. Please report issues to developer.,Opcional para probar la nueva función de guardados rápidos. Porfavor reporta problemas al desarrollador.
+setting_Cloud Diagnostics,The name of a game option.,Cloud Diagnostics,Diagnostico Cloud
+settingDescription_Cloud Diagnostics,The description of a game option.,Opt-in to allow anonymous error reports to be automatically sent to the developer.,Opcional para permitir reportes de errores anónimos para ser automáticamente enviados al desarrollador.
+setting_Persistent Seat Position,The name of a game option.,Persistent Seat Position,Posición del asiento persistente
+settingDescription_Persistent Seat Position,The description of a game option.,Attempt to recall the seated position when starting the game.,Intentar recordar la posición sentada al iniciar el juego.
+pilotSelect_totalFlightTime,Title for label showing the player's total flight time.,Total Flight Time,Tiempo total de Vuelo
+pilotSelect_lastVehicle,Title for label showing the vehicle the player has most recently flown.,Last Vehicle,Último Vehículo
 setting_enabled,Label for an enabled option in settings UI,ON,
 setting_disabled,Label for a disabled option in settings UI,OFF,
-s_scenarios,,Scenarios,
-s_campaigns,,Campaigns,
-s_maps,,Maps,
-err_LogSteam,Error message for workshop browser,Must be logged into Steam!,
-err_wsConnect,Error message for workshop browser,Failed to connect to Steam Workshop!,
-err_scenarioNotFound,Error message for workshop browser,Scenario not found!,
-err_version,Error message for workshop browser,Incompatible game version!,
-vehicleConfig_denyOverBudget,Denial message for vehicle configurator,OVER BUDGET,
-vehicleConfig_repairOverBudget,Denial message for vehicle configurator,Insufficient funds to repair.,
-briefingUI_configure,Start button in mission briefing,Configure,
-briefingUI_fly,Start button in mission briefing,Fly,
-mfd_home,MFD home page button,Home,
-env_morning,Environment setting,Morning,
-env_day,Environment setting,Day,
-env_night,Environment setting,Night,
-credits_credits,Credits string,Credits,
-credits_developer,Credits string,Developer,
-credits_programming,Credits string,Programming,
-credits_modelling,Credits string,Modelling,
-credits_music,Credits string,Music,
-credits_voices,Credits string,Voices,
-credits_wingmen,Credits string,Wingmen,
-credits_groundCrew,Credits string,Ground Crew,
+s_scenarios,,Scenarios,Escenarios
+s_campaigns,,Campaigns,Campañas
+s_maps,,Maps,Mapas
+err_LogSteam,Error message for workshop browser,Must be logged into Steam!,¡Debes tener sesión iniciada en Steam!
+err_wsConnect,Error message for workshop browser,Failed to connect to Steam Workshop!,¡Error al conectar con la Steam Workshop!
+err_scenarioNotFound,Error message for workshop browser,Scenario not found!,¡Escenario no encontrado!
+err_version,Error message for workshop browser,Incompatible game version!,¡Versiones de juego incompatibles!
+vehicleConfig_denyOverBudget,Denial message for vehicle configurator,OVER BUDGET,FUERA DE PRESUPUESTO
+vehicleConfig_repairOverBudget,Denial message for vehicle configurator,Insufficient funds to repair.,Fondos insuficientes para reparar.
+briefingUI_configure,Start button in mission briefing,Configure,Configurar
+briefingUI_fly,Start button in mission briefing,Fly,Volar
+mfd_home,MFD home page button,Home,Menú
+env_morning,Environment setting,Morning,Mañana
+env_day,Environment setting,Day,Día
+env_night,Environment setting,Night,Noche
+credits_credits,Credits string,Credits,Créditos
+credits_developer,Credits string,Developer,Desarrollador
+credits_programming,Credits string,Programming,Programador
+credits_modelling,Credits string,Modelling,Modelado
+credits_music,Credits string,Music,Música
+credits_voices,Credits string,Voices,Voces
+credits_wingmen,Credits string,Wingmen,Compañeros
+credits_groundCrew,Credits string,Ground Crew,Personal de Tierra
 credits_awacs,Credits string,AWACS,
 credits_atc,Credits string,,
-credits_pvtTesting,Credits string,Private Testing Volunteers,
-credits_translation,Credits string,Translation,
+credits_pvtTesting,Credits string,Private Testing Volunteers,Voluntariado para Pruebas privadas
+credits_translation,Credits string,Translation,Traducción
 credits_thanks,Credits string,"Special Thanks
 to everyone participating in
-the public_testing branch!",
-mission_completed,'x completed.' end-mission entry.,completed.,
-mission_failed,'x failed.' end-mission entry.,failed.,
-mission_hasReached,'{unit} has reached {waypoint}' end-mission entry for protect objective.  Must contain {0} and {1} variable indices.,{0} has reached {1}.,
-mission_vehicleDestroyed,End-mission entry for when vehicle was destroyed.,Vehicle was destroyed.,
-mission_ejected,End-mission entry for when pilot ejects.,Pilot has ejected.,
-mission_killedGForces,End-mission entry for when killed by g-forces,Killed by G-Forces,
+the public_testing branch!","¡Agradecimientos Especiales
+A todos los que participaron en
+la rama public_testing!"
+mission_completed,'x completed.' end-mission entry.,completed.,completada.
+mission_failed,'x failed.' end-mission entry.,failed.,fallida.
+mission_hasReached,'{unit} has reached {waypoint}' end-mission entry for protect objective.  Must contain {0} and {1} variable indices.,{0} has reached {1}.,{0} ha alcanzado {1}
+mission_vehicleDestroyed,End-mission entry for when vehicle was destroyed.,Vehicle was destroyed.,El vehículo fué destruido.
+mission_ejected,End-mission entry for when pilot ejects.,Pilot has ejected.,El piloto se ha ejectado.
+mission_killedGForces,End-mission entry for when killed by g-forces,Killed by G-Forces,Muerto por fuerzas G
 mission_minimum,Short for 'minimum' in objective description with multiple targets.,Min:,
-mission_targetDestroyed,Reason for failing a Join mission (target waypoint unit was killed),target destroyed,
-mission_failedToDefend,Reason for failing a Protect objective. Must contain variable index {0},Failed to defend {0},
-s_endMission_minsAgo,Label for quickload button 'minutes ago' in end-mission display 'Quick Load (x mins ago)',mins ago,
-av42c_tutorials:tut_av42c_agm:-950955607,Text from a tutorial.,Welcome to the air-to-ground missile tutorial!,
-av42c_tutorials:tut_av42c_agm:-628587264,Text from a tutorial.,Air-to-ground missiles (AGM) are useful for precisely hitting light to medium armored ground targets,
-av42c_tutorials:tut_av42c_agm:900650531,Text from a tutorial.,Open TGP,
-av42c_tutorials:tut_av42c_agm:1129220644,Text from a tutorial.,Power On,
-av42c_tutorials:tut_av42c_agm:-825542407,Text from a tutorial.,You will use the TGP to designate targets for the AGMs,
-av42c_tutorials:tut_av42c_agm:40209151,Text from a tutorial.,Arm weapons,
-av42c_tutorials:tut_av42c_agm:-1923603361,Text from a tutorial.,Switch to AGM-114,
-av42c_tutorials:tut_av42c_agm:-1227908506,Text from a tutorial.,"These are small, laser-guided, anti-tank missiles",
-av42c_tutorials:tut_av42c_agm:-355933041,Text from a tutorial.,"Since they home in on the laser point emitted by your TGP, you must maintain line of sight to the target until it hits",
-av42c_tutorials:tut_av42c_agm:50344960,Text from a tutorial.,"To fire it, designate a target using the TGP, point your aircraft at the target until the missile locks on, then pull the trigger to fire",
-av42c_tutorials:tut_av42c_agm:-1360693668,Text from a tutorial.,"You can also switch the missile seeker's uncage mode to MANUAL, which will allow you to fire at targets off boresight",
-av42c_tutorials:tut_av42c_agm:-1503618759,Text from a tutorial.,"In MANUAL mode, you hold the trigger to uncage the seeker, then press the weapon switch button to fire",
-av42c_tutorials:tut_av42c_agm:1042911135,Text from a tutorial.,Try shooting the targets around the mission waypoint using the AGM-114,
-av42c_tutorials:tut_av42c_agm:1384660116,Text from a tutorial.,"Remember, you need to maintain line of sight with your TGP in order to guide the missile to the target",
-av42c_tutorials:tut_av42c_agm:1453428147,Text from a tutorial.,Great! Now switch to the AGM-65,
-av42c_tutorials:tut_av42c_agm:-1735708293,Text from a tutorial.,"This is a larger, slightly heavier hitting anti-tank missile with a more advanced optical seeker",
-av42c_tutorials:tut_av42c_agm:-2052818574,Text from a tutorial.,"With this type of missile, you do not need to maintain a lock on the target after you fire at it",
-av42c_tutorials:tut_av42c_agm:798779502,Text from a tutorial.,"The fire-and-forget capability allows you to fire at multiple targets in one pass, or take cover after firing",
-av42c_tutorials:tut_av42c_agm:256667487,Text from a tutorial.,Try taking down the targets at the next waypoint and practice taking advantage of the fire-and-forget capability,
-av42c_tutorials:tut_av42c_agm:-568562802,Text from a tutorial.,Nice shooting!  This concludes the air-to-ground missile tutorial,
-fa26b_tutorials:tut_26_radar:-1152007029,Text from a tutorial.,Welcome to the Radar tutorial for the F/A-26,
-fa26b_tutorials:tut_26_radar:-1256886870,Text from a tutorial.,"Today, you will learn how to use the radar to find and track other aircraft, as well as designate targets for air to air missiles",
-fa26b_tutorials:tut_26_radar:12089749,Text from a tutorial.,Open the RADAR MFD page,
-fa26b_tutorials:tut_26_radar:-1499035627,Text from a tutorial.,Turn ON the radar,
-fa26b_tutorials:tut_26_radar:168404510,Text from a tutorial.,The display shows you a compressed representation of the radar's 120 degree field of view,
-fa26b_tutorials:tut_26_radar:-1576442623,Text from a tutorial.,The displayed range can be adjusted using the R+ and R- buttons,
-fa26b_tutorials:tut_26_radar:1184134746,Text from a tutorial.,Press R+ repeatedly until the display is at max range,
-fa26b_tutorials:tut_26_radar:636060045,Text from a tutorial.,"As the radar sweeps over other aircraft, they will be displayed as blue icons for friends and orange icons for foes",
-fa26b_tutorials:tut_26_radar:566777240,Text from a tutorial.,The left/right SCAN ANGLE can also be adjusted to allow the radar to scan more rapidly but in a smaller slice of the sky,
-fa26b_tutorials:tut_26_radar:-1341204802,Text from a tutorial.,Set the radar as SOI,
-fa26b_tutorials:tut_26_radar:-103120712,Text from a tutorial.,"Now, you can slew the target designator using the joystick's thumb control",
-fa26b_tutorials:tut_26_radar:1284478201,Text from a tutorial.,"Slew the designator over a contact, and press in on the center of the thumb control to start tracking it",
-fa26b_tutorials:tut_26_radar:-694142307,Text from a tutorial.,You can track up to 4 contacts while still being able to scan the rest of the sky,
-fa26b_tutorials:tut_26_radar:-1026100394,Text from a tutorial.,"They will appear as small circle on your HUD, along with their corresponding number",
-fa26b_tutorials:tut_26_radar:-813131710,Text from a tutorial.,"In order to lock a target for weapons, click on a track again using the designator, or press the numbered MFD button on the left",
-fa26b_tutorials:tut_26_radar:2035875223,Text from a tutorial.,"While a target is locked, the other tracks will continue to be displayed, but the radar will not be able to scan for new targets",
-fa26b_tutorials:tut_26_radar:-153465804,Text from a tutorial.,"Information about the locked target's bearing, range, altitude, airspeed, and aircraft type will appear on the bottom right of the display",
-fa26b_tutorials:tut_26_radar:2097160122,Text from a tutorial.,"Use the UNLCK button to unlock the target, and the CLR button to clear the tracks",
-fa26b_tutorials:tut_26_radar:-157117776,Text from a tutorial.,"For close in engagements, the radar can be switched to boresight mode using the MODE button",
-fa26b_tutorials:tut_26_radar:-116489118,Text from a tutorial.,"In this mode, the radar will point straight forward and lock onto the first contact it sees",
-fa26b_tutorials:tut_26_radar:1921067602,Text from a tutorial.,"If the radar is SOI, you can press the joystick thumb control to quickly unlock and find a new target",
-fa26b_tutorials:tut_26_radar:-2128388179,Text from a tutorial.,"Now for some weapons practice. Go back to scan mode and find, track, and lock the enemy aircraft.",
-fa26b_tutorials:tut_26_radar:-110964317,Text from a tutorial.,Good. Now arm your weapon system and switch to the AIM-120,
-fa26b_tutorials:tut_26_radar:1861317894,Text from a tutorial.,"On the HUD, the locked target will appear as a small square.  The small dot is the shot lead cue",
-fa26b_tutorials:tut_26_radar:1404162479,Text from a tutorial.,"When firing air to air missiles, aim for the lead cue to help the missile conserve energy as it steers toward the target",
-fa26b_tutorials:tut_26_radar:1341649093,Text from a tutorial.,The DLZ is displayed on the right side of the HUD. The missile should be fired when the target chevron lies between the min and max marks,
-fa26b_tutorials:tut_26_radar:731572550,Text from a tutorial.,Try shooting down the target.,
-fa26b_tutorials:tut_26_radar:-1955766950,Text from a tutorial.,Splash!  Good kill!,
-fa26b_tutorials:tut_26_radar:1669702430,Text from a tutorial.,"By tracking multiple contacts, you can fire up to 4 AIM-120s on separate targets as long as you maintain line of sight with each of them",
-fa26b_tutorials:tut_26_radar:1356151209,Text from a tutorial.,"When the AIM-120's time to impact counter displays the letter M, it has switched to active homing and you no longer need to track it.",
-fa26b_tutorials:tut_26_radar:-1605626095,Text from a tutorial.,"Now, try shooting down the rest of the enemy air targets.",
-fa26b_tutorials:tut_26_radar:797323745,Text from a tutorial.,Good job!,
-fa26b_tutorials:tut_26_sead:-1145857779,Text from a tutorial.,Out of missiles!  You hit some of the targets though!,
-fa26b_tutorials:tut_26_sead:-2102549622,Text from a tutorial.,Out of missiles!  You didn't hit anything.  Want to try again?,
-fa26b_tutorials:tut_26_sead:-292426932,Text from a tutorial.,Welcome to the SEAD tutorial!,
-fa26b_tutorials:tut_26_sead:47968318,Text from a tutorial.,SEAD stands for Suppression of Enemy Air Defenses,
-fa26b_tutorials:tut_26_sead:353600754,Text from a tutorial.,You will use a combination of radar detecting sensors and special weapons to disable SAM sites,
-fa26b_tutorials:tut_26_sead:273442107,Text from a tutorial.,"When a radar is searching for aircraft, it emits a signal that can be detected by your RWR",
-fa26b_tutorials:tut_26_sead:-1573979731,Text from a tutorial.,"The radar type, bearing, and approximate range is shown on the RWR display, relative to your position in the center",
-fa26b_tutorials:tut_26_sead:-641250893,Text from a tutorial.,Open the Anti-Radar Attack Display (ARAD),
-fa26b_tutorials:tut_26_sead:516981631,Text from a tutorial.,"This display shows the same information gathered by the RWR, but allows you to select targets for ARMs",
-fa26b_tutorials:tut_26_sead:229689139,Text from a tutorial.,You can also set radar sources to be displayed as diamonds in the HUD,
-fa26b_tutorials:tut_26_sead:-1327892664,Text from a tutorial.,"When you lower the AR visor, you'll be able to see all of the targets around you for better situational awareness",
-fa26b_tutorials:tut_26_sead:-1448861686,Text from a tutorial.,Set the ARAD as SOI,
-fa26b_tutorials:tut_26_sead:-842613568,Text from a tutorial.,Now you can use your joystick thumb control to slew the targeting cursor,
-fa26b_tutorials:tut_26_sead:-451981482,Text from a tutorial.,"Slew the cursor onto the enemy radar, then press in on the thumb control to set the target",
-fa26b_tutorials:tut_26_sead:588166704,Text from a tutorial.,A square will appear on the selected target in both the MFD and the HUD,
-fa26b_tutorials:tut_26_sead:60198174,Text from a tutorial.,Now arm the weapon system,
-fa26b_tutorials:tut_26_sead:63223606,Text from a tutorial.,Switch to the AGM-88,
-fa26b_tutorials:tut_26_sead:54082973,Text from a tutorial.,"This is a high speed, fire-and-forget anti-radiation missile (ARM)",
-fa26b_tutorials:tut_26_sead:-1408042184,Text from a tutorial.,"When fired, it will home in on the radar source designated in the ARAD",
-fa26b_tutorials:tut_26_sead:-686456908,Text from a tutorial.,"Once you have a target selected, all you need to do is fly toward the target, and fire once the missile is in range",
-fa26b_tutorials:tut_26_sead:-1438673069,Text from a tutorial.,Try taking out the SAM radars using the AGM-88,
-fa26b_tutorials:tut_26_sead:951869715,Text from a tutorial.,Great!  This is the end of the SEAD tutorial.,
-ah94-tutorials:ah94tut_intro:19422556,Text from a tutorial.,Welcome to the AH-94 Attack Helicopter,
+mission_targetDestroyed,Reason for failing a Join mission (target waypoint unit was killed),target destroyed,Objetivos destruidos
+mission_failedToDefend,Reason for failing a Protect objective. Must contain variable index {0},Failed to defend {0},No se pudo defender {0}
+s_endMission_minsAgo,Label for quickload button 'minutes ago' in end-mission display 'Quick Load (x mins ago)',mins ago,mins atrás
+av42c_tutorials:tut_av42c_agm:-950955607,Text from a tutorial.,Welcome to the air-to-ground missile tutorial!,¡Bienvenido al tutorial de misiles Aire-Tierra!
+av42c_tutorials:tut_av42c_agm:-628587264,Text from a tutorial.,Air-to-ground missiles (AGM) are useful for precisely hitting light to medium armored ground targets,Los misiles Aire-Tierra (AGM) son útiles para dar a objetivos ligeros y medianamente blindados precisamente.
+av42c_tutorials:tut_av42c_agm:900650531,Text from a tutorial.,Open TGP,Abre TGP
+av42c_tutorials:tut_av42c_agm:1129220644,Text from a tutorial.,Power On,Enciende
+av42c_tutorials:tut_av42c_agm:-825542407,Text from a tutorial.,You will use the TGP to designate targets for the AGMs,Vas a usar el TGP para designar los objetivos para los AGMs
+av42c_tutorials:tut_av42c_agm:40209151,Text from a tutorial.,Arm weapons,Arma el armamento
+av42c_tutorials:tut_av42c_agm:-1923603361,Text from a tutorial.,Switch to AGM-114,Cambia al AGM-114
+av42c_tutorials:tut_av42c_agm:-1227908506,Text from a tutorial.,"These are small, laser-guided, anti-tank missiles","Estos son misiles anti-tanques pequeños, guiados por laser"
+av42c_tutorials:tut_av42c_agm:-355933041,Text from a tutorial.,"Since they home in on the laser point emitted by your TGP, you must maintain line of sight to the target until it hits","Como se guían por el punto láser emitido por tu TGP, debes mantener línea de visión con el objetivo hasta el impacto."
+av42c_tutorials:tut_av42c_agm:50344960,Text from a tutorial.,"To fire it, designate a target using the TGP, point your aircraft at the target until the missile locks on, then pull the trigger to fire","Para dispararlo, designa un objetivo usando el TGP, apunta tu aeronave hacia el blanco hasta que el misil se bloquee, luego aprieta el gatillo para disparar."
+av42c_tutorials:tut_av42c_agm:-1360693668,Text from a tutorial.,"You can also switch the missile seeker's uncage mode to MANUAL, which will allow you to fire at targets off boresight","También puedes cambiar el modo de desbloqueo del buscador del misil a MANUAL, lo que te permitirá disparar a objetivos fuera del eje frontal."
+av42c_tutorials:tut_av42c_agm:-1503618759,Text from a tutorial.,"In MANUAL mode, you hold the trigger to uncage the seeker, then press the weapon switch button to fire","En el modo MANUAL, mantén presionado el gatillo para desbloquear el buscador y luego pulsa el botón de cambio de arma para disparar."
+av42c_tutorials:tut_av42c_agm:1042911135,Text from a tutorial.,Try shooting the targets around the mission waypoint using the AGM-114,Intenta disparar a los objetivos alrededor del punto de ruta de la misión usando el AGM-114.
+av42c_tutorials:tut_av42c_agm:1384660116,Text from a tutorial.,"Remember, you need to maintain line of sight with your TGP in order to guide the missile to the target",Recuerda que debes mantener línea de visión con tu TGP para guiar el misil hasta el objetivo.
+av42c_tutorials:tut_av42c_agm:1453428147,Text from a tutorial.,Great! Now switch to the AGM-65,¡Genial! Ahora cambia al AGM-65.
+av42c_tutorials:tut_av42c_agm:-1735708293,Text from a tutorial.,"This is a larger, slightly heavier hitting anti-tank missile with a more advanced optical seeker","Este es un misil antitanque más grande y ligeramente más potente, con un buscador óptico más avanzado."
+av42c_tutorials:tut_av42c_agm:-2052818574,Text from a tutorial.,"With this type of missile, you do not need to maintain a lock on the target after you fire at it","Con este tipo de misil, no necesitas mantener el bloqueo sobre el objetivo después de dispararlo."
+av42c_tutorials:tut_av42c_agm:798779502,Text from a tutorial.,"The fire-and-forget capability allows you to fire at multiple targets in one pass, or take cover after firing",La capacidad de disparar y olvidar te permite atacar múltiples objetivos en una sola pasada o cubrirte después de disparar.
+av42c_tutorials:tut_av42c_agm:256667487,Text from a tutorial.,Try taking down the targets at the next waypoint and practice taking advantage of the fire-and-forget capability,Intenta destruir los objetivos en el siguiente punto de ruta y practica aprovechando la capacidad de disparar y olvidar.
+av42c_tutorials:tut_av42c_agm:-568562802,Text from a tutorial.,Nice shooting!  This concludes the air-to-ground missile tutorial,¡Buen disparo! Esto concluye el tutorial de misiles aire-tierra.
+fa26b_tutorials:tut_26_radar:-1152007029,Text from a tutorial.,Welcome to the Radar tutorial for the F/A-26,Bienvenido al tutorial de radar para el F/A-26.
+fa26b_tutorials:tut_26_radar:-1256886870,Text from a tutorial.,"Today, you will learn how to use the radar to find and track other aircraft, as well as designate targets for air to air missiles","Hoy aprenderás a usar el radar para encontrar y rastrear otras aeronaves, así como designar objetivos para misiles aire-aire."
+fa26b_tutorials:tut_26_radar:12089749,Text from a tutorial.,Open the RADAR MFD page,Abre la página RADAR en la MFD.
+fa26b_tutorials:tut_26_radar:-1499035627,Text from a tutorial.,Turn ON the radar,Enciende el radar.
+fa26b_tutorials:tut_26_radar:168404510,Text from a tutorial.,The display shows you a compressed representation of the radar's 120 degree field of view,La pantalla te muestra una representación comprimida del campo de visión de 120 grados del radar.
+fa26b_tutorials:tut_26_radar:-1576442623,Text from a tutorial.,The displayed range can be adjusted using the R+ and R- buttons,El alcance mostrado se puede ajustar usando los botones R+ y R-.
+fa26b_tutorials:tut_26_radar:1184134746,Text from a tutorial.,Press R+ repeatedly until the display is at max range,Pulsa R+ repetidamente hasta que la pantalla esté en el alcance máximo.
+fa26b_tutorials:tut_26_radar:636060045,Text from a tutorial.,"As the radar sweeps over other aircraft, they will be displayed as blue icons for friends and orange icons for foes","Cuando el radar detecta otras aeronaves, se mostrarán como iconos azules para aliados y naranjas para enemigos."
+fa26b_tutorials:tut_26_radar:566777240,Text from a tutorial.,The left/right SCAN ANGLE can also be adjusted to allow the radar to scan more rapidly but in a smaller slice of the sky,"El ÁNGULO DE ESCANEO izquierdo/derecho también se puede ajustar para que el radar escanee más rápido, pero en una porción más reducida del cielo."
+fa26b_tutorials:tut_26_radar:-1341204802,Text from a tutorial.,Set the radar as SOI,Establece el radar como SOI (Sensor of Interest).
+fa26b_tutorials:tut_26_radar:-103120712,Text from a tutorial.,"Now, you can slew the target designator using the joystick's thumb control",Ahora puedes mover el designador de objetivo usando el control con el pulgar del joystick.
+fa26b_tutorials:tut_26_radar:1284478201,Text from a tutorial.,"Slew the designator over a contact, and press in on the center of the thumb control to start tracking it",Mueve el designador sobre un contacto y presiona el centro del control con el pulgar para comenzar a rastrearlo.
+fa26b_tutorials:tut_26_radar:-694142307,Text from a tutorial.,You can track up to 4 contacts while still being able to scan the rest of the sky,Puedes rastrear hasta 4 contactos mientras sigues escaneando el resto del cielo.
+fa26b_tutorials:tut_26_radar:-1026100394,Text from a tutorial.,"They will appear as small circle on your HUD, along with their corresponding number","Aparecerán como un pequeño círculo en tu HUD, junto con su número correspondiente."
+fa26b_tutorials:tut_26_radar:-813131710,Text from a tutorial.,"In order to lock a target for weapons, click on a track again using the designator, or press the numbered MFD button on the left","Para fijar un objetivo para las armas, haz clic nuevamente en una pista usando el designador o presiona el botón numerado correspondiente en la MFD izquierda."
+fa26b_tutorials:tut_26_radar:2035875223,Text from a tutorial.,"While a target is locked, the other tracks will continue to be displayed, but the radar will not be able to scan for new targets","Mientras un objetivo esté fijado, las demás pistas seguirán mostrándose, pero el radar no podrá escanear nuevos objetivos."
+fa26b_tutorials:tut_26_radar:-153465804,Text from a tutorial.,"Information about the locked target's bearing, range, altitude, airspeed, and aircraft type will appear on the bottom right of the display","La información sobre el objetivo fijado —rumbo, alcance, altitud, velocidad y tipo de aeronave— aparecerá en la parte inferior derecha de la pantalla."
+fa26b_tutorials:tut_26_radar:2097160122,Text from a tutorial.,"Use the UNLCK button to unlock the target, and the CLR button to clear the tracks",Usa el botón DESBL para desbloquear el objetivo y el botón CLR para borrar las pistas.
+fa26b_tutorials:tut_26_radar:-157117776,Text from a tutorial.,"For close in engagements, the radar can be switched to boresight mode using the MODE button","Para enfrentamientos cercanos, el radar puede cambiarse al modo boresight usando el botón MODO."
+fa26b_tutorials:tut_26_radar:-116489118,Text from a tutorial.,"In this mode, the radar will point straight forward and lock onto the first contact it sees","En este modo, el radar apuntará directamente hacia adelante y fijará el primer contacto que detecte."
+fa26b_tutorials:tut_26_radar:1921067602,Text from a tutorial.,"If the radar is SOI, you can press the joystick thumb control to quickly unlock and find a new target","Si el radar está como SOI, puedes presionar el control con el pulgar del joystick para desbloquear rápidamente y buscar un nuevo objetivo."
+fa26b_tutorials:tut_26_radar:-2128388179,Text from a tutorial.,"Now for some weapons practice. Go back to scan mode and find, track, and lock the enemy aircraft.","Ahora vamos a practicar con armas. Vuelve al modo de escaneo, encuentra, rastrea y fija la aeronave enemiga."
+fa26b_tutorials:tut_26_radar:-110964317,Text from a tutorial.,Good. Now arm your weapon system and switch to the AIM-120,Bien. Ahora arma tu sistema de armas y cambia al AIM-120.
+fa26b_tutorials:tut_26_radar:1861317894,Text from a tutorial.,"On the HUD, the locked target will appear as a small square.  The small dot is the shot lead cue","En el HUD, el objetivo fijado aparecerá como un pequeño cuadrado. El punto pequeño es la guía de disparo (shot lead cue)."
+fa26b_tutorials:tut_26_radar:1404162479,Text from a tutorial.,"When firing air to air missiles, aim for the lead cue to help the missile conserve energy as it steers toward the target","Al disparar misiles aire-aire, apunta a la guía de disparo para ayudar al misil a conservar energía mientras se dirige hacia el objetivo."
+fa26b_tutorials:tut_26_radar:1341649093,Text from a tutorial.,The DLZ is displayed on the right side of the HUD. The missile should be fired when the target chevron lies between the min and max marks,El DLZ se muestra en el lado derecho del HUD. El misil debe ser disparado cuando el chevrón del objetivo esté entre las marcas de mínimo y máximo.
+fa26b_tutorials:tut_26_radar:731572550,Text from a tutorial.,Try shooting down the target.,Intenta derribar el objetivo.
+fa26b_tutorials:tut_26_radar:-1955766950,Text from a tutorial.,Splash!  Good kill!,¡Impacto! ¡Buen derribo!
+fa26b_tutorials:tut_26_radar:1669702430,Text from a tutorial.,"By tracking multiple contacts, you can fire up to 4 AIM-120s on separate targets as long as you maintain line of sight with each of them","Al rastrear múltiples contactos, puedes disparar hasta 4 AIM-120 a distintos objetivos, siempre que mantengas línea de visión con cada uno de ellos."
+fa26b_tutorials:tut_26_radar:1356151209,Text from a tutorial.,"When the AIM-120's time to impact counter displays the letter M, it has switched to active homing and you no longer need to track it.","Cuando el contador de tiempo hasta el impacto del AIM-120 muestra la letra M, ha cambiado a guiado activo y ya no necesitas seguir rastreándolo."
+fa26b_tutorials:tut_26_radar:-1605626095,Text from a tutorial.,"Now, try shooting down the rest of the enemy air targets.",Ahora intenta derribar el resto de los objetivos aéreos enemigos.
+fa26b_tutorials:tut_26_radar:797323745,Text from a tutorial.,Good job!,¡Buen trabajo!
+fa26b_tutorials:tut_26_sead:-1145857779,Text from a tutorial.,Out of missiles!  You hit some of the targets though!,¡Sin misiles! ¡Pero acertaste a algunos objetivos!
+fa26b_tutorials:tut_26_sead:-2102549622,Text from a tutorial.,Out of missiles!  You didn't hit anything.  Want to try again?,¡Sin misiles! No diste a nada. ¿Quieres intentarlo de nuevo?
+fa26b_tutorials:tut_26_sead:-292426932,Text from a tutorial.,Welcome to the SEAD tutorial!,¡Bienvenido al tutorial de SEAD!
+fa26b_tutorials:tut_26_sead:47968318,Text from a tutorial.,SEAD stands for Suppression of Enemy Air Defenses,SEAD significa Supresión de Defensas Aéreas Enemigas.
+fa26b_tutorials:tut_26_sead:353600754,Text from a tutorial.,You will use a combination of radar detecting sensors and special weapons to disable SAM sites,Usarás una combinación de sensores detectores de radar y armas especiales para desactivar sitios SAM.
+fa26b_tutorials:tut_26_sead:273442107,Text from a tutorial.,"When a radar is searching for aircraft, it emits a signal that can be detected by your RWR","Cuando un radar busca aviones, emite una señal que tu RWR puede detectar."
+fa26b_tutorials:tut_26_sead:-1573979731,Text from a tutorial.,"The radar type, bearing, and approximate range is shown on the RWR display, relative to your position in the center","El tipo de radar, dirección y alcance aproximado se muestran en la pantalla del RWR, en relación con tu posición en el centro."
+fa26b_tutorials:tut_26_sead:-641250893,Text from a tutorial.,Open the Anti-Radar Attack Display (ARAD),Abre la pantalla de Ataque Antirradiación (ARAD).
+fa26b_tutorials:tut_26_sead:516981631,Text from a tutorial.,"This display shows the same information gathered by the RWR, but allows you to select targets for ARMs","Esta pantalla muestra la misma info del RWR, pero te permite seleccionar blancos para los misiles antirradiación (ARMs)."
+fa26b_tutorials:tut_26_sead:229689139,Text from a tutorial.,You can also set radar sources to be displayed as diamonds in the HUD,También puedes mostrar fuentes de radar como diamantes en el HUD.
+fa26b_tutorials:tut_26_sead:-1327892664,Text from a tutorial.,"When you lower the AR visor, you'll be able to see all of the targets around you for better situational awareness","Al bajar la visera de RA, verás todos los objetivos a tu alrededor para mejorar la conciencia situacional."
+fa26b_tutorials:tut_26_sead:-1448861686,Text from a tutorial.,Set the ARAD as SOI,Configura el ARAD como SOI (Sensor of Interest).
+fa26b_tutorials:tut_26_sead:-842613568,Text from a tutorial.,Now you can use your joystick thumb control to slew the targeting cursor,Ahora puedes usar el control del pulgar del joystick para mover el cursor de apuntado.
+fa26b_tutorials:tut_26_sead:-451981482,Text from a tutorial.,"Slew the cursor onto the enemy radar, then press in on the thumb control to set the target",Mueve el cursor hasta el radar enemigo y presiona el control del pulgar para fijar el objetivo.
+fa26b_tutorials:tut_26_sead:588166704,Text from a tutorial.,A square will appear on the selected target in both the MFD and the HUD,Un cuadrado aparecerá en el objetivo seleccionado en ambos MFD y HUD
+fa26b_tutorials:tut_26_sead:60198174,Text from a tutorial.,Now arm the weapon system,Ahora arma el sistema de armamento
+fa26b_tutorials:tut_26_sead:63223606,Text from a tutorial.,Switch to the AGM-88,Cambia a los AGM-88
+fa26b_tutorials:tut_26_sead:54082973,Text from a tutorial.,"This is a high speed, fire-and-forget anti-radiation missile (ARM)","Este es un misil de alta velocidad, tira y olvida de antiradiación (ARM)"
+fa26b_tutorials:tut_26_sead:-1408042184,Text from a tutorial.,"When fired, it will home in on the radar source designated in the ARAD","Una vez disparado, irá hacia la señal radar designada en el ARAD"
+fa26b_tutorials:tut_26_sead:-686456908,Text from a tutorial.,"Once you have a target selected, all you need to do is fly toward the target, and fire once the missile is in range","Una vez hayas seleccionado el objetivo, lo único que tienes que hacer es volar hacia el objetivo, y disparar cuando el misil esté en rango"
+fa26b_tutorials:tut_26_sead:-1438673069,Text from a tutorial.,Try taking out the SAM radars using the AGM-88,Intenta destruir los radares SAM usando el AGM-88
+fa26b_tutorials:tut_26_sead:951869715,Text from a tutorial.,Great!  This is the end of the SEAD tutorial.,¡Genial! Este es el final del tutorial SEAD.
+ah94-tutorials:ah94tut_intro:19422556,Text from a tutorial.,Welcome to the AH-94 Attack Helicopter,Bienvenido al Helicóptero de Ataque AH-94
 ah94-tutorials:ah94tut_intro:-376660370,Text from a tutorial.,"Don't worry about memorizing everything now.
-We'll go into more details in later sessions.",
-ah94-tutorials:ah94tut_intro:1034937162,Text from a tutorial.,Close door,
-ah94-tutorials:ah94tut_intro:-316527414,Text from a tutorial.,The AH-94 is a twin turboshaft attack helicopter with a tandem cockpit for two crew members.,
-ah94-tutorials:ah94tut_intro:1752602625,Text from a tutorial.,It has a traditional rotor configuration of a large main rotor and small tail rotor.,
-ah94-tutorials:ah94tut_intro:-1985220033,Text from a tutorial.,"The helicopter can be flown from either the rear pilot seat, or the front copilot gunner seat.",
-ah94-tutorials:ah94tut_intro:1196723661,Text from a tutorial.,You can decide how to split up responsibilities.,
-ah94-tutorials:ah94tut_intro:-1074204169,Text from a tutorial.,"Now, let's quickly go over each of the components in the cockpit.",
-ah94-tutorials:ah94tut_intro:1907761766,Text from a tutorial.,Main Battery,
-ah94-tutorials:ah94tut_intro:1142499294,Text from a tutorial.,APU Switch,
-ah94-tutorials:ah94tut_intro:49749272,Text from a tutorial.,Engine Starters,
-ah94-tutorials:ah94tut_intro:1141160697,Text from a tutorial.,Comms Panel,
-ah94-tutorials:ah94tut_intro:256218186,Text from a tutorial.,Multi-function Displays (MFDs),
-ah94-tutorials:ah94tut_intro:1981821705,Text from a tutorial.,Up-front Display (UFD),
+We'll go into more details in later sessions.","No te preocupes por memorizarlo todo ahora.
+Vamos a entrar en detalles en sesiónes posteriores."
+ah94-tutorials:ah94tut_intro:1034937162,Text from a tutorial.,Close door,Cierra la puerta
+ah94-tutorials:ah94tut_intro:-316527414,Text from a tutorial.,The AH-94 is a twin turboshaft attack helicopter with a tandem cockpit for two crew members.,El AH-94 es un helicóptero de ataque biturbina con cabina en tándem para dos tripulantes.
+ah94-tutorials:ah94tut_intro:1752602625,Text from a tutorial.,It has a traditional rotor configuration of a large main rotor and small tail rotor.,Tiene una configuración tradicional de rotor: un rotor principal grande y uno de cola pequeño.
+ah94-tutorials:ah94tut_intro:-1985220033,Text from a tutorial.,"The helicopter can be flown from either the rear pilot seat, or the front copilot gunner seat.",El helicóptero puede volarse desde el asiento trasero del piloto o el delantero del copiloto/artillero.
+ah94-tutorials:ah94tut_intro:1196723661,Text from a tutorial.,You can decide how to split up responsibilities.,Puedes decidir cómo dividir las responsabilidades.
+ah94-tutorials:ah94tut_intro:-1074204169,Text from a tutorial.,"Now, let's quickly go over each of the components in the cockpit.","Ahora, repasemos rápido cada uno de los componentes de la cabina."
+ah94-tutorials:ah94tut_intro:1907761766,Text from a tutorial.,Main Battery,Batería principal
+ah94-tutorials:ah94tut_intro:1142499294,Text from a tutorial.,APU Switch,Switch APU
+ah94-tutorials:ah94tut_intro:49749272,Text from a tutorial.,Engine Starters,Arrancadores de motor
+ah94-tutorials:ah94tut_intro:1141160697,Text from a tutorial.,Comms Panel,Panel de comunicaciones
+ah94-tutorials:ah94tut_intro:256218186,Text from a tutorial.,Multi-function Displays (MFDs),Displays Multi-Función (MFDs)
+ah94-tutorials:ah94tut_intro:1981821705,Text from a tutorial.,Up-front Display (UFD),Display superior central (UFD)
 ah94-tutorials:ah94tut_intro:-1254142523,Text from a tutorial.,Radar Warning Receiver (RWR),
-ah94-tutorials:ah94tut_intro:180828969,Text from a tutorial.,Attitude Indicator,
+ah94-tutorials:ah94tut_intro:180828969,Text from a tutorial.,Attitude Indicator,Inidicador de Altitud
 ah94-tutorials:ah94tut_intro:270913576,Text from a tutorial.,VSI,
 ah94-tutorials:ah94tut_intro:1363486210,Text from a tutorial.,Gauges,
-ah94-tutorials:ah94tut_intro:1750669213,Text from a tutorial.,Master Armament,
-ah94-tutorials:ah94tut_intro:-119708538,Text from a tutorial.,Head Mounted Display (HMD),
-ah94-tutorials:ah94tut_intro:-1651002835,Text from a tutorial.,Lights,
-ah94-tutorials:ah94tut_intro:-717672991,Text from a tutorial.,Rotor Fold,
-ah94-tutorials:ah94tut_intro:1560422243,Text from a tutorial.,Rotor Brake,
-ah94-tutorials:ah94tut_intro:239096644,Text from a tutorial.,Flight Control Indicator,
-ah94-tutorials:ah94tut_intro:-947816217,Text from a tutorial.,Parking Brake,
-ah94-tutorials:ah94tut_intro:-364413396,Text from a tutorial.,Landing Gear,
-ah94-tutorials:ah94tut_intro:1071956107,Text from a tutorial.,Countermeasure Count,
-ah94-tutorials:ah94tut_intro:-1993091261,Text from a tutorial.,Power Lever,
-ah94-tutorials:ah94tut_intro:-1227118498,Text from a tutorial.,Stores Jettison Panel,
-ah94-tutorials:ah94tut_intro:-769882903,Text from a tutorial.,MP3 Player,
+ah94-tutorials:ah94tut_intro:1750669213,Text from a tutorial.,Master Armament,Armamento Maestro
+ah94-tutorials:ah94tut_intro:-119708538,Text from a tutorial.,Head Mounted Display (HMD),Display Montado en Cabeza (HMD)
+ah94-tutorials:ah94tut_intro:-1651002835,Text from a tutorial.,Lights,Luces
+ah94-tutorials:ah94tut_intro:-717672991,Text from a tutorial.,Rotor Fold,Plegado de rotor
+ah94-tutorials:ah94tut_intro:1560422243,Text from a tutorial.,Rotor Brake,Freno de rotor
+ah94-tutorials:ah94tut_intro:239096644,Text from a tutorial.,Flight Control Indicator,Indicador de Control de Vuelo
+ah94-tutorials:ah94tut_intro:-947816217,Text from a tutorial.,Parking Brake,Freno de mano
+ah94-tutorials:ah94tut_intro:-364413396,Text from a tutorial.,Landing Gear,Tren de aterrizaje
+ah94-tutorials:ah94tut_intro:1071956107,Text from a tutorial.,Countermeasure Count,Contramedidas
+ah94-tutorials:ah94tut_intro:-1993091261,Text from a tutorial.,Power Lever,Nivel de energía
+ah94-tutorials:ah94tut_intro:-1227118498,Text from a tutorial.,Stores Jettison Panel,Panel de Soltado de Carga
+ah94-tutorials:ah94tut_intro:-769882903,Text from a tutorial.,MP3 Player,Reproductor MP3
 ah94-tutorials:ah94tut_intro:-1369241671,Text from a tutorial.,"Finally, and most importantly,
-the flight controls...",
-ah94-tutorials:ah94tut_intro:-190358438,Text from a tutorial.,Collective,
-ah94-tutorials:ah94tut_intro:16158667,Text from a tutorial.,Cyclic,
-ah94-tutorials:ah94tut_intro:1181564828,Text from a tutorial.,Anti-Torque Pedals,
-ah94-tutorials:ah94tut_intro:2100509273,Text from a tutorial.,Switch Seat,
+the flight controls...","Finalmente, y lo más importante, 
+los controles de vuelo..."
+ah94-tutorials:ah94tut_intro:-190358438,Text from a tutorial.,Collective,Colectivo
+ah94-tutorials:ah94tut_intro:16158667,Text from a tutorial.,Cyclic,Ciclar
+ah94-tutorials:ah94tut_intro:1181564828,Text from a tutorial.,Anti-Torque Pedals,Pedales Anti-Torque
+ah94-tutorials:ah94tut_intro:2100509273,Text from a tutorial.,Switch Seat,Cambiar asiento
 ah94-tutorials:ah94tut_intro:1660567099,Text from a tutorial.,TEDAC,
-ah94-tutorials:ah94tut_intro:1874783894,Text from a tutorial.,Used to control weapons and sensors,
+ah94-tutorials:ah94tut_intro:1874783894,Text from a tutorial.,Used to control weapons and sensors,Se usa para controlar las armas y los sensores
 ah94-tutorials:ah94tut_intro:1122558785,Text from a tutorial.,"This concludes the general overview of the AH-94 cockpit. 
-You can move on to the next session to learn about how to get this thing started",
+You can move on to the next session to learn about how to get this thing started","Así concluye la vista general de la cabina del AH-94.
+Puedes moverte a la siguiente sesión para aprender sobre como ponerlo en marcha"
 ah94-tutorials:ah94tut_startup:1128922264,Text from a tutorial.,"Welcome back. 
-In this session, we'll go over the start up and shut down procedures.",
-ah94-tutorials:ah94tut_startup:1034936170,Text from a tutorial.,Close Door,
-ah94-tutorials:ah94tut_startup:-1646413177,Text from a tutorial.,"Before starting up, let's make sure everythings in the right state.",
-ah94-tutorials:ah94tut_startup:82369606,Text from a tutorial.,Power OFF,
-ah94-tutorials:ah94tut_startup:1470929646,Text from a tutorial.,Collective DOWN,
-ah94-tutorials:ah94tut_startup:1804128206,Text from a tutorial.,Parking Brake ON,
-ah94-tutorials:ah94tut_startup:110275040,Text from a tutorial.,Rotor Fold OFF,
-ah94-tutorials:ah94tut_startup:-60114957,Text from a tutorial.,Main Battery ON,
-ah94-tutorials:ah94tut_startup:-2082845684,Text from a tutorial.,This will supply power to all of the aircraft's electrical components.,
+In this session, we'll go over the start up and shut down procedures.","Bienvenido de vuelta.
+En esta sesión, veremos los procedimientos la puesta en marcha y el apagado."
+ah94-tutorials:ah94tut_startup:1034936170,Text from a tutorial.,Close Door,Cierra la puerta
+ah94-tutorials:ah94tut_startup:-1646413177,Text from a tutorial.,"Before starting up, let's make sure everythings in the right state.","Antes de empezar, vamos a asegurarnos de que todo está en el estado correcto."
+ah94-tutorials:ah94tut_startup:82369606,Text from a tutorial.,Power OFF,Energía OFF
+ah94-tutorials:ah94tut_startup:1470929646,Text from a tutorial.,Collective DOWN,Collectivo ABAJO
+ah94-tutorials:ah94tut_startup:1804128206,Text from a tutorial.,Parking Brake ON,Freno de mano ON
+ah94-tutorials:ah94tut_startup:110275040,Text from a tutorial.,Rotor Fold OFF,Plegado de motor OFF
+ah94-tutorials:ah94tut_startup:-60114957,Text from a tutorial.,Main Battery ON,Batería principal ON
+ah94-tutorials:ah94tut_startup:-2082845684,Text from a tutorial.,This will supply power to all of the aircraft's electrical components.,Esto va a suplir energía a los componentes electricos del helicóptero.
 ah94-tutorials:ah94tut_startup:-1262370107,Text from a tutorial.,APU ON,
-ah94-tutorials:ah94tut_startup:2044839981,Text from a tutorial.,The engine starters use up a lot of power so we're gonna need the APU to keep the battery charged.,
-ah94-tutorials:ah94tut_startup:77535439,Text from a tutorial.,Turn on UFD,
+ah94-tutorials:ah94tut_startup:2044839981,Text from a tutorial.,The engine starters use up a lot of power so we're gonna need the APU to keep the battery charged.,El encendedor de motor consume mucha energía así que vamos a necesitar la APU para mantener la batería cargada
+ah94-tutorials:ah94tut_startup:77535439,Text from a tutorial.,Turn on UFD,Enciende el UFD
 ah94-tutorials:ah94tut_startup:802677574,Text from a tutorial.,Display STAT,
-ah94-tutorials:ah94tut_startup:343282393,Text from a tutorial.,Engine/Rotor Status,
-ah94-tutorials:ah94tut_startup:-2011786336,Text from a tutorial.,Rotor Brake OFF,
-ah94-tutorials:ah94tut_startup:-586267315,Text from a tutorial.,Left Starter ON,
-ah94-tutorials:ah94tut_startup:-755391735,Text from a tutorial.,This system will spin up the turbine to a suitable RPM to begin combustion.,
-ah94-tutorials:ah94tut_startup:1659883589,Text from a tutorial.,Running two starters can often overload the power supply so I'd start one at a time.,
-ah94-tutorials:ah94tut_startup:840356780,Text from a tutorial.,Spool to 10-12%,
-ah94-tutorials:ah94tut_startup:815576579,Text from a tutorial.,Power Lever IDLE,
-ah94-tutorials:ah94tut_startup:937278904,Text from a tutorial.,The starter  will run the turbine up to about 30% and automatically shut itself off.,
-ah94-tutorials:ah94tut_startup:1462518884,Text from a tutorial.,Starter Indicator,
-ah94-tutorials:ah94tut_startup:-808588756,Text from a tutorial.,Right Starter ON,
-ah94-tutorials:ah94tut_startup:368229976,Text from a tutorial.,"Great, now both engines are fired up and running stable at idle.",
-ah94-tutorials:ah94tut_startup:1013008207,Text from a tutorial.,Power Lever FLIGHT,
-ah94-tutorials:ah94tut_startup:-440988520,Text from a tutorial.,Watch Rotor RPM,
+ah94-tutorials:ah94tut_startup:343282393,Text from a tutorial.,Engine/Rotor Status,Estatus Motor/Rotor
+ah94-tutorials:ah94tut_startup:-2011786336,Text from a tutorial.,Rotor Brake OFF,Freno Rotor OFF
+ah94-tutorials:ah94tut_startup:-586267315,Text from a tutorial.,Left Starter ON,Encendedor izquierdo ON
+ah94-tutorials:ah94tut_startup:-755391735,Text from a tutorial.,This system will spin up the turbine to a suitable RPM to begin combustion.,El sistema va a girar la turbina a unas RPM adecuadas para empezar la combustión.
+ah94-tutorials:ah94tut_startup:1659883589,Text from a tutorial.,Running two starters can often overload the power supply so I'd start one at a time.,Encender los dos encendedores a la vez normalmente sobrecarga el suministro de energía así que enciende de uno en uno.
+ah94-tutorials:ah94tut_startup:840356780,Text from a tutorial.,Spool to 10-12%,Acelera al 10-12%
+ah94-tutorials:ah94tut_startup:815576579,Text from a tutorial.,Power Lever IDLE,Nivel de energía en ESPERA
+ah94-tutorials:ah94tut_startup:937278904,Text from a tutorial.,The starter  will run the turbine up to about 30% and automatically shut itself off.,El encendedor va a correr las turbinas hasta uno 30% y automáticamente se apagará solo.
+ah94-tutorials:ah94tut_startup:1462518884,Text from a tutorial.,Starter Indicator,Indicador del encendedor
+ah94-tutorials:ah94tut_startup:-808588756,Text from a tutorial.,Right Starter ON,Encendedor Derecho ON
+ah94-tutorials:ah94tut_startup:368229976,Text from a tutorial.,"Great, now both engines are fired up and running stable at idle.","Genial, ahora ambos motores están encendidos y corriendo establemente en espera."
+ah94-tutorials:ah94tut_startup:1013008207,Text from a tutorial.,Power Lever FLIGHT,Nivel de energía en VUELO
+ah94-tutorials:ah94tut_startup:-440988520,Text from a tutorial.,Watch Rotor RPM,Vigila las RPM del motor
 ah94-tutorials:ah94tut_startup:-942756284,Text from a tutorial.,"You don't need to worry about
- applying the the proper throttle to maintain rotor RPM.",
-ah94-tutorials:ah94tut_startup:963997311,Text from a tutorial.,Just leave the power lever in the flight position and the system handles it for you.,
+ applying the the proper throttle to maintain rotor RPM.",No te tienes que preocupar de aplicar la aceleración apropiada para mantener las RPM del motor.
+ah94-tutorials:ah94tut_startup:963997311,Text from a tutorial.,Just leave the power lever in the flight position and the system handles it for you.,Simplemente deja la palanca de energía en posición de vuelo y el sistema se encarga por ti.
 ah94-tutorials:ah94tut_startup:-1751880937,Text from a tutorial.,APU OFF,
-ah94-tutorials:ah94tut_startup:-827232670,Text from a tutorial.,Turn ON,
+ah94-tutorials:ah94tut_startup:-827232670,Text from a tutorial.,Turn ON,ENCENDER
 ah94-tutorials:ah94tut_startup:-1779762556,Text from a tutorial.,HMD ON,
-ah94-tutorials:ah94tut_startup:-1473571446,Text from a tutorial.,"At this point, the helicopter is ready to take off!",
-ah94-tutorials:ah94tut_startup:37837222,Text from a tutorial.,"We can practice taking off and hovering in another session, so let's go over the shut down procedure.",
-ah94-tutorials:ah94tut_startup:-47447016,Text from a tutorial.,Turn OFF,
+ah94-tutorials:ah94tut_startup:-1473571446,Text from a tutorial.,"At this point, the helicopter is ready to take off!","En este punto, ¡el helicóptero está listo para despegar!"
+ah94-tutorials:ah94tut_startup:37837222,Text from a tutorial.,"We can practice taking off and hovering in another session, so let's go over the shut down procedure.","Podemos practicar el despegue y el vuelo estático en otra sesión, así que vamos a proceder a apagarlo."
+ah94-tutorials:ah94tut_startup:-47447016,Text from a tutorial.,Turn OFF,APAGA
 ah94-tutorials:ah94tut_startup:1313663526,Text from a tutorial.,HMD OFF,
 ah94-tutorials:ah94tut_startup:-2028233962,Text from a tutorial.,UFD OFF,
-ah94-tutorials:ah94tut_startup:-1101578338,Text from a tutorial.,Power Lever OFF,
-ah94-tutorials:ah94tut_startup:-2136612091,Text from a tutorial.,Engines shutting down,
-ah94-tutorials:ah94tut_startup:-1611741902,Text from a tutorial.,Rotor Brake ON,
-ah94-tutorials:ah94tut_startup:-901397587,Text from a tutorial.,Main Battery OFF,
-ah94-tutorials:ah94tut_startup:-597259220,Text from a tutorial.,And that's it!  This concludes the AH-94 start up and shutdown procedures.  See you next time.,
-ah94-tutorials:ah94tut_wpnTads:-1450007236,Text from a tutorial.,Welcome!  Today we'll learn about the TADS and how to use the gun along side it.,
-ah94-tutorials:ah94tut_wpnTads:-1348062166,Text from a tutorial.,"To make things easy, we can do this all here on the ground so you don't have to worry about flying.",
-ah94-tutorials:ah94tut_wpnTads:2100509273,Text from a tutorial.,Switch Seat,
-ah94-tutorials:ah94tut_wpnTads:-1392231876,Text from a tutorial.,Battery ON,
+ah94-tutorials:ah94tut_startup:-1101578338,Text from a tutorial.,Power Lever OFF,Palanca de energía OFF
+ah94-tutorials:ah94tut_startup:-2136612091,Text from a tutorial.,Engines shutting down,Los motores se apagan
+ah94-tutorials:ah94tut_startup:-1611741902,Text from a tutorial.,Rotor Brake ON,Freno de rotor ON
+ah94-tutorials:ah94tut_startup:-901397587,Text from a tutorial.,Main Battery OFF,Batería principal OFF
+ah94-tutorials:ah94tut_startup:-597259220,Text from a tutorial.,And that's it!  This concludes the AH-94 start up and shutdown procedures.  See you next time.,¡Y ya está! Así concluye los procedimientos de la puesta en marcha y el apagado del AH-94. Nos vemos en la próxima.
+ah94-tutorials:ah94tut_wpnTads:-1450007236,Text from a tutorial.,Welcome!  Today we'll learn about the TADS and how to use the gun along side it.,¡Bienvenido! Hoy aprenderemos sobre el TADS y aprenderemos a usar el cañón.
+ah94-tutorials:ah94tut_wpnTads:-1348062166,Text from a tutorial.,"To make things easy, we can do this all here on the ground so you don't have to worry about flying.","Para hacer las cosas fácil, podemos hacer esto en el suelo para que no te tengas que preocupar sobre volar."
+ah94-tutorials:ah94tut_wpnTads:2100509273,Text from a tutorial.,Switch Seat,Cambia asiento
+ah94-tutorials:ah94tut_wpnTads:-1392231876,Text from a tutorial.,Battery ON,Batería ON
 ah94-tutorials:ah94tut_wpnTads:-1262370107,Text from a tutorial.,APU ON,
-ah94-tutorials:ah94tut_wpnTads:-827232670,Text from a tutorial.,Turn ON,
-ah94-tutorials:ah94tut_wpnTads:-701257300,Text from a tutorial.,"For this tutorial, let's turn on some hints so you can see what the controls do.",
-ah94-tutorials:ah94tut_wpnTads:-301480733,Text from a tutorial.,Open OPTION,
-ah94-tutorials:ah94tut_wpnTads:1394205321,Text from a tutorial.,Enable,
-ah94-tutorials:ah94tut_wpnTads:351895004,Text from a tutorial.,"This will show labels when you grab the collective, cyclic, or TEDAC, and can be on or off at any time.",
-ah94-tutorials:ah94tut_wpnTads:-911428210,Text from a tutorial.,"The primary targeting system is the TADS and you'll most often be using it on the TEDAC, which stands for TADS electronic display and contro",
-ah94-tutorials:ah94tut_wpnTads:-664073648,Text from a tutorial.,This is the TEDAC,
-ah94-tutorials:ah94tut_wpnTads:1809041364,Text from a tutorial.,Open TADS,
-ah94-tutorials:ah94tut_wpnTads:-1740825212,Text from a tutorial.,Power ON,
-ah94-tutorials:ah94tut_wpnTads:1317350979,Text from a tutorial.,Set SOI,
-ah94-tutorials:ah94tut_wpnTads:-373691224,Text from a tutorial.,This works just like the TGP in the other vehicles except that the SOI controls are on the left hand.,
-ah94-tutorials:ah94tut_wpnTads:-1399022260,Text from a tutorial.,Grab,
-ah94-tutorials:ah94tut_wpnTads:-191560782,Text from a tutorial.,"While the TEDAC controls are held, use the left thumb control to slew the sensor, and the right thumb control to zoom in and out.",
-ah94-tutorials:ah94tut_wpnTads:-1622263427,Text from a tutorial.,Press ARM,
-ah94-tutorials:ah94tut_wpnTads:1082325745,Text from a tutorial.,"Switch weapons by using the thumb button on the right hand TEDAC control, and fire by using the right trigger.",
-ah94-tutorials:ah94tut_wpnTads:402684234,Text from a tutorial.,Fire and switch weapons on cyclic.,
-ah94-tutorials:ah94tut_wpnTads:-925902430,Text from a tutorial.,Switch to GAU-94,
-ah94-tutorials:ah94tut_wpnTads:771897916,Text from a tutorial.,"Let's make sure that the gun is in slave mode, so the turret will point where we want it.",
-ah94-tutorials:ah94tut_wpnTads:10670878,Text from a tutorial.,Open EQUIP,
-ah94-tutorials:ah94tut_wpnTads:595536078,Text from a tutorial.,Select,
-ah94-tutorials:ah94tut_wpnTads:-1793963392,Text from a tutorial.,Set to SLAVED,
-ah94-tutorials:ah94tut_wpnTads:-1196292903,Text from a tutorial.,"When the gun is slaved, it will either track to where your head is pointing, or to where the TADS is pointing, when the TADS is the SOI.",
-ah94-tutorials:ah94tut_wpnTads:1418409134,Text from a tutorial.,"Use the TADS to find and designate the target on the range, and use the right trigger to fire.",
-ah94-tutorials:ah94tut_wpnTads:771605333,Text from a tutorial.,Disable SOI,
-ah94-tutorials:ah94tut_wpnTads:-682086378,Text from a tutorial.,Shoot the target to your left.,
-ah94-tutorials:ah94tut_wpnTads:1376833237,Text from a tutorial.,"You can also set the TADS as SOI and enabled HEAD mode to have the TADS track your head, and display it's view in your HMD.",
-ah94-tutorials:ah94tut_wpnTads:-485937947,Text from a tutorial.,Enable HEAD,
-ah94-tutorials:ah94tut_wpnTads:-1594112217,Text from a tutorial.,"When in this mode, pressing in on the left thumbstick on the TEDAC will lock the TADS to where you've pointed it.",
-ah94-tutorials:ah94tut_wpnTads:1829211586,Text from a tutorial.,"As you can see, the TADS and the Weapons can be controlled independently or in unison.",
-ah94-tutorials:ah94tut_wpnTads:-834559807,Text from a tutorial.,"If you have a copilot, you or your copilot can take control of either system by using the SOI button and the master ARM button respectively.",
+ah94-tutorials:ah94tut_wpnTads:-827232670,Text from a tutorial.,Turn ON,ENCIENDE
+ah94-tutorials:ah94tut_wpnTads:-701257300,Text from a tutorial.,"For this tutorial, let's turn on some hints so you can see what the controls do.","Para este tutorial, vamos a encender algunas pistas para que puedas ver lo que hacen los controles"
+ah94-tutorials:ah94tut_wpnTads:-301480733,Text from a tutorial.,Open OPTION,Abre OPCION
+ah94-tutorials:ah94tut_wpnTads:1394205321,Text from a tutorial.,Enable,Habilita
+ah94-tutorials:ah94tut_wpnTads:351895004,Text from a tutorial.,"This will show labels when you grab the collective, cyclic, or TEDAC, and can be on or off at any time.","Esto va a enseñar las etiquetas cuando agarres un colectivo, cyclic, o TEDAC, y puedes ponerlo o quitarlo en cualquier momento."
+ah94-tutorials:ah94tut_wpnTads:-911428210,Text from a tutorial.,"The primary targeting system is the TADS and you'll most often be using it on the TEDAC, which stands for TADS electronic display and contro","El sistema de marcado de objetivo principal es el TADS y lo usarás más a menudo cunto al TEDAC, que significa TADS electronic display and control"
+ah94-tutorials:ah94tut_wpnTads:-664073648,Text from a tutorial.,This is the TEDAC,Esto es el TEDAC
+ah94-tutorials:ah94tut_wpnTads:1809041364,Text from a tutorial.,Open TADS,Abre TADS
+ah94-tutorials:ah94tut_wpnTads:-1740825212,Text from a tutorial.,Power ON,ENCIENDE
+ah94-tutorials:ah94tut_wpnTads:1317350979,Text from a tutorial.,Set SOI,Pon SOI
+ah94-tutorials:ah94tut_wpnTads:-373691224,Text from a tutorial.,This works just like the TGP in the other vehicles except that the SOI controls are on the left hand.,Esto funciona como el TGP de otros vehículos excepto que los controles del SOI son en la mano izquierda.
+ah94-tutorials:ah94tut_wpnTads:-1399022260,Text from a tutorial.,Grab,Agarra
+ah94-tutorials:ah94tut_wpnTads:-191560782,Text from a tutorial.,"While the TEDAC controls are held, use the left thumb control to slew the sensor, and the right thumb control to zoom in and out.","Mientras agarres los controles del TEDAC, usa el control pulgar izquierdo para mover el sensor, y el control del pulgar derecho para hacer zoom."
+ah94-tutorials:ah94tut_wpnTads:-1622263427,Text from a tutorial.,Press ARM,Presiona ARM
+ah94-tutorials:ah94tut_wpnTads:1082325745,Text from a tutorial.,"Switch weapons by using the thumb button on the right hand TEDAC control, and fire by using the right trigger.","Cambia armamento usando el botón del pulgar derecho en el control TEDAC, y dispara usando el gatillo."
+ah94-tutorials:ah94tut_wpnTads:402684234,Text from a tutorial.,Fire and switch weapons on cyclic.,Dispara y cicla armamento.
+ah94-tutorials:ah94tut_wpnTads:-925902430,Text from a tutorial.,Switch to GAU-94,Cambia al GAU-94
+ah94-tutorials:ah94tut_wpnTads:771897916,Text from a tutorial.,"Let's make sure that the gun is in slave mode, so the turret will point where we want it.","Vamos a asegurarnos de que el cañón esté en modo vinculado, para que la torreta apunte donde queremos."
+ah94-tutorials:ah94tut_wpnTads:10670878,Text from a tutorial.,Open EQUIP,Abre EQUIP
+ah94-tutorials:ah94tut_wpnTads:595536078,Text from a tutorial.,Select,Selecciona
+ah94-tutorials:ah94tut_wpnTads:-1793963392,Text from a tutorial.,Set to SLAVED,Ponlo en VINCULADO
+ah94-tutorials:ah94tut_wpnTads:-1196292903,Text from a tutorial.,"When the gun is slaved, it will either track to where your head is pointing, or to where the TADS is pointing, when the TADS is the SOI.","Cuando el cañón esté vinculado, va a seguir donde apunte tu cabeza, o donde esté apuntando el TADS, si está en SOI."
+ah94-tutorials:ah94tut_wpnTads:1418409134,Text from a tutorial.,"Use the TADS to find and designate the target on the range, and use the right trigger to fire.","Usa el TADS para buscar y designar un objetivo del campo de tiro, y usa el gatillo derecho para disparar."
+ah94-tutorials:ah94tut_wpnTads:771605333,Text from a tutorial.,Disable SOI,Desactiva SOI
+ah94-tutorials:ah94tut_wpnTads:-682086378,Text from a tutorial.,Shoot the target to your left.,Dispara el objetivo a tu izquierda.
+ah94-tutorials:ah94tut_wpnTads:1376833237,Text from a tutorial.,"You can also set the TADS as SOI and enabled HEAD mode to have the TADS track your head, and display it's view in your HMD.","También puedes poner el TADS en SOI y habilitar el modo CABEZA  para que el TADS siga tu cabeza, y muestra su visión en el HMD."
+ah94-tutorials:ah94tut_wpnTads:-485937947,Text from a tutorial.,Enable HEAD,Habilita CABEZA
+ah94-tutorials:ah94tut_wpnTads:-1594112217,Text from a tutorial.,"When in this mode, pressing in on the left thumbstick on the TEDAC will lock the TADS to where you've pointed it.","En este modo, presiona el joystick del pulgar izquierdo en el TEDAC va a bloquear el TADS donde estuvieras apuntando."
+ah94-tutorials:ah94tut_wpnTads:1829211586,Text from a tutorial.,"As you can see, the TADS and the Weapons can be controlled independently or in unison.","Como puedes ver, el TADS y las armas pueden ser controladas indemendientes o al unísono."
+ah94-tutorials:ah94tut_wpnTads:-834559807,Text from a tutorial.,"If you have a copilot, you or your copilot can take control of either system by using the SOI button and the master ARM button respectively.","Si tienes un copiloto, tu o el copiloto podeis controlar de ambos sistemas usando el botón SOI y pulsando el botón de armado maestro respectivamente."
 ah94-tutorials:ah94tut_wpnTads:-1785795640,Text from a tutorial.,"You have control = RED
-Copilot has control = YELLOW",
-ah94-tutorials:ah94tut_wpnTads:141827971,Text from a tutorial.,Destroy the other targets.,
-ah94-tutorials:ah94tut_wpnTads:-1659730406,Text from a tutorial.,Same functions as TEDAC L,
-ah94-tutorials:ah94tut_wpnTads:1757970913,Text from a tutorial.,Same functions as TEDAC R except trim,
+Copilot has control = YELLOW","Tienes el control = ROJO
+Copiloto tiene el control = AMARILLO"
+ah94-tutorials:ah94tut_wpnTads:141827971,Text from a tutorial.,Destroy the other targets.,Destruye los objetivos.
+ah94-tutorials:ah94tut_wpnTads:-1659730406,Text from a tutorial.,Same functions as TEDAC L,Mismas funciones con el TEDAC L
+ah94-tutorials:ah94tut_wpnTads:1757970913,Text from a tutorial.,Same functions as TEDAC R except trim,Mismas funciones con el TEDAC R exceptuando la compensación de control (TRIM)
 ah94-tutorials:ah94tut_wpnTads:881401209,Text from a tutorial.,"That's all for today!
-Go practice!",
+Go practice!","¡Eso es todo por hoy!
+¡Ve y practica!"

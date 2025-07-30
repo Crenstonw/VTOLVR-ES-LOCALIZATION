@@ -1,7 +1,7 @@
 Key,Description,en,es
 DemoText_746066,UI Text,DEMO,
-SelectPilotButton_745718,VR Interactable,Select Existing Pilot,Seleccionar Piloto Existente
-Text_742314,UI Text,Select Pilot,Seleccionar Piloto
+SelectPilotButton_745718,VR Interactable,Select Existing Pilot,Selec Piloto Existente
+Text_742314,UI Text,Select Pilot,Selec Piloto
 NewPilotButton_745346,VR Interactable,Create New Pilot,Crear Nuevo Piloto
 Text_742072,UI Text,New Pilot,Nuevo Piloto
 QuitButton_740624,VR Interactable,Quit Game,Salir del Juego
@@ -12,8 +12,8 @@ Text_740102,UI Text,"Settings
 CreditsButton_-102322,VR Interactable,Game Credits,Créditos
 Text_726044,UI Text,Credits,Créditos
 VTOL VR (1)_747232,UI Text,VTEDIT,
-EditorButton_743918,VR Interactable,Mission Editor,Editor de Misiones
-MapEditorButton_747578,VR Interactable,Map Editor,Editor de Mapas
+EditorButton_743918,VR Interactable,Mission Editor,Editor Misiones
+MapEditorButton_747578,VR Interactable,Map Editor,Editor Mapas
 VTEDIT (1)_729932,UI Text,VT,
 VTOL VR_744834,UI Text,VTOL VR,
 Text_ACReadyToFly,UI Text,Ready to fly?,¿Listo para Volar?
