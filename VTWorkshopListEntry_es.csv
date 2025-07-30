@@ -1,0 +1,12 @@
+Key,Description,en,es
+Icon_734792,VR Interactable,Show Info,Mostrar Info
+Text_734764,UI Text,Info,
+ButtonUp_734786,VR Interactable,Vote Up,Voto arriba
+ButtonDown_734790,VR Interactable,Vote Down,Voto Abajo
+Button_734788,VR Interactable,Favorite,Favorito
+ButtonActive_734758,VR Interactable,Unfavorite,Quitar Favorito
+Button_734784,VR Interactable,Subscribe & Download,Subscribir & Descargar
+Text_734748,UI Text,ADD,AÑADIR
+ButtonActive_734798,VR Interactable,Remove Subscription,Revocar Subscripción
+Text (1)_734794,UI Text,REMOVE,REVOCAR
+ButtonPlay_734746,VR Interactable,Play,Jugar
