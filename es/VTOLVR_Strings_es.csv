@@ -1079,7 +1079,7 @@ tut:Weapon Basics:Conclusion53,A tutorial label,This concludes the basic weapons
 Mk-82 Bomb x2_fullName,Full equip name of: Mk-82 Bomb x2,Mk-82 Bomb x2,Bomba Mk-82 x2
 Mk-82 Bomb x2_description,Item description of: Mk-82 Bomb x2,Two standard un-guided 500lb bombs.,Dos bombas estandar de 500lb sin guiado.
 AGM-161 Anti Surface Stand-off Missile_fullName,Full equip name of: AGM-161 Anti Surface Stand-off Missile,AGM-161 Anti Surface Stand-off Missile,Misil AGM-161 de ataque a superficie de largo alcance
-AGM-161 Anti Surface Stand-off Missile_description,Item description of: AGM-161 Anti Surface Stand-off Missile,A cruise missile designed to deliver a large payload to a ground target over a long distance.  It follows a pre-programmed GPS course with automatic terrain avoidance.,Un misil de cruCero designado para llevar una gran carga a un objetivo terrrestre sobre distancias largas. Sigue un curso GPS pre-programado con prevención de colisión con el terreno.
+AGM-161 Anti Surface Stand-off Missile_description,Item description of: AGM-161 Anti Surface Stand-off Missile,A cruise missile designed to deliver a large payload to a ground target over a long distance.  It follows a pre-programmed GPS course with automatic terrain avoidance.,Un misil de crucero designado para llevar una gran carga a un objetivo terrrestre sobre distancias largas. Sigue un curso GPS pre-programado con prevención de colisión con el terreno.
 eqSublabel_GPS-CRUISE,HUD sub-label of an equip,GPS CRUISE,CRUCERO GPS
 PAC-3_fullName,Full equip name of: PAC-3,PAC-3,
 PAC-3_description,Item description of: PAC-3,Radar-guided surface-to-air defense missile.,Misil de defensa Tierra-Aire guiado por radar
